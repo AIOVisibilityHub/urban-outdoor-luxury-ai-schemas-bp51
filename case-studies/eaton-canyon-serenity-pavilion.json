@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Eaton Canyon Serenity Pavilion",
+  "articleBody": "1,200 sq ft glass-walled pavilion with geothermal lap pool, living water wall, and Japanese maple grove. Passive climate control maintains 72°F year-round. Rooftop solar powers all automation systems.\n\nOutcome: 12-week delivery. 42% energy independence. Featured in Metropolis magazine. Private meditation retreats $45K/year.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

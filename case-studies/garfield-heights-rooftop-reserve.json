@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Garfield Heights Rooftop Reserve",
+  "articleBody": "Lightweight rooftop with 18' plunge pool, infrared sauna suite, and vertical olive orchard. Carbon-fiber decking reduced structural load 55%. Hurricane-rated enclosures preserve city views.\n\nOutcome: 10-week execution. LEED Platinum. Luxury AirBnB generates $85K/year. 1.5M social media impressions.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

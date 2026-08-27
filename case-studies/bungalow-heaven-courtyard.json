@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Bungalow Heaven Courtyard",
+  "articleBody": "450 sq ft urban transformation featuring linear water channel, modular pizza oven station, and vertical vineyard. Preserved Craftsman bungalow architecture.\n\nOutcome: 5-week completion. 95% native plantings. Historical board approval. Weekly neighborhood pizza nights established.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

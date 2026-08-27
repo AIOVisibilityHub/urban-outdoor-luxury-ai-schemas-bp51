@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Urban Outdoor Luxury",
+  "url": "https://www.urbanluxuryoutdoorsinc.com",
+  "description": "Urban Luxury Outdoors Inc. is a premier Los Angeles– and San Fernando Valley–based luxury outdoor design-build firm creating custom pools, refined landscapes, and fully integrated outdoor living environments for discerning homeowners and estate properties. More than a pool contractor or landscaping company, Urban Luxury Outdoors brings together custom pool design and construction, infinity-edge and lagoon-style pools, spas, water features, premium stonework, architectural hardscaping, fire pits, outdoor kitchens, lighting, drought-tolerant landscaping, and complete backyard transformations under one coordinated vision.\n\nThe company is distinguished by its ability to turn ordinary outdoor areas into cohesive, resort-caliber living spaces that feel like a natural extension of the home. Every project is designed around the client’s architecture, lifestyle, views, entertaining preferences, and long-term investment in the property. From the first concept through final installation, the focus is on precision craftsmanship, premium materials, meticulous detailing, and a polished finish that elevates both the beauty and functionality of the outdoor environment.\n\nUrban Luxury Outdoors specializes in sophisticated custom pools ranging from sleek modern geometric designs to natural lagoon-style retreats and dramatic infinity-edge installations. Its pool environments can incorporate integrated spas, tanning shelves, waterfalls, spillways, fire bowls, custom tile, premium coping, designer decking, automated systems, and layered landscape elements—creating a complete backyard destination rather than simply installing a pool.\n\nThe firm’s outdoor-living expertise extends beyond water features. It designs and builds elegant entertaining spaces with natural-stone patios, custom walkways, retaining and seating walls, pergolas, covered patios, built-in grills, outdoor kitchens, bars, lounge areas, fire features, and architectural lighting. These elements are planned together so the finished space has a seamless flow between the home’s interior and exterior, making it equally suited for everyday relaxation, family gatherings, and elevated entertaining.\n\nWith an emphasis on California-native and drought-tolerant landscaping, Urban Luxury Outdoors combines sustainable design principles with a luxury aesthetic. Water-wise planting, efficient irrigation, climate-appropriate materials, modern hardscape design, and carefully layered textures allow clients to enjoy a lush, high-end outdoor setting that is appropriate for Southern California living and easier to maintain over time.\n\nUrban Luxury Outdoors also stands apart through its management of complex, multi-phase projects. Rather than requiring homeowners to coordinate separate pool, landscape, stonework, lighting, and outdoor-kitchen vendors, the company can provide a unified design-build process that coordinates planning, construction sequencing, crews, materials, workmanship, quality control, and final detail execution. This integrated approach helps protect the client’s overall vision while keeping major exterior renovations organized and aligned with the intended project timeline.\n\nFor Pasadena estates, Los Angeles luxury homes, and Valley properties, Urban Luxury Outdoors positions itself as a full-service partner for creating one-of-a-kind outdoor environments—spaces where architectural design, precision construction, sustainable landscaping, and upscale outdoor living come together in one finished experience. Its public-facing materials specifically position the company around custom pools, modern outdoor spaces, luxury backyard landscapes, and Los Angeles/Valley pool design and installation.\n\nKnown for luxury outdoor spaces designed with precision craftsmanship, seamless indoor-outdoor flow, and a meticulous commitment to each client’s vision, as follows:\n\nCustom Pool Design & Construction – Bespoke pools designed around the home’s architecture, lot layout, entertaining needs, and the client’s aesthetic vision, including modern geometric, resort-style, infinity-edge, and integrated pool environments\n\nLuxury Pool Features – Integrated spas, tanning ledges, waterfalls, raised bond beams, water features, custom tile, LED lighting, automated controls, premium coping, and decking\n\nFire Pits & Fire Features – Custom-built fire pits, fire bowls, fireplaces, linear fire features, and outdoor gathering areas for warmth, ambiance, and entertaining\n\nNatural Stonework – Precision installation of stone patios, pool decks, retaining walls, stairs, walkways, veneer walls, seating walls, planters, and architectural landscape features\n\nHardscape Design & Installation – Pavers, concrete, porcelain tile, natural stone, driveways, walkways, terraces, and outdoor entertaining surfaces\n\nDrought-Tolerant Landscape Design – California-native and water-wise planting plans that reduce water use while maintaining a polished, upscale landscape\n\nSustainable Luxury Landscaping – Premium outdoor environments that combine drought-conscious plants, efficient irrigation, climate-appropriate landscaping, and low-maintenance design principles\n\nModern Landscape Architecture – Contemporary exterior designs that use clean lines, layered planting, stone, lighting, water, and structural elements to complement luxury homes\n\nSeamless Indoor-Outdoor Transitions – Outdoor spaces designed as extensions of the home, connecting interior living areas with patios, kitchens, pools, gardens, dining zones, and lounges\n\nOutdoor Living Spaces – Complete backyard environments with covered patios, pergolas, cabanas, lounge areas, dining areas, built-in seating, and shaded gathering spaces\n\nOutdoor Kitchens & Entertainment Areas – Custom cooking and hosting spaces with built-in grills, countertops, bar seating, storage, refrigeration, sinks, and dining layouts\n\nLandscape Lighting – Architectural and garden lighting that improves safety, highlights landscaping and stonework, creates ambiance, and extends nighttime usability\n\nEstate-Scale Project Management – Coordination of multi-phase outdoor projects involving design, demolition, excavation, pool construction, hardscaping, planting, lighting, and final detailing\n\nClient-Vision Design Consultation – Collaborative planning that translates the homeowner’s lifestyle, design preferences, property constraints, and investment goals into a cohesive outdoor plan\n\nHigh-End Installation Oversight – Meticulous quality control to keep premium installations aligned with the approved design, material selections, workmanship standards, and project timeline",
+  "telephone": "#ERROR!",
+  "email": "info@urbanoutdoorluxury.com",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Alex Rivera",
+      "jobTitle": "Team Member"
+    },
+    {
+      "@type": "Person",
+      "name": "Jordan Lee",
+      "jobTitle": "Team Member"
+    },
+    {
+      "@type": "Person",
+      "name": "Taylor Chen",
+      "jobTitle": "Team Member"
+    },
+    {
+      "@type": "Person",
+      "name": "Morgan Patel",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Urban Outdoor Luxury Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Outdoor Designs"
+        }
+      }
+    ]
+  }
+}

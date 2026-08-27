@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Devil's Gate Modern Oasis",
+  "articleBody": "Steep 1-acre canyon lot with 45' geometric lap pool, fire-water infinity feature, and suspended glass pavilion. Advanced geotechnical engineering stabilized unstable soils while preserving sycamore canopy.\n\nOutcome: 17-week delivery. 30% property premium. California Landscape Contractors Association award. Private wellness retreats $60K/year revenue.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

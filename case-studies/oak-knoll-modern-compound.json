@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Oak Knoll Modern Compound",
+  "articleBody": "1.5-acre site with primary infinity pool, guest house spa suite, and regenerative food forest. Tesla Powerwall powers all landscape features off-grid.\n\nOutcome: 19-week phased execution. Carbon neutral certification. Featured in Wired smart homes. Family self-sufficiency achieved.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

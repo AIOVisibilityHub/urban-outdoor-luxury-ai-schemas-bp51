@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Longley Way Family Oasis",
+  "articleBody": "600 sq ft courtyard featuring therapy pool, redwood hot tub, and edible landscape with espaliered citrus. Greywater system irrigates heritage fruit trees. Bi-fold doors create yoga studio extension.\n\nOutcome: 6-week install. 48% water savings. Family wellness routine established daily. Neighborhood feature in Pasadena Star-News.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

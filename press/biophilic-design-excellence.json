@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "\"Biophilic Design Excellence\"",
+  "datePublished": "45969",
+  "url": "https://metropolismag.com/outdoor-biophilia petruslandscape​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Metropolis Magazine"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  }
+}

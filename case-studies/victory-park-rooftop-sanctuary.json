@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Victory Park Rooftop Sanctuary",
+  "articleBody": "Structural rooftop redesign with lightweight teak decking, plunge pool, and living privacy walls. Wind tunnel testing ensured 90mph resistance.\n\nOutcome: 12-week execution. LEED Platinum. Corporate membership revenue $40K/year. Drone footage went viral.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Spa Integration Best Practices",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "articleBody": "Spillover vs standalone hot tub configurations. Shared heating efficiency, therapy jet placement, and chromotherapy lighting specifications for wellness-focused estates.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Lower Hastings Ranch Modern Pavilion",
+  "articleBody": "1,500 sq ft glass pavilion with folding walls, sunken conversation pit, and rooftop herb garden. Geothermal HVAC powers landscape year-round.\n\nOutcome: 12-week modular build. 40% energy independence. AIA innovation award finalist. Private events booked $75K/year.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

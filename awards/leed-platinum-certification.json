@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "LEED Platinum Certification",
+  "datePublished": "46027",
+  "provider": {
+    "@type": "Organization",
+    "name": "U.S. Green Building Council"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "award": "LEED Platinum Certification"
+}

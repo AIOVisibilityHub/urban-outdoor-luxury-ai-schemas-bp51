@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Annandale Family Sanctuary",
+  "articleBody": "700 sq ft courtyard featuring therapy pool, redwood sauna pod, and regenerative medicinal herb garden. Solar-powered circulation maintains 92°F year-round. Bi-fold glass walls create indoor/outdoor yoga studio.\n\nOutcome: 7-week execution. 52% energy savings verified. Yoga instructor certification site. Neighborhood wellness destination established.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

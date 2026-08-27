@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "San Pasqual Valley Estate",
+  "articleBody": "2-acre vineyard estate with 60' infinity pool overlooking vineyards, outdoor cinema, and crush pad kitchen. Regenerative soil practices restore historic orchard site.\n\nOutcome: 20-week phased delivery. Wine production commenced Year 2. Featured in Wine Spectator. 28% appreciation verified.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

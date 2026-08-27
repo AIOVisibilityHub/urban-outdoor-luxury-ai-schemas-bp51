@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Washington Park Modern Retreat",
+  "articleBody": "1,100 sq ft biophilic pavilion with living moss roof, cold therapy pool, and vertical food forest. Passive solar design maintains 72°F year-round. Native pollinator meadows attract 47 butterfly species.\n\nOutcome: 10-week construction. Carbon negative certification. Featured in Sunset magazine. Community butterfly garden model replicated locally.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

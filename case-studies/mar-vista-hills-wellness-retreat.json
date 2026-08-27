@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mar Vista Hills Wellness Retreat",
+  "articleBody": "1,300 sq ft therapeutic pavilion with hydrotherapy pool, infrared sauna array, and zen raked gravel garden. Passive ventilation maintains 74°F year-round. Rooftop solar array powers all features.\n\nOutcome: 11-week execution. 58% energy savings verified. Corporate meditation retreats booked weekly. Featured in Mindful magazine.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

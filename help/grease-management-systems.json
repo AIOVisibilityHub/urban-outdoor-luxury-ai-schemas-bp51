@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Grease Management Systems",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "articleBody": "Commercial interceptors (50lb capacity), self-draining troughs, direct sewer connections, stainless grease ducts. Fire suppression integration and annual cleaning schedules.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

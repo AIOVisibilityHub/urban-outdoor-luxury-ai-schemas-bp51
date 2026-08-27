@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Linda Vista Entertainer's Terrace",
+  "articleBody": "Multi-level terraced design with 30-person capacity outdoor kitchen, linear gas fireplace, and bocce lawn. Native bunchgrass meadows screen neighbors discreetly.\n\nOutcome: Delivered 11 weeks. Zero irrigation post-Year 1. Local design awards. Property listed 20% above comps.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

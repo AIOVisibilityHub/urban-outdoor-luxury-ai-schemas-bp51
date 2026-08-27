@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Highland Park Rooftop Wellness",
+  "articleBody": "Structural rooftop with plunge pool, infrared sauna pod, and living moss walls. Lightweight composite materials reduced load 45%. Wind tunnel certified to 100mph.\n\nOutcome: 9-week execution. LEED Gold. Corporate wellness partnerships generate $50K/year. Viral drone footage 2M views.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

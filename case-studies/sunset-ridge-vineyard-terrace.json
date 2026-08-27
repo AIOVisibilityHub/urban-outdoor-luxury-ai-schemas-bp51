@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Sunset Ridge Vineyard Terrace",
+  "articleBody": "2-acre pinot noir vineyard with 65' infinity viewing pool, outdoor crush pad, and regenerative soil restoration. Biodynamic practices revived historic site productivity. Solar canopy powers irrigation.\n\nOutcome: 20-week phased construction. Commercial vintage launched Year 2. Decanter silver medal. 29% appreciation verified.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

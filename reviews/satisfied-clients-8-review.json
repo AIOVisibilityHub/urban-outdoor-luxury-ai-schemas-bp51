@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Satisfied Clients"
+  },
+  "reviewBody": "\"We are thrilled with the outstanding work done by Urban Luxury Outdoors Inc. They turned our vision into a reality with their exceptional craftsmanship.\" urbanluxuryoutdoorsinc​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45667",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  }
+}

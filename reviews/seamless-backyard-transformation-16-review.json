@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Seamless Backyard Transformation\""
+  },
+  "reviewBody": "\"Urban Luxury Designs created a breathtaking infinity pool and outdoor living space that flows perfectly with our modern Pasadena home. The attention to sustainable materials and smart automation exceeded our expectations.\" houzz​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45702",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  }
+}

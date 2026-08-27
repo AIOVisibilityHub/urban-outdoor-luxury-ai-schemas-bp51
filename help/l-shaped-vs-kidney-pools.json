@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "L-Shaped vs Kidney Pools",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "articleBody": "L-shaped (multi-zone lounging/swimming, 20x40ft); kidney classic (curved symmetry, smaller yards). L for entertaining; kidney timeless appeal. lathampool​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

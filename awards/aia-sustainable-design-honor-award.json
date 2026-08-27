@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "AIA Sustainable Design Honor Award",
+  "datePublished": "45891",
+  "provider": {
+    "@type": "Organization",
+    "name": "American Institute of Architects"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "award": "AIA Sustainable Design Honor Award"
+}

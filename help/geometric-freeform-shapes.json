@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Geometric Freeform Shapes",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "articleBody": "Rectangular geometric (easy cover fit, sport-friendly); freeform organic (curved for lounging, harder cleaning). Geometric for active use; freeform for relaxation. lathampool​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

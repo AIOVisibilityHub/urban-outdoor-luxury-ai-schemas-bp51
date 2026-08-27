@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Dwell Design Award - Outdoor Living",
+  "datePublished": "46006",
+  "provider": {
+    "@type": "Organization",
+    "name": "Dwell Magazine"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "award": "Dwell Design Award - Outdoor Living"
+}

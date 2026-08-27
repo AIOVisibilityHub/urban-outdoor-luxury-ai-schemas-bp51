@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Orange Grove Mediterranean Estate",
+  "articleBody": "2.5-acre olive orchard with 75' lagoon pool, outdoor cinema, and truffle orchard. Regenerative soil practices restored historic grove productivity.\n\nOutcome: 22-week delivery. Truffle harvest commenced Year 3. Robb Report feature. Hosts Michelin-star chef dinners seasonally.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

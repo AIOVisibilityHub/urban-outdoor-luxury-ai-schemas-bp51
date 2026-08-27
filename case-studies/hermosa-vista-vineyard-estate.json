@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Hermosa Vista Vineyard Estate",
+  "articleBody": "3.5-acre pinot gris vineyard with 75' geometric viewing pool, commercial crush pad kitchen, and regenerative soil restoration. Biodynamic practices revived historic site yields. Solar canopy powers irrigation.\n\nOutcome: 25-week phased delivery. Commercial vintage launched Year 2. Wine Spectator silver medal. 34% appreciation verified by appraisal.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

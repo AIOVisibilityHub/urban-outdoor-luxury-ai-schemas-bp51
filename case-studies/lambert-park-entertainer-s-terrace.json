@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Lambert Park Entertainer's Terrace",
+  "articleBody": "Multi-tiered 1,800 sq ft terrace with 18-person linear kitchen, sunken OLED lounge, and kinetic water sculpture. Coastal sage scrub screening frames mountain views while blocking street sightlines.\n\nOutcome: 12-week modular construction. Hosts bi-monthly corporate events. California Home + Design feature. 24% resale premium documented.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

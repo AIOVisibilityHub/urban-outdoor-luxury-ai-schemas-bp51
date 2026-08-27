@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Under Cabinet LED Lighting Specs",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "articleBody": "2700K 1200 lumen strips (24W/10ft), dimmable TRIAC drivers, IP65 weatherproofing, motion sensor activation. Seamless integration with cabinet door switches and app control.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

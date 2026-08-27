@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "College Heights Rooftop Oasis",
+  "articleBody": "Structural rooftop featuring 22' infinity plunge pool, cedar barrel sauna, and vertical vineyard. Carbon-fiber reinforced decking reduced load capacity needs 50%. Hurricane-rated glass enclosures.\n\nOutcome: 10-week install. LEED Gold certification. Luxury rental generates $95K/year. 2M social media impressions achieved.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

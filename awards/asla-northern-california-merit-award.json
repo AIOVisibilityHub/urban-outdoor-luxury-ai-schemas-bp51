@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "ASLA Northern California Merit Award",
+  "datePublished": "45915",
+  "provider": {
+    "@type": "Organization",
+    "name": "American Society of Landscape Architects"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "award": "ASLA Northern California Merit Award"
+}

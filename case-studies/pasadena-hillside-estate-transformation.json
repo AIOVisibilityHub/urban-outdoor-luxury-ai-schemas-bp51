@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pasadena Hillside Estate Transformation",
+  "articleBody": "1.2-acre sloped property converted from unusable terrain into multi-level entertaining oasis featuring infinity pool, outdoor kitchen, and native landscape. Engineering addressed 35° slopes with tiered retaining walls.\n\nOutcome: Completed under budget in 14 weeks. Hosts 50+ guests weekly. Property value increased 18%. Zero maintenance issues after 2 years.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

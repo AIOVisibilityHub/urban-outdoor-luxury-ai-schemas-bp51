@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "\"Pasadena's Premier Outdoor Living Designer\"",
+  "datePublished": "45976",
+  "url": "https://www.architecturaldigest.com/story/pasadena-outdoor-living hauteliving​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Architectural Digest"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  }
+}

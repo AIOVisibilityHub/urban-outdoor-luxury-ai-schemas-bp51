@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Rose Bowl Legacy Estate",
+  "articleBody": "Historic 1920s property modernized with 55' geometric pool, sunken outdoor theater, and heritage rose garden restoration. Smart glass pavilion hosts film screenings.\n\nOutcome: 15-week delivery. Pasadena Heritage Society award. 27% appreciation. Private screenings generate $30K/year.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

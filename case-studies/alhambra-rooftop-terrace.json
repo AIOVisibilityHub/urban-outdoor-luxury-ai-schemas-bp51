@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Alhambra Rooftop Terrace",
+  "articleBody": "Structural rooftop transformation with lightweight composite decking, linear water feature, and container olive orchard. Wind-resistant screening preserved views.\n\nOutcome: 10-week install. LEED Silver certification. 25% rental premium achieved. Corporate wellness events booked quarterly.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

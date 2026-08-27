@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Chapman Woods Wellness Pavilion",
+  "articleBody": "900 sq ft therapeutic pavilion with hydrotherapy pool, salt inhalation room, and zen rock garden. Rooftop solar powers infrared sauna array.\n\nOutcome: 8-week install. 60% energy savings. Corporate wellness retreats booked. Yelp featured as top Pasadena wellness destination.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}

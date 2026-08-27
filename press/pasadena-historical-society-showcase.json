@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "\"Pasadena Historical Society Showcase\"",
+  "datePublished": "45868",
+  "url": "https://pasadenastarnews.com/heritage-outdoor homesandgardens​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pasadena Star-News"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  }
+}

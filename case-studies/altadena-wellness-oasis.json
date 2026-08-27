@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Altadena Wellness Oasis",
+  "articleBody": "Cold plunge/sauna suite adjacent to 25-yard lap pool with underwater Sonos audio. Landscape featured biophilic design with kinetic sculpture garden.\n\nOutcome: Daily therapeutic use verified by fitness tracker data. 55% energy savings. Featured in Robb Report luxury homes section.",
+  "author": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "genre": "Case Study"
+}
