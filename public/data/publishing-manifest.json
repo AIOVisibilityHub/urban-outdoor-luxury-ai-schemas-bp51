@@ -1,0 +1,2740 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T21:39:18.641Z",
+  "client": {
+    "name": "Urban Outdoor Luxury",
+    "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.urbanluxuryoutdoorsinc.com",
+    "pagesUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
+    "phone": "800-385-0097",
+    "email": "info@urbanoutdoorluxury.com",
+    "locations": [
+      {
+        "name": "Urban Outdoor Luxury Office",
+        "address": "285 N Lake Ave",
+        "city": "Pasadena",
+        "state": "CA",
+        "zip": "91101",
+        "phone": "#ERROR!",
+        "email": "info@urbanoutdoorluxury.com"
+      },
+      {
+        "name": "Urban Outdoor Luxury",
+        "address": "285 N Lake Ave",
+        "city": "Pasadena",
+        "state": "CA",
+        "zip": "91101",
+        "phone": "(626) 888-7007",
+        "email": "info@urbanoutdoorluxury.com"
+      }
+    ],
+    "services": [
+      "Custom swimming pool design",
+      "Custom luxury pool design",
+      "Custom swimming pool installation",
+      "New swimming pool construction",
+      "Luxury pool construction",
+      "Infinity-edge pool construction",
+      "Negative-edge pool construction",
+      "Lagoon-style pool construction",
+      "Resort-style pool construction",
+      "Custom spa design and installation",
+      "Integrated pool-and-spa construction",
+      "Pool renovation and modernization",
+      "Pool automation and equipment installation",
+      "Custom pool-tile installation",
+      "Pool coping installation",
+      "Premium pool-deck installation",
+      "Natural-stone pool-deck installation",
+      "Porcelain pool-deck installation",
+      "Paver pool-deck installation",
+      "Outdoor-living-space design",
+      "Luxury backyard design",
+      "Estate backyard design",
+      "Indoor-outdoor living design",
+      "Seamless indoor-outdoor transition design",
+      "Outdoor entertaining-area design",
+      "Outdoor lounge-area design",
+      "Outdoor dining-area design",
+      "Covered patio design and installation",
+      "Pergola design and installation",
+      "Cabana design and installation",
+      "Landscape design",
+      "Landscape installation",
+      "California-native landscape design",
+      "Drought-tolerant landscape design",
+      "Water-wise landscape design",
+      "Sustainable luxury landscape design",
+      "Modern landscape design",
+      "Planting design and installation",
+      "Irrigation-system design and installation",
+      "Drip-irrigation installation",
+      "Artificial-turf installation",
+      "Natural stonework",
+      "Custom stonework",
+      "Stone patio installation",
+      "Stone walkway installation",
+      "Stone stair installation",
+      "Stone veneer installation",
+      "Stone retaining-wall installation",
+      "Custom retaining-wall construction",
+      "Custom seating-wall construction",
+      "Landscape planter construction",
+      "Hardscape design and installation",
+      "Paver installation",
+      "Concrete hardscape installation",
+      "Porcelain paver installation",
+      "Driveway installation",
+      "Walkway installation",
+      "Patio installation",
+      "Terrace installation",
+      "Water-feature design",
+      "Water-feature installation",
+      "Custom waterfall installation",
+      "Pool waterfall installation",
+      "Sheer-descent installation",
+      "Pool spillway installation",
+      "Fountain installation",
+      "Pool bubbler installation",
+      "Pool scupper installation",
+      "Outdoor-lighting design",
+      "Outdoor-lighting installation",
+      "Landscape-lighting installation",
+      "Pool-lighting installation",
+      "Pathway-lighting installation",
+      "Architectural-lighting installation",
+      "Accent-lighting installation",
+      "Built-in fire-pit installation",
+      "Custom fire-pit construction",
+      "Fire-bowl installation",
+      "Linear fire-feature installation",
+      "Outdoor fireplace construction",
+      "Built-in outdoor grill installation",
+      "Custom barbecue-island construction",
+      "Outdoor kitchen design",
+      "Outdoor kitchen installation",
+      "Outdoor kitchen remodeling",
+      "Built-in grill-station installation",
+      "Outdoor bar construction",
+      "Exterior kitchen remodeling",
+      "Interior kitchen remodeling",
+      "Residential remodeling",
+      "Exterior remodeling",
+      "General contracting",
+      "Luxury residential construction",
+      "Multi-phase outdoor-project planning",
+      "Multi-phase outdoor-project management",
+      "Construction scheduling and crew coordination",
+      "Subcontractor coordination",
+      "Material procurement and installation coordination",
+      "Permit and inspection coordination",
+      "Quality-control oversight",
+      "Project closeout and punch-list support",
+      "Post-installation project support"
+    ],
+    "cities": [
+      "Los Angeles",
+      "Pasadena",
+      "South Pasadena",
+      "San Marino",
+      "Arcadia",
+      "Sierra Madre",
+      "Altadena",
+      "La Cañada Flintridge",
+      "Glendale",
+      "Burbank",
+      "Toluca Lake",
+      "Studio City",
+      "Sherman Oaks",
+      "Encino",
+      "Tarzana",
+      "Woodland Hills",
+      "Calabasas",
+      "Hidden Hills",
+      "West Hills",
+      "Chatsworth",
+      "Porter Ranch",
+      "Northridge",
+      "Granada Hills",
+      "Mission Hills",
+      "North Hills",
+      "Van Nuys",
+      "Valley Village",
+      "North Hollywood",
+      "Sun Valley",
+      "Pacoima",
+      "Sylmar",
+      "Reseda",
+      "Winnetka",
+      "Canoga Park",
+      "Westlake Village",
+      "Agoura Hills",
+      "Beverly Hills",
+      "Bel Air",
+      "Brentwood",
+      "Pacific Palisades",
+      "Santa Monica",
+      "West Hollywood",
+      "Hollywood Hills",
+      "Los Feliz",
+      "Silver Lake",
+      "Eagle Rock",
+      "Highland Park",
+      "Montecito Heights",
+      "La Crescenta-Montrose",
+      "San Gabriel",
+      "San Marino",
+      "Alhambra",
+      "San Gabriel",
+      "Temple City",
+      "Monrovia",
+      "Duarte",
+      "Bradbury",
+      "Glendora",
+      "La Verne",
+      "Claremont",
+      "La Cañada Flintridge",
+      "Santa Clarita",
+      "Valencia",
+      "Stevenson Ranch",
+      "Castaic",
+      "Newhall",
+      "Saugus",
+      "Canyon Country"
+    ]
+  },
+  "package": {
+    "totalFiles": 495,
+    "totalBytes": 1581519,
+    "stats": {
+      "faqs": 233,
+      "helpArticles": 118,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 20,
+      "products": 0,
+      "locations": 2,
+      "awards": 10,
+      "caseStudies": 56,
+      "organization": 1,
+      "press": 10,
+      "reviews": 20,
+      "qna": 0,
+      "research": 0,
+      "total": 472
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-a-luxury-outdoor-project.json",
+        "bytes": 905,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-permitting-and-city-approvals.json",
+        "bytes": 767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-do-you-use-for-high-end-outdoor-kitchens.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-ensure-drought-tolerant-designs-in-california.json",
+        "bytes": 888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranty-do-you-provide-on-installations.json",
+        "bytes": 862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-integrate-smart-home-automation.json",
+        "bytes": 810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-your-process-for-3d-design-visualization.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-maintenance-packages-post-installation.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-design-a-luxury-pool-versus-standard.json",
+        "bytes": 779,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-infinity-edge-pool-cost-in-california.json",
+        "bytes": 760,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-full-timeline-from-consultation-to-swim-ready.json",
+        "bytes": 760,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-landscape-architect-and-pool-designer.json",
+        "bytes": 723,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-pool-shell-material-lasts-longest-with-premium-finishes.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-infinity-pools-work-on-flat-properties.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-best-drought-tolerant-surround-materials.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-automate-everything-heating-lights-cleaning.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-dramatic-nighttime-feature.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-hide-pool-equipment-for-clean-aesthetics.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-get-a-spa-spillover-or-separate-hot-tub.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-safety-features-are-non-negotiable-for-families.json",
+        "bytes": 706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-property-value-does-a-luxury-pool-add.json",
+        "bytes": 678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-heating-system-for-year-round-use.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hoas-approve-infinity-or-negative-edge-designs.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-prevent-algae-in-luxury-plaster-finishes.json",
+        "bytes": 709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-the-pool-double-as-a-lap-swim-area.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-trending-for-2026-luxury-pool-lighting.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-integrate-fire-features-safely.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-return-policy-on-custom-glass-tiles.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-provide-3d-vr-walkthroughs-before-digging.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-noisy-are-premium-pool-pumps.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-phase-construction-pool-now-hardscape-later.json",
+        "bytes": 695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-warranty-on-structural-shell-vs-equipment.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-finance-without-cashing-out-home-equity.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-must-have-appliances-for-serious-outdoor-chefs.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-achieve-seamless-indoor-outdoor-flow.json",
+        "bytes": 751,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-layout-for-entertaining-20-guests.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-countertops-withstand-heat-and-weather-best.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-future-proof-against-coastal-corrosion.json",
+        "bytes": 743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-pizza-oven-worth-20k.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-refrigeration-be-built-in-or-freestanding.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-prep-space-per-cook-do-luxury-designs-allocate.json",
+        "bytes": 755,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-trending-for-2026-luxury-backsplash-materials.json",
+        "bytes": 728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-integrate-fire-cooking-wood-rotisserie.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-handle-grease-management-professionally.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-cabinet-materials-justify-50k-pricing.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-lighting-be-recessed-or-surface-mounted.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-integrate-audio-without-visual-clutter.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-sink-configuration-for-entertaining.json",
+        "bytes": 723,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-recommend-open-shelving-or-fully-enclosed.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-overhang-for-bar-seating-comfort.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ultimate-beverage-center-setup.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-have-dual-fuel-cooking-gas-induction.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-protect-electronics-from-weather.json",
+        "bytes": 655,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-dramatic-focal-point-feature.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-flooring-match-indoor-kitchen-exactly.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-incorporate-sustainable-luxury-elements.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-professional-spec-for-ventilation.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-the-kitchen-support-live-cooking-demos.json",
+        "bytes": 714,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-minimum-footprint-for-a-functional-luxury-kitchen.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-affordable-brands-rival-20k-appliances.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-get-quartz-countertops-under-100-sq-ft-installed.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-value-stainless-steel-cabinet-option.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-indoor-sink-fixtures-outdoors-safely.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-heat-the-space-economically-year-round.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-bar-height-for-comfortable-entertaining.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-trench-for-gas-vs-portable-propane-tanks.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-achieve-lit-stone-backsplash-effect-cheaply.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-bang-for-buck-cooking-upgrade.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-prefab-modular-kitchens-look-custom.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-overhang-do-i-need-for-4-bar-stools.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-better-built-in-fridge-or-beverage-cooler.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-protect-wood-cabinets-from-weather-affordably.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-reuse-indoor-lighting-fixtures-outside.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-sweet-spot-grill-size-for-families.json",
+        "bytes": 659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-install-a-sink-without-breaking-plumbing-budget.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-flooring-be-stamped-concrete-or-pavers.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-roi-timeline-for-outdoor-kitchen-addition.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-phase-construction-island-first-then-walls.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-soundproof-neighbors-from-music-blenders.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-minimum-electrical-service-needed.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-prefab-stone-veneer-look-like-natural-ledge.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-winterize-without-full-demo-each-year.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-80-20-rule-for-luxury-features-under-25k.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-gas-and-wood-burning-fire-pits.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-far-should-a-fire-pit-be-from-the-house.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-gas-fire-pits-need-professional-venting.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-durable-luxury-fire-media.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-a-wood-pit-to-propane-later.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-trench-gas-lines-safely.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-seating-arrangement-around-a-pit.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-luxury-pits-have-auto-ignition.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-stone-fire-pit-cost.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-minimum-gravel-base-for-stability.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-install-a-fire-pit-on-a-covered-patio.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-hide-propane-tanks-elegantly.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-wind-resistant-burner-design.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-luxury-pits-need-concrete-footings.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-level-uneven-backyard-slopes.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-fire-glass-depth-for-best-flame-pattern.json",
+        "bytes": 706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-smart-home-systems-control-fire-pits.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-winterize-gas-fire-pits.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-btu-range-for-residential-comfort.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-pavers-or-natural-stone-surround.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-soundproof-gas-valve-key-access.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-pit-to-table-entertaining-distance.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-electronic-igniters-need-electricity.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-integrate-fire-pits-with-pools-safely.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-maintenance-schedule-for-gas-pits.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-integrate-smart-irrigation-with-luxury-aesthetics.json",
+        "bytes": 832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-regenerative-landscaping-versus-drought-tolerant.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-hardscape-match-my-home-s-architecture-exactly.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-full-estate-landscape-redesign-cost.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-2026-trend-for-outdoor-wellness-spaces.json",
+        "bytes": 773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-native-plants-look-weedy-in-luxury-designs.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-light-landscapes-without-light-pollution.json",
+        "bytes": 759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-lawn-replacement-for-california-estates.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-landscapes-support-edible-gardens-elegantly.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-handle-slopes-without-terracing-everywhere.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-return-on-investment-for-luxury-landscapes.json",
+        "bytes": 711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-pools-be-centered-or-off-axis-for-drama.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-winterize-luxury-landscapes-in-mild-climates.json",
+        "bytes": 729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-biophilic-design-in-practice.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-use-synthetic-turf-in-high-end-designs.json",
+        "bytes": 733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-create-privacy-without-8-foot-fences.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-resilient-coastal-plant-palette.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-landscapes-generate-their-own-power.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-design-for-multigenerational-use.json",
+        "bytes": 719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-trending-for-outdoor-sculpture-integration.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-driveways-be-part-of-landscape-design.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-manage-deer-in-luxury-gardens.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-lifespan-of-premium-landscape-installations.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-software-replace-human-landscape-architects.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-transition-modern-homes-to-romantic-gardens.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-for-basic-landscape-design-consultation.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-average-full-design-package-cost.json",
+        "bytes": 705,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-price-per-square-foot-for-installation.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-typical-backyard-transformation-budget.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-landscape-architects-charge-more-than-designers.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-are-mature-tree-installations.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-cost-breakdown-for-hardscape-patios.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-pay-design-fees-upfront-or-milestone-based.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-to-add-smart-irrigation-systems.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-premium-for-drought-tolerant-luxury-plantings.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hoa-approvals-add-design-costs.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-for-landscape-lighting-design-install.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-phased-approach-budget-timeline.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-3d-renderings-worth-the-extra-cost.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-do-retaining-walls-cost-per-linear-foot.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-markup-on-plant-materials.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-permits-factor-into-design-fees.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-value-engineer-without-sacrificing-luxury.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-contingency-budget-percentage.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-for-outdoor-kitchen-landscape-integration.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-maintenance-contracts-worth-design-phase-planning.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-cost-difference-coastal-vs-inland.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-bid-multiple-contractors-fairly.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-typical-payment-schedule-during-construction.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-property-value-increase-per-design-dollar.json",
+        "bytes": 719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-defines-a-sustainable-plant-for-luxury-use.json",
+        "bytes": 830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-natives-over-exotic-plants-in-estates.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-drought-tolerant-tree-for-california-luxury.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-succulents-anchor-high-end-landscapes.json",
+        "bytes": 791,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-ornamental-grasses-elevate-luxury-beds.json",
+        "bytes": 789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-lavender-and-salvia-too-common-for-estates.json",
+        "bytes": 756,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ideal-groundcover-replacing-thirsty-turf.json",
+        "bytes": 757,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-use-perennials-for-four-season-interest.json",
+        "bytes": 736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-edible-plants-look-designer-in-formal-gardens.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-wrong-with-juniper-in-luxury-designs.json",
+        "bytes": 747,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-prevent-deer-damage-sustainably.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-boxwoods-sustainable-in-coastal-climates.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-trending-for-pollinator-meadows-in-estates.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-japanese-maple-thrive-drought-conditions.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-layer-plants-for-depth-without-maintenance.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-best-screening-shrub-for-privacy.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hydrangeas-belong-in-sustainable-luxury.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-irrigation-do-natives-really-need-first-year.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-crabapples-support-luxury-orchards.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ideal-palm-for-low-water-elegance.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-yucca-elevate-xeriscape-designs.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-magnolias-viable-in-small-luxury-courtyards.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-best-vine-for-sustainable-pergola-coverage.json",
+        "bytes": 705,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-sedum-create-living-walls-in-luxury-settings.json",
+        "bytes": 744,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-transition-turf-to-natives-without-bare-spots.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-sheet-fall-and-boulder-waterfall.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-infinity-pool-waterfall-cost.json",
+        "bytes": 743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-flow-rate-for-dramatic-pool-waterfall.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-waterfalls-require-separate-filtration-systems.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-hide-waterfall-pumps-visually.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-better-led-or-fiber-optic-waterfall-lighting.json",
+        "bytes": 743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-waterfalls-operate-independently-of-pool-filter.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-engineer-waterfalls-on-hillside-properties.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-realistic-natural-stone-for-luxury.json",
+        "bytes": 710,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-gas-fire-bowls-integrate-safely-with-waterfalls.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-noise-level-range-for-entertaining.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-winterize-waterfall-plumbing.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-smart-controls-automate-waterfall-operation.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-minimum-pool-depth-for-safe-waterfall-entry.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-prevent-algae-growth-behind-cascade.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-prefabricated-weirs-acceptable-for-estates.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-structural-load-of-stacked-boulder-falls.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-waterfalls-double-as-pool-heaters.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-integrate-grotto-behind-luxury-waterfall.json",
+        "bytes": 689,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-electrical-requirement-for-illuminated-falls.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-waterfalls-increase-property-value-significantly.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-create-disappearing-waterfall-effect.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-best-pump-for-variable-waterfall-heights.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-phase-waterfall-after-pool-completion.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-soundproof-waterfall-equipment-from-neighbors.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-benefit-of-spillover-hot-tub-vs-standalone-spa.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-heat-saunas-using-pool-infrastructure.json",
+        "bytes": 716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ideal-hot-tub-seating-for-6-8-luxury-guests.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-saunas-integrate-with-saltwater-pool-chemistry.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-durable-hot-tub-shell-material.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-hide-hot-tub-equipment-for-clean-aesthetics.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-saunas-use-electric-or-wood-fired-heaters.json",
+        "bytes": 700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-minimum-pool-deck-clearance-around-hot-tubs.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-cold-plunges-complement-luxury-spa-installations.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-electrical-load-for-pool-integrated-spas.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-saunas-double-as-changing-rooms-with-storage.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-winterize-hot-tub-plumbing-safely.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-trending-for-2026-luxury-hot-tub-lighting.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-pool-covers-work-with-spillover-hot-tub-designs.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-property-value-does-spa-integration-add.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-best-cedar-grade-for-exterior-sauna-construction.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-hot-tubs-operate-with-variable-pool-water-levels.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-soundproof-sauna-ventilation-fans.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ideal-sauna-to-hot-tub-walking-path-material.json",
+        "bytes": 681,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-luxury-installations-include-water-quality-automation.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-integrate-infrared-saunas-with-traditional-steam.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-structural-requirement-for-rooftop-hot-tub-installs.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-saunas-support-live-plant-walls-internally.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-prevent-steam-condensation-on-glass-enclosures.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-maintenance-schedule-for-integrated-spa-systems.json",
+        "bytes": 696,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/custom-outdoor-designs-service.json",
+        "bytes": 7417,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/alex-rivera-profile.json",
+        "bytes": 4313,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/alex-rivera-pasadena.json",
+        "bytes": 4180,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/alex-rivera-san-marino.json",
+        "bytes": 4182,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/alex-rivera-la-ca-ada-flintridge.json",
+        "bytes": 4193,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/alex-rivera-greater-los-angeles.json",
+        "bytes": 4191,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jordan-lee-profile.json",
+        "bytes": 3089,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jordan-lee-pasadena.json",
+        "bytes": 2956,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jordan-lee-san-marino.json",
+        "bytes": 2958,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jordan-lee-la-ca-ada-flintridge.json",
+        "bytes": 2969,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jordan-lee-greater-los-angeles.json",
+        "bytes": 2967,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-chen-profile.json",
+        "bytes": 2821,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-chen-pasadena.json",
+        "bytes": 2688,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-chen-san-marino.json",
+        "bytes": 2690,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-chen-la-ca-ada-flintridge.json",
+        "bytes": 2701,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-chen-greater-los-angeles.json",
+        "bytes": 2699,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/morgan-patel-profile.json",
+        "bytes": 4048,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/morgan-patel-pasadena.json",
+        "bytes": 3915,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/morgan-patel-san-marino.json",
+        "bytes": 3917,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/morgan-patel-la-ca-ada-flintridge.json",
+        "bytes": 3928,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/morgan-patel-greater-los-angeles.json",
+        "bytes": 3926,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/custom-pool-design-guide.json",
+        "bytes": 845,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/outdoor-kitchen-layout-essentials.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/infinity-pool-engineering-faq.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drought-tolerant-plant-selection.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fire-feature-safety-standards.json",
+        "bytes": 807,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-irrigation-controller-setup.json",
+        "bytes": 807,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/greywater-system-installation.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/led-landscape-lighting-design.json",
+        "bytes": 787,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-cover-selection-matrix.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pergola-engineering-calculator.json",
+        "bytes": 784,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spa-integration-best-practices.json",
+        "bytes": 782,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/retaining-wall-construction-standards.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/natural-stone-selection-guide.json",
+        "bytes": 768,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-pool-heating-roi-calculator.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/winterization-checklist.json",
+        "bytes": 778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-process-timeline.json",
+        "bytes": 772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/native-tree-planting-specifications.json",
+        "bytes": 771,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/outdoor-audio-system-design.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bbq-grill-ventilation-requirements.json",
+        "bytes": 772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/vertical-garden-installation.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-chemistry-automation.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/outdoor-pizza-oven-guide.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-grill-selection-matrix.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beverage-center-design-standards.json",
+        "bytes": 786,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-ventilation-sizing.json",
+        "bytes": 766,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/countertop-material-thermal-testing.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cabinet-hardware-weatherproofing.json",
+        "bytes": 776,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/infinity-edge-pool-engineering.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spillover-spa-integration.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pebbletec-vs-glass-tile-finishes.json",
+        "bytes": 814,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/variable-speed-pump-sizing-chart.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/led-pool-lighting-specifications.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/saltwater-chlorine-generator-sizing.json",
+        "bytes": 811,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/automatic-pool-cover-engineering.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/therapy-jet-configuration-guide.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/negative-edge-pool-hydraulics.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-shell-structural-specifications.json",
+        "bytes": 794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waterfall-pump-sizing-calculator.json",
+        "bytes": 788,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spa-chromotherapy-lighting-guide.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geothermal-pool-heating-design.json",
+        "bytes": 779,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/underwater-audio-system-specs.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deck-jet-velocity-calculations.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-heater-efficiency-ratings.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-grill-brand-comparison.json",
+        "bytes": 821,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/outdoor-kitchen-layout-work-triangle.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/marine-grade-cabinet-materials.json",
+        "bytes": 798,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-hood-cfm-calculations.json",
+        "bytes": 799,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/quartzite-countertop-specifications.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pizza-oven-fuel-options.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beverage-center-capacity-planning.json",
+        "bytes": 802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gas-line-trenching-standards.json",
+        "bytes": 794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bar-stool-overhang-requirements.json",
+        "bytes": 785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/under-cabinet-led-lighting-specs.json",
+        "bytes": 787,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sink-drain-configuration-guide.json",
+        "bytes": 782,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/electrical-subpanel-sizing.json",
+        "bytes": 775,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/teak-cabinet-maintenance-schedule.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/linear-fire-feature-engineering.json",
+        "bytes": 786,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prep-zone-workflow-optimization.json",
+        "bytes": 799,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/refrigeration-load-calculations.json",
+        "bytes": 791,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flooring-thermal-mass-specs.json",
+        "bytes": 781,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rotisserie-capacity-planning.json",
+        "bytes": 778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/backsplash-material-durability.json",
+        "bytes": 778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-appliance-integration.json",
+        "bytes": 776,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/grease-management-systems.json",
+        "bytes": 781,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foot-rail-installation-standards.json",
+        "bytes": 787,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/induction-burner-specifications.json",
+        "bytes": 772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/weatherproof-power-receptacles.json",
+        "bytes": 772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/entertaining-capacity-planning.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/infinity-vs-geometric-pools.json",
+        "bytes": 851,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fiberglass-vs-gunite-durability.json",
+        "bytes": 838,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lap-pool-vs-family-pool-sizes.json",
+        "bytes": 781,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/natural-lagoon-vs-modern-pools.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/vinyl-liner-vs-fiberglass-cost.json",
+        "bytes": 806,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spillover-spa-vs-infinity-spa.json",
+        "bytes": 800,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geometric-freeform-shapes.json",
+        "bytes": 785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/saltwater-vs-chlorine-systems.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beach-entry-vs-deep-end.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pebble-vs-tile-finishes.json",
+        "bytes": 778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/l-shaped-vs-kidney-pools.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/auto-cover-vs-net-covers.json",
+        "bytes": 756,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/vanishing-edge-vs-perimeter.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/heated-vs-natural-temp-pools.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tanning-ledge-vs-baja-shelf.json",
+        "bytes": 776,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geometric-vs-organic-layouts.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gunite-vs-vinyl-longevity.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waterfall-vs-deck-jet-features.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rectangle-vs-oval-shapes.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/led-color-vs-fiber-optic.json",
+        "bytes": 759,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sport-pool-vs-plunge-pool.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plaster-vs-aggregate-finishes.json",
+        "bytes": 755,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lazy-river-vs-sport-lane.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/coastal-vs-mountain-styles.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budget-tier-pool-options.json",
+        "bytes": 769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/natural-rock-vs-sheet-falls.json",
+        "bytes": 842,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pump-sizing-for-waterfalls.json",
+        "bytes": 800,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tiered-vs-single-drop-falls.json",
+        "bytes": 762,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pondless-vs-pond-falls.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/led-lighting-for-falls.json",
+        "bytes": 762,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/basin-reservoir-sizing.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fire-waterfall-combos.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stone-selection-guide.json",
+        "bytes": 743,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wall-mounted-fountains.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stream-bed-waterfalls.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/grotto-cave-falls.json",
+        "bytes": 732,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-vs-electric-pumps.json",
+        "bytes": 747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sheer-descent-specs.json",
+        "bytes": 714,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plant-integration-tips.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-integrated-falls.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/metal-fountain-designs.json",
+        "bytes": 723,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maintenance-schedules.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budget-tier-options.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/noise-level-control.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/small-yard-solutions.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wildlife-friendly-fountains.json",
+        "bytes": 723,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-tier-engineering.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/infinity-fountain-walls.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/winterizing-protocols.json",
+        "bytes": 710,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-controls-setup.json",
+        "bytes": 705,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/urban-outdoor-luxury-office.json",
+        "bytes": 326,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/urban-outdoor-luxury.json",
+        "bytes": 326,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/asla-northern-california-merit-award.json",
+        "bytes": 370,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/pasadena-beautiful-commercial-design-award.json",
+        "bytes": 371,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/pool-of-the-year-grand-prize-finalist.json",
+        "bytes": 365,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/leed-platinum-certification.json",
+        "bytes": 339,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/aia-sustainable-design-honor-award.json",
+        "bytes": 358,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/decanter-world-wine-awards-silver-medal.json",
+        "bytes": 353,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/robb-report-best-of-the-best-finalist.json",
+        "bytes": 343,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/california-landscape-contractors-award.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/dwell-design-award-outdoor-living.json",
+        "bytes": 342,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/pasadena-showcase-house-featured-designer.json",
+        "bytes": 373,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/pasadena-hillside-estate-transformation.json",
+        "bytes": 728,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/modern-bungalow-courtyard-resort.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/family-legacy-pool-pavilion.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/entertainer-s-dream-outdoor-kitchen.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/wellness-retreat-poolscape.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-marino-view-estate.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/la-ca-ada-flintridge-family-compound.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/eagle-rock-modern-retreat.json",
+        "bytes": 651,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/south-pasadena-entertainer-s-paradise.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/altadena-wellness-oasis.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/alhambra-rooftop-terrace.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/arroyo-seco-canyon-retreat.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-rafael-hills-modern-pavilion.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/linda-vista-entertainer-s-terrace.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hastings-ranch-wellness-courtyard.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-pasqual-valley-estate.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/victory-park-rooftop-sanctuary.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/sierra-madre-vineyard-terrace.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/highland-park-rooftop-wellness.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/garvanza-craftsman-courtyard.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lamanda-park-family-legacy.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/orange-grove-mediterranean-estate.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lower-hastings-ranch-modern-pavilion.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/rose-bowl-legacy-estate.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/oak-knoll-modern-compound.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/bungalow-heaven-courtyard.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/chapman-woods-wellness-pavilion.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/northwest-pasadena-vineyard.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/upper-hastings-modern-terrace.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/devil-s-gate-modern-oasis.json",
+        "bytes": 707,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/annandale-family-sanctuary.json",
+        "bytes": 707,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lacy-park-entertainer-s-pavilion.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/brookside-vineyard-estate.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/madison-heights-rooftop-reserve.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/washington-park-modern-retreat.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/eaton-canyon-serenity-pavilion.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/sunset-ridge-vineyard-terrace.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/garfield-heights-rooftop-reserve.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/longley-way-family-oasis.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/windsor-modern-entertainer-s-pavilion.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/casa-fina-luxury-compound.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lower-arroyo-modern-sanctuary.json",
+        "bytes": 689,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/mar-vista-hills-wellness-retreat.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lambert-park-entertainer-s-terrace.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hermosa-vista-vineyard-estate.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/college-heights-rooftop-oasis.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/fair-oaks-modern-pavilion.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/midwick-view-legacy-estate.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/green-street-courtyard-reserve.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/allen-avenue-wellness-compound.json",
+        "bytes": 706,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/orange-heights-vineyard-terrace.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/capitol-park-rooftop-sanctuary.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/woodlyn-lane-family-oasis.json",
+        "bytes": 659,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/montecito-heights-modern-retreat.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/kinneloa-mesa-entertainer-s-paradise.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/chantry-flats-luxury-reserve.json",
+        "bytes": 706,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/urban-outdoor-luxury-organization.json",
+        "bytes": 7542,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/pasadena-s-premier-outdoor-living-designer.json",
+        "bytes": 405,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/infinity-pool-innovation-award-winner.json",
+        "bytes": 396,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/sustainable-luxury-backyard-oasis.json",
+        "bytes": 368,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/regenerative-vineyard-estate-feature.json",
+        "bytes": 377,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/rooftop-wellness-redefined.json",
+        "bytes": 363,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/asla-northern-california-award-finalist.json",
+        "bytes": 392,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/pasadena-historical-society-showcase.json",
+        "bytes": 381,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/leed-platinum-rooftop-transformation.json",
+        "bytes": 379,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/top-pasadena-wellness-destination.json",
+        "bytes": 366,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/biophilic-design-excellence.json",
+        "bytes": 371,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/transformed-our-backyard-oasis-1-review.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/absolute-perfection-2-review.json",
+        "bytes": 504,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/dream-outdoor-living-space-3-review.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceeded-every-expectation-4-review.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/stunning-resort-style-results-5-review.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/korina-davi-mackenzie-6-review.json",
+        "bytes": 497,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/uros-vranjesevic-tomer-jeddah-7-review.json",
+        "bytes": 493,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/satisfied-clients-8-review.json",
+        "bytes": 509,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/daniel-wallace-9-review.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-client-10-review.json",
+        "bytes": 471,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/backyard-resort-perfection-11-review.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/flawless-execution-12-review.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/dream-outdoor-space-delivered-13-review.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceeded-expectations-completely-14-review.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/stunning-nighttime-ambiance-15-review.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/seamless-backyard-transformation-16-review.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/masterful-landscape-integration-17-review.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/elite-craftsmanship-18-review.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-project-management-19-review.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/perfection-in-every-detail-20-review.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 227,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 31720,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 165389,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 64497,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 39550,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 22523,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 145839,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 97478,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 71305,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 105751,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 331,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 5382,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 366,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 214,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1444,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 192228,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 58521,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 58521,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 5407,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 59158,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 58564,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1120,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
+    }
+  }
+}

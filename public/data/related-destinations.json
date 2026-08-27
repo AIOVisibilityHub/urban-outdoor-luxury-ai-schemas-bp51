@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T21:39:18.635Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Urban Outdoor Luxury",
+    "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.urbanluxuryoutdoorsinc.com",
+    "aiDataHub": "https://urbanluxuryoutdoors.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Urban Outdoor Luxury — canonical website",
+      "url": "https://urbanluxuryoutdoors.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Urban Outdoor Luxury — AI Data Hub",
+      "url": "https://urbanluxuryoutdoors.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
+    }
+  }
+}
