@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T21:39:18.635Z",
+  "generatedAt": "2026-08-27T21:39:27.985Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/urban-outdoor-luxury-ai-schemas-bp51/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/urban-outdoor-luxury-ai-schemas-bp51/",
       "repo": "AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
     }
   }

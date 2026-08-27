@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T21:39:18.641Z",
+  "generatedAt": "2026-08-27T21:39:27.989Z",
   "client": {
     "name": "Urban Outdoor Luxury",
     "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
@@ -205,7 +205,7 @@
   },
   "package": {
     "totalFiles": 495,
-    "totalBytes": 1581519,
+    "totalBytes": 1529680,
     "stats": {
       "faqs": 233,
       "helpArticles": 118,
@@ -2618,47 +2618,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 31720,
+        "bytes": 25662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 165389,
+        "bytes": 159451,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 64497,
+        "bytes": 58280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 39550,
+        "bytes": 33810,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 22523,
+        "bytes": 16708,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 145839,
+        "bytes": 140003,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 97478,
+        "bytes": 91711,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 71305,
+        "bytes": 65379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 105751,
+        "bytes": 99948,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -2670,7 +2670,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5382,
+        "bytes": 5518,
         "purpose": "LLM hint"
       },
       {
@@ -2690,32 +2690,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1444,
+        "bytes": 1735,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 192228,
+        "bytes": 192518,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 58521,
+        "bytes": 58657,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 58521,
+        "bytes": 58657,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5407,
+        "bytes": 5543,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 59158,
+        "bytes": 59294,
         "purpose": "Repository README"
       },
       {
@@ -2733,7 +2733,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/urban-outdoor-luxury-ai-schemas-bp51/",
       "repo": "AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51"
     }
   }

@@ -25,6 +25,7 @@ Canonical AI Data Package for Urban Outdoor Luxury.
 - [canonical] Urban Outdoor Luxury — canonical website — https://urbanluxuryoutdoors.aiovisibility.net
 - [ai-data-hub] Urban Outdoor Luxury — AI Data Hub — https://urbanluxuryoutdoors.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/urban-outdoor-luxury-ai-schemas-bp51
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/urban-outdoor-luxury-ai-schemas-bp51/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
