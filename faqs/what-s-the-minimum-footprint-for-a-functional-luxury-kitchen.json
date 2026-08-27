@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the minimum footprint for a functional luxury kitchen?",
+  "description": "150 sq ft U-shape with 10' counter space, grill, sink, and mini-fridge serves 8-10 guests elegantly.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-minimum-footprint-for-a-functional-luxury-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the minimum footprint for a functional luxury kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "150 sq ft U-shape with 10' counter space, grill, sink, and mini-fridge serves 8-10 guests elegantly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

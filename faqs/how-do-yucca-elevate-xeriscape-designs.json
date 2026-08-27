@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do yucca elevate xeriscape designs?",
+  "description": "Color Guard' variegated cordyline yucca; architectural torch form anchors contemporary beds. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-yucca-elevate-xeriscape-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do yucca elevate xeriscape designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Color Guard' variegated cordyline yucca; architectural torch form anchors contemporary beds. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

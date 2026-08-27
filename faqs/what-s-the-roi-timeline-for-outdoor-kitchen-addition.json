@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the ROI timeline for outdoor kitchen addition?",
+  "description": "70% cost recouped at resale in suburban markets; full payback entertaining family 3+ years.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-roi-timeline-for-outdoor-kitchen-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the ROI timeline for outdoor kitchen addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "70% cost recouped at resale in suburban markets; full payback entertaining family 3+ years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

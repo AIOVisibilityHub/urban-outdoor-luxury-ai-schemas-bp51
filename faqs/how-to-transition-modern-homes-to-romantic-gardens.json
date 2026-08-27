@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to transition modern homes to romantic gardens?",
+  "description": "Clean geometric hardscape bases softening into billowing perennials and climbing roses. sunlinelandscapes​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-transition-modern-homes-to-romantic-gardens",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to transition modern homes to romantic gardens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean geometric hardscape bases softening into billowing perennials and climbing roses. sunlinelandscapes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

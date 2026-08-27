@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to protect wood cabinets from weather affordably?",
+  "description": "$300 marine teak stain + annual reseal vs $12K stainless upgrade.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-protect-wood-cabinets-from-weather-affordably",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to protect wood cabinets from weather affordably?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$300 marine teak stain + annual reseal vs $12K stainless upgrade."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose natives over exotic plants in estates?",
+  "description": "Natives thrive without irrigation once established, resist local pests, and attract pollinators—cutting maintenance 60% versus high-water exotics. structureland",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/why-choose-natives-over-exotic-plants-in-estates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose natives over exotic plants in estates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natives thrive without irrigation once established, resist local pests, and attract pollinators—cutting maintenance 60% versus high-water exotics. structurelandscapes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

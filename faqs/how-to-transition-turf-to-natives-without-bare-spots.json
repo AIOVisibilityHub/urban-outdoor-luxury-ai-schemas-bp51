@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to transition turf to natives without bare spots?",
+  "description": "Hydroseed fescue/microclover mix, overseed natives gradually; full conversion Year 2. structurelandscapes​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-transition-turf-to-natives-without-bare-spots",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to transition turf to natives without bare spots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hydroseed fescue/microclover mix, overseed natives gradually; full conversion Year 2. structurelandscapes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

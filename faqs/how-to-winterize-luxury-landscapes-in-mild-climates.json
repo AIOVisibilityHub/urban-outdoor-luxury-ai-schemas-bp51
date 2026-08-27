@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to winterize luxury landscapes in mild climates?",
+  "description": "Drought programming, fire-safe clearances, and frost blankets for citrus groves only—no full shutdown needed.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-winterize-luxury-landscapes-in-mild-climates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to winterize luxury landscapes in mild climates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drought programming, fire-safe clearances, and frost blankets for citrus groves only—no full shutdown needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

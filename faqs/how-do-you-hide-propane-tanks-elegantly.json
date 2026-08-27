@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you hide propane tanks elegantly?",
+  "description": "Buried tanks, stainless cabinets, or faux boulder enclosures with ventilation; 20lb tanks last 8-12 hours.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-hide-propane-tanks-elegantly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you hide propane tanks elegantly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buried tanks, stainless cabinets, or faux boulder enclosures with ventilation; 20lb tanks last 8-12 hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

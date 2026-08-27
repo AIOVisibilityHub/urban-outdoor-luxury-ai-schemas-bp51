@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to engineer waterfalls on hillside properties?",
+  "description": "Catch basins, surge tanks, and non-clog weirs prevent overflow; structural engineering required over 10' drop.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-engineer-waterfalls-on-hillside-properties",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to engineer waterfalls on hillside properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Catch basins, surge tanks, and non-clog weirs prevent overflow; structural engineering required over 10' drop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's trending for 2026 luxury backsplash materials?",
+  "description": "Full-height Calacatta marble slabs, smoked glass, or oxidized metal panels with integrated LED task lighting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-trending-for-2026-luxury-backsplash-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's trending for 2026 luxury backsplash materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full-height Calacatta marble slabs, smoked glass, or oxidized metal panels with integrated LED task lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

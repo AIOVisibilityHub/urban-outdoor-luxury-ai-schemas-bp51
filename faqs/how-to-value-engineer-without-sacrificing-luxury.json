@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to value-engineer without sacrificing luxury?",
+  "description": "Substitute porcelain pavers for travertine (60% savings), phased lighting, smaller specimen trees.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-value-engineer-without-sacrificing-luxury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to value-engineer without sacrificing luxury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Substitute porcelain pavers for travertine (60% savings), phased lighting, smaller specimen trees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

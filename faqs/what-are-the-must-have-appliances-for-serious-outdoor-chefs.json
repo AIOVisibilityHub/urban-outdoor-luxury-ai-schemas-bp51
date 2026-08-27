@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the must-have appliances for serious outdoor chefs?",
+  "description": "48\" built-in grills (Hestan, Lynx), double side burners, infrared rotisseries, beverage centers, and wine fridges with seamless integration.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-must-have-appliances-for-serious-outdoor-chefs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the must-have appliances for serious outdoor chefs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "48\" built-in grills (Hestan, Lynx), double side burners, infrared rotisseries, beverage centers, and wine fridges with seamless integration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

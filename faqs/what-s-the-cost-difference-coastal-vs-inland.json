@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the cost difference coastal vs inland?",
+  "description": "20-30% premium coastal for wind-resistant plants, corrosion-proof fixtures, marine-grade lighting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-cost-difference-coastal-vs-inland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the cost difference coastal vs inland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20-30% premium coastal for wind-resistant plants, corrosion-proof fixtures, marine-grade lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

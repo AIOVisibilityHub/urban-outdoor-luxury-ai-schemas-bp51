@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do electronic igniters need electricity?",
+  "description": "Spark igniters battery-powered; hot-surface need 24V transformer—luxury runs low-voltage landscape wire.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-electronic-igniters-need-electricity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do electronic igniters need electricity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spark igniters battery-powered; hot-surface need 24V transformer—luxury runs low-voltage landscape wire."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

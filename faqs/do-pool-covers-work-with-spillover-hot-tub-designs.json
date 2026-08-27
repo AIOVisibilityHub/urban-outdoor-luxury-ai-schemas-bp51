@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do pool covers work with spillover hot tub designs?",
+  "description": "Custom hydraulic covers with spa section; maintains 102°F independently during pool covering.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pool-covers-work-with-spillover-hot-tub-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do pool covers work with spillover hot tub designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom hydraulic covers with spa section; maintains 102°F independently during pool covering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

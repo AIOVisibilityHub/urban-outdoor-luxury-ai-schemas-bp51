@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can prefab stone veneer look like natural ledge?",
+  "description": "Yes, Eldorado cultured stone ($8/linear ft) with custom mortar joints fools experts.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-prefab-stone-veneer-look-like-natural-ledge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can prefab stone veneer look like natural ledge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Eldorado cultured stone ($8/linear ft) with custom mortar joints fools experts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

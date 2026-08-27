@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do HOAs approve infinity or negative-edge designs?",
+  "description": "Most do with engineering reports proving no runoff/structural issues; hire specialists for approvals.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-hoas-approve-infinity-or-negative-edge-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do HOAs approve infinity or negative-edge designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most do with engineering reports proving no runoff/structural issues; hire specialists for approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

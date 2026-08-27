@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle grease management professionally?",
+  "description": "Commercial-grade grease ducts, interceptors, self-cleaning troughs, and direct plumbing to sewer prevent flare-ups.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-handle-grease-management-professionally",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle grease management professionally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial-grade grease ducts, interceptors, self-cleaning troughs, and direct plumbing to sewer prevent flare-ups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

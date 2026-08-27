@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the ideal lawn replacement for California estates?",
+  "description": "Micro-clover or fescue blends needing 1/10th water; framed by decomposed granite and lavender hedges.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-lawn-replacement-for-california-estates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the ideal lawn replacement for California estates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Micro-clover or fescue blends needing 1/10th water; framed by decomposed granite and lavender hedges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

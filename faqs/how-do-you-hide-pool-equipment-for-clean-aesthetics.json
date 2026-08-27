@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you hide pool equipment for clean aesthetics?",
+  "description": "Underground equipment vaults, soundproof enclosures, or remote mechanical rooms preserve design purity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-hide-pool-equipment-for-clean-aesthetics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you hide pool equipment for clean aesthetics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Underground equipment vaults, soundproof enclosures, or remote mechanical rooms preserve design purity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can crabapples support luxury orchards?",
+  "description": "Prairifire' disease-resistant cultivars with spring blooms/persistent fruit; wildlife bonus. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-crabapples-support-luxury-orchards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can crabapples support luxury orchards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prairifire' disease-resistant cultivars with spring blooms/persistent fruit; wildlife bonus. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do hydrangeas belong in sustainable luxury?",
+  "description": "Limelight' panicle types bloom on new wood with moderate water; lime-to-pink color shift adds drama. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-hydrangeas-belong-in-sustainable-luxury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do hydrangeas belong in sustainable luxury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Limelight' panicle types bloom on new wood with moderate water; lime-to-pink color shift adds drama. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are 3D renderings worth the extra cost?",
+  "description": "$2,000-$5,000 additional; VR walkthroughs justify 10%+ budget increases through visualization. proscapeai​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-3d-renderings-worth-the-extra-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are 3D renderings worth the extra cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$2,000-$5,000 additional; VR walkthroughs justify 10%+ budget increases through visualization. proscapeai​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

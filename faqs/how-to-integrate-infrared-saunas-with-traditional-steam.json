@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to integrate infrared saunas with traditional steam?",
+  "description": "Hybrid cabins combine 140°F far-infrared panels with Nordic steam for dual therapy options.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-integrate-infrared-saunas-with-traditional-steam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to integrate infrared saunas with traditional steam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hybrid cabins combine 140°F far-infrared panels with Nordic steam for dual therapy options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

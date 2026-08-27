@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you use synthetic turf in high-end designs?",
+  "description": "Rarely—only for rooftop terraces or sports courts; natural alternatives preferred for estates. landscapeprofessionals​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-use-synthetic-turf-in-high-end-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you use synthetic turf in high-end designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely—only for rooftop terraces or sports courts; natural alternatives preferred for estates. landscapeprofessionals​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

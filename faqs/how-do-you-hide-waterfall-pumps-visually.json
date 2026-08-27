@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you hide waterfall pumps visually?",
+  "description": "Submerged stainless vaults or buried equipment pads with acoustic enclosures; remote mechanical rooms for estates.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-hide-waterfall-pumps-visually",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you hide waterfall pumps visually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Submerged stainless vaults or buried equipment pads with acoustic enclosures; remote mechanical rooms for estates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

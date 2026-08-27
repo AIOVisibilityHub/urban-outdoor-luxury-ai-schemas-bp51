@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can succulents anchor high-end landscapes?",
+  "description": "Yes—Agave attenuata and Aloe polyphylla form dramatic focal points; pair with decomposed granite for modern xeriscape sophistication. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-succulents-anchor-high-end-landscapes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can succulents anchor high-end landscapes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—Agave attenuata and Aloe polyphylla form dramatic focal points; pair with decomposed granite for modern xeriscape sophistication. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

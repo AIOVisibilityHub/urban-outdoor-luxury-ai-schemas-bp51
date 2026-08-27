@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the most durable luxury fire media?",
+  "description": "Tempered reflective glass gems or black lava rock; avoid river rocks that explode from trapped moisture.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-durable-luxury-fire-media",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the most durable luxury fire media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tempered reflective glass gems or black lava rock; avoid river rocks that explode from trapped moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

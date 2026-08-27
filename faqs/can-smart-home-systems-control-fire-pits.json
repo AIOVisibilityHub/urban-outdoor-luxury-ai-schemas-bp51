@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can smart home systems control fire pits?",
+  "description": "Yes—Crestron/RadioRA integrate with gas valves, wind sensors, and app scheduling for safety.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-smart-home-systems-control-fire-pits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can smart home systems control fire pits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—Crestron/RadioRA integrate with gas valves, wind sensors, and app scheduling for safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

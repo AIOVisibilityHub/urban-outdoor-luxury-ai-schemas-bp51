@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can waterfalls operate independently of pool filter?",
+  "description": "Yes with standalone 1HP circulation and auto-backwash filters; 24/7 runtime creates constant landscape audio.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-waterfalls-operate-independently-of-pool-filter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can waterfalls operate independently of pool filter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes with standalone 1HP circulation and auto-backwash filters; 24/7 runtime creates constant landscape audio."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

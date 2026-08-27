@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can prefab modular kitchens look custom?",
+  "description": "Yes, Bull or Lynx L-series islands with stucco skirts and tile roofs blend seamlessly.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-prefab-modular-kitchens-look-custom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can prefab modular kitchens look custom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Bull or Lynx L-series islands with stucco skirts and tile roofs blend seamlessly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

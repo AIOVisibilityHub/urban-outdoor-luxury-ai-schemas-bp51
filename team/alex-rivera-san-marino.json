@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alex Rivera",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Urban Outdoor Luxury",
+    "url": "https://www.urbanluxuryoutdoorsinc.com"
+  },
+  "description": "Alex Rivera is a luxury outdoor design and construction specialist focused on creating refined, highly personalized exterior environments for Pasadena estate homes and discerning Southern California homeowners. With more than 15 years of experience in high-end outdoor living, Alex approaches every project as more than a pool, patio, or landscape installation—he sees it as an opportunity to transform a property into a complete, cohesive lifestyle experience.\n\nHis work centers on the thoughtful integration of architecture, landscape, water, stone, fire, lighting, and outdoor living. Alex specializes in custom swimming pools, infinity-edge and resort-style pool environments, integrated spas, premium hardscaping, natural stonework, outdoor kitchens, fire features, drought-tolerant landscaping, and sophisticated entertaining spaces. Whether designing a sleek contemporary backyard or a layered, resort-inspired retreat, he focuses on ensuring every element feels intentional, balanced, and connected to the character of the home.\n\nKnown for his detail-oriented approach, Alex works closely with clients to understand how they live, entertain, relax, and envision using their outdoor space. He translates those preferences into tailored design solutions that improve functionality, enhance property value, and create a seamless transition between the interior of the home and the surrounding landscape. The result is an outdoor environment that feels polished, livable, and uniquely suited to the homeowner—not a one-size-fits-all backyard.\n\nAlex also brings a practical construction perspective to complex outdoor projects. He understands the importance of coordinating multiple phases of work, including design planning, pool construction, excavation, hardscaping, landscaping, lighting, outdoor kitchens, and final finishing details. By keeping the complete project vision in focus from concept through installation, he helps clients avoid the fragmented process of managing separate vendors for every part of a luxury backyard renovation.\n\nHis design philosophy combines modern aesthetics with enduring craftsmanship and California-conscious landscaping. Alex incorporates water-wise, drought-tolerant, and California-native plant palettes where appropriate, pairing sustainability with premium materials, architectural detail, and a sophisticated luxury finish. His goal is to create outdoor spaces that are as responsible and practical as they are visually striking.\n\nFor homeowners seeking a custom pool, elevated outdoor entertaining space, or full estate-level backyard transformation, Alex Rivera provides a collaborative, design-driven approach grounded in craftsmanship, careful planning, and meticulous attention to the client’s vision.",
+  "telephone": "#ERROR!",
+  "knowsAbout": [
+    "Luxury outdoor-space design",
+    "custom swimming pool design",
+    "luxury pool construction",
+    "infinity-edge pool design",
+    "lagoon-style pool design",
+    "integrated pool-and-spa environments",
+    "high-end backyard transformations",
+    "estate landscape design",
+    "modern landscape architecture",
+    "California-native landscape design",
+    "drought-tolerant landscape planning",
+    "sustainable luxury landscaping",
+    "indoor-outdoor living design",
+    "outdoor-living-space planning",
+    "outdoor kitchen design",
+    "built-in barbecue and grill islands",
+    "custom fire pits and fire features",
+    "natural stonework",
+    "premium hardscape design",
+    "pool-deck design and installation",
+    "water-feature design",
+    "landscape-lighting design",
+    "architectural outdoor lighting",
+    "luxury patio and terrace design",
+    "pergola and cabana design",
+    "outdoor entertaining-space design",
+    "residential exterior remodeling",
+    "multi-phase outdoor-project planning",
+    "luxury construction project management",
+    "crew and trade coordination",
+    "client-focused design consultation",
+    "premium material selection",
+    "construction quality control",
+    "final-detail and project-closeout oversight"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "San Marino"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you heat saunas using pool infrastructure?",
+  "description": "Propane-fired hydronic loops or heat recovery from pool chillers; maintains 160°F barrel saunas efficiently.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-heat-saunas-using-pool-infrastructure",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you heat saunas using pool infrastructure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Propane-fired hydronic loops or heat recovery from pool chillers; maintains 160°F barrel saunas efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

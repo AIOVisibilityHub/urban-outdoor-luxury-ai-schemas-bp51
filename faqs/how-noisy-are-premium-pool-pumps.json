@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How noisy are premium pool pumps?",
+  "description": "Variable-speed models operate at 45dB (library quiet) versus 70dB standard pumps.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-noisy-are-premium-pool-pumps",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How noisy are premium pool pumps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variable-speed models operate at 45dB (library quiet) versus 70dB standard pumps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

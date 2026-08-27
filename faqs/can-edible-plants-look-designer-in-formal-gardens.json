@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can edible plants look designer in formal gardens?",
+  "description": "Espaliered citrus on pleached arbors, dwarf blueberries in geometric parterres, rosemary as evergreen hedging.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-edible-plants-look-designer-in-formal-gardens",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can edible plants look designer in formal gardens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Espaliered citrus on pleached arbors, dwarf blueberries in geometric parterres, rosemary as evergreen hedging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

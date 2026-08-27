@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a landscape architect AND pool designer?",
+  "description": "Yes for luxury—architect ensures home integration while pool specialist handles structural/water engineering.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-landscape-architect-and-pool-designer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a landscape architect AND pool designer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for luxury—architect ensures home integration while pool specialist handles structural/water engineering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

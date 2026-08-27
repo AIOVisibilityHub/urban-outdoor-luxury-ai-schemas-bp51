@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's regenerative landscaping versus drought-tolerant?",
+  "description": "Actively restores soil biology with compost teas, native pollinator meadows, and water harvesting beyond mere survival planting. trillinglandscape​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-regenerative-landscaping-versus-drought-tolerant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's regenerative landscaping versus drought-tolerant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Actively restores soil biology with compost teas, native pollinator meadows, and water harvesting beyond mere survival planting. trillinglandscape​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

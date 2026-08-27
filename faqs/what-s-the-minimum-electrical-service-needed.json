@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the minimum electrical service needed?",
+  "description": "50A 240V subpanel covers grill, lights, fridge, heaters; $1.2K installed.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-minimum-electrical-service-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the minimum electrical service needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "50A 240V subpanel covers grill, lights, fridge, heaters; $1.2K installed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

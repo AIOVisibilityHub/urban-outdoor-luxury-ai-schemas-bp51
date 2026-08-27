@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I reuse indoor lighting fixtures outside?",
+  "description": "LED-rated pendants with polycarbonate lenses and GFCI pigtails work year-round.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-reuse-indoor-lighting-fixtures-outside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I reuse indoor lighting fixtures outside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED-rated pendants with polycarbonate lenses and GFCI pigtails work year-round."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials do you use for high-end outdoor kitchens?",
+  "description": "Premium brands including Wolf, Viking, and Sub-Zero appliances, quartz/marble countertops, cedar or teak cabinetry, and marine-grade stainless steel for lasting",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-do-you-use-for-high-end-outdoor-kitchens",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials do you use for high-end outdoor kitchens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premium brands including Wolf, Viking, and Sub-Zero appliances, quartz/marble countertops, cedar or teak cabinetry, and marine-grade stainless steel for lasting durability in all weather conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

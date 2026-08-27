@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's trending for pollinator meadows in estates?",
+  "description": "Curated California poppy/manzanita blends; mow paths create English garden formality with biodiversity. petruslandscape​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-trending-for-pollinator-meadows-in-estates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's trending for pollinator meadows in estates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Curated California poppy/manzanita blends; mow paths create English garden formality with biodiversity. petruslandscape​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to achieve lit-stone backsplash effect cheaply?",
+  "description": "LED strip lights behind frosted acrylic panels cut costs 80% vs custom glass.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-achieve-lit-stone-backsplash-effect-cheaply",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to achieve lit-stone backsplash effect cheaply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED strip lights behind frosted acrylic panels cut costs 80% vs custom glass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

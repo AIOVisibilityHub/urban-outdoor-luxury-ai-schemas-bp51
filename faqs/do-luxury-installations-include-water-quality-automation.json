@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do luxury installations include water quality automation?",
+  "description": "pH/ORP probes, auto-chlorinators, and UV disinfection maintain therapeutic 50-100ppm bromine.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-luxury-installations-include-water-quality-automation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do luxury installations include water quality automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "pH/ORP probes, auto-chlorinators, and UV disinfection maintain therapeutic 50-100ppm bromine."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

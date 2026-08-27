@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the ideal layout for entertaining 20+ guests?",
+  "description": "U-shaped with central island, dual prep zones, and perimeter bar seating allowing multiple cooks while guests mingle nearby.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-layout-for-entertaining-20-guests",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the ideal layout for entertaining 20+ guests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "U-shaped with central island, dual prep zones, and perimeter bar seating allowing multiple cooks while guests mingle nearby."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are lavender and salvia too common for estates?",
+  "description": "No—'Provence' lavender hedges and 'Hot Lips' salvia deliver fragrance/color with zero summer water once rooted. outdoormakeover​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-lavender-and-salvia-too-common-for-estates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are lavender and salvia too common for estates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—'Provence' lavender hedges and 'Hot Lips' salvia deliver fragrance/color with zero summer water once rooted. outdoormakeover​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

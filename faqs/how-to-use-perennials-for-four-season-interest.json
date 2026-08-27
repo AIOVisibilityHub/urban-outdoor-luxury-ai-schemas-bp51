@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to use perennials for four-season interest?",
+  "description": "Black-eyed Susan, daylilies, and yarrow rebloom reliably; underplant with heuchera for winter color. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-use-perennials-for-four-season-interest",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to use perennials for four-season interest?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Black-eyed Susan, daylilies, and yarrow rebloom reliably; underplant with heuchera for winter color. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

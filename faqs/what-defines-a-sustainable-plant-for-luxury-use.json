@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What defines a sustainable plant for luxury use?",
+  "description": "Native or adapted species requiring minimal water, fertilizers, or pesticides while providing year-round aesthetic value and supporting local ecosystems. wildsc",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-defines-a-sustainable-plant-for-luxury-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What defines a sustainable plant for luxury use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Native or adapted species requiring minimal water, fertilizers, or pesticides while providing year-round aesthetic value and supporting local ecosystems. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

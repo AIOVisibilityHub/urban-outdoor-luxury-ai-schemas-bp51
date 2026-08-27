@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to soundproof waterfall equipment from neighbors?",
+  "description": "Vibration isolation pads, acoustic enclosures, directed cascade away from property lines.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-soundproof-waterfall-equipment-from-neighbors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to soundproof waterfall equipment from neighbors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vibration isolation pads, acoustic enclosures, directed cascade away from property lines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

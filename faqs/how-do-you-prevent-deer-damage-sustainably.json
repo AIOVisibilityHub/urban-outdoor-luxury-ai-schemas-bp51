@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you prevent deer damage sustainably?",
+  "description": "Thorny companion plants (berberis, pyracantha), garlic sprays, and motion sprinklers—no fencing needed.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-prevent-deer-damage-sustainably",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you prevent deer damage sustainably?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thorny companion plants (berberis, pyracantha), garlic sprays, and motion sprinklers—no fencing needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

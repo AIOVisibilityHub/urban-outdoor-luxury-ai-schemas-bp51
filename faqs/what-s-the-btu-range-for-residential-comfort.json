@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the BTU range for residential comfort?",
+  "description": "40K-90K BTUs cozy for 4-6 people; luxury multi-sided pits hit 150K+ with zoned controls.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-btu-range-for-residential-comfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the BTU range for residential comfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "40K-90K BTUs cozy for 4-6 people; luxury multi-sided pits hit 150K+ with zoned controls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

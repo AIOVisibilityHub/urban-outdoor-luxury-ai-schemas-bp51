@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are prefabricated weirs acceptable for estates?",
+  "description": "Custom-milled stainless only—no galvanized prefab; powder-coated or brushed finish matching appliances.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-prefabricated-weirs-acceptable-for-estates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are prefabricated weirs acceptable for estates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom-milled stainless only—no galvanized prefab; powder-coated or brushed finish matching appliances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

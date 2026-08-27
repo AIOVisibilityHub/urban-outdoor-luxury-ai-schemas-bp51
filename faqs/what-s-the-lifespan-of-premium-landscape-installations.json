@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the lifespan of premium landscape installations?",
+  "description": "25-50 years for hardscape/trees; annual maintenance preserves investment value.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-lifespan-of-premium-landscape-installations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the lifespan of premium landscape installations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "25-50 years for hardscape/trees; annual maintenance preserves investment value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

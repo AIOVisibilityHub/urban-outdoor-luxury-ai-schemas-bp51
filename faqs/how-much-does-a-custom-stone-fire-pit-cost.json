@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a custom stone fire pit cost?",
+  "description": "$5K basic kit-built, $15K-40K designer with LED lighting/waterfall integration and smart controls.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-custom-stone-fire-pit-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a custom stone fire pit cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$5K basic kit-built, $15K-40K designer with LED lighting/waterfall integration and smart controls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

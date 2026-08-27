@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's better—built-in fridge or beverage cooler?",
+  "description": "24\" undercounter beverage center ($900) chills 100+ cans vs full fridge needing ventilation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-better-built-in-fridge-or-beverage-cooler",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's better—built-in fridge or beverage cooler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "24\" undercounter beverage center ($900) chills 100+ cans vs full fridge needing ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

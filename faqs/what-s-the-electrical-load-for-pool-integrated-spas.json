@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the electrical load for pool-integrated spas?",
+  "description": "50A 240V dedicated circuit; soft-start VFDs reduce peak demand during startup surges.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-electrical-load-for-pool-integrated-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the electrical load for pool-integrated spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "50A 240V dedicated circuit; soft-start VFDs reduce peak demand during startup surges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

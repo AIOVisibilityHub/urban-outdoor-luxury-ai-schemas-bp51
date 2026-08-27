@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can saunas integrate with saltwater pool chemistry?",
+  "description": "Yes—cedar vapor barriers prevent corrosion; ozone generators eliminate chemical off-gassing.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-saunas-integrate-with-saltwater-pool-chemistry",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can saunas integrate with saltwater pool chemistry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—cedar vapor barriers prevent corrosion; ozone generators eliminate chemical off-gassing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

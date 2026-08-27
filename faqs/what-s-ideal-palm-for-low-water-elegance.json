@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's ideal palm for low-water elegance?",
+  "description": "Brahea armata blue palm; steel-blue fronds, slow 20' growth, zero fertilizer needs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-ideal-palm-for-low-water-elegance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's ideal palm for low-water elegance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brahea armata blue palm; steel-blue fronds, slow 20' growth, zero fertilizer needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

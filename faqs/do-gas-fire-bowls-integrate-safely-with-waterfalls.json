@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do gas fire bowls integrate safely with waterfalls?",
+  "description": "Yes—10' separation, flame sensors, and auto-shutoff; linear fire-water features trending for 2026.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-gas-fire-bowls-integrate-safely-with-waterfalls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do gas fire bowls integrate safely with waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—10' separation, flame sensors, and auto-shutoff; linear fire-water features trending for 2026."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

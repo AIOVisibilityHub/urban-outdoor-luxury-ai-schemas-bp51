@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the kitchen support live cooking demos?",
+  "description": "Oversized 48\" plancha griddles, dual rotisseries, and theatrical salamander broilers designed for chef performances.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-the-kitchen-support-live-cooking-demos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the kitchen support live cooking demos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oversized 48\" plancha griddles, dual rotisseries, and theatrical salamander broilers designed for chef performances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you integrate smart irrigation with luxury aesthetics?",
+  "description": "Subsurface drip zones controlled by AI weather sensors hidden in custom stone housings maintain lush gardens using 70% less water. petruslandscape​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-integrate-smart-irrigation-with-luxury-aesthetics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you integrate smart irrigation with luxury aesthetics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subsurface drip zones controlled by AI weather sensors hidden in custom stone housings maintain lush gardens using 70% less water. petruslandscape​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

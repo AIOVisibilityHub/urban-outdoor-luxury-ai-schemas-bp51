@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do ornamental grasses elevate luxury beds?",
+  "description": "Blue fescue, miscanthus, and feather reed grass add texture/movement; low 1' height perfect for foregrounding specimen boulders. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-ornamental-grasses-elevate-luxury-beds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do ornamental grasses elevate luxury beds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blue fescue, miscanthus, and feather reed grass add texture/movement; low 1' height perfect for foregrounding specimen boulders. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

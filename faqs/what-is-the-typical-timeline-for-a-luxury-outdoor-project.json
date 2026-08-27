@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a luxury outdoor project?",
+  "description": "Most projects take 8-12 weeks from initial design consultation through final installation, depending on scope, permitting, and material lead times. Complex pool",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-luxury-outdoor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a luxury outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most projects take 8-12 weeks from initial design consultation through final installation, depending on scope, permitting, and material lead times. Complex pools or full backyard transformations may extend to 4-6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do luxury pits need concrete footings?",
+  "description": "Engineered stone pits over 48\" diameter require 12\" sonotube footings; prefab rings skip this step.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-luxury-pits-need-concrete-footings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do luxury pits need concrete footings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Engineered stone pits over 48\" diameter require 12\" sonotube footings; prefab rings skip this step."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

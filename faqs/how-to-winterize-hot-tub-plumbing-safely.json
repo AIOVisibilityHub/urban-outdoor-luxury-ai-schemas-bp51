@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to winterize hot tub plumbing safely?",
+  "description": "Full drain, compressed air blowout, propylene glycol loop protection; luxury systems self-winterize.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-winterize-hot-tub-plumbing-safely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to winterize hot tub plumbing safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full drain, compressed air blowout, propylene glycol loop protection; luxury systems self-winterize."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

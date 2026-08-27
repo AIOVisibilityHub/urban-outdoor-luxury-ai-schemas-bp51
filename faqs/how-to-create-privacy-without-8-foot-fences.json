@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to create privacy without 8-foot fences?",
+  "description": "Layered planting: 12' Italian cypress, bamboo understory, and vine-draped steel trellises.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-create-privacy-without-8-foot-fences",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to create privacy without 8-foot fences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Layered planting: 12' Italian cypress, bamboo understory, and vine-draped steel trellises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

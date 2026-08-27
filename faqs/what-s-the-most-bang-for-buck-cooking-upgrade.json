@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the most bang-for-buck cooking upgrade?",
+  "description": "32\" 4-burner grill with side sear station and rotisserie kit ($1.8K) handles 95% needs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-bang-for-buck-cooking-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the most bang-for-buck cooking upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "32\" 4-burner grill with side sear station and rotisserie kit ($1.8K) handles 95% needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

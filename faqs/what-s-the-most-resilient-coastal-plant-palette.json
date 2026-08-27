@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the most resilient coastal plant palette?",
+  "description": "Salvia, grevillea, and cordyline softened by dune sedge; wind-resistant and salt-tolerant.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-resilient-coastal-plant-palette",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the most resilient coastal plant palette?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salvia, grevillea, and cordyline softened by dune sedge; wind-resistant and salt-tolerant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

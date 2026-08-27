@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer maintenance packages post-installation?",
+  "description": "Yes, monthly/quarterly service plans including pool maintenance, landscape care, irrigation monitoring, and seasonal adjustments to keep your outdoor oasis pris",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-offer-maintenance-packages-post-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer maintenance packages post-installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, monthly/quarterly service plans including pool maintenance, landscape care, irrigation monitoring, and seasonal adjustments to keep your outdoor oasis pristine year-round."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

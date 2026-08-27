@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can landscapes support edible gardens elegantly?",
+  "description": "Espaliered fruit on espalier walls, geometric herb parterres, and vineyard rows integrated as design features.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-landscapes-support-edible-gardens-elegantly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can landscapes support edible gardens elegantly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Espaliered fruit on espalier walls, geometric herb parterres, and vineyard rows integrated as design features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

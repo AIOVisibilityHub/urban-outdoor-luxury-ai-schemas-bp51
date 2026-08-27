@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which countertops withstand heat and weather best?",
+  "description": "3cm flamed granite, quartzite, or porcelain slabs with integrated sinks for ultra-durable, high-heat luxury surfaces.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/which-countertops-withstand-heat-and-weather-best",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which countertops withstand heat and weather best?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3cm flamed granite, quartzite, or porcelain slabs with integrated sinks for ultra-durable, high-heat luxury surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

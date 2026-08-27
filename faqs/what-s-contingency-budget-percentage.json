@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's contingency budget percentage?",
+  "description": "15-20% for weather delays, material escalations, or design changes mid-installation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-contingency-budget-percentage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's contingency budget percentage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "15-20% for weather delays, material escalations, or design changes mid-installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do native plants look \"weedy\" in luxury designs?",
+  "description": "No—curated California buckwheat, manzanita orbs, and deer grass create polished meadows rivaling English gardens. petruslandscape​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-native-plants-look-weedy-in-luxury-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do native plants look \"weedy\" in luxury designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—curated California buckwheat, manzanita orbs, and deer grass create polished meadows rivaling English gardens. petruslandscape​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

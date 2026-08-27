@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a pizza oven worth $20K+?",
+  "description": "Wood-fired Forno Bravo Bravo ovens with rotating floors, steam injection, and artisan brick domes rival restaurant quality.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-makes-a-pizza-oven-worth-20k",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a pizza oven worth $20K+?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wood-fired Forno Bravo Bravo ovens with rotating floors, steam injection, and artisan brick domes rival restaurant quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I phase construction—pool now, hardscape later?",
+  "description": "Yes, build pool infrastructure first; stub out plumbing for future kitchen/fire pit additions.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-phase-construction-pool-now-hardscape-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I phase construction—pool now, hardscape later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, build pool infrastructure first; stub out plumbing for future kitchen/fire pit additions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

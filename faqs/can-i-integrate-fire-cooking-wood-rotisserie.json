@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I integrate fire cooking (wood/rotisserie)?",
+  "description": "Custom 48\" Kalamazoo hybrid grills with charcoal/gas/wood capabilities and precision rotisserie for multi-fuel mastery.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-integrate-fire-cooking-wood-rotisserie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I integrate fire cooking (wood/rotisserie)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom 48\" Kalamazoo hybrid grills with charcoal/gas/wood capabilities and precision rotisserie for multi-fuel mastery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

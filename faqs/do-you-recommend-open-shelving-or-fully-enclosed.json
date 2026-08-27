@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you recommend open shelving or fully enclosed?",
+  "description": "Hybrid: glass-fronted uppers for barware display, solid lowers for appliances/pantry concealment.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-recommend-open-shelving-or-fully-enclosed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you recommend open shelving or fully enclosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hybrid: glass-fronted uppers for barware display, solid lowers for appliances/pantry concealment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

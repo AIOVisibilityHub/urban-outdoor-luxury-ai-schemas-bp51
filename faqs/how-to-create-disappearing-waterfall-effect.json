@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to create \"disappearing\" waterfall effect?",
+  "description": "Submerged collection grate with false bottom basin recirculates to infinity-style upper pool.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-create-disappearing-waterfall-effect",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to create \"disappearing\" waterfall effect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Submerged collection grate with false bottom basin recirculates to infinity-style upper pool."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

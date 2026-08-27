@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the most dramatic nighttime feature?",
+  "description": "Fiber optic starlight decks, color-changing sheer descent waterfalls, and submerged LED coves.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-dramatic-nighttime-feature",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the most dramatic nighttime feature?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fiber optic starlight decks, color-changing sheer descent waterfalls, and submerged LED coves."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

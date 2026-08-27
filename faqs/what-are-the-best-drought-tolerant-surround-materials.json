@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the best drought-tolerant surround materials?",
+  "description": "Permeable travertine pavers, decomposed granite, or synthetic turf that comply with California water restrictions.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-best-drought-tolerant-surround-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best drought-tolerant surround materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permeable travertine pavers, decomposed granite, or synthetic turf that comply with California water restrictions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

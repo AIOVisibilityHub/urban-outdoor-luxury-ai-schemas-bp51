@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's trending for outdoor sculpture integration?",
+  "description": "Kinetic wind sculptures, LED-lit water jets, and monumental boulders as art anchors.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-trending-for-outdoor-sculpture-integration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's trending for outdoor sculpture integration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kinetic wind sculptures, LED-lit water jets, and monumental boulders as art anchors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the best value stainless steel cabinet option?",
+  "description": "Powder-coated 16-gauge stainless with polymer drawer slides from Mont Alpi or Bull BBQs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-best-value-stainless-steel-cabinet-option",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best value stainless steel cabinet option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Powder-coated 16-gauge stainless with polymer drawer slides from Mont Alpi or Bull BBQs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the premium for drought-tolerant luxury plantings?",
+  "description": "20-30% above traditional; California natives thrive long-term saving $3K+ annual water bills. angi​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-premium-for-drought-tolerant-luxury-plantings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the premium for drought-tolerant luxury plantings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20-30% above traditional; California natives thrive long-term saving $3K+ annual water bills. angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

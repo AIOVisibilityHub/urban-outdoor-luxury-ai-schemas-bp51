@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the 80/20 rule for luxury features under $25K?",
+  "description": "Prioritize seamless counter height, quality grill, bar seating, under-cabinet lighting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-80-20-rule-for-luxury-features-under-25k",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the 80/20 rule for luxury features under $25K?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize seamless counter height, quality grill, bar seating, under-cabinet lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

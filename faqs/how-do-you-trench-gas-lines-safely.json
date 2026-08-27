@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you trench gas lines safely?",
+  "description": "18-24\" deep Schedule 80 PVC or CSST flex lines with tracer wire; always call 811 first.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-trench-gas-lines-safely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you trench gas lines safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "18-24\" deep Schedule 80 PVC or CSST flex lines with tracer wire; always call 811 first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

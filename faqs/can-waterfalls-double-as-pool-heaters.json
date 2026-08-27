@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can waterfalls double as pool heaters?",
+  "description": "Solar preheat loops through cascade plumbing; 5-10°F gain during peak sun hours.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-waterfalls-double-as-pool-heaters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can waterfalls double as pool heaters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solar preheat loops through cascade plumbing; 5-10°F gain during peak sun hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

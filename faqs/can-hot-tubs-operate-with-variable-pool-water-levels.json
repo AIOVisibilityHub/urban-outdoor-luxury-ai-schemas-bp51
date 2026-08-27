@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can hot tubs operate with variable pool water levels?",
+  "description": "Floating weir gates auto-adjust flow; maintains 400GPM circulation regardless of pool height.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-hot-tubs-operate-with-variable-pool-water-levels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can hot tubs operate with variable pool water levels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Floating weir gates auto-adjust flow; maintains 400GPM circulation regardless of pool height."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

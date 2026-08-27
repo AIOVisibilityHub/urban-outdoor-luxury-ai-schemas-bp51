@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I have dual-fuel cooking (gas + induction)?",
+  "description": "Yes, 36\" Kaluza hybrid grill alongside 30\" GE Monogram outdoor induction for precision searing/sautéing.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-have-dual-fuel-cooking-gas-induction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I have dual-fuel cooking (gas + induction)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 36\" Kaluza hybrid grill alongside 30\" GE Monogram outdoor induction for precision searing/sautéing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

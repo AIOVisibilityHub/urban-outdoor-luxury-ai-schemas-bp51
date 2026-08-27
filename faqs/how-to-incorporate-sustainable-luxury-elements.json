@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to incorporate sustainable luxury elements?",
+  "description": "Solar-powered infrared heaters, recycled glass countertops, rainwater harvesting sinks, and native wood cabinetry.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-incorporate-sustainable-luxury-elements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to incorporate sustainable luxury elements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solar-powered infrared heaters, recycled glass countertops, rainwater harvesting sinks, and native wood cabinetry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

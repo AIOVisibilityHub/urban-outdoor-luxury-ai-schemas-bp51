@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the cost breakdown for hardscape patios?",
+  "description": "$25-$60/sq ft installed; natural stone $40+, concrete pavers $20-$30/sq ft. crenshawlandscapingllc​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-cost-breakdown-for-hardscape-patios",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the cost breakdown for hardscape patios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$25-$60/sq ft installed; natural stone $40+, concrete pavers $20-$30/sq ft. crenshawlandscapingllc​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

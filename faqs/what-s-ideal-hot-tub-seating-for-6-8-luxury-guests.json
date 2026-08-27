@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's ideal hot tub seating for 6-8 luxury guests?",
+  "description": "104-106 jets with neck dome therapy seats, 110°F max temp, and LED chromotherapy lighting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-ideal-hot-tub-seating-for-6-8-luxury-guests",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's ideal hot tub seating for 6-8 luxury guests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "104-106 jets with neck dome therapy seats, 110°F max temp, and LED chromotherapy lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

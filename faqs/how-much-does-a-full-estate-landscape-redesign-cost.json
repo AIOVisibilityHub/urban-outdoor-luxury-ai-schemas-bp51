@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a full estate landscape redesign cost?",
+  "description": "$150-$400 per sq ft for custom estates; $500K+ typical for 1-acre properties with pools, kitchens, and lighting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-full-estate-landscape-redesign-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a full estate landscape redesign cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$150-$400 per sq ft for custom estates; $500K+ typical for 1-acre properties with pools, kitchens, and lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I design a \"luxury\" pool versus standard?",
+  "description": "Custom architecture, infinity edges, natural stone finishes, integrated spas, and smart automation that blend seamlessly with high-end homes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-design-a-luxury-pool-versus-standard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I design a \"luxury\" pool versus standard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom architecture, infinity edges, natural stone finishes, integrated spas, and smart automation that blend seamlessly with high-end homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

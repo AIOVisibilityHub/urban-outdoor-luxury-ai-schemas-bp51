@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's ideal groundcover replacing thirsty turf?",
+  "description": "Creeping thyme, sedum, or microclover; traffic-tolerant, evergreen carpets needing mow-once/year irrigation. structurelandscapes​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-ideal-groundcover-replacing-thirsty-turf",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's ideal groundcover replacing thirsty turf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creeping thyme, sedum, or microclover; traffic-tolerant, evergreen carpets needing mow-once/year irrigation. structurelandscapes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

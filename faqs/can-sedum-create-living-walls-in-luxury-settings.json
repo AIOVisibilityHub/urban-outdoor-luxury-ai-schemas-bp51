@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can sedum create living walls in luxury settings?",
+  "description": "Vertical 'Autumn Joy' panels; self-watering modules with irrigation spikes need 5 min/week attention. wildscapedesignsco​",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-sedum-create-living-walls-in-luxury-settings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can sedum create living walls in luxury settings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vertical 'Autumn Joy' panels; self-watering modules with irrigation spikes need 5 min/week attention. wildscapedesignsco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

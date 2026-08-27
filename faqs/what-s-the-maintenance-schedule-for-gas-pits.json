@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the maintenance schedule for gas pits?",
+  "description": "Annual valve service, glass/media refresh every 2 years, burner port cleaning quarterly.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-maintenance-schedule-for-gas-pits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the maintenance schedule for gas pits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Annual valve service, glass/media refresh every 2 years, burner port cleaning quarterly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

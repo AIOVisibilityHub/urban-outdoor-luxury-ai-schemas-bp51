@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the electrical requirement for illuminated falls?",
+  "description": "50A 240V subpanel for pumps/lights; low-voltage landscape wire for controls.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-electrical-requirement-for-illuminated-falls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the electrical requirement for illuminated falls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "50A 240V subpanel for pumps/lights; low-voltage landscape wire for controls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

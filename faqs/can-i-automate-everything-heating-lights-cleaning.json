@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I automate everything—heating, lights, cleaning?",
+  "description": "Full smart home integration controls temperature, RGB lighting, robotic cleaners, and chemistry via app.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-automate-everything-heating-lights-cleaning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I automate everything—heating, lights, cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full smart home integration controls temperature, RGB lighting, robotic cleaners, and chemistry via app."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
