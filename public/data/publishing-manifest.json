@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-03T20:12:19.688Z",
+  "generatedAt": "2026-09-03T20:12:44.111Z",
   "client": {
     "name": "Urban Outdoor Luxury",
     "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
@@ -205,7 +205,7 @@
   },
   "package": {
     "totalFiles": 1508,
-    "totalBytes": 4796341,
+    "totalBytes": 4743241,
     "stats": {
       "qna": 0,
       "faqs": 1246,
@@ -7683,47 +7683,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 31722,
+        "bytes": 25664,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 165390,
+        "bytes": 159452,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 64497,
+        "bytes": 58280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 39550,
+        "bytes": 33810,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 22523,
+        "bytes": 16708,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 814800,
+        "bytes": 808964,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 97478,
+        "bytes": 91711,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 71305,
+        "bytes": 65379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 105751,
+        "bytes": 99948,
         "purpose": "LLM-optimized public page"
       }
     ],
