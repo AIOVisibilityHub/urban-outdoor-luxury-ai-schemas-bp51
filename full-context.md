@@ -1,22 +1,22 @@
 # Urban Outdoor Luxury — Full AI Context
 
 **Canonical URL:** https://urbanluxuryoutdoors.aiovisibility.net
-**Generated:** 2026-08-27
+**Generated:** 2026-09-03
 
 ## Overview
 Urban Outdoor Luxury publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **233** faqs
-- **118** helpArticles
-- **1** services
-- **20** personnel
-- **2** locations
-- **10** awards
-- **56** caseStudies
-- **1** organization
+- **1246** faqs
 - **10** press
+- **10** awards
 - **20** reviews
+- **1** services
+- **2** locations
+- **20** personnel
+- **56** caseStudies
+- **118** helpArticles
+- **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Urban Outdoor Luxury — canonical website — https://urbanluxuryoutdoors.aiovisibility.net
