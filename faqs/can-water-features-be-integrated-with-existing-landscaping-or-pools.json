@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can water features be integrated with existing landscaping or pools?",
+  "description": "Water features can integrate with existing landscaping and pools by complementing designs, materials, and plant selections, enhancing overall outdoor aesthetics",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-water-features-be-integrated-with-existing-landscaping-or-pools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can water features be integrated with existing landscaping or pools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, water features can be seamlessly integrated with existing landscaping and swimming pools to create a cohesive and enhanced outdoor environment. For landscaping, we can design features that complement plant selections, pathways, and hardscaping, using natural stone and materials that match your garden's aesthetic. When integrated with pools, water features like waterfalls, laminar jets, or grottos can add visual interest, sound, and a resort-like feel. Careful planning ensures proper plumbing, filtration, and aesthetic harmony with your current outdoor setup.",
+        "description": "Water features can integrate with existing landscaping and pools by complementing designs, materials, and plant selections, enhancing overall outdoor aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

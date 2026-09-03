@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do porcelain pavers require sealing or special maintenance?",
+  "description": "Porcelain pavers are non-porous and do not require sealing. Maintenance is minimal, usually just sweeping or hosing, with a mild detergent for stubborn stains.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-porcelain-pavers-require-sealing-or-special-maintenance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do porcelain pavers require sealing or special maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike many natural stones or concrete pavers, porcelain pavers are inherently non-porous and do not require sealing. Their low porosity makes them highly resistant to stains, mold, and mildew. Regular maintenance typically involves sweeping or hosing down the surface to remove dirt and debris. For more stubborn marks, a mild detergent and a stiff brush can be used. This minimal upkeep is a significant advantage, ensuring the pavers retain their appearance with little effort.",
+        "description": "Porcelain pavers are non-porous and do not require sealing. Maintenance is minimal, usually just sweeping or hosing, with a mild detergent for stubborn stains."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

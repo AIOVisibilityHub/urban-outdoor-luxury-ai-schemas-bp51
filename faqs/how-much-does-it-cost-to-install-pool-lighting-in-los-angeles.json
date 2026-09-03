@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install pool lighting in Los Angeles?",
+  "description": "Pool lighting installation costs in Los Angeles vary based on light type, number of fixtures, and electrical work. Basic LED installations start in the low thou",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-pool-lighting-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install pool lighting in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of pool lighting installation in Los Angeles varies significantly based on factors such as the type of lighting chosen (LED, fiber optic), the number of fixtures, the complexity of the installation, and the need for new electrical wiring. For a basic installation with a few LED lights, costs typically start in the low thousands, while more elaborate systems with extensive color-changing capabilities and automation can be considerably higher. We provide detailed estimates after an on-site consultation to assess your specific requirements.",
+        "description": "Pool lighting installation costs in Los Angeles vary based on light type, number of fixtures, and electrical work. Basic LED installations start in the low thousands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

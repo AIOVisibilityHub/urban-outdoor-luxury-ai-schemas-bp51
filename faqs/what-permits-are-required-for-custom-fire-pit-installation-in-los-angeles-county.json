@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for custom fire pit installation in Los Angeles County?",
+  "description": "Permits are often required in Los Angeles County for custom fire pits, especially for gas lines or larger structures, varying by specific city regulations. We h",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-custom-fire-pit-installation-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for custom fire pit installation in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing a custom fire pit in Los Angeles County often requires specific permits to ensure compliance with local building codes and safety regulations. Depending on the fire pit's size, fuel source (especially if connecting to a natural gas line), and proximity to structures, you may need a building permit, mechanical permit, and/or a gas line permit. Regulations vary by city within the county, so requirements in Pasadena might differ slightly from those in Arcadia. We manage the necessary permitting process for our clients, ensuring all installations adhere to local fire safety and construction standards, including clearance requirements and setback rules.",
+        "description": "Permits are often required in Los Angeles County for custom fire pits, especially for gas lines or larger structures, varying by specific city regulations. We handle permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

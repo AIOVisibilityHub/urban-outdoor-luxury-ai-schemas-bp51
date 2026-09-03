@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for an outdoor lighting system?",
+  "description": "Maintenance includes cleaning lenses, inspecting wiring, trimming foliage, and occasionally replacing bulbs or transformers for optimal performance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-an-outdoor-lighting-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for an outdoor lighting system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimal but consistent maintenance helps keep your outdoor lighting system performing optimally. This includes periodically cleaning fixture lenses to remove dirt and debris that can dim light output. Inspecting wiring for any damage, ensuring connections are secure, and trimming any overgrown foliage that might obstruct light are also important. Occasionally, bulbs (even LEDs eventually) or transformers may need replacement. Many professional firms offer maintenance plans to handle these tasks for you.",
+        "description": "Maintenance includes cleaning lenses, inspecting wiring, trimming foliage, and occasionally replacing bulbs or transformers for optimal performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

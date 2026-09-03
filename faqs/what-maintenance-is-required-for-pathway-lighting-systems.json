@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for pathway lighting systems?",
+  "description": "Maintenance involves cleaning lenses, inspecting wiring, checking the transformer, and replacing bulbs. This ensures optimal performance and extends system life",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-pathway-lighting-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for pathway lighting systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pathway lighting systems require relatively low maintenance, but regular checks ensure optimal performance. This typically includes cleaning fixture lenses periodically to remove dirt, debris, or mineral deposits that can diminish light output. Inspecting wiring for any damage or exposure, and ensuring connections are secure, is also important. For low-voltage systems, checking the transformer for proper operation is advisable. Replacing bulbs as they burn out, or upgrading to more efficient LED options, helps maintain consistent illumination. Proper maintenance extends the lifespan of your system and preserves its aesthetic appeal.",
+        "description": "Maintenance involves cleaning lenses, inspecting wiring, checking the transformer, and replacing bulbs. This ensures optimal performance and extends system lifespan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

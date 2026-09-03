@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the expected lifespan of a professionally installed paver surface?",
+  "description": "A professionally installed and well-maintained paver surface can last 20 to 30 years or more.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-expected-lifespan-of-a-professionally-installed-paver-surface",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the expected lifespan of a professionally installed paver surface?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professionally installed paver surface, when properly maintained, can have an impressive lifespan, often exceeding 20 to 30 years, and sometimes even longer. The longevity depends significantly on the quality of the pavers used, the thoroughness of the base preparation, and the ongoing maintenance such as regular cleaning and joint sand replenishment. Unlike solid surfaces that can crack and require full replacement, individual pavers can be replaced, contributing to a longer overall service life for the entire area.",
+        "description": "A professionally installed and well-maintained paver surface can last 20 to 30 years or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

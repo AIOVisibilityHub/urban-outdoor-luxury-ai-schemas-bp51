@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size and shape for my outdoor fire pit?",
+  "description": "Select fire pit size and shape based on available space, guest count, and aesthetic, ensuring 3-5 feet clearance for safety and comfort to balance your outdoor",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-size-and-shape-for-my-outdoor-fire-pit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size and shape for my outdoor fire pit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right size and shape for your outdoor fire pit depends on the available space, the number of people you typically entertain, and the desired aesthetic. For intimate gatherings, a smaller round or square pit (3-4 feet in diameter/side) is ideal. Larger spaces and bigger groups might benefit from a rectangular or custom-shaped pit (5+ feet) that can accommodate more seating. Ensure there's adequate clearance (at least 3-5 feet) from combustible materials and seating areas for safety and comfort. A well-proportioned fire pit enhances the balance of your outdoor living area without overwhelming it.",
+        "description": "Select fire pit size and shape based on available space, guest count, and aesthetic, ensuring 3-5 feet clearance for safety and comfort to balance your outdoor area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

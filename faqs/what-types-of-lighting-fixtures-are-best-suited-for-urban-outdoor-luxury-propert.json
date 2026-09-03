@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of lighting fixtures are best suited for urban outdoor luxury properties?",
+  "description": "High-performance LED path lights, up-lights, spot-lights, and integrated hardscaping lights are ideal. Durable materials like bronze, copper, and aluminum ensur",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-lighting-fixtures-are-best-suited-for-urban-outdoor-luxury-propert",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of lighting fixtures are best suited for urban outdoor luxury properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For urban outdoor luxury properties, a combination of durable, high-performance, and aesthetically pleasing fixtures is ideal. Common choices include LED path lights, which offer efficiency and focused illumination for walkways. Up-lights and spot-lights are used to accent architectural features, trees, or landscaping. Integrated lighting within hardscaping, such as step lights or wall washers, provides subtle elegance. For ambiance, string lights or specialized art fixtures can add a unique touch. Materials like marine-grade bronze, copper, and powder-coated aluminum are preferred for longevity and resistance to elements.",
+        "description": "High-performance LED path lights, up-lights, spot-lights, and integrated hardscaping lights are ideal. Durable materials like bronze, copper, and aluminum ensure longevity and aesthetic appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

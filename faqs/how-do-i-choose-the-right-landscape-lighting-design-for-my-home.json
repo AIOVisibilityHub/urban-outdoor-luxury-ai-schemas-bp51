@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right landscape lighting design for my home?",
+  "description": "Choose a design by considering your home's style, landscaping, and desired ambiance. A professional consultation helps determine fixture types and lighting tech",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-landscape-lighting-design-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right landscape lighting design for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right design involves considering your property's architectural style, landscaping features, and desired ambiance. We recommend a professional consultation to assess your unique outdoor spaces and discuss your goals, whether it's highlighting trees, illuminating pathways, or creating specific moods. Our designers can present various fixture types, lighting techniques (e.g., uplighting, downlighting, path lighting), and control options to craft a cohesive and effective lighting scheme that meets your functional and aesthetic needs.",
+        "description": "Choose a design by considering your home's style, landscaping, and desired ambiance. A professional consultation helps determine fixture types and lighting techniques for your specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a pool spillway and why should I consider one?",
+  "description": "A pool spillway is a water feature that creates a cascade from a higher basin into the main pool, enhancing aesthetics, sound, and water circulation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-pool-spillway-and-why-should-i-consider-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a pool spillway and why should I consider one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pool spillway is a feature where water flows from a higher basin or spa into the main pool, creating a visually appealing cascade and a soothing sound. Beyond aesthetics, spillways contribute to better water circulation and filtration by constantly moving water between different sections of your pool system. This continuous flow helps distribute chemicals evenly and skim debris from the surface more effectively. Many homeowners choose a spillway to enhance their pool's design, add a dynamic element, and create a tranquil ambiance in their backyard oasis.",
+        "description": "A pool spillway is a water feature that creates a cascade from a higher basin into the main pool, enhancing aesthetics, sound, and water circulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

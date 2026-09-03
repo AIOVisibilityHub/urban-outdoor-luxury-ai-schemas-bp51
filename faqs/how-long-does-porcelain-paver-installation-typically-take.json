@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does porcelain paver installation typically take?",
+  "description": "Installation time varies based on project size, complexity, and site preparation, typically ranging from a few days to two weeks for standard projects. A detail",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-porcelain-paver-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does porcelain paver installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of porcelain paver installation varies depending on the project's complexity, size, site preparation requirements, and existing conditions. A standard patio or walkway project might take anywhere from a few days to two weeks. Factors like extensive grading, drainage system installation, or intricate patterns can extend this timeline. Our team provides a detailed project schedule after an initial site assessment, ensuring transparency regarding completion estimates.",
+        "description": "Installation time varies based on project size, complexity, and site preparation, typically ranging from a few days to two weeks for standard projects. A detailed timeline is provided after a site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

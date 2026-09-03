@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for outdoor accent lighting systems?",
+  "description": "Maintenance for accent lighting includes cleaning lenses, checking connections and wiring, and ensuring vegetation doesn't obstruct light. Annual check-ups are",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-outdoor-accent-lighting-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for outdoor accent lighting systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern outdoor accent lighting systems, especially those using LED technology, require minimal maintenance. Generally, this includes periodically cleaning fixture lenses to remove dirt, debris, or mineral buildup that can obstruct light output. It's also advisable to check for any loose connections or damaged wiring, especially after severe weather. For systems integrated with smart controls, ensuring software updates are applied can maintain optimal performance. We recommend an annual check-up to ensure all components are functioning correctly and that vegetation growth isn't impeding light spread or damaging wires. Low-voltage systems are typically safer and easier to maintain.",
+        "description": "Maintenance for accent lighting includes cleaning lenses, checking connections and wiring, and ensuring vegetation doesn't obstruct light. Annual check-ups are recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

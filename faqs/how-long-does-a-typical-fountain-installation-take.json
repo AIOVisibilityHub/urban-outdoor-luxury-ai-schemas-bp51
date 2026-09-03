@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical fountain installation take?",
+  "description": "Installation time depends on the fountain's complexity, size, and site preparation, ranging from a few days for simple units to several weeks for custom designs",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-fountain-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical fountain installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of fountain installation varies significantly based on the fountain's complexity, size, and site preparation requirements. Simple, pre-fabricated fountains may take a few days, while large, custom-built water features involving extensive plumbing, electrical work, and landscaping integration can extend to several weeks. Factors like excavation, grading, power access, and water supply proximity all influence the project timeline.",
+        "description": "Installation time depends on the fountain's complexity, size, and site preparation, ranging from a few days for simple units to several weeks for custom designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

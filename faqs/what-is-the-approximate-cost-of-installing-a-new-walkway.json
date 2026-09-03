@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the approximate cost of installing a new walkway?",
+  "description": "Walkway installation costs vary widely based on material, size, and design complexity. Pavers and concrete are generally $15-30/sq ft, while natural stone can b",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-approximate-cost-of-installing-a-new-walkway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the approximate cost of installing a new walkway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a new walkway is influenced by several factors, including the material choice, linear footage, design complexity, site preparation requirements, and accessibility. Pavers or concrete typically range from $15 to $30 per square foot, while natural stone options like flagstone can cost $25 to $50 per square foot or more due to material and labor specifics. A detailed estimate is provided after an on-site consultation to assess your specific project needs and preferences.",
+        "description": "Walkway installation costs vary widely based on material, size, and design complexity. Pavers and concrete are generally $15-30/sq ft, while natural stone can be $25-50+/sq ft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

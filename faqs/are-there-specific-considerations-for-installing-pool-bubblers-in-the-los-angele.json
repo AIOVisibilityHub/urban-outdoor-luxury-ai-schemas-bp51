@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific considerations for installing pool bubblers in the Los Angeles area?",
+  "description": "In Los Angeles, consider local building codes and permitting, and ensure proper pump sizing for optimal bubbler performance in the climate.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-specific-considerations-for-installing-pool-bubblers-in-the-los-angele",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific considerations for installing pool bubblers in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Los Angeles area, including Pasadena and surrounding communities, specific considerations for pool bubbler installation primarily involve adhering to local building codes and permitting requirements, which can vary slightly by municipality. Additionally, given the climate, proper sizing of your pump system to ensure optimal bubbler performance without overworking components is important. Our firm is familiar with local regulations across our service areas.",
+        "description": "In Los Angeles, consider local building codes and permitting, and ensure proper pump sizing for optimal bubbler performance in the climate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

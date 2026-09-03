@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to consider adding accent lighting to my home's exterior?",
+  "description": "Consider accent lighting during new construction or renovation, or any time you want to enhance curb appeal, safety, or extend outdoor usability after dark.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-consider-adding-accent-lighting-to-my-home-s-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to consider adding accent lighting to my home's exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to consider adding accent lighting is typically during new landscape construction or renovation projects, as it allows for seamless integration of wiring and fixtures. However, accent lighting can be added to existing landscapes at any time. It's particularly beneficial if you want to enhance your property's curb appeal, improve nighttime safety and security, or extend the usability of your outdoor living spaces after sunset. Planning during the darker months can help visualize the impact more effectively, but installations can occur year-round.",
+        "description": "Consider accent lighting during new construction or renovation, or any time you want to enhance curb appeal, safety, or extend outdoor usability after dark."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

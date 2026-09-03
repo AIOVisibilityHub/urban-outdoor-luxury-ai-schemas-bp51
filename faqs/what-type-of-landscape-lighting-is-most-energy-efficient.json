@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of landscape lighting is most energy-efficient?",
+  "description": "LED landscape lighting is the most energy-efficient choice, consuming less electricity, lasting longer, and offering versatile design options.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-type-of-landscape-lighting-is-most-energy-efficient",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of landscape lighting is most energy-efficient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED (Light Emitting Diode) landscape lighting is the most energy-efficient option available. LED fixtures consume significantly less electricity than traditional incandescent or halogen bulbs, leading to substantial savings on utility bills over time. They also have a much longer lifespan, reducing maintenance and replacement costs. Furthermore, LED technology offers a wide range of color temperatures and beam spreads, allowing for versatile and sophisticated lighting designs with minimal environmental impact.",
+        "description": "LED landscape lighting is the most energy-efficient choice, consuming less electricity, lasting longer, and offering versatile design options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a pathway and a walkway?",
+  "description": "A pathway is usually a less formal route through natural areas, while a walkway is a more formally constructed, often paved surface designed for pedestrian traf",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-pathway-and-a-walkway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a pathway and a walkway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, 'pathway' typically refers to a less formal, often unpaved or minimally paved route through a garden or natural area, focusing on accessibility through varied terrain. 'Walkway,' however, generally implies a more formally constructed, durable, and often paved surface designed for pedestrian traffic between specific points, such as from a driveway to a front door or connecting different areas of a hardscaped yard. Walkways are usually designed with greater emphasis on aesthetics, longevity, and integration into the architectural style of a property.",
+        "description": "A pathway is usually a less formal route through natural areas, while a walkway is a more formally constructed, often paved surface designed for pedestrian traffic between specific points."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

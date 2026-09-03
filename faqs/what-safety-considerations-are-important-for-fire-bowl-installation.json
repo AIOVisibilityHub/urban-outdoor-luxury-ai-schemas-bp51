@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What safety considerations are important for fire-bowl installation?",
+  "description": "Important safety considerations include clearance from combustibles, proper ventilation, stable non-combustible surfaces, and professional gas line installation",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-safety-considerations-are-important-for-fire-bowl-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What safety considerations are important for fire-bowl installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety is paramount for fire-bowl installations. Key considerations include maintaining adequate clearance from combustible materials such as structures, trees, and fencing. Proper ventilation is essential for gas units. The fire-bowl must be installed on a stable, non-combustible surface. Additionally, ensuring professional installation of gas lines to prevent leaks and adhering to all local fire codes are crucial for safe operation.",
+        "description": "Important safety considerations include clearance from combustibles, proper ventilation, stable non-combustible surfaces, and professional gas line installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

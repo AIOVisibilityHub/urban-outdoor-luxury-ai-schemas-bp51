@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for pool bubblers?",
+  "description": "Pool bubblers require minimal maintenance, mainly keeping the nozzle clear of debris and ensuring proper water chemistry.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-pool-bubblers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for pool bubblers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool bubblers generally require minimal maintenance. Regular pool cleaning routines typically suffice to keep them operating correctly. It's important to keep the bubbler nozzle free from debris and ensure proper water chemistry to prevent mineral buildup, which can obstruct the flow. Periodically inspecting the plumbing connections and lights (if applicable) can help identify any issues early.",
+        "description": "Pool bubblers require minimal maintenance, mainly keeping the nozzle clear of debris and ensuring proper water chemistry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

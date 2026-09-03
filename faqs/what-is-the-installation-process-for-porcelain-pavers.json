@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for porcelain pavers?",
+  "description": "The process involves site excavation, base preparation, precise paver placement, securing with edging, and filling joints with polymeric sand or grout. Proper d",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-installation-process-for-porcelain-pavers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for porcelain pavers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process for porcelain pavers begins with thorough site preparation, including excavation to the correct depth, ensuring proper drainage, and creating a stable, compacted sub-base. Next, a layer of bedding material, typically gravel and sand, is laid and leveled precisely. Pavers are then meticulously placed, maintaining consistent spacing. Edging restraints are installed to secure the perimeter. Finally, polymeric sand or a suitable grout is swept into the joints and activated, locking the pavers in place and preventing weed growth.",
+        "description": "The process involves site excavation, base preparation, precise paver placement, securing with edging, and filling joints with polymeric sand or grout. Proper drainage and leveling are crucial throughout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

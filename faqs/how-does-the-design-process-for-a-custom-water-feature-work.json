@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the design process for a custom water feature work?",
+  "description": "The design process involves consultation, conceptual plans, detailed drawings, engineering, permitting, and client feedback to bring your vision to life.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-the-design-process-for-a-custom-water-feature-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the design process for a custom water feature work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design process begins with an initial consultation to understand your vision, site conditions, and budget. Our designers then develop conceptual plans, presenting various options and materials. Once a concept is approved, detailed architectural drawings and engineering plans are created, addressing water flow, filtration, lighting, and material specifications. We coordinate with all necessary specialists and secure permits. Throughout the process, client feedback is integrated to ensure the final design meets expectations and integrates seamlessly with the overall landscape.",
+        "description": "The design process involves consultation, conceptual plans, detailed drawings, engineering, permitting, and client feedback to bring your vision to life."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

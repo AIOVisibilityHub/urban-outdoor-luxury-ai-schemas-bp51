@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing landscape lighting systems be upgraded to LED?",
+  "description": "Yes, many existing low-voltage systems can be upgraded to LED by replacing bulbs or fixtures, improving energy efficiency and light quality.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-existing-landscape-lighting-systems-be-upgraded-to-led",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing landscape lighting systems be upgraded to LED?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many existing low-voltage landscape lighting systems can be upgraded to more energy-efficient LED technology. This typically involves replacing older incandescent or halogen bulbs with compatible LED retrofit lamps or, in some cases, replacing entire fixtures if they are not designed for LED conversion. Upgrading can significantly reduce energy consumption, extend bulb life, and improve light quality. Our technicians can assess your current system and recommend the most cost-effective and beneficial upgrade solutions.",
+        "description": "Yes, many existing low-voltage systems can be upgraded to LED by replacing bulbs or fixtures, improving energy efficiency and light quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

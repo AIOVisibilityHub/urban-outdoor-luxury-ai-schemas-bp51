@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my existing driveway?",
+  "description": "Consider replacing your driveway if it has significant cracking, potholes, extensive deterioration, drainage issues, or no longer enhances your property's curb",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-consider-replacing-my-existing-driveway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my existing driveway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your driveway if you observe significant cracking, numerous potholes, extensive surface deterioration, or pooling water that indicates drainage issues. These problems often signify structural failure of the underlying base, which cannot be effectively remedied by simple repairs. An aging driveway that has lost its aesthetic appeal or no longer complements your property's value is also a strong candidate for replacement, especially if you're undertaking other landscape or home renovations. Replacing it proactively can prevent further damage to your property and enhance curb appeal.",
+        "description": "Consider replacing your driveway if it has significant cracking, potholes, extensive deterioration, drainage issues, or no longer enhances your property's curb appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

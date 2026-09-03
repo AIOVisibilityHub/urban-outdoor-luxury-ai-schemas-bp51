@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost range for installing an outdoor fountain?",
+  "description": "Fountain installation costs vary from thousands for simple models to tens of thousands for custom designs, depending on size, materials, and complexity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-cost-range-for-installing-an-outdoor-fountain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost range for installing an outdoor fountain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an outdoor fountain installation varies greatly, typically ranging from a few thousand dollars for smaller, simpler units to upwards of tens of thousands for elaborate, custom-designed water features. Key factors influencing cost include the fountain's size and materials, complexity of the plumbing and electrical systems, site preparation (excavation, leveling), and any necessary landscaping integration. Customizations and advanced features like lighting or automation also impact the final price.",
+        "description": "Fountain installation costs vary from thousands for simple models to tens of thousands for custom designs, depending on size, materials, and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

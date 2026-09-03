@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install a sheer descent waterfall in Los Angeles?",
+  "description": "Costs for sheer descent installation in Los Angeles vary widely based on size, materials, plumbing complexity, and whether it's a new build or renovation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-a-sheer-descent-waterfall-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install a sheer descent waterfall in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a sheer descent waterfall in the Los Angeles area varies significantly based on factors like the size and material of the sheer descent, the complexity of plumbing and electrical work, the type of pump required, and whether it's part of a new construction or an existing landscape renovation. Basic installations can start from a few thousand dollars, while more elaborate designs with custom stonework or lighting will be considerably higher.",
+        "description": "Costs for sheer descent installation in Los Angeles vary widely based on size, materials, plumbing complexity, and whether it's a new build or renovation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

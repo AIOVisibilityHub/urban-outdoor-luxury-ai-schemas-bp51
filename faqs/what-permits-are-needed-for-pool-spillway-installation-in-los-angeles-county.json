@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for pool spillway installation in Los Angeles County?",
+  "description": "Permits for pool spillway installation in Los Angeles County vary; new construction typically needs a general building permit, while existing pool additions may",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-pool-spillway-installation-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for pool spillway installation in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles County, the specific permits required for pool spillway installation depend on the project's scope. If the spillway is part of a new pool construction or involves significant structural modifications to an existing pool, a general building permit for the pool project will likely cover it. For minor additions to existing pools, separate plumbing or structural permits might be necessary, especially if new electrical work or substantial concrete cutting is involved. Our team handles all necessary permit applications to ensure compliance with local building codes.",
+        "description": "Permits for pool spillway installation in Los Angeles County vary; new construction typically needs a general building permit, while existing pool additions may require plumbing or structural permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

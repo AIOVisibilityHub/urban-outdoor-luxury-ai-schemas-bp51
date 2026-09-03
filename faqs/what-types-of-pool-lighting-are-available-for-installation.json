@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of pool lighting are available for installation?",
+  "description": "Available pool lighting types include LED, fiber optic, and incandescent, with LED being the most popular for energy efficiency and color options.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-pool-lighting-are-available-for-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of pool lighting are available for installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are several types of pool lighting, each offering distinct aesthetics and functionality. Common options include LED lights, which are energy-efficient and offer a wide range of color options; fiber optic lights, known for their subtle glow and safety; and incandescent lights, a traditional and more affordable choice. LED technology has largely replaced incandescent for new installations due to its longevity and lower operating costs. We can help you select the best type based on your pool's design, desired ambiance, and budget.",
+        "description": "Available pool lighting types include LED, fiber optic, and incandescent, with LED being the most popular for energy efficiency and color options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

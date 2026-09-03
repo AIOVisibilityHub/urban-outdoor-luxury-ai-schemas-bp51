@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the primary benefits of adding a waterfall to my swimming pool?",
+  "description": "Pool waterfalls enhance aesthetics, provide soothing sounds, improve water circulation, and add a luxurious feature to your outdoor space.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-adding-a-waterfall-to-my-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary benefits of adding a waterfall to my swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a waterfall to your swimming pool enhances its aesthetic appeal and creates a soothing atmosphere with the sound of cascading water. Beyond visual and auditory benefits, waterfalls can improve water circulation, helping to keep your pool cleaner. They also provide an engaging feature for swimmers, making your pool a more dynamic and luxurious outdoor space. For properties in areas like Pasadena, a custom waterfall can significantly increase the perceived value and enjoyment of your backyard oasis, integrating seamlessly with diverse landscape designs.",
+        "description": "Pool waterfalls enhance aesthetics, provide soothing sounds, improve water circulation, and add a luxurious feature to your outdoor space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

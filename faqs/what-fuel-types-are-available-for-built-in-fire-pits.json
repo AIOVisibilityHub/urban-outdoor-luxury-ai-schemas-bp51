@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What fuel types are available for built-in fire pits?",
+  "description": "Built-in fire pits typically use natural gas, offering continuous fuel, or liquid propane tanks for placement flexibility, with natural gas often being more cos",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-fuel-types-are-available-for-built-in-fire-pits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What fuel types are available for built-in fire pits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-in fire pits primarily use two main fuel types: natural gas and liquid propane (LP). Natural gas is piped directly from your home's existing supply, offering a continuous and convenient fuel source without the need for refilling tanks. It's often the preferred choice for permanent installations. Liquid propane fire pits use refillable tanks, which allows for more flexibility in placement if a gas line extension isn't feasible. While both offer similar flame aesthetics, natural gas typically provides a more cost-effective long-term solution. Wood-burning options are less common for built-in pits due to smoke and ash concerns, and local regulations often restrict them.",
+        "description": "Built-in fire pits typically use natural gas, offering continuous fuel, or liquid propane tanks for placement flexibility, with natural gas often being more cost-effective long-term."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

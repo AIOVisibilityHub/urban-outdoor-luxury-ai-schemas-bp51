@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install a fire-bowl?",
+  "description": "Installation time typically ranges from 1 to 3 days for standard projects, but can be longer for complex custom designs or extensive utility work.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-fire-bowl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install a fire-bowl?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a fire-bowl installation varies depending on the project's complexity, the type of fire-bowl, and existing site conditions. A standard, gas-fueled fire-bowl with readily available utilities can often be installed within 1 to 3 days. Projects requiring new gas line extensions, extensive landscaping modifications, or custom features may extend to a week or more. We provide a detailed timeline after the initial site assessment.",
+        "description": "Installation time typically ranges from 1 to 3 days for standard projects, but can be longer for complex custom designs or extensive utility work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

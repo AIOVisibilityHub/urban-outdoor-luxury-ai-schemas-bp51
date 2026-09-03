@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when designing pathway lighting for my property?",
+  "description": "Consider purpose (safety/aesthetics), path dimensions, existing landscape/architecture, and energy efficiency. Also, factor in local light pollution ordinances.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-designing-pathway-lighting-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when designing pathway lighting for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When designing pathway lighting, consider the primary purpose: is it for safety, aesthetics, or both? Determine the path's width and length to select appropriate fixture spacing and light intensity. Think about the overall landscape design and architectural style of your home to choose fixtures that complement these elements. Also, evaluate the existing light sources in the area to avoid over-illumination or creating harsh shadows. Finally, consider energy efficiency and local light pollution ordinances, especially important in communities like San Marino, which often have stricter guidelines on outdoor lighting.",
+        "description": "Consider purpose (safety/aesthetics), path dimensions, existing landscape/architecture, and energy efficiency. Also, factor in local light pollution ordinances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install a new walkway in Southern California?",
+  "description": "The best time to install a walkway in Southern California is typically during the drier seasons, from late spring through fall, to avoid rain-related delays and",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-a-new-walkway-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install a new walkway in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The mild climate of Southern California, particularly areas like Pasadena and Arcadia, allows for walkway installation almost year-round. However, the ideal time is typically during the drier seasons, from late spring through fall. This avoids potential delays or issues associated with winter rains, which can affect site preparation, material curing, and overall project efficiency. Installing during these months ensures optimal conditions for ground compaction and material setting, leading to the best long-term results.",
+        "description": "The best time to install a walkway in Southern California is typically during the drier seasons, from late spring through fall, to avoid rain-related delays and ensure optimal conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a custom-built fire pit?",
+  "description": "Maintenance includes regular cleaning of the fire bowl and burner, annual cleaning of media like lava rocks, and occasional exterior surface cleaning. A weather",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-custom-built-fire-pit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a custom-built fire pit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a custom fire pit ensures its longevity and aesthetic appeal. Regular cleaning involves removing ash, debris, and fallen leaves from the fire bowl. For gas fire pits, periodically inspect the burner and igniter for blockages or wear. If using lava rocks or fire glass, clean them annually to maintain their appearance and heat distribution. Depending on the material, occasional cleaning of the exterior surfaces with appropriate cleaners may be necessary to prevent staining or mildew. Using a weather-resistant cover when not in use is highly recommended to protect against rain, sun, and debris, significantly extending its lifespan.",
+        "description": "Maintenance includes regular cleaning of the fire bowl and burner, annual cleaning of media like lava rocks, and occasional exterior surface cleaning. A weather-resistant cover is recommended for protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

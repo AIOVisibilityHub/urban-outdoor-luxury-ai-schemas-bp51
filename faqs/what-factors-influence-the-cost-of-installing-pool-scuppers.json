@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of installing pool scuppers?",
+  "description": "Cost factors for pool scupper installation include the number, size, and material of scuppers, plumbing complexity, electrical needs, and integration with exist",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-installing-pool-scuppers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of installing pool scuppers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of pool scupper installation varies based on several factors. Key considerations include the number and size of scuppers, the materials chosen (e.g., copper, stainless steel, concrete, stone veneer), the complexity of the plumbing required, and whether new electrical work is needed for lighting. The existing pool structure and surrounding hardscaping also play a role; integrating scuppers into an existing pool remodel might differ from a new construction. Custom designs or intricate installations will naturally incur higher costs.",
+        "description": "Cost factors for pool scupper installation include the number, size, and material of scuppers, plumbing complexity, electrical needs, and integration with existing pool structures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

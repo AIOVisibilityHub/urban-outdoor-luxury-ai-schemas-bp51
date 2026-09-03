@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are water features designed to be sustainable and water-efficient?",
+  "description": "Water features are made sustainable through closed-loop systems, efficient pumps, proper sealing, and advanced monitoring to minimize water use and energy.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-are-water-features-designed-to-be-sustainable-and-water-efficient",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are water features designed to be sustainable and water-efficient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sustainable water features are designed with water conservation in mind. This involves utilizing closed-loop recirculation systems that minimize water loss through evaporation and splash. We incorporate efficient pumps and filtration systems that reduce energy consumption. Additionally, careful material selection, such as non-porous surfaces, and proper sealing prevent leaks. In regions like Los Angeles, advanced monitoring systems can track water levels and identify potential issues, further ensuring efficiency and compliance with local regulations.",
+        "description": "Water features are made sustainable through closed-loop systems, efficient pumps, proper sealing, and advanced monitoring to minimize water use and energy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

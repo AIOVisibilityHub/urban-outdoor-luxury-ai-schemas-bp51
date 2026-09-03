@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of a custom fire pit compared to a pre-fabricated unit?",
+  "description": "Custom fire pits provide personalized design, material selection, and integration with your outdoor space, offering superior aesthetics and durability compared",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-a-custom-fire-pit-compared-to-a-pre-fabricated-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of a custom fire pit compared to a pre-fabricated unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom-built fire pit offers significant advantages over pre-fabricated options, primarily in design integration and functionality. Custom fire pits are tailored to your specific aesthetic, space requirements, and desired features, such as unique shapes, built-in seating, or integrated storage. This ensures a seamless blend with your existing landscape design and architecture. Furthermore, custom construction allows for the use of premium materials and robust building techniques, often leading to greater durability and longevity than mass-produced units. You also have control over fuel type, burner size, and safety features to meet your exact needs and local regulations.",
+        "description": "Custom fire pits provide personalized design, material selection, and integration with your outdoor space, offering superior aesthetics and durability compared to pre-fabricated units."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

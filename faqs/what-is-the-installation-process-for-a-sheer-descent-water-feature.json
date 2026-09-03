@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for a sheer descent water feature?",
+  "description": "The installation process includes site assessment, plumbing and electrical rough-in, structure construction, waterproofing, unit installation, finish work, and",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-installation-process-for-a-sheer-descent-water-feature",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for a sheer descent water feature?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process typically involves several steps: site assessment and design, excavation (if necessary), plumbing and electrical rough-in, construction of the support structure (e.g., retaining wall or raised spa), waterproofing, installation of the sheer descent unit, finish work (e.g., tile, stone, plaster), and finally, pump installation and system testing. Coordination with other construction phases is crucial for a seamless integration.",
+        "description": "The installation process includes site assessment, plumbing and electrical rough-in, structure construction, waterproofing, unit installation, finish work, and system testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

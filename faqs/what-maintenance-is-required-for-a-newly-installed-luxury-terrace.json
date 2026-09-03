@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a newly installed luxury terrace?",
+  "description": "Maintenance varies by material: natural stone needs sealing and cleaning; wood requires cleaning and occasional re-sealing; porcelain pavers need only occasiona",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-newly-installed-luxury-terrace",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a newly installed luxury terrace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a luxury terrace depends on the materials used. Natural stone typically requires periodic sealing to protect against stains and weather, along with routine cleaning. Wood terraces benefit from regular cleaning, and occasional re-sealing or staining to maintain their appearance and prevent weathering. Porcelain pavers are generally low maintenance, requiring only occasional cleaning. We provide specific care instructions tailored to your chosen materials to ensure longevity and beauty.",
+        "description": "Maintenance varies by material: natural stone needs sealing and cleaning; wood requires cleaning and occasional re-sealing; porcelain pavers need only occasional cleaning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

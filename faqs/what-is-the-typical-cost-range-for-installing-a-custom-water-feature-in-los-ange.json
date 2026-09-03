@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for installing a custom water feature in Los Angeles?",
+  "description": "Custom water feature costs in Los Angeles vary widely, from five figures for simple designs to six figures for complex ones, depending on size, materials, and t",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-installing-a-custom-water-feature-in-los-ange",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for installing a custom water feature in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a custom water feature in Los Angeles varies significantly based on its size, complexity, materials, and integrated technology. Simple fountains might start in the low five figures, while elaborate multi-level waterfalls or expansive naturalistic ponds with complex filtration and automation systems can extend into six figures. Factors like excavation, specialized plumbing, electrical work, custom stone or tile, and advanced lighting systems all contribute to the overall investment. A detailed quote requires an on-site assessment and design specification.",
+        "description": "Custom water feature costs in Los Angeles vary widely, from five figures for simple designs to six figures for complex ones, depending on size, materials, and technology."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

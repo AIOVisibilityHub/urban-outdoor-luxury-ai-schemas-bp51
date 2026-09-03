@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a pool waterfall installation project?",
+  "description": "Installation can take a few days for simple designs or several weeks for complex custom projects, depending on design, materials, and site conditions.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-pool-waterfall-installation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a pool waterfall installation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for pool waterfall installation typically ranges from a few days for simpler, pre-fabricated units to several weeks for complex, custom-built designs. Factors influencing this include the size of the waterfall, the intricacy of its integration into existing pool structures and landscaping, material availability, and weather conditions. A detailed project schedule will be provided after the design phase, ensuring clear expectations for residents in South Pasadena or other service areas. We prioritize efficient and quality execution.",
+        "description": "Installation can take a few days for simple designs or several weeks for complex custom projects, depending on design, materials, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

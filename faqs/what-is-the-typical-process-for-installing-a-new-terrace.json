@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for installing a new terrace?",
+  "description": "The process involves design, permits, site preparation, foundation construction, material installation, and finishing touches.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-installing-a-new-terrace",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for installing a new terrace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terrace installation generally begins with a site assessment and design consultation to understand your vision and the property's characteristics. This is followed by obtaining necessary permits, site preparation including grading and drainage, and then the construction of the terrace foundation. Finally, the chosen surfacing material, such as pavers, stone, or wood, is installed, and any finishing touches like railings or lighting are added. The process is managed to ensure minimal disruption and adherence to local building codes.",
+        "description": "The process involves design, permits, site preparation, foundation construction, material installation, and finishing touches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

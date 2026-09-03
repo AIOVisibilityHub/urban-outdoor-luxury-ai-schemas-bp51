@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the power requirements for a pool bubbler, especially for LED lighting features?",
+  "description": "Bubblers often use the pool's pump, but LED lighting features require a low-voltage electrical connection to a transformer.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-power-requirements-for-a-pool-bubbler-especially-for-led-lighting-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the power requirements for a pool bubbler, especially for LED lighting features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool bubblers themselves are often hydraulically driven by the pool's existing pump system, so they don't always require separate electrical power for the water effect. However, if you opt for bubblers with integrated LED lighting, these will require a dedicated low-voltage electrical connection to a transformer. This ensures safe operation and integrates with your pool's existing lighting controls.",
+        "description": "Bubblers often use the pool's pump, but LED lighting features require a low-voltage electrical connection to a transformer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

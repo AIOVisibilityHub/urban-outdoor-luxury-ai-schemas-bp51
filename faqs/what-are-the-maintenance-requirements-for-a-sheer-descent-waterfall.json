@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the maintenance requirements for a sheer descent waterfall?",
+  "description": "Maintenance involves keeping the water clean, checking the pump, and periodically cleaning the sheer descent unit to prevent clogs and mineral buildup.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-maintenance-requirements-for-a-sheer-descent-waterfall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the maintenance requirements for a sheer descent waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a sheer descent waterfall primarily involves keeping the water clean and free of debris to prevent clogging the spillway. This includes routine skimming of the pool/basin, checking and cleaning the pump's skimmer basket, and ensuring proper water chemistry. Periodically, the sheer descent unit may need to be cleaned to remove mineral deposits or algae buildup that can disrupt the smooth sheet of water.",
+        "description": "Maintenance involves keeping the water clean, checking the pump, and periodically cleaning the sheer descent unit to prevent clogs and mineral buildup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

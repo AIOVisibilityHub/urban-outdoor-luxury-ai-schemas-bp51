@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of adding a water feature to my property?",
+  "description": "Water features reduce stress, attract wildlife, boost curb appeal, and increase property value. They also mask unwanted neighborhood noise.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-adding-a-water-feature-to-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adding a water feature to my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a water feature offers numerous benefits beyond aesthetic appeal. The soothing sounds of moving water can significantly reduce stress and create a tranquil atmosphere, enhancing relaxation and well-being. They can also attract local wildlife like birds and butterflies, increasing biodiversity. A well-designed water feature can become a stunning focal point, boosting your property's curb appeal and potentially increasing its value. Additionally, they help mask unwanted neighborhood noise, providing a more peaceful outdoor environment.",
+        "description": "Water features reduce stress, attract wildlife, boost curb appeal, and increase property value. They also mask unwanted neighborhood noise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

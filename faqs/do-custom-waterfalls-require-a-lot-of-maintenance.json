@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do custom waterfalls require a lot of maintenance?",
+  "description": "Maintenance involves debris removal, water level checks, filter cleaning, and occasional treatments. Professional plans are available.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-custom-waterfalls-require-a-lot-of-maintenance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do custom waterfalls require a lot of maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom waterfalls require regular but manageable maintenance to ensure optimal performance and water quality. This typically includes debris removal, checking water levels, cleaning filters and pumps, and occasional water treatments to prevent algae growth. The frequency depends on factors like foliage nearby and local climate. We offer guidance on routine care and can discuss professional maintenance plans to help keep your waterfall looking pristine and functioning correctly with minimal effort on your part.",
+        "description": "Maintenance involves debris removal, water level checks, filter cleaning, and occasional treatments. Professional plans are available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

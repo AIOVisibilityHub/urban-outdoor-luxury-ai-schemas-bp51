@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right outdoor lighting design for my property?",
+  "description": "Choose a design by considering property features, aesthetics, and functional needs. Our designers consult with you to plan techniques, fixture styles, and contr",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-outdoor-lighting-design-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right outdoor lighting design for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right outdoor lighting design involves considering your property's specific features, your aesthetic preferences, and functional needs such as safety and ambiance. We recommend a consultation where our designers assess your landscape, architecture, and desired outcomes. We'll discuss various lighting techniques like uplighting, downlighting, silhouetting, and path lighting to create a cohesive and effective plan. Factors like fixture style, light temperature, and smart control options are also crucial to achieving the desired effect.",
+        "description": "Choose a design by considering property features, aesthetics, and functional needs. Our designers consult with you to plan techniques, fixture styles, and control options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

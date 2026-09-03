@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does outdoor lighting enhance security for my property?",
+  "description": "Outdoor lighting deters intruders by eliminating dark spots, illuminating entry points, and using motion sensors to alert occupants to activity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-outdoor-lighting-enhance-security-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does outdoor lighting enhance security for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Outdoor lighting significantly enhances property security by eliminating dark areas where intruders might hide. Well-placed lights along pathways, around entry points, and in landscape features create a brightly lit perimeter, making your home a less attractive target. Motion-activated lights can surprise and deter trespassers while alerting occupants to activity. Consistent, even illumination around your property improves visibility for security cameras and for anyone observing your home.",
+        "description": "Outdoor lighting deters intruders by eliminating dark spots, illuminating entry points, and using motion sensors to alert occupants to activity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

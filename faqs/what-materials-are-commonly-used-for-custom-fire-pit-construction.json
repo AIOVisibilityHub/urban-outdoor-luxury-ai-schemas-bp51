@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are commonly used for custom fire pit construction?",
+  "description": "Common materials include natural stone, stucco, concrete, and heat-resistant metals like steel or refractory cement, chosen for aesthetics, durability, and safe",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-commonly-used-for-custom-fire-pit-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are commonly used for custom fire pit construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom fire pit construction utilizes a range of durable and aesthetically pleasing materials. Popular choices include natural stone like flagstone, granite, and limestone, which offer a timeless and luxurious appeal. Stucco provides a versatile finish that can be colored and textured to match your home. Concrete, either poured or block-based, is a robust and modern option, often finished with veneers or decorative elements. For the interior and burner housing, heat-resistant materials such as refractory cement, steel, or stainless steel are essential for safety and longevity. Material selection depends on your design vision, budget, and desired durability.",
+        "description": "Common materials include natural stone, stucco, concrete, and heat-resistant metals like steel or refractory cement, chosen for aesthetics, durability, and safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

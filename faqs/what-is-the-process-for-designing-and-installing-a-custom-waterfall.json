@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing a custom waterfall?",
+  "description": "The process involves consultation, custom design, permitting, site preparation, and professional installation including plumbing, electrical, and landscaping.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-custom-waterfall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing a custom waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, preferences, and site conditions. Following this, we develop a custom design plan, including renderings and material selections, for your approval. Once the design is finalized, our team handles all necessary permits and site preparation. Installation involves excavation, plumbing, electrical work, rock placement, and landscaping integration. We maintain clear communication throughout to ensure the project meets your expectations, culminating in a beautiful, functional waterfall.",
+        "description": "The process involves consultation, custom design, permitting, site preparation, and professional installation including plumbing, electrical, and landscaping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do pool waterfalls increase water evaporation or chemical consumption?",
+  "description": "Waterfalls can slightly increase water evaporation and chemical consumption due to aeration, though typically this impact is minor.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pool-waterfalls-increase-water-evaporation-or-chemical-consumption",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do pool waterfalls increase water evaporation or chemical consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, pool waterfalls can slightly increase water evaporation due to the greater surface area exposure and aeration created by the cascading water. This can, in turn, lead to a marginal increase in the consumption of pool chemicals, as evaporated water leaves chemicals behind, making them more concentrated. However, for most residential pools, this increase is typically minor and often outweighed by the aesthetic and recreational benefits. Proper pool maintenance and monitoring can easily manage these slight changes.",
+        "description": "Waterfalls can slightly increase water evaporation and chemical consumption due to aeration, though typically this impact is minor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

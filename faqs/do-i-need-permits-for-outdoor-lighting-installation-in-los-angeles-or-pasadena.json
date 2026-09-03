@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for outdoor lighting installation in Los Angeles or Pasadena?",
+  "description": "Permits are usually not required for low-voltage landscape lighting. For new high-voltage wiring or panel modifications, permits may be needed. We advise on loc",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-outdoor-lighting-installation-in-los-angeles-or-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for outdoor lighting installation in Los Angeles or Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most low-voltage landscape lighting installations, permits are typically not required, especially when working with existing electrical circuits. However, if the project involves significant new electrical wiring, modifications to main electrical panels, or high-voltage installations, permits from the local building department may be necessary. Our team is knowledgeable about local regulations in Los Angeles and Pasadena and will advise you if your specific project requires any permits or inspections before commencing work, ensuring full compliance.",
+        "description": "Permits are usually not required for low-voltage landscape lighting. For new high-voltage wiring or panel modifications, permits may be needed. We advise on local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

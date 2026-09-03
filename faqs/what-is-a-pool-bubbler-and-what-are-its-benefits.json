@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a pool bubbler and what are its benefits?",
+  "description": "A pool bubbler is a water feature that creates a gentle, aerated stream in your pool, offering aesthetic and auditory benefits.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-pool-bubbler-and-what-are-its-benefits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a pool bubbler and what are its benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pool bubbler is a water feature installed in a swimming pool that creates a gentle, aerated stream of water, resembling a small fountain or geyser. They are typically installed on a shallow shelf or step within the pool. Benefits include enhanced aesthetics, creating a tranquil sound, and providing a focal point. They also help circulate water slightly, improving the overall ambiance of your outdoor living space.",
+        "description": "A pool bubbler is a water feature that creates a gentle, aerated stream in your pool, offering aesthetic and auditory benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

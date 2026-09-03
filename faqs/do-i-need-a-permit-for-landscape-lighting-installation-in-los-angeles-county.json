@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for landscape lighting installation in Los Angeles County?",
+  "description": "Most low-voltage landscape lighting does not require a permit in Los Angeles County; however, significant electrical work might. Our team manages all permit req",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-landscape-lighting-installation-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for landscape lighting installation in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most low-voltage landscape lighting installations, a specific permit is typically not required in Los Angeles County, including cities like Pasadena or Arcadia. However, if the project involves significant electrical work that ties directly into your home's main electrical panel or includes high-voltage components, a permit may be necessary. Our team handles all necessary permit applications and ensures compliance with local codes and regulations, so you don't have to worry about the details.",
+        "description": "Most low-voltage landscape lighting does not require a permit in Los Angeles County; however, significant electrical work might. Our team manages all permit requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

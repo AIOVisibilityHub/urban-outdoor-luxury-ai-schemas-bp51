@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for an outdoor lighting installation project?",
+  "description": "Installation timelines usually range from a few days to two weeks, depending on the project's size and complexity. We provide a clear timeline during planning.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-an-outdoor-lighting-installation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for an outdoor lighting installation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for outdoor lighting installation typically ranges from a few days to two weeks, depending on the project's scale and complexity. Smaller installations, such as accent lighting for a patio, can be completed quickly. Larger, more intricate projects involving extensive trenching, numerous fixtures, and advanced control systems will require more time. Factors like weather conditions and material availability can also influence the schedule. We establish a clear project timeline during the planning phase to set realistic expectations.",
+        "description": "Installation timelines usually range from a few days to two weeks, depending on the project's size and complexity. We provide a clear timeline during planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

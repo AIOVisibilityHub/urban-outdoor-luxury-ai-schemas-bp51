@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can pathway lighting be integrated with smart home systems?",
+  "description": "Yes, pathway lighting can integrate with smart home systems via smart transformers or bulbs. This allows control via app, voice, or automated schedules for conv",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-pathway-lighting-be-integrated-with-smart-home-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can pathway lighting be integrated with smart home systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many modern pathway lighting systems can be integrated with smart home technology, offering enhanced control and automation. This typically involves using smart transformers, controllers, or individual smart bulbs that connect to your home's Wi-Fi network. Once integrated, you can control your pathway lights using a smartphone app, voice commands, or set automated schedules based on time of day, sunrise/sunset, or motion detection. This allows for convenient adjustment of brightness, color (if applicable), and scheduling, improving both energy efficiency and security.",
+        "description": "Yes, pathway lighting can integrate with smart home systems via smart transformers or bulbs. This allows control via app, voice, or automated schedules for convenience and efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

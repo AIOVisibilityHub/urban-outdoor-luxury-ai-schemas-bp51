@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my patio project?",
+  "description": "Choose a patio contractor by checking licenses, insurance, portfolio, testimonials, and ensuring clear communication and detailed quotes. Prioritize experience",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-my-patio-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my patio project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right patio contractor involves several key steps. Look for licensed and insured professionals with a strong portfolio of relevant projects and positive client testimonials. Ensure they have experience with the specific materials and design styles you prefer. Request detailed quotes that clearly outline costs, timelines, and materials. Prioritize contractors who offer clear communication, a transparent process, and a commitment to quality craftsmanship. A reputable contractor will also provide warranties for their work.",
+        "description": "Choose a patio contractor by checking licenses, insurance, portfolio, testimonials, and ensuring clear communication and detailed quotes. Prioritize experience and quality craftsmanship."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

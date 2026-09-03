@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do pool bubblers make noise?",
+  "description": "Pool bubblers create a gentle, relaxing sound from the aerated water, contributing to a tranquil pool environment.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pool-bubblers-make-noise",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do pool bubblers make noise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, pool bubblers create a gentle, natural sound from the aerated water. This sound is typically subtle and relaxing, adding to the tranquil ambiance of your pool area rather than being disruptive. The intensity of the sound can vary slightly depending on the bubbler's flow rate and height, but it is generally perceived as pleasant background noise, enhancing the spa-like atmosphere.",
+        "description": "Pool bubblers create a gentle, relaxing sound from the aerated water, contributing to a tranquil pool environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for concrete hardscaping?",
+  "description": "Concrete hardscaping requires low maintenance, primarily regular cleaning. Resealing stamped or colored concrete every 2-5 years is recommended for longevity an",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-concrete-hardscaping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for concrete hardscaping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Concrete hardscaping is relatively low maintenance. Regular cleaning with a hose and mild detergent is usually sufficient to keep surfaces looking good. For optimal longevity and appearance, it's recommended to reseal stamped or colored concrete every 2-5 years, depending on sun exposure and traffic. Promptly cleaning spills and addressing any cracks early can help preserve the integrity and aesthetic of your concrete features.",
+        "description": "Concrete hardscaping requires low maintenance, primarily regular cleaning. Resealing stamped or colored concrete every 2-5 years is recommended for longevity and appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

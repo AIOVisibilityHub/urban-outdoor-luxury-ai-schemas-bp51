@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can accent lighting improve the security of my property?",
+  "description": "Yes, accent lighting enhances security by illuminating dark areas and entry points, deterring intruders and increasing visibility around your property.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-accent-lighting-improve-the-security-of-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can accent lighting improve the security of my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, accent lighting can significantly enhance property security. By strategically illuminating entry points, pathways, and darker areas around your home, it deters potential intruders who prefer to operate under the cover of darkness. Well-lit landscapes eliminate hiding spots, making your property less appealing to trespassers. While its primary role is aesthetic, the increased visibility provided by accent lighting serves as an effective, passive security measure, complementing other security systems. It ensures that any unusual activity is more easily observed.",
+        "description": "Yes, accent lighting enhances security by illuminating dark areas and entry points, deterring intruders and increasing visibility around your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

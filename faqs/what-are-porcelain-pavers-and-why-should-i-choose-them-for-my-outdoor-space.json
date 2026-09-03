@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are porcelain pavers and why should I choose them for my outdoor space?",
+  "description": "Porcelain pavers are durable, low-maintenance, non-porous ceramic tiles ideal for outdoor use, offering resistance to stains, fading, and frost. They provide a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-porcelain-pavers-and-why-should-i-choose-them-for-my-outdoor-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are porcelain pavers and why should I choose them for my outdoor space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porcelain pavers are durable, low-maintenance tiles engineered for exterior use. They are made from dense, non-porous ceramic, offering superior resistance to stains, fading, frost, and chemicals compared to natural stone or concrete. Their consistent thickness and rectified edges allow for precise installation with narrow grout lines. Homeowners often choose porcelain for its modern aesthetic, longevity, and ease of cleaning, making it an excellent investment for patios, walkways, and pool decks in diverse climates.",
+        "description": "Porcelain pavers are durable, low-maintenance, non-porous ceramic tiles ideal for outdoor use, offering resistance to stains, fading, and frost. They provide a modern look and long-term value for various outdoor applications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

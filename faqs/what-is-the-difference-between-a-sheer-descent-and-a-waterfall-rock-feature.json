@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a sheer descent and a waterfall rock feature?",
+  "description": "A sheer descent offers a modern, smooth sheet of water, while a rock waterfall creates a natural, cascading flow over rocks. The choice depends on desired aesth",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-sheer-descent-and-a-waterfall-rock-feature",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a sheer descent and a waterfall rock feature?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sheer descent provides a modern, sleek, and often minimalist look with a smooth, unbroken sheet of falling water. In contrast, a traditional rock waterfall creates a more natural, rustic appearance with water cascading over varying rock formations, producing a more turbulent and often louder sound. The choice depends entirely on the desired aesthetic and landscape theme for your outdoor space.",
+        "description": "A sheer descent offers a modern, smooth sheet of water, while a rock waterfall creates a natural, cascading flow over rocks. The choice depends on desired aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

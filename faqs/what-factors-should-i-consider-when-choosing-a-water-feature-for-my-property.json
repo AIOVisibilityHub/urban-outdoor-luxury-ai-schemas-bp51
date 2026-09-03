@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a water feature for my property?",
+  "description": "Consider your property's size, desired aesthetic, sound preference, maintenance commitment, and budget when choosing a water feature.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-a-water-feature-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a water feature for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a water feature, consider several key factors. First, evaluate your property's size and layout to determine appropriate scale. Next, define your aesthetic preference – do you desire a serene, naturalistic look or a modern, architectural statement? Consider the desired sound, from gentle trickling to cascading falls, and the level of maintenance you are willing to undertake. Finally, assess your budget and any specific environmental concerns, such as water conservation. Our designers can guide you through these considerations to find the perfect fit.",
+        "description": "Consider your property's size, desired aesthetic, sound preference, maintenance commitment, and budget when choosing a water feature."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

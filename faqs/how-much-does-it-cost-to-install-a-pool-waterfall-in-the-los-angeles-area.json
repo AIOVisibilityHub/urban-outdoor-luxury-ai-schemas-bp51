@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install a pool waterfall in the Los Angeles area?",
+  "description": "Installation costs vary based on design complexity, materials, pump needs, and landscaping; a custom quote is provided after consultation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-a-pool-waterfall-in-the-los-angeles-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install a pool waterfall in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of pool waterfall installation in the Los Angeles area varies significantly based on several factors, including the size and complexity of the design, the materials chosen (e.g., natural rock, artificial rock, custom tile), pump requirements, and any necessary landscaping modifications. Basic pre-fabricated units can be less expensive, while custom-designed, elaborate waterfalls will incur higher costs. We provide detailed, transparent quotes after an on-site consultation to assess your specific desires and site conditions in regions like Arcadia and San Marino.",
+        "description": "Installation costs vary based on design complexity, materials, pump needs, and landscaping; a custom quote is provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

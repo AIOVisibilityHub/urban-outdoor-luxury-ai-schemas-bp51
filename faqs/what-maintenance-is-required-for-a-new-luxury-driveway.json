@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a new luxury driveway?",
+  "description": "Maintenance varies by material: Concrete needs occasional cleaning and sealing; pavers require sweeping, weeding, joint sand replenishment, and optional sealing",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-new-luxury-driveway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a new luxury driveway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a new luxury driveway largely depends on the material. Concrete driveways benefit from occasional cleaning and sealing every 2-5 years to protect against stains and weather, extending their lifespan. Paver driveways require periodic sweeping to remove debris, weeding between joints, and may need joint sand replenishment every few years. Sealing pavers is also recommended to enhance color, prevent stains, and inhibit weed growth. Natural stone often requires less frequent sealing but should be cleaned regularly. Proper maintenance preserves the driveway's appearance and structural integrity.",
+        "description": "Maintenance varies by material: Concrete needs occasional cleaning and sealing; pavers require sweeping, weeding, joint sand replenishment, and optional sealing; natural stone needs regular cleaning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

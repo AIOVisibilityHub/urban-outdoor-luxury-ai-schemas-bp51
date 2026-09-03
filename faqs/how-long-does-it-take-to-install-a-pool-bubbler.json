@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install a pool bubbler?",
+  "description": "Installation time for a pool bubbler varies; it's quicker for new builds and typically 1-3 days for existing pools.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-pool-bubbler",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install a pool bubbler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation time for a pool bubbler can vary depending on whether it's part of a new pool construction or being added to an existing pool. For new builds, it's typically integrated into the plumbing phase. For existing pools, installation usually involves some minor deck work and plumbing connections, often taking 1-3 days. This timeline can be influenced by the complexity of the desired setup and existing pool features.",
+        "description": "Installation time for a pool bubbler varies; it's quicker for new builds and typically 1-3 days for existing pools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

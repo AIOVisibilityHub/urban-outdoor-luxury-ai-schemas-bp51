@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical fire-bowl installation process?",
+  "description": "The installation process involves site assessment, preparation, utility connection, fire-bowl placement, and final landscaping integration.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-fire-bowl-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical fire-bowl installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our fire-bowl installation process begins with a site assessment to determine optimal placement and safety considerations. This includes evaluating gas line access, drainage, and surrounding materials. Next, we prepare the site by excavating for the foundation and running necessary utility lines. The fire-bowl unit is then set in place, connected to the gas supply, and tested for proper operation. Finally, we integrate the fire-bowl with the surrounding landscape design, ensuring aesthetic appeal and structural integrity.",
+        "description": "The installation process involves site assessment, preparation, utility connection, fire-bowl placement, and final landscaping integration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

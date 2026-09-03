@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of outdoor fountains can be installed?",
+  "description": "Outdoor fountains range from classical tiered designs to modern sculptures, utilizing materials like stone, bronze, and copper.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-outdoor-fountains-can-be-installed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of outdoor fountains can be installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Outdoor fountains vary widely in style, size, and material. Options include classical tiered fountains, modern sculptural pieces, natural rock formations, and custom-designed water features. Materials often include cast stone, bronze, copper, stainless steel, and natural stone like granite or basalt. The choice depends on the desired aesthetic, available space, and maintenance preferences, complementing the overall landscape design of your property.",
+        "description": "Outdoor fountains range from classical tiered designs to modern sculptures, utilizing materials like stone, bronze, and copper."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

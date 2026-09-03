@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does landscape lighting installation typically cost?",
+  "description": "Costs vary based on property size, fixture count/type, and control systems, typically ranging from a few thousand to over ten thousand dollars for professional",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-landscape-lighting-installation-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does landscape lighting installation typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of landscape lighting installation varies significantly based on factors such as the size and complexity of your property, the number and type of fixtures chosen (e.g., LED, low-voltage), and the control system desired (e.g., smart home integration, timers). A custom design is essential for an accurate estimate. Generally, a professional system can range from a few thousand dollars for a basic setup to upwards of ten thousand for extensive, high-end installations. We provide detailed, transparent quotes after an on-site consultation.",
+        "description": "Costs vary based on property size, fixture count/type, and control systems, typically ranging from a few thousand to over ten thousand dollars for professional installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

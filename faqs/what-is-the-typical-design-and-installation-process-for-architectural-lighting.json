@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical design and installation process for architectural lighting?",
+  "description": "The process involves consultation, site assessment, custom design, permit acquisition, installation (wiring, fixture placement), and final testing and fine-tuni",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-design-and-installation-process-for-architectural-lighting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical design and installation process for architectural lighting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation and site assessment to understand your vision and the property's unique characteristics. Next, we develop a customized lighting design plan, often including renderings, to visualize the proposed effects. Once the design is approved, we handle all necessary permits and then proceed with the installation. This involves careful trenching, wiring, fixture placement, and integration with control systems. The final step is testing and fine-tuning the lighting to achieve the desired ambiance and functionality, followed by a client walkthrough.",
+        "description": "The process involves consultation, site assessment, custom design, permit acquisition, installation (wiring, fixture placement), and final testing and fine-tuning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

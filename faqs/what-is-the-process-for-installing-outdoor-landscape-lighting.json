@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing outdoor landscape lighting?",
+  "description": "The process involves consultation, custom design, professional installation by licensed technicians, and a final walkthrough to ensure satisfaction.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-outdoor-landscape-lighting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing outdoor landscape lighting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, property layout, and specific needs. Next, our designers create a tailored lighting plan, considering aesthetics, functionality, and budget. Once approved, our licensed electricians and technicians handle the installation, including trenching for wiring, mounting fixtures, and connecting to the power source. We use high-quality, weather-resistant components. Finally, we conduct a walkthrough to ensure your complete satisfaction and provide instructions for system operation.",
+        "description": "The process involves consultation, custom design, professional installation by licensed technicians, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

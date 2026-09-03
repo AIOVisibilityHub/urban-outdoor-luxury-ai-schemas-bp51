@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an existing pool be integrated with a new custom waterfall?",
+  "description": "Yes, custom waterfalls can be designed to seamlessly integrate with existing pools, enhancing aesthetics and creating a resort-like atmosphere.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-existing-pool-be-integrated-with-a-new-custom-waterfall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an existing pool be integrated with a new custom waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, integrating a custom waterfall with an existing pool is a popular and effective way to enhance its appearance and create a more resort-like feel. This can involve designing the waterfall to spill directly into the pool, creating a seamless visual and auditory experience. We consider the pool's existing filtration system, structural integrity, and surrounding landscape during the design phase to ensure a harmonious and functional integration. This often elevates the entire backyard entertainment area.",
+        "description": "Yes, custom waterfalls can be designed to seamlessly integrate with existing pools, enhancing aesthetics and creating a resort-like atmosphere."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

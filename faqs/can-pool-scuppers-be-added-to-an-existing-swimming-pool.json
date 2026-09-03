@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can pool scuppers be added to an existing swimming pool?",
+  "description": "Yes, scuppers can be added to existing pools, but it may require cutting into structures and new plumbing, impacting complexity and cost.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-pool-scuppers-be-added-to-an-existing-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can pool scuppers be added to an existing swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, pool scuppers can often be added to an existing swimming pool, but the feasibility and complexity depend on the current pool structure and surrounding hardscaping. It typically requires cutting into the existing deck or pool wall to integrate the scuppers and run new plumbing lines. This retrofit process might involve some demolition and resurfacing work, which could impact the project timeline and cost. A professional assessment is crucial to determine the best approach and ensure structural integrity and aesthetic integration with your current pool design.",
+        "description": "Yes, scuppers can be added to existing pools, but it may require cutting into structures and new plumbing, impacting complexity and cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

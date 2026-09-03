@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of water features can be installed in a residential backyard?",
+  "description": "Residential water features include ponds, pondless waterfalls, decorative fountains, and stream beds. The best choice depends on space, budget, and maintenance",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-water-features-can-be-installed-in-a-residential-backyard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of water features can be installed in a residential backyard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Residential backyards can accommodate a variety of water features, ranging from small, self-contained fountains to elaborate custom installations. Popular options include ponds with aquatic plants and fish, pondless waterfalls for low maintenance, decorative fountains that act as focal points, and stream beds that mimic natural waterways. Larger properties might incorporate swimming pool waterfalls or grottos. The best choice depends on your space, budget, aesthetic preferences, and desired level of maintenance.",
+        "description": "Residential water features include ponds, pondless waterfalls, decorative fountains, and stream beds. The best choice depends on space, budget, and maintenance preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

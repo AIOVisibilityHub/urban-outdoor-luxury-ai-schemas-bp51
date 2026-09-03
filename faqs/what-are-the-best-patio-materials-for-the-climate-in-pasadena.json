@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the best patio materials for the climate in Pasadena?",
+  "description": "In Pasadena's climate, durable materials like permeable pavers, natural stone (travertine, flagstone), and stamped concrete are well-suited for patios due to th",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-best-patio-materials-for-the-climate-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best patio materials for the climate in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Pasadena's climate, which experiences warm, dry summers and mild, occasionally wet winters, durable and heat-resistant materials are ideal. Permeable pavers are excellent for managing water runoff and reducing heat island effects, while offering a wide range of aesthetic options. Natural stone, such as travertine or flagstone, provides a luxurious look and good thermal properties. Stamped or stained concrete is a versatile and cost-effective option that can mimic other materials. These choices are robust enough to withstand sun exposure and occasional rain without significant wear.",
+        "description": "In Pasadena's climate, durable materials like permeable pavers, natural stone (travertine, flagstone), and stamped concrete are well-suited for patios due to their heat resistance and longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

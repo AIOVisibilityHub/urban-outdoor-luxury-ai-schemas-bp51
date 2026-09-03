@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a pool scupper and a sheer descent?",
+  "description": "Scuppers produce defined streams or spouts, while sheer descents create a smooth, continuous sheet of water, differing in visual effect and flow.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-pool-scupper-and-a-sheer-descent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a pool scupper and a sheer descent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both pool scuppers and sheer descents are water features that add visual and auditory appeal to a pool, but they differ in their water flow. Scuppers typically produce a more defined, often narrow, stream or spout of water. They can come in various shapes and designs, offering flexibility in aesthetic expression. Sheer descents, on the other hand, create a smooth, continuous sheet of water that falls cleanly into the pool, often spanning a wider section of a wall. The choice between them depends on the desired visual effect and sound, with sheer descents offering a more curtain-like water flow.",
+        "description": "Scuppers produce defined streams or spouts, while sheer descents create a smooth, continuous sheet of water, differing in visual effect and flow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

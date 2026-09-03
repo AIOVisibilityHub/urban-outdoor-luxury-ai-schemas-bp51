@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific maintenance requirements for pool scuppers?",
+  "description": "Scupper maintenance includes periodic cleaning to prevent mineral buildup and algae, and ensuring plumbing functions correctly, often with professional inspecti",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-specific-maintenance-requirements-for-pool-scuppers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific maintenance requirements for pool scuppers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining pool scuppers typically involves periodic cleaning to prevent mineral buildup and algae growth, which can obstruct water flow or stain the material. The frequency depends on water chemistry and environmental factors. For metallic scuppers, specific cleaning agents may be recommended to preserve their finish. It's also important to ensure that the pump and plumbing feeding the scuppers are functioning correctly and free of debris. Regular inspection by a pool professional can help identify and address any issues early, ensuring longevity and optimal performance of your water feature.",
+        "description": "Scupper maintenance includes periodic cleaning to prevent mineral buildup and algae, and ensuring plumbing functions correctly, often with professional inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

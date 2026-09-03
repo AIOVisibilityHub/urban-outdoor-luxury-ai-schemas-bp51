@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a sheer descent waterfall?",
+  "description": "Consider width, lip extension, material, pump GPM, and integration into your overall landscape or pool design when choosing a sheer descent.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-a-sheer-descent-waterfall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a sheer descent waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a sheer descent, consider its width and lip extension, as these impact the visual effect and how far the water projects. Also, evaluate the material (e.g., stainless steel, PVC), the required GPM flow rate of the pump for your desired sheet thickness, and whether it will be integrated into a new build or a renovation. The overall aesthetic of your landscape or pool design should also guide your choice.",
+        "description": "Consider width, lip extension, material, pump GPM, and integration into your overall landscape or pool design when choosing a sheer descent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

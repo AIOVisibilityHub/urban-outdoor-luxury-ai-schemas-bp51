@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right waterfall design for my backyard and pool?",
+  "description": "Consider your existing landscape, pool style, budget, and desired aesthetic and sound effects to choose a waterfall design.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-waterfall-design-for-my-backyard-and-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right waterfall design for my backyard and pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right waterfall design involves considering your existing landscape, pool style, budget, and desired visual and auditory effects. Think about whether you prefer a natural, free-form look or a more structured, contemporary design. Evaluate the available space, the height of the waterfall, and the flow rate to ensure it complements your environment without overwhelming it. Our design team can provide visualizations and material samples to help you make an informed decision that harmonizes with your home's architecture and personal taste.",
+        "description": "Consider your existing landscape, pool style, budget, and desired aesthetic and sound effects to choose a waterfall design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

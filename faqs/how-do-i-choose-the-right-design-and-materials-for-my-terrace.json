@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right design and materials for my terrace?",
+  "description": "Consider your home's style, desired aesthetic, climate, and intended use. Our designers can guide material selection for durability, maintenance, and visual app",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-design-and-materials-for-my-terrace",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right design and materials for my terrace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right design and materials involves considering your home's architectural style, your desired aesthetic, climate conditions, and how you intend to use the space. We recommend exploring various natural stone, porcelain, and wood options, assessing their durability, maintenance needs, and visual appeal. Our design team can help you navigate these choices, providing recommendations that align with your vision for an urban outdoor luxury space and function effectively for your lifestyle.",
+        "description": "Consider your home's style, desired aesthetic, climate, and intended use. Our designers can guide material selection for durability, maintenance, and visual appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

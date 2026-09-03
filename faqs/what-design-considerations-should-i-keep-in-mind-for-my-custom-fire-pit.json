@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations should I keep in mind for my custom fire pit?",
+  "description": "Consider function, size, shape, materials, fuel type, and safety clearances. Integrate features like covers or lighting to enhance usability and ambiance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-should-i-keep-in-mind-for-my-custom-fire-pit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations should I keep in mind for my custom fire pit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When designing your custom fire pit, consider its primary function: will it be a focal point for entertaining, a cozy gathering spot, or both? Think about the optimal size and shape to fit your outdoor space and accommodate your desired seating. Material selection is crucial for aesthetics and durability, ensuring it complements your home's architecture. Fuel type (natural gas or propane) impacts convenience and installation. Safety is paramount, so consider adequate clearance from combustible materials and seating. Integrating features like a protective cover, built-in storage, or accent lighting can enhance usability and ambiance.",
+        "description": "Consider function, size, shape, materials, fuel type, and safety clearances. Integrate features like covers or lighting to enhance usability and ambiance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

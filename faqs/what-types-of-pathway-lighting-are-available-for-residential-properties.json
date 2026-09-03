@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of pathway lighting are available for residential properties?",
+  "description": "Available types include solar, low-voltage, and LED lighting. Materials range from brass and copper to weather-resistant composites.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-pathway-lighting-are-available-for-residential-properties",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of pathway lighting are available for residential properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are several types of pathway lighting suitable for residential properties, each offering distinct advantages. Common options include solar-powered lights, which are easy to install and energy-efficient but depend on sunlight exposure. Low-voltage lighting systems offer greater control over brightness and beam spread, requiring professional installation. LED lights are a popular choice across all types due to their longevity, energy efficiency, and wide range of color temperatures. Material options include durable metals like brass and copper, or weather-resistant composites, chosen based on desired aesthetic and durability.",
+        "description": "Available types include solar, low-voltage, and LED lighting. Materials range from brass and copper to weather-resistant composites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

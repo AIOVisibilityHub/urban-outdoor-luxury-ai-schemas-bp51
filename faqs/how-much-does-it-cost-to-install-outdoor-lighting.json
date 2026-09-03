@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install outdoor lighting?",
+  "description": "Outdoor lighting installation costs depend on project size, fixture type, design complexity, and electrical needs. Customized quotes are provided after a site a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-outdoor-lighting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install outdoor lighting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of outdoor lighting installation varies significantly based on factors such as the size of the area, the number and type of fixtures chosen, the complexity of the design, and specific electrical requirements. Simple accent lighting for a small garden will differ greatly from a comprehensive landscape lighting system for a large estate. Factors like trenching, wiring, and transformer needs also influence the overall price. We provide detailed, customized quotes after a site assessment to accurately reflect your project's scope and preferences.",
+        "description": "Outdoor lighting installation costs depend on project size, fixture type, design complexity, and electrical needs. Customized quotes are provided after a site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

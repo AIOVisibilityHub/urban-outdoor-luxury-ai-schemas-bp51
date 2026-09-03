@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical concrete hardscape installation project take?",
+  "description": "Project duration depends on size and complexity; a small patio may take days, while larger projects can take weeks. We provide a detailed timeline during consul",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-concrete-hardscape-installation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical concrete hardscape installation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a concrete hardscape installation varies based on the project's size, complexity, and specific design elements. A small patio might take a few days, while a larger, more intricate project involving multiple features like a driveway and retaining walls could take several weeks. We provide a detailed timeline during the initial consultation, factoring in design, preparation, pouring, and curing times to ensure efficient project completion.",
+        "description": "Project duration depends on size and complexity; a small patio may take days, while larger projects can take weeks. We provide a detailed timeline during consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

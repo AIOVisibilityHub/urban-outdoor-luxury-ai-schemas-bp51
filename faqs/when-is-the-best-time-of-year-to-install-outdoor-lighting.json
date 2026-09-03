@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install outdoor lighting?",
+  "description": "While installation can occur year-round, spring and fall are often preferred due to milder weather and preparing for specific outdoor seasons.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-outdoor-lighting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install outdoor lighting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape lighting can be installed year-round, but many clients prefer installation during milder weather conditions. Spring and fall offer comfortable temperatures for our crews and are often ideal times to prepare your outdoor spaces for summer entertaining or holiday seasons. However, our team is equipped to work in various conditions, and the functionality of the lighting system itself is not dependent on the season. The 'best' time often aligns with when you most want to enhance your outdoor living experience.",
+        "description": "While installation can occur year-round, spring and fall are often preferred due to milder weather and preparing for specific outdoor seasons."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

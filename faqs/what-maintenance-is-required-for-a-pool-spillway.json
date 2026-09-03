@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a pool spillway?",
+  "description": "Spillway maintenance involves regular cleaning to prevent buildup, maintaining proper water chemistry, and checking plumbing and pump efficiency.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-pool-spillway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a pool spillway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a pool spillway is generally straightforward. Regular cleaning of the spillway surface is essential to prevent algae buildup and mineral deposits, which can obstruct water flow and affect the visual appeal. Ensuring proper pool water chemistry also helps prevent scaling. Periodically check the plumbing for any blockages and confirm the pump is operating efficiently to maintain a consistent water flow. For features integrated with your pool's filtration, routine pool maintenance usually covers the spillway's operational needs.",
+        "description": "Spillway maintenance involves regular cleaning to prevent buildup, maintaining proper water chemistry, and checking plumbing and pump efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

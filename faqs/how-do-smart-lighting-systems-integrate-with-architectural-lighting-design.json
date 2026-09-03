@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do smart lighting systems integrate with architectural lighting design?",
+  "description": "Smart lighting integrates by allowing control of brightness, color, and scenes via mobile devices. This enhances energy efficiency and convenience, adapting out",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-smart-lighting-systems-integrate-with-architectural-lighting-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do smart lighting systems integrate with architectural lighting design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart lighting systems are seamlessly integrated into architectural designs to offer unparalleled control and flexibility. These systems allow users to manage brightness, color temperature, and even create dynamic lighting scenes directly from a smartphone or tablet. They can be programmed to activate at specific times, respond to motion, or adjust based on ambient light levels. Integration enhances energy efficiency and convenience, transforming how you interact with your outdoor space. It allows for personalized environments that can adapt to different occasions or moods.",
+        "description": "Smart lighting integrates by allowing control of brightness, color, and scenes via mobile devices. This enhances energy efficiency and convenience, adapting outdoor spaces for various occasions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

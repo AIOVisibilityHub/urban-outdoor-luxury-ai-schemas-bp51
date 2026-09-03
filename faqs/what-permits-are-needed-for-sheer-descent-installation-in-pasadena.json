@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for sheer descent installation in Pasadena?",
+  "description": "Permits in Pasadena may be needed if the installation involves significant plumbing, electrical, or structural changes, or if it's part of new pool construction",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-sheer-descent-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for sheer descent installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, as with other areas, adding a water feature like a sheer descent waterfall might require permits if it involves significant plumbing, electrical work, or structural modifications to an existing pool or landscape. For new pool construction including a sheer descent, the entire project will be subject to a comprehensive building permit. It's advisable to consult with your contractor or the City of Pasadena's planning department to confirm specific requirements for your project.",
+        "description": "Permits in Pasadena may be needed if the installation involves significant plumbing, electrical, or structural changes, or if it's part of new pool construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

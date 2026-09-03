@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can outdoor lighting systems be automated or controlled remotely?",
+  "description": "Outdoor lighting can be automated with timers, photocells, and motion sensors, or controlled remotely via smart home apps for convenience.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-outdoor-lighting-systems-be-automated-or-controlled-remotely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can outdoor lighting systems be automated or controlled remotely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, modern outdoor lighting systems frequently incorporate advanced control options. These can include automated timers, photocells that turn lights on at dusk and off at dawn, and motion sensors for security. Many systems also integrate with smart home platforms, allowing remote control via a smartphone app or voice commands. This enables you to adjust brightness, change colors (if applicable), and set schedules from anywhere, providing convenience and energy savings.",
+        "description": "Outdoor lighting can be automated with timers, photocells, and motion sensors, or controlled remotely via smart home apps for convenience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of professional landscape lighting for my home in Los Angeles?",
+  "description": "Professional landscape lighting improves aesthetics, safety, and security, while also extending the usability of your outdoor spaces and adding property value.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-professional-landscape-lighting-for-my-home-in-los-ange",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of professional landscape lighting for my home in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional landscape lighting enhances your property's aesthetic appeal, safety, and security. Strategically placed lights highlight architectural features, illuminate pathways to prevent trips, and deter potential intruders by eliminating dark areas. It also extends the usability of your outdoor spaces into the evening, creating a more inviting atmosphere for entertaining or relaxation. For homes in areas like Pasadena or San Marino, it complements the existing architectural elegance and landscaping, adding significant value and curb appeal.",
+        "description": "Professional landscape lighting improves aesthetics, safety, and security, while also extending the usability of your outdoor spaces and adding property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

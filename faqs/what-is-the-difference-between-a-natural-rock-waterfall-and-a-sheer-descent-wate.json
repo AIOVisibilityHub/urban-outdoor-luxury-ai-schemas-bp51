@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a natural rock waterfall and a sheer descent waterfall?",
+  "description": "Natural rock waterfalls are organic with diffused sound, while sheer descent waterfalls offer a contemporary, smooth sheet of water from a linear opening.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-natural-rock-waterfall-and-a-sheer-descent-wate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a natural rock waterfall and a sheer descent waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A natural rock waterfall features a more organic, irregular flow, often constructed with stacked boulders and stones to mimic a natural stream or cascade. These typically have a softer, more diffused sound. In contrast, a sheer descent waterfall creates a smooth, unbroken sheet of water that flows from a slim, linear opening, often integrated into a wall or raised beam. This style offers a more contemporary, precise aesthetic and a distinct, consistent water sound. Your choice depends on your desired aesthetic and sound preference.",
+        "description": "Natural rock waterfalls are organic with diffused sound, while sheer descent waterfalls offer a contemporary, smooth sheet of water from a linear opening."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

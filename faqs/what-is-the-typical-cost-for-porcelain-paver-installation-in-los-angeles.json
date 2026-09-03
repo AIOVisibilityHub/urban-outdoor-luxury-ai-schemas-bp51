@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for porcelain paver installation in Los Angeles?",
+  "description": "In Los Angeles, porcelain paver installation typically costs $15 to $30 per square foot, including materials and labor. Prices vary based on paver type, design",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-porcelain-paver-installation-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for porcelain paver installation in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for porcelain paver installation in the Los Angeles area can vary significantly, generally ranging from $15 to $30 per square foot, including materials and labor. This estimate depends on several factors: the specific type and size of pavers chosen, the complexity of the design, necessary site preparation (e.g., excavation, grading, base material), and accessibility of the work area. For a precise quote tailored to your project, we recommend scheduling an on-site consultation.",
+        "description": "In Los Angeles, porcelain paver installation typically costs $15 to $30 per square foot, including materials and labor. Prices vary based on paver type, design complexity, and site preparation needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

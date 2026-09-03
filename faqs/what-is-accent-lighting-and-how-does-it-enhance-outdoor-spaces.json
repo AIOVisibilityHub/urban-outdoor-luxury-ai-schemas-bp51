@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is accent lighting and how does it enhance outdoor spaces?",
+  "description": "Accent lighting highlights specific outdoor features like architecture or landscaping, adding depth and visual interest to your property at night.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-accent-lighting-and-how-does-it-enhance-outdoor-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is accent lighting and how does it enhance outdoor spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accent lighting is a technique used to highlight specific features in an outdoor area, such as architectural details, landscaping elements, or sculptures. It creates focal points and adds depth, drama, and visual interest to your property after dark. This type of lighting is designed to draw attention to particular elements, rather than uniformly illuminating an entire space. By strategically placing fixtures, we can create a sophisticated ambiance and enhance the aesthetic appeal of your home's exterior, improving both curb appeal and usability during the evening hours.",
+        "description": "Accent lighting highlights specific outdoor features like architecture or landscaping, adding depth and visual interest to your property at night."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

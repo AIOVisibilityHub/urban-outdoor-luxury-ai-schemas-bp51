@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of patio installation in Los Angeles?",
+  "description": "Patio installation costs in Los Angeles vary widely, typically ranging from $5 to $50+ per square foot depending on materials, size, and design complexity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-of-patio-installation-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of patio installation in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of patio installation in Los Angeles varies significantly based on material choice, patio size, design complexity, and site preparation requirements. Basic concrete slab patios can start around $5-$10 per square foot, while more elaborate designs using pavers, natural stone, or incorporating features like custom borders or multiple levels can range from $20-$50+ per square foot. Permitting fees, drainage solutions, and accessibility challenges can also influence the final price. A detailed on-site consultation provides the most accurate estimate for your specific project.",
+        "description": "Patio installation costs in Los Angeles vary widely, typically ranging from $5 to $50+ per square foot depending on materials, size, and design complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

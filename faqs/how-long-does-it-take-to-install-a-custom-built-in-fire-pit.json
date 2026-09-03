@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install a custom built-in fire pit?",
+  "description": "Installation of a custom built-in fire pit typically takes 1 to 3 weeks, depending on design complexity, site conditions, and utility requirements.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-custom-built-in-fire-pit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install a custom built-in fire pit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for installing a custom built-in fire pit can vary, but most projects are completed within 1 to 3 weeks. This duration depends on several factors, including the complexity of the design, site accessibility, weather conditions, and the need for utility trenching (e.g., gas lines). Initial planning and design phases may add to this. We prioritize efficient project management to minimize disruption while ensuring high-quality construction. Our team will provide a detailed project schedule after the design and material selections are finalized.",
+        "description": "Installation of a custom built-in fire pit typically takes 1 to 3 weeks, depending on design complexity, site conditions, and utility requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

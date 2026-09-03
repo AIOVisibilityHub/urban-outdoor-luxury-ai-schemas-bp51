@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install a terrace in Southern California?",
+  "description": "Terrace installation in Southern California can occur year-round due to mild weather, but drier months (late spring to early fall) are often preferred to avoid",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-a-terrace-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install a terrace in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The mild climate of Southern California generally allows for terrace installation year-round. However, many clients prefer to schedule projects during the drier months, typically from late spring through early fall, to avoid potential delays from winter rains. This also allows for completion before the peak of summer use. We can accommodate installations in any season, planning carefully around expected weather patterns to ensure optimal conditions for construction.",
+        "description": "Terrace installation in Southern California can occur year-round due to mild weather, but drier months (late spring to early fall) are often preferred to avoid rain delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

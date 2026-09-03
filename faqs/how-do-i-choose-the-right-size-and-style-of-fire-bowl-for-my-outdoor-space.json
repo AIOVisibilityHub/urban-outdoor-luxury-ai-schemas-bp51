@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size and style of fire-bowl for my outdoor space?",
+  "description": "Select fire-bowl size based on your outdoor space, intended use, and desired aesthetic to complement your luxury outdoor environment.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-size-and-style-of-fire-bowl-for-my-outdoor-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size and style of fire-bowl for my outdoor space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right fire-bowl involves considering the size of your outdoor area, its primary use (e.g., ambient light, warmth, cooking), and your desired aesthetic. A large fire-bowl can be a focal point, while smaller ones provide accent lighting. Consider the scale relative to seating and surrounding elements. Styles range from modern concrete to rustic stone, complementing various architectural designs. We assist in selecting options that integrate seamlessly with your luxury outdoor environment.",
+        "description": "Select fire-bowl size based on your outdoor space, intended use, and desired aesthetic to complement your luxury outdoor environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

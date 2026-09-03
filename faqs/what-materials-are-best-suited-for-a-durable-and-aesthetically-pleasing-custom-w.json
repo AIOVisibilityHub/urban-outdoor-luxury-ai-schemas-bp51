@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are best suited for a durable and aesthetically pleasing custom waterfall?",
+  "description": "Natural stone like granite or flagstone is ideal for durability and aesthetics. High-quality liners, pumps, and filters ensure longevity and performance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-suited-for-a-durable-and-aesthetically-pleasing-custom-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are best suited for a durable and aesthetically pleasing custom waterfall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For durability and aesthetics, natural stone such as granite, basalt, or flagstone is often preferred due to its authentic appearance and weather resistance. Engineered stone and high-quality concrete can also be used for custom shapes and modern designs. Liners are crucial for containing water, with EPDM rubber being a common durable choice. Pumps, filters, and lighting components should be commercial-grade and built to withstand continuous outdoor operation. Material selection impacts both the visual appeal and longevity of your waterfall.",
+        "description": "Natural stone like granite or flagstone is ideal for durability and aesthetics. High-quality liners, pumps, and filters ensure longevity and performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

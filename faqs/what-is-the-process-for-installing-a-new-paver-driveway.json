@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing a new paver driveway?",
+  "description": "Paver driveway installation involves excavation, sub-grade compaction, installing and compacting a gravel base and sand bed, laying pavers, installing edge rest",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-new-paver-driveway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing a new paver driveway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for installing a paver driveway begins with site preparation, including excavation to the appropriate depth and ensuring proper sub-grade compaction for a stable foundation. Next, a gravel base layer is installed and compacted, followed by a layer of bedding sand. Pavers are then carefully laid in the chosen pattern, ensuring proper spacing and alignment. Edge restraints are installed to secure the pavers, and joint sand is swept into the gaps to lock them in place. Finally, the driveway is compacted again, and the surface is cleaned. This multi-step process ensures durability and longevity.",
+        "description": "Paver driveway installation involves excavation, sub-grade compaction, installing and compacting a gravel base and sand bed, laying pavers, installing edge restraints, sweeping in joint sand, and final compaction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

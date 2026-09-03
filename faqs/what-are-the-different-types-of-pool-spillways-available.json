@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the different types of pool spillways available?",
+  "description": "Types of pool spillways include sheer descent, scupper, and natural rock, made from materials like stainless steel, stone, or custom-tiled concrete.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-different-types-of-pool-spillways-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the different types of pool spillways available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool spillways come in various styles and materials, each offering a unique aesthetic. Common types include sheer descent spillways, which create a clear, continuous sheet of water; scupper spillways, often made of metal or stone, producing a more focused stream; and natural rock spillways, designed to mimic waterfalls in a natural landscape. Materials range from stainless steel and copper to custom-tiled concrete, natural stone, and acrylic. The choice depends on your pool's design, desired water effect, and overall backyard aesthetic.",
+        "description": "Types of pool spillways include sheer descent, scupper, and natural rock, made from materials like stainless steel, stone, or custom-tiled concrete."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing a custom walkway?",
+  "description": "The custom walkway process involves initial consultation, design development, permit acquisition, site preparation, material installation, and final detailing,",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-custom-walkway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing a custom walkway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, functional needs, and budget. Next, our design team develops a custom walkway plan, including material selection, layout, and integration with your existing landscape. Once the design is approved, we handle all necessary permits and site preparation, which involves excavation and base compaction. The installation phase then proceeds with laying materials, joint filling, and final detailing. Throughout, we maintain clear communication and ensure quality craftsmanship.",
+        "description": "The custom walkway process involves initial consultation, design development, permit acquisition, site preparation, material installation, and final detailing, with continuous communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

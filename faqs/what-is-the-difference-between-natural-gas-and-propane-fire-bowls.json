@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between natural gas and propane fire-bowls?",
+  "description": "Natural gas fire-bowls connect to your home's gas line for continuous fuel, while propane fire-bowls use portable tanks, offering placement flexibility.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-natural-gas-and-propane-fire-bowls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between natural gas and propane fire-bowls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural gas fire-bowls are connected directly to your home's gas line, offering a continuous fuel supply without the need for refilling tanks. They are generally more cost-effective for frequent use but require professional gas line installation. Propane fire-bowls use portable tanks, providing flexibility in placement as they don't need a fixed gas line. However, propane tanks require refilling or replacement. The choice depends on convenience, usage frequency, and existing utility access.",
+        "description": "Natural gas fire-bowls connect to your home's gas line for continuous fuel, while propane fire-bowls use portable tanks, offering placement flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

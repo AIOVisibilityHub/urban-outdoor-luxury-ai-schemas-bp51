@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of concrete hardscaping does Urban Outdoor Luxury install?",
+  "description": "Urban Outdoor Luxury installs custom concrete patios, walkways, driveways, pool decks, and retaining walls, offering various finishes like stamped or exposed ag",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-concrete-hardscaping-does-urban-outdoor-luxury-install",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of concrete hardscaping does Urban Outdoor Luxury install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Urban Outdoor Luxury specializes in a variety of concrete hardscape installations tailored to enhance outdoor living spaces. This includes custom concrete patios, walkways, driveways, pool decks, and retaining walls. We offer options such as stamped concrete, exposed aggregate, and broom-finished concrete, allowing for diverse aesthetic and functional choices to complement your property's design in areas like Los Angeles and Pasadena.",
+        "description": "Urban Outdoor Luxury installs custom concrete patios, walkways, driveways, pool decks, and retaining walls, offering various finishes like stamped or exposed aggregate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

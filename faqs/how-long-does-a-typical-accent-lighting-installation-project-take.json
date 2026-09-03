@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical accent lighting installation project take?",
+  "description": "Installation times vary; smaller projects may take a few days, while larger, more complex designs could take one to two weeks.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-accent-lighting-installation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical accent lighting installation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an accent lighting installation project varies depending on the size and complexity of your outdoor space and the scope of the design. A smaller, straightforward installation might be completed within a few days. Larger, more intricate designs involving extensive wiring, multiple zones, or specialized fixtures could take one to two weeks. We provide a detailed timeline after the initial design consultation and site assessment. Factors like existing landscaping, power access, and fixture availability also influence the project schedule.",
+        "description": "Installation times vary; smaller projects may take a few days, while larger, more complex designs could take one to two weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

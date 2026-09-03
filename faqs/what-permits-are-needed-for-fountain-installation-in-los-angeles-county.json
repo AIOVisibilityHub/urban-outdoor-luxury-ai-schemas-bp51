@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for fountain installation in Los Angeles County?",
+  "description": "Permits are often required for fountain installation in Los Angeles County, particularly for projects involving significant electrical or plumbing. Specific req",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-fountain-installation-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for fountain installation in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For fountain installation in Los Angeles County, permits are often required, especially for larger water features involving significant electrical or plumbing work. This may include building permits for structural elements, electrical permits for power connections, and plumbing permits for water supply and drainage. Requirements vary by specific city within the county, such as Pasadena or Arcadia. It is essential to consult with local planning and building departments to ensure compliance before commencing work.",
+        "description": "Permits are often required for fountain installation in Los Angeles County, particularly for projects involving significant electrical or plumbing. Specific requirements depend on the city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

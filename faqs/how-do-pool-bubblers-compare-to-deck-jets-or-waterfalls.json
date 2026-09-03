@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do pool bubblers compare to deck jets or waterfalls?",
+  "description": "Bubblers offer soft, upward streams from within the pool, while deck jets arc water from the deck, and waterfalls create a cascading flow. Each provides a disti",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-pool-bubblers-compare-to-deck-jets-or-waterfalls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do pool bubblers compare to deck jets or waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool bubblers create a soft, upward stream directly from within the pool, ideal for shallow areas like Baja shelves, offering a more intimate water feature. Deck jets shoot thin streams of water into the pool from the deck, providing dynamic arcs. Waterfalls create a larger, cascading flow, often from a raised feature. Each offers a distinct aesthetic and sound; bubblers are typically chosen for their subtle elegance and tranquil effect.",
+        "description": "Bubblers offer soft, upward streams from within the pool, while deck jets arc water from the deck, and waterfalls create a cascading flow. Each provides a distinct aesthetic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

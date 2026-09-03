@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How noisy are outdoor fountains, and can the sound be controlled?",
+  "description": "Fountain noise levels vary by design and water flow. Sound can be controlled by adjusting pump flow or selecting quieter designs like bubbling features.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-noisy-are-outdoor-fountains-and-can-the-sound-be-controlled",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How noisy are outdoor fountains, and can the sound be controlled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The noise level of an outdoor fountain varies based on its design, water flow, and pump strength. Fountains with multiple tiers or high-volume cascades produce more prominent sounds, while bubbling features or gentle spills are quieter. The sound can be controlled by adjusting the pump's flow rate, selecting a design with less aggressive water movement, or incorporating landscaping elements to absorb or diffuse sound. The goal is often a pleasant, natural sound, not excessive noise.",
+        "description": "Fountain noise levels vary by design and water flow. Sound can be controlled by adjusting pump flow or selecting quieter designs like bubbling features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
