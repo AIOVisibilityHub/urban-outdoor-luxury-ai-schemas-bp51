@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the construction process for an integrated pool and spa?",
-  "description": "The process involves excavation, steel and shell construction, plumbing/electrical, interior finishes, decking, and equipment installation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-construction-process-for-an-integrated-pool-and-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the construction process for an integrated pool and spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction process for an integrated pool and spa typically begins with site preparation and excavation based on the approved design. Next, the steel reinforcement cage is installed, followed by the shotcrete or gunite application for the shell. Plumbing and electrical systems are then roughed in. After the shell cures, interior finishes like tile and plaster are applied, along with decking and any surrounding hardscaping. Finally, equipment is installed, water is added, and the system is commissioned.",
-        "description": "The process involves excavation, steel and shell construction, plumbing/electrical, interior finishes, decking, and equipment installation."
-      }
-    }
-  ],
+  "name": "What is the construction process for an integrated pool and spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the construction process for an integrated pool and spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction process for an integrated pool and spa typically begins with site preparation and excavation based on the approved design. Next, the steel reinforcement cage is installed, followed by the shotcrete or gunite application for the shell. Plumbing and electrical systems are then roughed in. After the shell cures, interior finishes like tile and plaster are applied, along with decking and any surrounding hardscaping. Finally, equipment is installed, water is added, and the system is commissioned.",
+        "@type": "Answer",
+        "description": "The process involves excavation, steel and shell construction, plumbing/electrical, interior finishes, decking, and equipment installation."
+      }
+    }
+  ],
+  "description": "The process involves excavation, steel and shell construction, plumbing/electrical, interior finishes, decking, and equipment installation."
 }

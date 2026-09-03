@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of integrating an outdoor kitchen into my entertaining area?",
-  "description": "An outdoor kitchen enhances functionality, allowing hosts to cook and socialize outdoors. Benefits include increased property value, expanded living space, and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-integrating-an-outdoor-kitchen-into-my-entertaining-are",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of integrating an outdoor kitchen into my entertaining area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Integrating an outdoor kitchen significantly enhances the functionality and enjoyment of your entertaining area. It allows hosts to prepare and serve food outdoors, remaining part of the gathering rather than being confined indoors. Benefits include increased property value, expanded living space, and the ability to cook without heating the indoor kitchen during warm weather. A well-designed outdoor kitchen can include grills, burners, sinks, refrigerators, and storage, making outdoor dining a seamless and convenient experience for family and guests alike.",
-        "description": "An outdoor kitchen enhances functionality, allowing hosts to cook and socialize outdoors. Benefits include increased property value, expanded living space, and convenient outdoor dining."
-      }
-    }
-  ],
+  "name": "What are the benefits of integrating an outdoor kitchen into my entertaining area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of integrating an outdoor kitchen into my entertaining area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating an outdoor kitchen significantly enhances the functionality and enjoyment of your entertaining area. It allows hosts to prepare and serve food outdoors, remaining part of the gathering rather than being confined indoors. Benefits include increased property value, expanded living space, and the ability to cook without heating the indoor kitchen during warm weather. A well-designed outdoor kitchen can include grills, burners, sinks, refrigerators, and storage, making outdoor dining a seamless and convenient experience for family and guests alike.",
+        "@type": "Answer",
+        "description": "An outdoor kitchen enhances functionality, allowing hosts to cook and socialize outdoors. Benefits include increased property value, expanded living space, and convenient outdoor dining."
+      }
+    }
+  ],
+  "description": "An outdoor kitchen enhances functionality, allowing hosts to cook and socialize outdoors. Benefits include increased property value, expanded living space, and"
 }

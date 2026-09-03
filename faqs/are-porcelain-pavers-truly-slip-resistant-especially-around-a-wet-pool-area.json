@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are porcelain pavers truly slip-resistant, especially around a wet pool area?",
-  "description": "Porcelain pavers are designed with textured surfaces and meet DCOF standards to provide high slip resistance, even when wet, making them safe for pool decks.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-porcelain-pavers-truly-slip-resistant-especially-around-a-wet-pool-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are porcelain pavers truly slip-resistant, especially around a wet pool area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, porcelain pavers are specifically engineered to offer high slip resistance, even when wet. Manufacturers often design outdoor porcelain tiles with textured surfaces to increase friction, minimizing the risk of slips and falls around pool areas. They typically meet or exceed industry standards for dynamic coefficient of friction (DCOF), which measures a surface's resistance to slipping. This inherent property makes them a safe and practical choice for any pool deck environment where water exposure is constant.",
-        "description": "Porcelain pavers are designed with textured surfaces and meet DCOF standards to provide high slip resistance, even when wet, making them safe for pool decks."
-      }
-    }
-  ],
+  "name": "Are porcelain pavers truly slip-resistant, especially around a wet pool area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are porcelain pavers truly slip-resistant, especially around a wet pool area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, porcelain pavers are specifically engineered to offer high slip resistance, even when wet. Manufacturers often design outdoor porcelain tiles with textured surfaces to increase friction, minimizing the risk of slips and falls around pool areas. They typically meet or exceed industry standards for dynamic coefficient of friction (DCOF), which measures a surface's resistance to slipping. This inherent property makes them a safe and practical choice for any pool deck environment where water exposure is constant.",
+        "@type": "Answer",
+        "description": "Porcelain pavers are designed with textured surfaces and meet DCOF standards to provide high slip resistance, even when wet, making them safe for pool decks."
+      }
+    }
+  ],
+  "description": "Porcelain pavers are designed with textured surfaces and meet DCOF standards to provide high slip resistance, even when wet, making them safe for pool decks."
 }

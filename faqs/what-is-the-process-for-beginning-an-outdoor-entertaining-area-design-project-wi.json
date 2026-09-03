@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for beginning an outdoor entertaining area design project with your firm?",
-  "description": "Our process involves an initial consultation, site analysis, conceptual and detailed design, permit acquisition, and finally, construction, with client communic",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-beginning-an-outdoor-entertaining-area-design-project-wi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for beginning an outdoor entertaining area design project with your firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation, either on-site or virtually, to understand your vision, needs, and budget. Following this, we conduct a detailed site analysis to assess topography, existing structures, and sun exposure. The next phase is conceptual design, where we present initial layouts and material palettes. After revisions and your approval, we move to detailed design, creating precise plans and elevations, often including 3D renderings. Once the design is finalized and permits are secured, our construction team commences work, maintaining open communication throughout the build until your luxury outdoor space is complete.",
-        "description": "Our process involves an initial consultation, site analysis, conceptual and detailed design, permit acquisition, and finally, construction, with client communication throughout."
-      }
-    }
-  ],
+  "name": "What is the process for beginning an outdoor entertaining area design project with your firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning an outdoor entertaining area design project with your firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation, either on-site or virtually, to understand your vision, needs, and budget. Following this, we conduct a detailed site analysis to assess topography, existing structures, and sun exposure. The next phase is conceptual design, where we present initial layouts and material palettes. After revisions and your approval, we move to detailed design, creating precise plans and elevations, often including 3D renderings. Once the design is finalized and permits are secured, our construction team commences work, maintaining open communication throughout the build until your luxury outdoor space is complete.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, site analysis, conceptual and detailed design, permit acquisition, and finally, construction, with client communication throughout."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, site analysis, conceptual and detailed design, permit acquisition, and finally, construction, with client communic"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What type of permits are needed for an outdoor lounge area in Pasadena?",
-  "description": "Permits in Pasadena may be needed for structures, electrical, plumbing, grading, and changes to impervious surfaces; we handle all applications and compliance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-type-of-permits-are-needed-for-an-outdoor-lounge-area-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What type of permits are needed for an outdoor lounge area in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Pasadena, permits for an outdoor lounge area are often required depending on the scope of work. This may include building permits for structures like pergolas, gazebos, or covered patios, electrical permits for lighting and outlets, and plumbing permits for water features or outdoor kitchens. Any significant grading, changes to impervious surfaces, or new fences might also require approval. Our firm handles all necessary permit applications and ensures compliance with local zoning ordinances and building codes, streamlining the process for you.",
-        "description": "Permits in Pasadena may be needed for structures, electrical, plumbing, grading, and changes to impervious surfaces; we handle all applications and compliance."
-      }
-    }
-  ],
+  "name": "What type of permits are needed for an outdoor lounge area in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What type of permits are needed for an outdoor lounge area in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Pasadena, permits for an outdoor lounge area are often required depending on the scope of work. This may include building permits for structures like pergolas, gazebos, or covered patios, electrical permits for lighting and outlets, and plumbing permits for water features or outdoor kitchens. Any significant grading, changes to impervious surfaces, or new fences might also require approval. Our firm handles all necessary permit applications and ensures compliance with local zoning ordinances and building codes, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Permits in Pasadena may be needed for structures, electrical, plumbing, grading, and changes to impervious surfaces; we handle all applications and compliance."
+      }
+    }
+  ],
+  "description": "Permits in Pasadena may be needed for structures, electrical, plumbing, grading, and changes to impervious surfaces; we handle all applications and compliance."
 }

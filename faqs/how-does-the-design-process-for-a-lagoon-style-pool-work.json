@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does the design process for a lagoon-style pool work?",
-  "description": "The design process involves site evaluation, conceptual drawings, 3D renderings, material selection, and client collaboration to create custom blueprints for yo",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-the-design-process-for-a-lagoon-style-pool-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does the design process for a lagoon-style pool work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The design process for a lagoon-style pool typically begins with a comprehensive site evaluation and a consultation to understand your vision, preferences, and budget. Our design team then creates custom conceptual drawings and 3D renderings, showcasing the pool's shape, features, and integration with your landscape. We collaborate closely with you to refine the design, select materials, and incorporate desired elements like rock formations, waterfalls, and lighting. Once the design is finalized and approved, detailed construction blueprints are prepared, which are then used for permitting and construction.",
-        "description": "The design process involves site evaluation, conceptual drawings, 3D renderings, material selection, and client collaboration to create custom blueprints for your lagoon pool."
-      }
-    }
-  ],
+  "name": "How does the design process for a lagoon-style pool work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does the design process for a lagoon-style pool work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design process for a lagoon-style pool typically begins with a comprehensive site evaluation and a consultation to understand your vision, preferences, and budget. Our design team then creates custom conceptual drawings and 3D renderings, showcasing the pool's shape, features, and integration with your landscape. We collaborate closely with you to refine the design, select materials, and incorporate desired elements like rock formations, waterfalls, and lighting. Once the design is finalized and approved, detailed construction blueprints are prepared, which are then used for permitting and construction.",
+        "@type": "Answer",
+        "description": "The design process involves site evaluation, conceptual drawings, 3D renderings, material selection, and client collaboration to create custom blueprints for your lagoon pool."
+      }
+    }
+  ],
+  "description": "The design process involves site evaluation, conceptual drawings, 3D renderings, material selection, and client collaboration to create custom blueprints for yo"
 }

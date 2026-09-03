@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical natural stone pool deck installation take?",
-  "description": "Installation typically takes 1 to 3 weeks for a standard residential pool deck, depending on size and complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-natural-stone-pool-deck-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical natural stone pool deck installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a natural stone pool deck installation varies based on the project's size, complexity, and specific site conditions. Generally, a standard residential pool deck can take anywhere from 1 to 3 weeks from ground preparation to completion. This includes excavation, base preparation, stone laying, grouting, and sealing. Larger or more intricate designs, or those requiring significant grading or drainage work, may extend the timeline. We provide a detailed project schedule after the initial site assessment.",
-        "description": "Installation typically takes 1 to 3 weeks for a standard residential pool deck, depending on size and complexity."
-      }
-    }
-  ],
+  "name": "How long does a typical natural stone pool deck installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical natural stone pool deck installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a natural stone pool deck installation varies based on the project's size, complexity, and specific site conditions. Generally, a standard residential pool deck can take anywhere from 1 to 3 weeks from ground preparation to completion. This includes excavation, base preparation, stone laying, grouting, and sealing. Larger or more intricate designs, or those requiring significant grading or drainage work, may extend the timeline. We provide a detailed project schedule after the initial site assessment.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1 to 3 weeks for a standard residential pool deck, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1 to 3 weeks for a standard residential pool deck, depending on size and complexity."
 }

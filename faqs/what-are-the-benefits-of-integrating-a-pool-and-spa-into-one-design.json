@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of integrating a pool and spa into one design?",
-  "description": "Integrated pool and spa designs save space, create a unified look, and can simplify maintenance with shared systems.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-integrating-a-pool-and-spa-into-one-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of integrating a pool and spa into one design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Integrating a pool and spa offers several advantages, including optimized space utilization and a cohesive aesthetic. From a practical standpoint, shared plumbing and equipment can simplify maintenance and reduce overall operational costs compared to separate installations. This design also enhances the user experience, allowing for seamless transitions between swimming and relaxation, often controlled from a single system for convenience. It creates a unified outdoor living space that is both functional and visually appealing.",
-        "description": "Integrated pool and spa designs save space, create a unified look, and can simplify maintenance with shared systems."
-      }
-    }
-  ],
+  "name": "What are the benefits of integrating a pool and spa into one design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of integrating a pool and spa into one design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating a pool and spa offers several advantages, including optimized space utilization and a cohesive aesthetic. From a practical standpoint, shared plumbing and equipment can simplify maintenance and reduce overall operational costs compared to separate installations. This design also enhances the user experience, allowing for seamless transitions between swimming and relaxation, often controlled from a single system for convenience. It creates a unified outdoor living space that is both functional and visually appealing.",
+        "@type": "Answer",
+        "description": "Integrated pool and spa designs save space, create a unified look, and can simplify maintenance with shared systems."
+      }
+    }
+  ],
+  "description": "Integrated pool and spa designs save space, create a unified look, and can simplify maintenance with shared systems."
 }

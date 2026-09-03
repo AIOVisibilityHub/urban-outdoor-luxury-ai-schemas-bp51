@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an outdoor lounge area increase my property value?",
-  "description": "A well-designed outdoor lounge can increase property value by expanding living space, enhancing curb appeal, and offering an attractive amenity, especially in a",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-outdoor-lounge-area-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an outdoor lounge area increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-designed and professionally built outdoor lounge area can significantly increase your property value, especially in markets like Los Angeles where outdoor living is highly valued. It expands the usable living space of your home, enhances curb appeal, and provides an attractive amenity that appeals to potential buyers. High-quality construction and thoughtful design that integrates seamlessly with the existing architecture and landscape offer the best return on investment. It transforms a yard into a functional and luxurious extension of your home.",
-        "description": "A well-designed outdoor lounge can increase property value by expanding living space, enhancing curb appeal, and offering an attractive amenity, especially in areas valuing outdoor living."
-      }
-    }
-  ],
+  "name": "Can an outdoor lounge area increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor lounge area increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally built outdoor lounge area can significantly increase your property value, especially in markets like Los Angeles where outdoor living is highly valued. It expands the usable living space of your home, enhances curb appeal, and provides an attractive amenity that appeals to potential buyers. High-quality construction and thoughtful design that integrates seamlessly with the existing architecture and landscape offer the best return on investment. It transforms a yard into a functional and luxurious extension of your home.",
+        "@type": "Answer",
+        "description": "A well-designed outdoor lounge can increase property value by expanding living space, enhancing curb appeal, and offering an attractive amenity, especially in areas valuing outdoor living."
+      }
+    }
+  ],
+  "description": "A well-designed outdoor lounge can increase property value by expanding living space, enhancing curb appeal, and offering an attractive amenity, especially in a"
 }

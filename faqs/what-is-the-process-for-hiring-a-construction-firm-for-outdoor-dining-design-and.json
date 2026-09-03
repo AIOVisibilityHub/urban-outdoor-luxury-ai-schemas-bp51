@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for hiring a construction firm for outdoor dining design and build?",
-  "description": "The process involves consultation, site assessment, design, permitting, construction, and final walkthrough, managed by the construction firm.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-hiring-a-construction-firm-for-outdoor-dining-design-and",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for hiring a construction firm for outdoor dining design and build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and specific needs. Next, the firm will conduct a site assessment to evaluate feasibility and existing conditions. This leads to preliminary design concepts and a detailed proposal outlining scope, timeline, and costs. Upon agreement, detailed architectural plans are developed, submitted for permits, and materials are sourced. Construction then commences, managed by the firm, with regular updates until project completion and final walkthrough. Post-construction support may also be offered.",
-        "description": "The process involves consultation, site assessment, design, permitting, construction, and final walkthrough, managed by the construction firm."
-      }
-    }
-  ],
+  "name": "What is the process for hiring a construction firm for outdoor dining design and build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring a construction firm for outdoor dining design and build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and specific needs. Next, the firm will conduct a site assessment to evaluate feasibility and existing conditions. This leads to preliminary design concepts and a detailed proposal outlining scope, timeline, and costs. Upon agreement, detailed architectural plans are developed, submitted for permits, and materials are sourced. Construction then commences, managed by the firm, with regular updates until project completion and final walkthrough. Post-construction support may also be offered.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, design, permitting, construction, and final walkthrough, managed by the construction firm."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, design, permitting, construction, and final walkthrough, managed by the construction firm."
 }

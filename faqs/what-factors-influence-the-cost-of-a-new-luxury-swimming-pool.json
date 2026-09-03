@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of a new luxury swimming pool?",
-  "description": "Cost factors include pool size, shape, materials, custom features like spas or waterfalls, site conditions, and landscaping.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-new-luxury-swimming-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of a new luxury swimming pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a new luxury swimming pool is influenced by several factors. These include the pool's size, shape, and depth, as well as the chosen materials for finishes like tile, coping, and decking. Custom features such as waterfalls, spas, fire features, smart automation systems, and specialized lighting significantly impact the budget. Site accessibility, soil conditions, and the need for retaining walls or extensive grading can also contribute to overall costs.",
-        "description": "Cost factors include pool size, shape, materials, custom features like spas or waterfalls, site conditions, and landscaping."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of a new luxury swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new luxury swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new luxury swimming pool is influenced by several factors. These include the pool's size, shape, and depth, as well as the chosen materials for finishes like tile, coping, and decking. Custom features such as waterfalls, spas, fire features, smart automation systems, and specialized lighting significantly impact the budget. Site accessibility, soil conditions, and the need for retaining walls or extensive grading can also contribute to overall costs.",
+        "@type": "Answer",
+        "description": "Cost factors include pool size, shape, materials, custom features like spas or waterfalls, site conditions, and landscaping."
+      }
+    }
+  ],
+  "description": "Cost factors include pool size, shape, materials, custom features like spas or waterfalls, site conditions, and landscaping."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of materials are commonly used for pool coping?",
-  "description": "Popular pool coping materials include natural stone (travertine, limestone), concrete, brick, and pavers, each offering different aesthetics and benefits.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-materials-are-commonly-used-for-pool-coping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of materials are commonly used for pool coping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common materials for pool coping include natural stone (such as travertine, limestone, or sandstone), concrete (poured-in-place or precast), brick, and pavers. Travertine is popular for its natural beauty and cool surface underfoot. Concrete offers versatility in shape and finish, often being the most economical option. Brick provides a classic look, while pavers come in various styles and can integrate seamlessly with the pool deck. The best choice depends on aesthetics, durability, budget, and local climate considerations.",
-        "description": "Popular pool coping materials include natural stone (travertine, limestone), concrete, brick, and pavers, each offering different aesthetics and benefits."
-      }
-    }
-  ],
+  "name": "What types of materials are commonly used for pool coping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for pool coping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for pool coping include natural stone (such as travertine, limestone, or sandstone), concrete (poured-in-place or precast), brick, and pavers. Travertine is popular for its natural beauty and cool surface underfoot. Concrete offers versatility in shape and finish, often being the most economical option. Brick provides a classic look, while pavers come in various styles and can integrate seamlessly with the pool deck. The best choice depends on aesthetics, durability, budget, and local climate considerations.",
+        "@type": "Answer",
+        "description": "Popular pool coping materials include natural stone (travertine, limestone), concrete, brick, and pavers, each offering different aesthetics and benefits."
+      }
+    }
+  ],
+  "description": "Popular pool coping materials include natural stone (travertine, limestone), concrete, brick, and pavers, each offering different aesthetics and benefits."
 }

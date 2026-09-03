@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an infinity-edge pool and how does it work?",
-  "description": "An infinity-edge pool features one or more edges that are subtly lower than the water level, creating the illusion of a vanishing horizon as water flows into a",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-an-infinity-edge-pool-and-how-does-it-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an infinity-edge pool and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An infinity-edge pool, also known as a vanishing edge or zero-edge pool, creates an illusion of water extending to the horizon or merging with a larger body of water. This effect is achieved by constructing one or more edges slightly lower than the water level, allowing water to flow over the edge into a catch basin below. A recirculation system then pumps this water back into the main pool, maintaining the continuous visual effect. This design element provides a striking aesthetic, especially when positioned with panoramic views, and is a hallmark of luxury outdoor living.",
-        "description": "An infinity-edge pool features one or more edges that are subtly lower than the water level, creating the illusion of a vanishing horizon as water flows into a hidden catch basin and recirculates."
-      }
-    }
-  ],
+  "name": "What is an infinity-edge pool and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an infinity-edge pool and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An infinity-edge pool, also known as a vanishing edge or zero-edge pool, creates an illusion of water extending to the horizon or merging with a larger body of water. This effect is achieved by constructing one or more edges slightly lower than the water level, allowing water to flow over the edge into a catch basin below. A recirculation system then pumps this water back into the main pool, maintaining the continuous visual effect. This design element provides a striking aesthetic, especially when positioned with panoramic views, and is a hallmark of luxury outdoor living.",
+        "@type": "Answer",
+        "description": "An infinity-edge pool features one or more edges that are subtly lower than the water level, creating the illusion of a vanishing horizon as water flows into a hidden catch basin and recirculates."
+      }
+    }
+  ],
+  "description": "An infinity-edge pool features one or more edges that are subtly lower than the water level, creating the illusion of a vanishing horizon as water flows into a"
 }

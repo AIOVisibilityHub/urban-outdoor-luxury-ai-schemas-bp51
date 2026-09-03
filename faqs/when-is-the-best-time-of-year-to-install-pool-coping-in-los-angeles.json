@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to install pool coping in Los Angeles?",
-  "description": "The best time to install pool coping in Los Angeles is during spring and early fall, due to milder temperatures and drier conditions.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-pool-coping-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to install pool coping in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to install pool coping in Los Angeles is typically during the drier, milder months. Spring and early fall are ideal, as temperatures are moderate, which is favorable for concrete curing and adhesive setting. Avoiding the peak heat of summer ensures more comfortable working conditions and optimal material performance. While winter in Los Angeles is generally mild, occasional rain can delay outdoor projects. Scheduling during these transitional seasons helps ensure a smooth installation process and allows your new coping to properly set before heavy pool use.",
-        "description": "The best time to install pool coping in Los Angeles is during spring and early fall, due to milder temperatures and drier conditions."
-      }
-    }
-  ],
+  "name": "When is the best time of year to install pool coping in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to install pool coping in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to install pool coping in Los Angeles is typically during the drier, milder months. Spring and early fall are ideal, as temperatures are moderate, which is favorable for concrete curing and adhesive setting. Avoiding the peak heat of summer ensures more comfortable working conditions and optimal material performance. While winter in Los Angeles is generally mild, occasional rain can delay outdoor projects. Scheduling during these transitional seasons helps ensure a smooth installation process and allows your new coping to properly set before heavy pool use.",
+        "@type": "Answer",
+        "description": "The best time to install pool coping in Los Angeles is during spring and early fall, due to milder temperatures and drier conditions."
+      }
+    }
+  ],
+  "description": "The best time to install pool coping in Los Angeles is during spring and early fall, due to milder temperatures and drier conditions."
 }

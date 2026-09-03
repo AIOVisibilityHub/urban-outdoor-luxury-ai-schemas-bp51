@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider a retractable roof or awning for my outdoor dining area?",
-  "description": "Consider a retractable roof or awning if you need flexible protection from sun and light rain to maximize year-round usability and guest comfort.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-consider-a-retractable-roof-or-awning-for-my-outdoor-dining-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider a retractable roof or awning for my outdoor dining area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A retractable roof or awning is a valuable addition if your outdoor dining area needs flexible protection from varying weather conditions. It allows you to offer shade on sunny days and shelter during light rain, maximizing usability throughout the year. Consider this option if your local climate experiences frequent sun exposure followed by sudden showers, or if you want to extend your dining hours into cooler evenings with integrated heaters. It's an investment that significantly enhances guest comfort and operational resilience, especially in diverse climates.",
-        "description": "Consider a retractable roof or awning if you need flexible protection from sun and light rain to maximize year-round usability and guest comfort."
-      }
-    }
-  ],
+  "name": "When should I consider a retractable roof or awning for my outdoor dining area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a retractable roof or awning for my outdoor dining area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A retractable roof or awning is a valuable addition if your outdoor dining area needs flexible protection from varying weather conditions. It allows you to offer shade on sunny days and shelter during light rain, maximizing usability throughout the year. Consider this option if your local climate experiences frequent sun exposure followed by sudden showers, or if you want to extend your dining hours into cooler evenings with integrated heaters. It's an investment that significantly enhances guest comfort and operational resilience, especially in diverse climates.",
+        "@type": "Answer",
+        "description": "Consider a retractable roof or awning if you need flexible protection from sun and light rain to maximize year-round usability and guest comfort."
+      }
+    }
+  ],
+  "description": "Consider a retractable roof or awning if you need flexible protection from sun and light rain to maximize year-round usability and guest comfort."
 }

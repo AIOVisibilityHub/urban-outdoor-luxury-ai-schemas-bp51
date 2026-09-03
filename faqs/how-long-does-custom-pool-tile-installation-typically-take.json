@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does custom pool tile installation typically take?",
-  "description": "Installation time varies based on pool size, design complexity, and tile type, typically ranging from 2-4 weeks for standard projects. Detailed timelines are pr",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-custom-pool-tile-installation-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does custom pool tile installation typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of custom pool tile installation varies depending on the pool's size, the complexity of the tile design, and the type of tiles selected. A standard pool re-tiling project might take approximately 2-4 weeks from preparation to completion. More intricate designs or larger pools could extend this timeline. Factors like weather conditions and necessary structural repairs can also influence the schedule. Our team provides a detailed project timeline after an initial consultation and assessment, ensuring clear communication throughout the process.",
-        "description": "Installation time varies based on pool size, design complexity, and tile type, typically ranging from 2-4 weeks for standard projects. Detailed timelines are provided after consultation."
-      }
-    }
-  ],
+  "name": "How long does custom pool tile installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom pool tile installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of custom pool tile installation varies depending on the pool's size, the complexity of the tile design, and the type of tiles selected. A standard pool re-tiling project might take approximately 2-4 weeks from preparation to completion. More intricate designs or larger pools could extend this timeline. Factors like weather conditions and necessary structural repairs can also influence the schedule. Our team provides a detailed project timeline after an initial consultation and assessment, ensuring clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "Installation time varies based on pool size, design complexity, and tile type, typically ranging from 2-4 weeks for standard projects. Detailed timelines are provided after consultation."
+      }
+    }
+  ],
+  "description": "Installation time varies based on pool size, design complexity, and tile type, typically ranging from 2-4 weeks for standard projects. Detailed timelines are pr"
 }

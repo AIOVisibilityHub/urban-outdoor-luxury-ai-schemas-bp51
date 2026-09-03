@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can porcelain pavers withstand the intense sun and heat of Los Angeles summers without fading or cracking?",
-  "description": "Yes, porcelain pavers are highly resistant to UV radiation and extreme temperatures, ensuring they won't fade or crack in the intense Los Angeles sun.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-porcelain-pavers-withstand-the-intense-sun-and-heat-of-los-angeles-summers-w",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can porcelain pavers withstand the intense sun and heat of Los Angeles summers without fading or cracking?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Porcelain pavers are highly resistant to UV radiation and extreme temperatures, making them an excellent choice for the sunny climate of Los Angeles. Their manufacturing process, which involves firing at very high temperatures, creates a dense, durable material that will not fade, warp, or crack under prolonged sun exposure or significant heat fluctuations. This ensures the pool deck maintains its original color and structural integrity year after year, even during intense summer heatwaves.",
-        "description": "Yes, porcelain pavers are highly resistant to UV radiation and extreme temperatures, ensuring they won't fade or crack in the intense Los Angeles sun."
-      }
-    }
-  ],
+  "name": "Can porcelain pavers withstand the intense sun and heat of Los Angeles summers without fading or cracking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can porcelain pavers withstand the intense sun and heat of Los Angeles summers without fading or cracking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain pavers are highly resistant to UV radiation and extreme temperatures, making them an excellent choice for the sunny climate of Los Angeles. Their manufacturing process, which involves firing at very high temperatures, creates a dense, durable material that will not fade, warp, or crack under prolonged sun exposure or significant heat fluctuations. This ensures the pool deck maintains its original color and structural integrity year after year, even during intense summer heatwaves.",
+        "@type": "Answer",
+        "description": "Yes, porcelain pavers are highly resistant to UV radiation and extreme temperatures, ensuring they won't fade or crack in the intense Los Angeles sun."
+      }
+    }
+  ],
+  "description": "Yes, porcelain pavers are highly resistant to UV radiation and extreme temperatures, ensuring they won't fade or crack in the intense Los Angeles sun."
 }

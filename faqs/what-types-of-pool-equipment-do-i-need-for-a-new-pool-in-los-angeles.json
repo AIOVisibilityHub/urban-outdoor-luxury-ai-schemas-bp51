@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of pool equipment do I need for a new pool in Los Angeles?",
-  "description": "Essential equipment for a new pool in Los Angeles includes a pump, filter, and heater. Sanitization systems and automation are also highly recommended.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-pool-equipment-do-i-need-for-a-new-pool-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of pool equipment do I need for a new pool in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a new pool in Los Angeles, essential equipment typically includes a pump for water circulation, a filter for debris removal, and a heater to extend your swimming season. Beyond these basics, consider a sanitization system like a salt chlorinator or UV/ozone for water purity. Automation systems can integrate these components for easier management. The specific type and size of equipment depend on your pool's volume, desired features, and local regulations.",
-        "description": "Essential equipment for a new pool in Los Angeles includes a pump, filter, and heater. Sanitization systems and automation are also highly recommended."
-      }
-    }
-  ],
+  "name": "What types of pool equipment do I need for a new pool in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of pool equipment do I need for a new pool in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a new pool in Los Angeles, essential equipment typically includes a pump for water circulation, a filter for debris removal, and a heater to extend your swimming season. Beyond these basics, consider a sanitization system like a salt chlorinator or UV/ozone for water purity. Automation systems can integrate these components for easier management. The specific type and size of equipment depend on your pool's volume, desired features, and local regulations.",
+        "@type": "Answer",
+        "description": "Essential equipment for a new pool in Los Angeles includes a pump, filter, and heater. Sanitization systems and automation are also highly recommended."
+      }
+    }
+  ],
+  "description": "Essential equipment for a new pool in Los Angeles includes a pump, filter, and heater. Sanitization systems and automation are also highly recommended."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of an integrated pool and spa?",
-  "description": "Costs are influenced by size, materials, design complexity, chosen technologies, and site conditions.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-an-integrated-pool-and-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of an integrated pool and spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several factors determine the cost of an integrated pool and spa. These include the size and depth of both components, chosen materials for finishes like tile and coping, the complexity of the design (e.g., infinity edges, custom shapes), and technology such as advanced heating systems, automation, and lighting. Site accessibility and any necessary grading or excavation work also contribute to the overall investment. Final costs are based on detailed design specifications.",
-        "description": "Costs are influenced by size, materials, design complexity, chosen technologies, and site conditions."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of an integrated pool and spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an integrated pool and spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the cost of an integrated pool and spa. These include the size and depth of both components, chosen materials for finishes like tile and coping, the complexity of the design (e.g., infinity edges, custom shapes), and technology such as advanced heating systems, automation, and lighting. Site accessibility and any necessary grading or excavation work also contribute to the overall investment. Final costs are based on detailed design specifications.",
+        "@type": "Answer",
+        "description": "Costs are influenced by size, materials, design complexity, chosen technologies, and site conditions."
+      }
+    }
+  ],
+  "description": "Costs are influenced by size, materials, design complexity, chosen technologies, and site conditions."
 }

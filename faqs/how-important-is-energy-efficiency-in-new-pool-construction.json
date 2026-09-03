@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How important is energy efficiency in new pool construction?",
-  "description": "Energy efficiency is crucial for lower operating costs. It involves using variable-speed pumps, efficient heating, proper insulation, and smart automation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-important-is-energy-efficiency-in-new-pool-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How important is energy efficiency in new pool construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Energy efficiency is highly important in new pool construction, contributing to lower operating costs and a reduced environmental footprint. This is achieved through various methods, including installing variable-speed pumps, which consume significantly less energy than single-speed models. Utilizing efficient heating options like solar pool heaters or high-efficiency heat pumps, combined with proper insulation and pool covers, further minimizes energy use. Strategic design and smart automation also play a role in optimizing energy consumption.",
-        "description": "Energy efficiency is crucial for lower operating costs. It involves using variable-speed pumps, efficient heating, proper insulation, and smart automation."
-      }
-    }
-  ],
+  "name": "How important is energy efficiency in new pool construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How important is energy efficiency in new pool construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy efficiency is highly important in new pool construction, contributing to lower operating costs and a reduced environmental footprint. This is achieved through various methods, including installing variable-speed pumps, which consume significantly less energy than single-speed models. Utilizing efficient heating options like solar pool heaters or high-efficiency heat pumps, combined with proper insulation and pool covers, further minimizes energy use. Strategic design and smart automation also play a role in optimizing energy consumption.",
+        "@type": "Answer",
+        "description": "Energy efficiency is crucial for lower operating costs. It involves using variable-speed pumps, efficient heating, proper insulation, and smart automation."
+      }
+    }
+  ],
+  "description": "Energy efficiency is crucial for lower operating costs. It involves using variable-speed pumps, efficient heating, proper insulation, and smart automation."
 }

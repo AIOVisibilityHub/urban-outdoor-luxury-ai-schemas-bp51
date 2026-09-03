@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary benefits of choosing porcelain pavers for a pool deck?",
-  "description": "Porcelain pavers are durable, slip-resistant, non-porous, low-maintenance, and aesthetically versatile, making them ideal for pool decks.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-choosing-porcelain-pavers-for-a-pool-deck",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary benefits of choosing porcelain pavers for a pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Porcelain pavers offer significant advantages for pool decks, including exceptional durability and resistance to water, stains, and chemicals, which is crucial in a pool environment. They are also non-porous, preventing mold and mildew growth, and maintain a consistent appearance over time without fading from sun exposure. Their slip-resistant properties, even when wet, enhance safety around the pool. Additionally, porcelain is low-maintenance, requiring only basic cleaning, and its aesthetic versatility allows for a wide range of design options to complement any outdoor space.",
-        "description": "Porcelain pavers are durable, slip-resistant, non-porous, low-maintenance, and aesthetically versatile, making them ideal for pool decks."
-      }
-    }
-  ],
+  "name": "What are the primary benefits of choosing porcelain pavers for a pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of choosing porcelain pavers for a pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain pavers offer significant advantages for pool decks, including exceptional durability and resistance to water, stains, and chemicals, which is crucial in a pool environment. They are also non-porous, preventing mold and mildew growth, and maintain a consistent appearance over time without fading from sun exposure. Their slip-resistant properties, even when wet, enhance safety around the pool. Additionally, porcelain is low-maintenance, requiring only basic cleaning, and its aesthetic versatility allows for a wide range of design options to complement any outdoor space.",
+        "@type": "Answer",
+        "description": "Porcelain pavers are durable, slip-resistant, non-porous, low-maintenance, and aesthetically versatile, making them ideal for pool decks."
+      }
+    }
+  ],
+  "description": "Porcelain pavers are durable, slip-resistant, non-porous, low-maintenance, and aesthetically versatile, making them ideal for pool decks."
 }

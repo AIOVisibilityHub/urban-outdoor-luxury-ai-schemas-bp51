@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What elements should I consider for a luxury outdoor living space?",
-  "description": "Luxury outdoor spaces should consider high-quality materials, outdoor kitchens, custom fire pits, water features, smart lighting, and designer landscaping for c",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-elements-should-i-consider-for-a-luxury-outdoor-living-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What elements should I consider for a luxury outdoor living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a luxury outdoor living space, consider elements that enhance both comfort and sophistication. This includes high-quality, durable materials like natural stone, premium hardwoods, and marine-grade stainless steel. Integrated features such as fully-equipped outdoor kitchens, custom fire pits, tranquil water features, and advanced smart lighting systems can elevate the experience. Thoughtful landscaping with mature plantings and designer furniture also contribute significantly. The design should prioritize seamless integration with your home's architecture and the surrounding environment.",
-        "description": "Luxury outdoor spaces should consider high-quality materials, outdoor kitchens, custom fire pits, water features, smart lighting, and designer landscaping for comfort and sophistication."
-      }
-    }
-  ],
+  "name": "What elements should I consider for a luxury outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What elements should I consider for a luxury outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury outdoor living space, consider elements that enhance both comfort and sophistication. This includes high-quality, durable materials like natural stone, premium hardwoods, and marine-grade stainless steel. Integrated features such as fully-equipped outdoor kitchens, custom fire pits, tranquil water features, and advanced smart lighting systems can elevate the experience. Thoughtful landscaping with mature plantings and designer furniture also contribute significantly. The design should prioritize seamless integration with your home's architecture and the surrounding environment.",
+        "@type": "Answer",
+        "description": "Luxury outdoor spaces should consider high-quality materials, outdoor kitchens, custom fire pits, water features, smart lighting, and designer landscaping for comfort and sophistication."
+      }
+    }
+  ],
+  "description": "Luxury outdoor spaces should consider high-quality materials, outdoor kitchens, custom fire pits, water features, smart lighting, and designer landscaping for c"
 }

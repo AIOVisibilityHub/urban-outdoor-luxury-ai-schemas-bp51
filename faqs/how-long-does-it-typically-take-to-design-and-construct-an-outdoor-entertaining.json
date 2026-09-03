@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it typically take to design and construct an outdoor entertaining area?",
-  "description": "Design and construction typically range from 8 to 20 weeks, varying with project complexity. This includes design, permitting, and the physical build.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-design-and-construct-an-outdoor-entertaining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it typically take to design and construct an outdoor entertaining area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for designing and constructing an outdoor entertaining area varies significantly based on the project's complexity, size, and the materials selected. A typical project, from initial consultation to final completion, can range from 8 to 20 weeks. The design phase usually takes 2-4 weeks, involving concept development, revisions, and material selection. Permitting processes in areas like Los Angeles or Pasadena can add 4-8 weeks, depending on local regulations and project scope. Construction itself might take 6-12 weeks, influenced by weather, material availability, and the specific features being installed, such as custom kitchens or elaborate hardscaping.",
-        "description": "Design and construction typically range from 8 to 20 weeks, varying with project complexity. This includes design, permitting, and the physical build."
-      }
-    }
-  ],
+  "name": "How long does it typically take to design and construct an outdoor entertaining area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to design and construct an outdoor entertaining area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and constructing an outdoor entertaining area varies significantly based on the project's complexity, size, and the materials selected. A typical project, from initial consultation to final completion, can range from 8 to 20 weeks. The design phase usually takes 2-4 weeks, involving concept development, revisions, and material selection. Permitting processes in areas like Los Angeles or Pasadena can add 4-8 weeks, depending on local regulations and project scope. Construction itself might take 6-12 weeks, influenced by weather, material availability, and the specific features being installed, such as custom kitchens or elaborate hardscaping.",
+        "@type": "Answer",
+        "description": "Design and construction typically range from 8 to 20 weeks, varying with project complexity. This includes design, permitting, and the physical build."
+      }
+    }
+  ],
+  "description": "Design and construction typically range from 8 to 20 weeks, varying with project complexity. This includes design, permitting, and the physical build."
 }

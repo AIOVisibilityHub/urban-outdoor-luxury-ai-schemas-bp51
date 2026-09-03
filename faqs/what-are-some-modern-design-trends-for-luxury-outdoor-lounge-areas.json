@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some modern design trends for luxury outdoor lounge areas?",
-  "description": "Modern trends include seamless indoor-outdoor transitions, minimalist designs, integrated technology, natural materials, fire features, water elements, and biop",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-some-modern-design-trends-for-luxury-outdoor-lounge-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some modern design trends for luxury outdoor lounge areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern luxury outdoor lounge design trends emphasize seamless transitions between indoor and outdoor spaces, often achieved through expansive sliding glass doors and consistent material palettes. Popular aesthetics include minimalist designs with clean lines, integrated technology such as automated lighting and sound systems, and a focus on natural, sustainable materials. Fire features, water elements, and custom-built shade structures are also prominent. Designers are increasingly incorporating biophilic elements, blending lush plantings with sophisticated hardscaping to create serene and stylish environments.",
-        "description": "Modern trends include seamless indoor-outdoor transitions, minimalist designs, integrated technology, natural materials, fire features, water elements, and biophilic design."
-      }
-    }
-  ],
+  "name": "What are some modern design trends for luxury outdoor lounge areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some modern design trends for luxury outdoor lounge areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern luxury outdoor lounge design trends emphasize seamless transitions between indoor and outdoor spaces, often achieved through expansive sliding glass doors and consistent material palettes. Popular aesthetics include minimalist designs with clean lines, integrated technology such as automated lighting and sound systems, and a focus on natural, sustainable materials. Fire features, water elements, and custom-built shade structures are also prominent. Designers are increasingly incorporating biophilic elements, blending lush plantings with sophisticated hardscaping to create serene and stylish environments.",
+        "@type": "Answer",
+        "description": "Modern trends include seamless indoor-outdoor transitions, minimalist designs, integrated technology, natural materials, fire features, water elements, and biophilic design."
+      }
+    }
+  ],
+  "description": "Modern trends include seamless indoor-outdoor transitions, minimalist designs, integrated technology, natural materials, fire features, water elements, and biop"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of decking options are available for a modern pool area?",
-  "description": "Modern pool decking options include natural stone, concrete pavers, stamped concrete, and composite. They offer varied aesthetics, durability, and safety featur",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-decking-options-are-available-for-a-modern-pool-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of decking options are available for a modern pool area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern pool decking options combine aesthetics with durability and safety. Popular choices include natural stone pavers (like travertine or flagstone), concrete pavers, stamped concrete, and composite decking. Each offers unique textures, colors, and patterns to complement your home's style. Features like cool-touch surfaces, slip-resistant finishes, and integrated drainage systems can further enhance functionality and safety. The right choice depends on your budget, design preferences, and maintenance expectations.",
-        "description": "Modern pool decking options include natural stone, concrete pavers, stamped concrete, and composite. They offer varied aesthetics, durability, and safety features like cool-touch and slip resistance."
-      }
-    }
-  ],
+  "name": "What kind of decking options are available for a modern pool area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of decking options are available for a modern pool area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern pool decking options combine aesthetics with durability and safety. Popular choices include natural stone pavers (like travertine or flagstone), concrete pavers, stamped concrete, and composite decking. Each offers unique textures, colors, and patterns to complement your home's style. Features like cool-touch surfaces, slip-resistant finishes, and integrated drainage systems can further enhance functionality and safety. The right choice depends on your budget, design preferences, and maintenance expectations.",
+        "@type": "Answer",
+        "description": "Modern pool decking options include natural stone, concrete pavers, stamped concrete, and composite. They offer varied aesthetics, durability, and safety features like cool-touch and slip resistance."
+      }
+    }
+  ],
+  "description": "Modern pool decking options include natural stone, concrete pavers, stamped concrete, and composite. They offer varied aesthetics, durability, and safety featur"
 }

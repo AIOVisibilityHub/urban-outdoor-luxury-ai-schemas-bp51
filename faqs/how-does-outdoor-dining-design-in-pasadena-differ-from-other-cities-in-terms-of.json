@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does outdoor dining design in Pasadena differ from other cities in terms of regulations?",
-  "description": "Pasadena's outdoor dining design may have stricter regulations due to historic preservation guidelines and aesthetic controls, influencing material choices and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-outdoor-dining-design-in-pasadena-differ-from-other-cities-in-terms-of",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does outdoor dining design in Pasadena differ from other cities in terms of regulations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pasadena's outdoor dining regulations, while sharing similarities with other cities, may have specific nuances related to its historic preservation guidelines and stricter aesthetic controls. The city often emphasizes designs that complement existing architecture and contribute to its unique character. This can influence material choices, signage, and overall design aesthetics. Additionally, permitting processes might involve review by specific local commissions or departments focused on historical integrity or urban design. Always verify current Pasadena-specific ordinances for your project.",
-        "description": "Pasadena's outdoor dining design may have stricter regulations due to historic preservation guidelines and aesthetic controls, influencing material choices and requiring specific local reviews."
-      }
-    }
-  ],
+  "name": "How does outdoor dining design in Pasadena differ from other cities in terms of regulations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does outdoor dining design in Pasadena differ from other cities in terms of regulations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pasadena's outdoor dining regulations, while sharing similarities with other cities, may have specific nuances related to its historic preservation guidelines and stricter aesthetic controls. The city often emphasizes designs that complement existing architecture and contribute to its unique character. This can influence material choices, signage, and overall design aesthetics. Additionally, permitting processes might involve review by specific local commissions or departments focused on historical integrity or urban design. Always verify current Pasadena-specific ordinances for your project.",
+        "@type": "Answer",
+        "description": "Pasadena's outdoor dining design may have stricter regulations due to historic preservation guidelines and aesthetic controls, influencing material choices and requiring specific local reviews."
+      }
+    }
+  ],
+  "description": "Pasadena's outdoor dining design may have stricter regulations due to historic preservation guidelines and aesthetic controls, influencing material choices and"
 }

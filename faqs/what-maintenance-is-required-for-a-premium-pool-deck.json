@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a premium pool deck?",
-  "description": "Premium pool decks require routine sweeping and occasional cleaning with mild soap. Natural stone may need periodic sealing to maintain its appearance and prote",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-premium-pool-deck",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a premium pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a premium pool deck is generally designed to be manageable, though specific requirements depend on the material. Most premium decks benefit from regular sweeping or blowing to remove debris. Occasional cleaning with a mild, pH-neutral cleaner and a soft brush can help prevent stains and mildew. Natural stone decks may require periodic sealing to maintain their appearance and protect against moisture and staining. Following the manufacturer's recommendations for your specific material will ensure longevity and preserve the deck's premium look for years.",
-        "description": "Premium pool decks require routine sweeping and occasional cleaning with mild soap. Natural stone may need periodic sealing to maintain its appearance and protect against stains."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a premium pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a premium pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a premium pool deck is generally designed to be manageable, though specific requirements depend on the material. Most premium decks benefit from regular sweeping or blowing to remove debris. Occasional cleaning with a mild, pH-neutral cleaner and a soft brush can help prevent stains and mildew. Natural stone decks may require periodic sealing to maintain their appearance and protect against moisture and staining. Following the manufacturer's recommendations for your specific material will ensure longevity and preserve the deck's premium look for years.",
+        "@type": "Answer",
+        "description": "Premium pool decks require routine sweeping and occasional cleaning with mild soap. Natural stone may need periodic sealing to maintain its appearance and protect against stains."
+      }
+    }
+  ],
+  "description": "Premium pool decks require routine sweeping and occasional cleaning with mild soap. Natural stone may need periodic sealing to maintain its appearance and prote"
 }

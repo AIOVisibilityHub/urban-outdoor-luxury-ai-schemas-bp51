@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best suited for outdoor entertaining areas in the Southern California climate?",
-  "description": "Durable, heat-resistant materials are best for Southern California. Consider natural stone or porcelain for hardscaping, redwood or aluminum for structures, and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-suited-for-outdoor-entertaining-areas-in-the-southern-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best suited for outdoor entertaining areas in the Southern California climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Given Southern California's climate, durability and heat resistance are key. For hardscaping, natural stone (travertine, flagstone), porcelain pavers, and high-quality concrete are excellent choices for their longevity and aesthetic appeal. For structures like pergolas, redwood, cedar, or aluminum provide good weather resistance. Outdoor kitchen components should be marine-grade stainless steel for corrosion resistance. Fabrics for cushions and awnings should be UV-resistant and quick-drying, such as Sunbrella. Selecting materials that can withstand intense sun and occasional moisture fluctuations will ensure your outdoor area remains beautiful and functional for years.",
-        "description": "Durable, heat-resistant materials are best for Southern California. Consider natural stone or porcelain for hardscaping, redwood or aluminum for structures, and marine-grade stainless steel for kitchens."
-      }
-    }
-  ],
+  "name": "What materials are best suited for outdoor entertaining areas in the Southern California climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best suited for outdoor entertaining areas in the Southern California climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Given Southern California's climate, durability and heat resistance are key. For hardscaping, natural stone (travertine, flagstone), porcelain pavers, and high-quality concrete are excellent choices for their longevity and aesthetic appeal. For structures like pergolas, redwood, cedar, or aluminum provide good weather resistance. Outdoor kitchen components should be marine-grade stainless steel for corrosion resistance. Fabrics for cushions and awnings should be UV-resistant and quick-drying, such as Sunbrella. Selecting materials that can withstand intense sun and occasional moisture fluctuations will ensure your outdoor area remains beautiful and functional for years.",
+        "@type": "Answer",
+        "description": "Durable, heat-resistant materials are best for Southern California. Consider natural stone or porcelain for hardscaping, redwood or aluminum for structures, and marine-grade stainless steel for kitchens."
+      }
+    }
+  ],
+  "description": "Durable, heat-resistant materials are best for Southern California. Consider natural stone or porcelain for hardscaping, redwood or aluminum for structures, and"
 }

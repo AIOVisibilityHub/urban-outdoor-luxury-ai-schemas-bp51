@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for pool coping installation?",
-  "description": "Pool coping installation costs vary by material, pool size, and design complexity. Natural stone is typically pricier than concrete. A custom quote is needed.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-pool-coping-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for pool coping installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of pool coping installation varies significantly based on the material chosen, the pool's size and shape, and labor rates. Natural stone like travertine or limestone is generally more expensive per linear foot than concrete or brick. Custom shapes or intricate designs will also increase labor costs. While we cannot provide an exact quote without a site visit, basic concrete coping might start lower, with premium natural stone options ranging higher per linear foot. A detailed estimate requires assessing your specific project in the Los Angeles area.",
-        "description": "Pool coping installation costs vary by material, pool size, and design complexity. Natural stone is typically pricier than concrete. A custom quote is needed."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for pool coping installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for pool coping installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pool coping installation varies significantly based on the material chosen, the pool's size and shape, and labor rates. Natural stone like travertine or limestone is generally more expensive per linear foot than concrete or brick. Custom shapes or intricate designs will also increase labor costs. While we cannot provide an exact quote without a site visit, basic concrete coping might start lower, with premium natural stone options ranging higher per linear foot. A detailed estimate requires assessing your specific project in the Los Angeles area.",
+        "@type": "Answer",
+        "description": "Pool coping installation costs vary by material, pool size, and design complexity. Natural stone is typically pricier than concrete. A custom quote is needed."
+      }
+    }
+  ],
+  "description": "Pool coping installation costs vary by material, pool size, and design complexity. Natural stone is typically pricier than concrete. A custom quote is needed."
 }

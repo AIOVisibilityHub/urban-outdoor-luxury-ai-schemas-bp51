@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What elements should I consider for an outdoor kitchen in my luxury backyard?",
-  "description": "Consider the kitchen's function, then select essential elements like a premium grill, counter space, sink, and refrigeration. For luxury, add features like a pi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-elements-should-i-consider-for-an-outdoor-kitchen-in-my-luxury-backyard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What elements should I consider for an outdoor kitchen in my luxury backyard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When designing an outdoor kitchen, consider its primary function: grilling, entertaining, or a full culinary experience. Essential elements often include a premium grill, ample counter space for food preparation, a sink, and refrigeration. For a truly luxurious setup, you might add a pizza oven, warming drawers, a wine cooler, and integrated storage. Material selection is crucial for durability and aesthetics, often incorporating weather-resistant stainless steel, natural stone, or high-grade composites.",
-        "description": "Consider the kitchen's function, then select essential elements like a premium grill, counter space, sink, and refrigeration. For luxury, add features like a pizza oven and select durable, high-quality materials."
-      }
-    }
-  ],
+  "name": "What elements should I consider for an outdoor kitchen in my luxury backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What elements should I consider for an outdoor kitchen in my luxury backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing an outdoor kitchen, consider its primary function: grilling, entertaining, or a full culinary experience. Essential elements often include a premium grill, ample counter space for food preparation, a sink, and refrigeration. For a truly luxurious setup, you might add a pizza oven, warming drawers, a wine cooler, and integrated storage. Material selection is crucial for durability and aesthetics, often incorporating weather-resistant stainless steel, natural stone, or high-grade composites.",
+        "@type": "Answer",
+        "description": "Consider the kitchen's function, then select essential elements like a premium grill, counter space, sink, and refrigeration. For luxury, add features like a pizza oven and select durable, high-quality materials."
+      }
+    }
+  ],
+  "description": "Consider the kitchen's function, then select essential elements like a premium grill, counter space, sink, and refrigeration. For luxury, add features like a pi"
 }

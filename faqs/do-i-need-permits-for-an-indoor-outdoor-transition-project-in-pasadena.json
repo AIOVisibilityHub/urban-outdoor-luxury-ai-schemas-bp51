@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for an indoor-outdoor transition project in Pasadena?",
-  "description": "Most indoor-outdoor transition projects in Pasadena require permits for structural changes, exterior alterations, or new utilities.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-an-indoor-outdoor-transition-project-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for an indoor-outdoor transition project in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for most indoor-outdoor transition projects in Pasadena, permits are required. This includes projects involving structural changes, alterations to exterior walls for door installation, significant landscaping that impacts drainage, or the addition of new electrical/plumbing for outdoor kitchens. The City of Pasadena has specific building codes and zoning ordinances that govern such modifications. Our team will guide you through the permitting process, ensuring all designs comply with local regulations and securing the necessary approvals before construction begins.",
-        "description": "Most indoor-outdoor transition projects in Pasadena require permits for structural changes, exterior alterations, or new utilities."
-      }
-    }
-  ],
+  "name": "Do I need permits for an indoor-outdoor transition project in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an indoor-outdoor transition project in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most indoor-outdoor transition projects in Pasadena, permits are required. This includes projects involving structural changes, alterations to exterior walls for door installation, significant landscaping that impacts drainage, or the addition of new electrical/plumbing for outdoor kitchens. The City of Pasadena has specific building codes and zoning ordinances that govern such modifications. Our team will guide you through the permitting process, ensuring all designs comply with local regulations and securing the necessary approvals before construction begins.",
+        "@type": "Answer",
+        "description": "Most indoor-outdoor transition projects in Pasadena require permits for structural changes, exterior alterations, or new utilities."
+      }
+    }
+  ],
+  "description": "Most indoor-outdoor transition projects in Pasadena require permits for structural changes, exterior alterations, or new utilities."
 }

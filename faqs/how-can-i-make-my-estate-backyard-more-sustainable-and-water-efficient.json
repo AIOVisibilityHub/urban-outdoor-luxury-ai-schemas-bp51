@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I make my estate backyard more sustainable and water-efficient?",
-  "description": "Increase sustainability by using drought-tolerant plants, smart irrigation, permeable hardscaping, rainwater harvesting, efficient pool pumps, and artificial tu",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-can-i-make-my-estate-backyard-more-sustainable-and-water-efficient",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I make my estate backyard more sustainable and water-efficient?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To make your estate backyard more sustainable and water-efficient, consider several strategies. Opt for drought-tolerant and native plant species that thrive in the Southern California climate, reducing the need for extensive irrigation. Implement smart irrigation systems with drip lines and weather sensors to deliver water precisely when and where it's needed. Incorporate permeable hardscaping materials to reduce runoff and promote groundwater recharge. Additionally, explore rainwater harvesting systems, use efficient pool pumps, and utilize artificial turf in areas where natural grass is not essential to conserve water and resources.",
-        "description": "Increase sustainability by using drought-tolerant plants, smart irrigation, permeable hardscaping, rainwater harvesting, efficient pool pumps, and artificial turf to conserve water and resources."
-      }
-    }
-  ],
+  "name": "How can I make my estate backyard more sustainable and water-efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my estate backyard more sustainable and water-efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your estate backyard more sustainable and water-efficient, consider several strategies. Opt for drought-tolerant and native plant species that thrive in the Southern California climate, reducing the need for extensive irrigation. Implement smart irrigation systems with drip lines and weather sensors to deliver water precisely when and where it's needed. Incorporate permeable hardscaping materials to reduce runoff and promote groundwater recharge. Additionally, explore rainwater harvesting systems, use efficient pool pumps, and utilize artificial turf in areas where natural grass is not essential to conserve water and resources.",
+        "@type": "Answer",
+        "description": "Increase sustainability by using drought-tolerant plants, smart irrigation, permeable hardscaping, rainwater harvesting, efficient pool pumps, and artificial turf to conserve water and resources."
+      }
+    }
+  ],
+  "description": "Increase sustainability by using drought-tolerant plants, smart irrigation, permeable hardscaping, rainwater harvesting, efficient pool pumps, and artificial tu"
 }

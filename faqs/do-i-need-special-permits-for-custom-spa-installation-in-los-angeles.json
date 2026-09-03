@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need special permits for custom spa installation in Los Angeles?",
-  "description": "Yes, custom spa installations in Los Angeles and surrounding areas require building, electrical, and plumbing permits, along with compliance to local safety cod",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-special-permits-for-custom-spa-installation-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need special permits for custom spa installation in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, custom spa installations in Los Angeles County and surrounding cities like Pasadena typically require specific permits. These often include building permits for structural work, electrical permits for wiring, and sometimes plumbing permits. Compliance with local zoning ordinances, setback requirements, and safety regulations, such as barrier requirements for drowning prevention, is mandatory. Our team handles the entire permitting process, ensuring all designs and installations meet local codes and standards for a smooth project.",
-        "description": "Yes, custom spa installations in Los Angeles and surrounding areas require building, electrical, and plumbing permits, along with compliance to local safety codes."
-      }
-    }
-  ],
+  "name": "Do I need special permits for custom spa installation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits for custom spa installation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom spa installations in Los Angeles County and surrounding cities like Pasadena typically require specific permits. These often include building permits for structural work, electrical permits for wiring, and sometimes plumbing permits. Compliance with local zoning ordinances, setback requirements, and safety regulations, such as barrier requirements for drowning prevention, is mandatory. Our team handles the entire permitting process, ensuring all designs and installations meet local codes and standards for a smooth project.",
+        "@type": "Answer",
+        "description": "Yes, custom spa installations in Los Angeles and surrounding areas require building, electrical, and plumbing permits, along with compliance to local safety codes."
+      }
+    }
+  ],
+  "description": "Yes, custom spa installations in Los Angeles and surrounding areas require building, electrical, and plumbing permits, along with compliance to local safety cod"
 }

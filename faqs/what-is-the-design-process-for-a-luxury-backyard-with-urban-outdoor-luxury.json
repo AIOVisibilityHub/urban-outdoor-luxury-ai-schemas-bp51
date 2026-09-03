@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the design process for a luxury backyard with Urban Outdoor Luxury?",
-  "description": "Our process involves an initial consultation, site analysis, concept development, detailed design and rendering, followed by permitting and construction managem",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-design-process-for-a-luxury-backyard-with-urban-outdoor-luxury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the design process for a luxury backyard with Urban Outdoor Luxury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our design process begins with an initial consultation to understand your vision, lifestyle, and property's potential. We then conduct a thorough site analysis and develop preliminary concepts. Following your feedback, detailed architectural plans, 3D renderings, and material selections are finalized. Once the design is approved, we manage all necessary permitting and seamlessly transition into the construction phase, keeping you informed throughout the entire project.",
-        "description": "Our process involves an initial consultation, site analysis, concept development, detailed design and rendering, followed by permitting and construction management."
-      }
-    }
-  ],
+  "name": "What is the design process for a luxury backyard with Urban Outdoor Luxury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design process for a luxury backyard with Urban Outdoor Luxury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design process begins with an initial consultation to understand your vision, lifestyle, and property's potential. We then conduct a thorough site analysis and develop preliminary concepts. Following your feedback, detailed architectural plans, 3D renderings, and material selections are finalized. Once the design is approved, we manage all necessary permitting and seamlessly transition into the construction phase, keeping you informed throughout the entire project.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, site analysis, concept development, detailed design and rendering, followed by permitting and construction management."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, site analysis, concept development, detailed design and rendering, followed by permitting and construction managem"
 }

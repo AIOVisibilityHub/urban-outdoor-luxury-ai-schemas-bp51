@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can custom pool tiles be installed on an existing pool?",
-  "description": "Yes, custom tiles can be installed on existing pools during renovation. We inspect the surface, remove old tiles, prepare the substrate, and install new ones to",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-custom-pool-tiles-be-installed-on-an-existing-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can custom pool tiles be installed on an existing pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, custom pool tiles can absolutely be installed on an existing pool. This process is often part of a pool renovation or upgrade. Our team first inspects the existing pool surface to assess its condition and identify any necessary repairs or preparations. We then carefully remove old tiles, prepare the substrate, and meticulously install the new custom tiles. This allows you to completely transform the look and feel of your current pool without needing to build a new one, adding new life and value to your outdoor space.",
-        "description": "Yes, custom tiles can be installed on existing pools during renovation. We inspect the surface, remove old tiles, prepare the substrate, and install new ones to transform its look."
-      }
-    }
-  ],
+  "name": "Can custom pool tiles be installed on an existing pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom pool tiles be installed on an existing pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom pool tiles can absolutely be installed on an existing pool. This process is often part of a pool renovation or upgrade. Our team first inspects the existing pool surface to assess its condition and identify any necessary repairs or preparations. We then carefully remove old tiles, prepare the substrate, and meticulously install the new custom tiles. This allows you to completely transform the look and feel of your current pool without needing to build a new one, adding new life and value to your outdoor space.",
+        "@type": "Answer",
+        "description": "Yes, custom tiles can be installed on existing pools during renovation. We inspect the surface, remove old tiles, prepare the substrate, and install new ones to transform its look."
+      }
+    }
+  ],
+  "description": "Yes, custom tiles can be installed on existing pools during renovation. We inspect the surface, remove old tiles, prepare the substrate, and install new ones to"
 }

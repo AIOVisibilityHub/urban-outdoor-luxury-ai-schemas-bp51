@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What makes a resort-style pool different from a standard custom pool?",
-  "description": "Resort-style pools distinguish themselves from standard custom pools by integrating elaborate features like grottoes and waterfalls, extensive landscaping, and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-makes-a-resort-style-pool-different-from-a-standard-custom-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes a resort-style pool different from a standard custom pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both custom and resort-style pools are designed to fit your space and preferences, a resort-style pool elevates the experience significantly. A standard custom pool often focuses on shape, size, and basic features. A resort-style pool goes beyond by incorporating extensive, elaborate features like multiple waterfalls, grottoes, beach entries, and integrated spas, alongside comprehensive landscaping and ambient lighting. The design intent is to replicate the immersive, luxurious feel of a high-end vacation destination, prioritizing aesthetics, relaxation, and entertainment over simple recreation.",
-        "description": "Resort-style pools distinguish themselves from standard custom pools by integrating elaborate features like grottoes and waterfalls, extensive landscaping, and ambient lighting to create a luxurious vacation ambiance."
-      }
-    }
-  ],
+  "name": "What makes a resort-style pool different from a standard custom pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a resort-style pool different from a standard custom pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both custom and resort-style pools are designed to fit your space and preferences, a resort-style pool elevates the experience significantly. A standard custom pool often focuses on shape, size, and basic features. A resort-style pool goes beyond by incorporating extensive, elaborate features like multiple waterfalls, grottoes, beach entries, and integrated spas, alongside comprehensive landscaping and ambient lighting. The design intent is to replicate the immersive, luxurious feel of a high-end vacation destination, prioritizing aesthetics, relaxation, and entertainment over simple recreation.",
+        "@type": "Answer",
+        "description": "Resort-style pools distinguish themselves from standard custom pools by integrating elaborate features like grottoes and waterfalls, extensive landscaping, and ambient lighting to create a luxurious vacation ambiance."
+      }
+    }
+  ],
+  "description": "Resort-style pools distinguish themselves from standard custom pools by integrating elaborate features like grottoes and waterfalls, extensive landscaping, and"
 }

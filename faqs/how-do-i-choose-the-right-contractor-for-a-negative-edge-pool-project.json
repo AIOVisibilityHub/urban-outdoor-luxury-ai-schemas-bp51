@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for a negative-edge pool project?",
-  "description": "Choose a contractor with extensive experience in negative-edge pools, verify their licensing and insurance, check references, review their portfolio, and ensure",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-negative-edge-pool-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for a negative-edge pool project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor is crucial for a successful negative-edge pool project. Look for a firm with extensive experience specifically in designing and building these complex structures, as they require specialized hydraulic knowledge and structural engineering expertise. Verify their licensing, insurance, and check references from previous clients. Review their portfolio for examples of similar projects and ensure they understand your vision. A reputable contractor will also provide a detailed proposal, transparent pricing, and a clear project timeline.",
-        "description": "Choose a contractor with extensive experience in negative-edge pools, verify their licensing and insurance, check references, review their portfolio, and ensure they offer a detailed proposal."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for a negative-edge pool project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a negative-edge pool project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful negative-edge pool project. Look for a firm with extensive experience specifically in designing and building these complex structures, as they require specialized hydraulic knowledge and structural engineering expertise. Verify their licensing, insurance, and check references from previous clients. Review their portfolio for examples of similar projects and ensure they understand your vision. A reputable contractor will also provide a detailed proposal, transparent pricing, and a clear project timeline.",
+        "@type": "Answer",
+        "description": "Choose a contractor with extensive experience in negative-edge pools, verify their licensing and insurance, check references, review their portfolio, and ensure they offer a detailed proposal."
+      }
+    }
+  ],
+  "description": "Choose a contractor with extensive experience in negative-edge pools, verify their licensing and insurance, check references, review their portfolio, and ensure"
 }

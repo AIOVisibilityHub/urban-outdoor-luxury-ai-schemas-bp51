@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for beginning a pool renovation project with your company?",
-  "description": "Our process starts with a consultation, followed by an on-site assessment, design proposal, and detailed estimate. We then manage permitting and construction to",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-beginning-a-pool-renovation-project-with-your-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for beginning a pool renovation project with your company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation where we discuss your vision, budget, and specific needs for the renovation. We then conduct an on-site assessment of your existing pool to evaluate its condition and identify possibilities. Following this, we develop a detailed design proposal and provide a transparent estimate. Once approved, our team handles all necessary permits, manages the construction process from start to finish, and keeps you informed every step of the way until your renovated pool is complete.",
-        "description": "Our process starts with a consultation, followed by an on-site assessment, design proposal, and detailed estimate. We then manage permitting and construction to complete your renovation."
-      }
-    }
-  ],
+  "name": "What is the process for beginning a pool renovation project with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a pool renovation project with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, budget, and specific needs for the renovation. We then conduct an on-site assessment of your existing pool to evaluate its condition and identify possibilities. Following this, we develop a detailed design proposal and provide a transparent estimate. Once approved, our team handles all necessary permits, manages the construction process from start to finish, and keeps you informed every step of the way until your renovated pool is complete.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, followed by an on-site assessment, design proposal, and detailed estimate. We then manage permitting and construction to complete your renovation."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, followed by an on-site assessment, design proposal, and detailed estimate. We then manage permitting and construction to"
 }

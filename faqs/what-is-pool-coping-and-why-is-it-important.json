@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is pool coping and why is it important?",
-  "description": "Pool coping is the cap around a pool's edge, protecting the structure, enhancing aesthetics, and providing a safe transition to the deck.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-pool-coping-and-why-is-it-important",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is pool coping and why is it important?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pool coping is the material installed around the edge of a swimming pool, forming a cap over the pool structure. It serves several crucial functions. Firstly, it protects the pool's edge beam from water damage and freeze-thaw cycles, extending the life of your pool. Secondly, it creates a finished, aesthetically pleasing transition from the pool to the surrounding deck. Lastly, coping provides a safe, non-slip surface for swimmers to enter and exit the pool, and helps prevent deck water from flowing into the pool.",
-        "description": "Pool coping is the cap around a pool's edge, protecting the structure, enhancing aesthetics, and providing a safe transition to the deck."
-      }
-    }
-  ],
+  "name": "What is pool coping and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is pool coping and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool coping is the material installed around the edge of a swimming pool, forming a cap over the pool structure. It serves several crucial functions. Firstly, it protects the pool's edge beam from water damage and freeze-thaw cycles, extending the life of your pool. Secondly, it creates a finished, aesthetically pleasing transition from the pool to the surrounding deck. Lastly, coping provides a safe, non-slip surface for swimmers to enter and exit the pool, and helps prevent deck water from flowing into the pool.",
+        "@type": "Answer",
+        "description": "Pool coping is the cap around a pool's edge, protecting the structure, enhancing aesthetics, and providing a safe transition to the deck."
+      }
+    }
+  ],
+  "description": "Pool coping is the cap around a pool's edge, protecting the structure, enhancing aesthetics, and providing a safe transition to the deck."
 }

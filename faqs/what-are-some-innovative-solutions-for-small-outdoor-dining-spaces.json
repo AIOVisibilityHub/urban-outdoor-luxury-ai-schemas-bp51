@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some innovative solutions for small outdoor dining spaces?",
-  "description": "Maximize small spaces with vertical gardens, built-in seating, retractable furniture, mirrors for depth, and smart lighting to create perceived spaciousness.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-some-innovative-solutions-for-small-outdoor-dining-spaces",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some innovative solutions for small outdoor dining spaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For small outdoor dining spaces, innovative solutions focus on maximizing functionality and perceived spaciousness. Consider vertical gardens or wall-mounted planters to add greenery without occupying floor space. Built-in banquette seating with integrated storage can optimize seating capacity. Retractable or modular furniture allows for flexible layouts. Utilize mirrors to create an illusion of depth, and smart lighting solutions to define areas. A limited, cohesive color palette can also make a small space feel larger and more inviting, prioritizing quality over quantity in features.",
-        "description": "Maximize small spaces with vertical gardens, built-in seating, retractable furniture, mirrors for depth, and smart lighting to create perceived spaciousness."
-      }
-    }
-  ],
+  "name": "What are some innovative solutions for small outdoor dining spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some innovative solutions for small outdoor dining spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small outdoor dining spaces, innovative solutions focus on maximizing functionality and perceived spaciousness. Consider vertical gardens or wall-mounted planters to add greenery without occupying floor space. Built-in banquette seating with integrated storage can optimize seating capacity. Retractable or modular furniture allows for flexible layouts. Utilize mirrors to create an illusion of depth, and smart lighting solutions to define areas. A limited, cohesive color palette can also make a small space feel larger and more inviting, prioritizing quality over quantity in features.",
+        "@type": "Answer",
+        "description": "Maximize small spaces with vertical gardens, built-in seating, retractable furniture, mirrors for depth, and smart lighting to create perceived spaciousness."
+      }
+    }
+  ],
+  "description": "Maximize small spaces with vertical gardens, built-in seating, retractable furniture, mirrors for depth, and smart lighting to create perceived spaciousness."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a negative-edge pool be built on a sloped property?",
-  "description": "Yes, sloped properties are ideal for negative-edge pools, but require specialized engineering, extensive grading, and reinforced foundations for stability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-negative-edge-pool-be-built-on-a-sloped-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a negative-edge pool be built on a sloped property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, sloped properties are often ideal for negative-edge pools, as the elevation changes naturally enhance the infinity effect, allowing the water to appear to drop off into the landscape. However, building on a slope requires specialized engineering and construction techniques. Extensive grading, reinforced foundations, and retaining walls are typically necessary to ensure structural integrity and stability. While challenging, the dramatic visual impact achieved on a sloped site makes it a highly sought-after location for this pool type.",
-        "description": "Yes, sloped properties are ideal for negative-edge pools, but require specialized engineering, extensive grading, and reinforced foundations for stability."
-      }
-    }
-  ],
+  "name": "Can a negative-edge pool be built on a sloped property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a negative-edge pool be built on a sloped property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sloped properties are often ideal for negative-edge pools, as the elevation changes naturally enhance the infinity effect, allowing the water to appear to drop off into the landscape. However, building on a slope requires specialized engineering and construction techniques. Extensive grading, reinforced foundations, and retaining walls are typically necessary to ensure structural integrity and stability. While challenging, the dramatic visual impact achieved on a sloped site makes it a highly sought-after location for this pool type.",
+        "@type": "Answer",
+        "description": "Yes, sloped properties are ideal for negative-edge pools, but require specialized engineering, extensive grading, and reinforced foundations for stability."
+      }
+    }
+  ],
+  "description": "Yes, sloped properties are ideal for negative-edge pools, but require specialized engineering, extensive grading, and reinforced foundations for stability."
 }

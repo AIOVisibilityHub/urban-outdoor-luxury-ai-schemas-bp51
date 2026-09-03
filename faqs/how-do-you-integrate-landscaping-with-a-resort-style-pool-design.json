@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you integrate landscaping with a resort-style pool design?",
-  "description": "Landscaping integrates plants, outdoor living spaces, and lighting to create a cohesive and immersive resort-style environment around the pool.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-integrate-landscaping-with-a-resort-style-pool-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you integrate landscaping with a resort-style pool design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Integrating landscaping is crucial for a resort-style pool to achieve a cohesive and immersive environment. This involves selecting plants that complement the pool's theme and local climate, such as tropical plants, lush palms, or drought-tolerant succulents. Strategic placement ensures privacy, shade, and aesthetic appeal. Elements like outdoor living spaces, custom fire pits, and ambient lighting are also designed to flow seamlessly with the pool, extending the resort experience beyond the water's edge and creating a complete outdoor oasis.",
-        "description": "Landscaping integrates plants, outdoor living spaces, and lighting to create a cohesive and immersive resort-style environment around the pool."
-      }
-    }
-  ],
+  "name": "How do you integrate landscaping with a resort-style pool design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you integrate landscaping with a resort-style pool design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating landscaping is crucial for a resort-style pool to achieve a cohesive and immersive environment. This involves selecting plants that complement the pool's theme and local climate, such as tropical plants, lush palms, or drought-tolerant succulents. Strategic placement ensures privacy, shade, and aesthetic appeal. Elements like outdoor living spaces, custom fire pits, and ambient lighting are also designed to flow seamlessly with the pool, extending the resort experience beyond the water's edge and creating a complete outdoor oasis.",
+        "@type": "Answer",
+        "description": "Landscaping integrates plants, outdoor living spaces, and lighting to create a cohesive and immersive resort-style environment around the pool."
+      }
+    }
+  ],
+  "description": "Landscaping integrates plants, outdoor living spaces, and lighting to create a cohesive and immersive resort-style environment around the pool."
 }

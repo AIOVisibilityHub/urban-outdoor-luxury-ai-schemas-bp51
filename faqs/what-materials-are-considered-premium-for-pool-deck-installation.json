@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are considered premium for pool-deck installation?",
-  "description": "Premium pool-deck materials include natural stone (travertine, limestone, granite), high-quality concrete pavers, and durable wood composites, all selected for",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-considered-premium-for-pool-deck-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are considered premium for pool-deck installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Premium pool-deck materials are chosen for their durability, aesthetic appeal, and comfort. Popular options include natural stone pavers like travertine, limestone, and granite, which offer a luxurious feel and excellent heat resistance. High-quality concrete pavers are also a strong contender, providing a wide range of colors, textures, and patterns while being exceptionally resilient. Wood composites engineered for outdoor use can offer a sophisticated, warm look with minimal maintenance. These materials enhance the overall ambiance of your outdoor space and are designed to withstand the Southern California climate.",
-        "description": "Premium pool-deck materials include natural stone (travertine, limestone, granite), high-quality concrete pavers, and durable wood composites, all selected for aesthetics and resilience."
-      }
-    }
-  ],
+  "name": "What materials are considered premium for pool-deck installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are considered premium for pool-deck installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Premium pool-deck materials are chosen for their durability, aesthetic appeal, and comfort. Popular options include natural stone pavers like travertine, limestone, and granite, which offer a luxurious feel and excellent heat resistance. High-quality concrete pavers are also a strong contender, providing a wide range of colors, textures, and patterns while being exceptionally resilient. Wood composites engineered for outdoor use can offer a sophisticated, warm look with minimal maintenance. These materials enhance the overall ambiance of your outdoor space and are designed to withstand the Southern California climate.",
+        "@type": "Answer",
+        "description": "Premium pool-deck materials include natural stone (travertine, limestone, granite), high-quality concrete pavers, and durable wood composites, all selected for aesthetics and resilience."
+      }
+    }
+  ],
+  "description": "Premium pool-deck materials include natural stone (travertine, limestone, granite), high-quality concrete pavers, and durable wood composites, all selected for"
 }

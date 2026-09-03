@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I maintain an indoor-outdoor living space in the Southern California climate?",
-  "description": "Maintenance includes cleaning glass, protecting outdoor furniture, checking door mechanisms, landscaping care, and using durable, weather-resistant materials.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-can-i-maintain-an-indoor-outdoor-living-space-in-the-southern-california-cli",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I maintain an indoor-outdoor living space in the Southern California climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintaining an indoor-outdoor living space in Southern California involves regular cleaning of large glass doors and windows to keep views clear. Protecting outdoor furniture from sun exposure and occasional rain, perhaps with covers, extends its lifespan. Regular checks for wear on door mechanisms and seals ensure continued smooth operation and energy efficiency. Landscaping requires appropriate watering and trimming. Using durable, weather-resistant materials reduces long-term maintenance efforts.",
-        "description": "Maintenance includes cleaning glass, protecting outdoor furniture, checking door mechanisms, landscaping care, and using durable, weather-resistant materials."
-      }
-    }
-  ],
+  "name": "How can I maintain an indoor-outdoor living space in the Southern California climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maintain an indoor-outdoor living space in the Southern California climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining an indoor-outdoor living space in Southern California involves regular cleaning of large glass doors and windows to keep views clear. Protecting outdoor furniture from sun exposure and occasional rain, perhaps with covers, extends its lifespan. Regular checks for wear on door mechanisms and seals ensure continued smooth operation and energy efficiency. Landscaping requires appropriate watering and trimming. Using durable, weather-resistant materials reduces long-term maintenance efforts.",
+        "@type": "Answer",
+        "description": "Maintenance includes cleaning glass, protecting outdoor furniture, checking door mechanisms, landscaping care, and using durable, weather-resistant materials."
+      }
+    }
+  ],
+  "description": "Maintenance includes cleaning glass, protecting outdoor furniture, checking door mechanisms, landscaping care, and using durable, weather-resistant materials."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a landscape designer and a design-build firm for estate backyards?",
-  "description": "A landscape designer creates plans, while a design-build firm handles both design and construction, offering a single point of contact for greater efficiency an",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-landscape-designer-and-a-design-build-firm-for",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a landscape designer and a design-build firm for estate backyards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A landscape designer primarily focuses on the aesthetic and functional aspects of the outdoor space, creating plans and drawings for plants, hardscapes, and features. They typically do not handle the construction phase. A design-build firm, on the other hand, offers a single point of contact responsible for both the design and construction of your estate backyard. This integrated approach ensures seamless communication, efficient project management, and greater accountability, often leading to a more cohesive outcome and fewer potential issues between design intent and construction reality.",
-        "description": "A landscape designer creates plans, while a design-build firm handles both design and construction, offering a single point of contact for greater efficiency and accountability."
-      }
-    }
-  ],
+  "name": "What is the difference between a landscape designer and a design-build firm for estate backyards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a landscape designer and a design-build firm for estate backyards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A landscape designer primarily focuses on the aesthetic and functional aspects of the outdoor space, creating plans and drawings for plants, hardscapes, and features. They typically do not handle the construction phase. A design-build firm, on the other hand, offers a single point of contact responsible for both the design and construction of your estate backyard. This integrated approach ensures seamless communication, efficient project management, and greater accountability, often leading to a more cohesive outcome and fewer potential issues between design intent and construction reality.",
+        "@type": "Answer",
+        "description": "A landscape designer creates plans, while a design-build firm handles both design and construction, offering a single point of contact for greater efficiency and accountability."
+      }
+    }
+  ],
+  "description": "A landscape designer creates plans, while a design-build firm handles both design and construction, offering a single point of contact for greater efficiency an"
 }

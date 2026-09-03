@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design considerations are important for an infinity-edge pool on a sloped property?",
-  "description": "For sloped properties, infinity-edge pool designs prioritize precise structural engineering, meticulous grading, efficient drainage, and careful catch basin pla",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-are-important-for-an-infinity-edge-pool-on-a-sloped-p",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design considerations are important for an infinity-edge pool on a sloped property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sloped properties are often ideal for infinity-edge pools, as they naturally enhance the vanishing effect with panoramic views. Key design considerations include precise structural engineering to ensure stability and proper foundation on the incline, meticulous grading and excavation plans, and efficient drainage solutions to manage stormwater runoff. The catch basin's design and placement are critical for functionality and aesthetics, often requiring careful integration into the landscape. Leveraging the slope can create dramatic multi-level designs and integrate seamlessly with retaining walls or other outdoor features.",
-        "description": "For sloped properties, infinity-edge pool designs prioritize precise structural engineering, meticulous grading, efficient drainage, and careful catch basin placement to maximize views and stability."
-      }
-    }
-  ],
+  "name": "What design considerations are important for an infinity-edge pool on a sloped property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for an infinity-edge pool on a sloped property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sloped properties are often ideal for infinity-edge pools, as they naturally enhance the vanishing effect with panoramic views. Key design considerations include precise structural engineering to ensure stability and proper foundation on the incline, meticulous grading and excavation plans, and efficient drainage solutions to manage stormwater runoff. The catch basin's design and placement are critical for functionality and aesthetics, often requiring careful integration into the landscape. Leveraging the slope can create dramatic multi-level designs and integrate seamlessly with retaining walls or other outdoor features.",
+        "@type": "Answer",
+        "description": "For sloped properties, infinity-edge pool designs prioritize precise structural engineering, meticulous grading, efficient drainage, and careful catch basin placement to maximize views and stability."
+      }
+    }
+  ],
+  "description": "For sloped properties, infinity-edge pool designs prioritize precise structural engineering, meticulous grading, efficient drainage, and careful catch basin pla"
 }

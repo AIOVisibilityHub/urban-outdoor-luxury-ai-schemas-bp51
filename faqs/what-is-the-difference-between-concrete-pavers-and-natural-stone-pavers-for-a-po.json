@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between concrete pavers and natural stone pavers for a pool deck?",
-  "description": "Concrete pavers are uniform, cost-effective, and versatile, while natural stone offers unique aesthetics and higher cost. Both are durable options for pool deck",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-concrete-pavers-and-natural-stone-pavers-for-a-po",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between concrete pavers and natural stone pavers for a pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Concrete pavers are manufactured and offer consistent sizing, a wide range of colors, and are generally more cost-effective. They are durable and often designed to be slip-resistant. Natural stone pavers, such as travertine or flagstone, provide unique variations in color and texture, offering a luxurious and organic aesthetic. They tend to be more expensive and may require specific sealing. Both are excellent choices, but their appearance, cost, and maintenance needs differ.",
-        "description": "Concrete pavers are uniform, cost-effective, and versatile, while natural stone offers unique aesthetics and higher cost. Both are durable options for pool decks."
-      }
-    }
-  ],
+  "name": "What is the difference between concrete pavers and natural stone pavers for a pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between concrete pavers and natural stone pavers for a pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete pavers are manufactured and offer consistent sizing, a wide range of colors, and are generally more cost-effective. They are durable and often designed to be slip-resistant. Natural stone pavers, such as travertine or flagstone, provide unique variations in color and texture, offering a luxurious and organic aesthetic. They tend to be more expensive and may require specific sealing. Both are excellent choices, but their appearance, cost, and maintenance needs differ.",
+        "@type": "Answer",
+        "description": "Concrete pavers are uniform, cost-effective, and versatile, while natural stone offers unique aesthetics and higher cost. Both are durable options for pool decks."
+      }
+    }
+  ],
+  "description": "Concrete pavers are uniform, cost-effective, and versatile, while natural stone offers unique aesthetics and higher cost. Both are durable options for pool deck"
 }

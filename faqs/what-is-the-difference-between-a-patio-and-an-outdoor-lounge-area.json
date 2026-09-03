@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a patio and an outdoor lounge area?",
-  "description": "A patio is a paved surface, while an outdoor lounge is a more deliberately designed space focused on comfort, relaxation, and specific amenities to create an ou",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-patio-and-an-outdoor-lounge-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a patio and an outdoor lounge area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A patio is typically a paved outdoor space, often adjacent to a house, primarily serving as a foundation for outdoor activities. An outdoor lounge area, however, is a more defined and intentionally designed space focused on comfort, relaxation, and entertaining. While a lounge can be built on a patio, it incorporates specific design elements like luxurious seating, shade structures, lighting, and amenities (e.g., fire pits, outdoor kitchens) to create a distinct outdoor 'room' feel. It prioritizes ambiance and function beyond just a paved surface.",
-        "description": "A patio is a paved surface, while an outdoor lounge is a more deliberately designed space focused on comfort, relaxation, and specific amenities to create an outdoor 'room' feel."
-      }
-    }
-  ],
+  "name": "What is the difference between a patio and an outdoor lounge area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a patio and an outdoor lounge area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A patio is typically a paved outdoor space, often adjacent to a house, primarily serving as a foundation for outdoor activities. An outdoor lounge area, however, is a more defined and intentionally designed space focused on comfort, relaxation, and entertaining. While a lounge can be built on a patio, it incorporates specific design elements like luxurious seating, shade structures, lighting, and amenities (e.g., fire pits, outdoor kitchens) to create a distinct outdoor 'room' feel. It prioritizes ambiance and function beyond just a paved surface.",
+        "@type": "Answer",
+        "description": "A patio is a paved surface, while an outdoor lounge is a more deliberately designed space focused on comfort, relaxation, and specific amenities to create an outdoor 'room' feel."
+      }
+    }
+  ],
+  "description": "A patio is a paved surface, while an outdoor lounge is a more deliberately designed space focused on comfort, relaxation, and specific amenities to create an ou"
 }

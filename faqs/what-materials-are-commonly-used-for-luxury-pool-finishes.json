@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are commonly used for luxury pool finishes?",
-  "description": "Luxury pool finishes often include natural stone, high-quality plaster, pebble finishes, and glass mosaics for a bespoke aesthetic and enhanced durability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-commonly-used-for-luxury-pool-finishes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are commonly used for luxury pool finishes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Luxury pool finishes elevate the aesthetic and durability of the pool. Common choices include natural stone like travertine or limestone for coping and decking, and high-quality plaster, pebble finishes, or glass mosaics for the interior surface. Pebble Tec and similar aggregate finishes offer a natural look and texture, while glass tiles provide vibrant color and a unique shimmer. The selection depends on the desired aesthetic, budget, and longevity.",
-        "description": "Luxury pool finishes often include natural stone, high-quality plaster, pebble finishes, and glass mosaics for a bespoke aesthetic and enhanced durability."
-      }
-    }
-  ],
+  "name": "What materials are commonly used for luxury pool finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for luxury pool finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury pool finishes elevate the aesthetic and durability of the pool. Common choices include natural stone like travertine or limestone for coping and decking, and high-quality plaster, pebble finishes, or glass mosaics for the interior surface. Pebble Tec and similar aggregate finishes offer a natural look and texture, while glass tiles provide vibrant color and a unique shimmer. The selection depends on the desired aesthetic, budget, and longevity.",
+        "@type": "Answer",
+        "description": "Luxury pool finishes often include natural stone, high-quality plaster, pebble finishes, and glass mosaics for a bespoke aesthetic and enhanced durability."
+      }
+    }
+  ],
+  "description": "Luxury pool finishes often include natural stone, high-quality plaster, pebble finishes, and glass mosaics for a bespoke aesthetic and enhanced durability."
 }

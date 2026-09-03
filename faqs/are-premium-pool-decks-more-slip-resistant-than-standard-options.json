@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are premium pool decks more slip-resistant than standard options?",
-  "description": "Yes, many premium pool deck materials, such as textured natural stone and high-quality concrete pavers, offer enhanced slip resistance for improved safety aroun",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-premium-pool-decks-more-slip-resistant-than-standard-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are premium pool decks more slip-resistant than standard options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many premium pool deck materials are inherently designed to offer enhanced slip resistance, making them a safer choice for areas prone to water. Natural stone options like travertine often have a naturally porous or textured surface that provides good grip, even when wet. High-quality concrete pavers can be manufactured with various textures and finishes that improve traction. While no surface is entirely slip-proof, premium materials often prioritize safety features alongside aesthetics and durability, providing a more secure environment around your pool.",
-        "description": "Yes, many premium pool deck materials, such as textured natural stone and high-quality concrete pavers, offer enhanced slip resistance for improved safety around wet pool areas."
-      }
-    }
-  ],
+  "name": "Are premium pool decks more slip-resistant than standard options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are premium pool decks more slip-resistant than standard options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many premium pool deck materials are inherently designed to offer enhanced slip resistance, making them a safer choice for areas prone to water. Natural stone options like travertine often have a naturally porous or textured surface that provides good grip, even when wet. High-quality concrete pavers can be manufactured with various textures and finishes that improve traction. While no surface is entirely slip-proof, premium materials often prioritize safety features alongside aesthetics and durability, providing a more secure environment around your pool.",
+        "@type": "Answer",
+        "description": "Yes, many premium pool deck materials, such as textured natural stone and high-quality concrete pavers, offer enhanced slip resistance for improved safety around wet pool areas."
+      }
+    }
+  ],
+  "description": "Yes, many premium pool deck materials, such as textured natural stone and high-quality concrete pavers, offer enhanced slip resistance for improved safety aroun"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a resort-style pool?",
-  "description": "A resort-style pool construction typically takes 6 to 12 months, covering design, permits, excavation, construction, and finishing touches.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-constructing-a-resort-style-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a resort-style pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a resort-style pool is influenced by its size, complexity, and local permitting processes. Generally, from initial design approval to project completion, it can take anywhere from 6 to 12 months. This includes design, engineering, permitting, excavation, shell construction, plumbing, electrical, rockwork, plastering, and landscaping. Unforeseen site conditions or material lead times can also impact the schedule. We maintain clear communication throughout each phase to keep you informed.",
-        "description": "A resort-style pool construction typically takes 6 to 12 months, covering design, permits, excavation, construction, and finishing touches."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a resort-style pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a resort-style pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a resort-style pool is influenced by its size, complexity, and local permitting processes. Generally, from initial design approval to project completion, it can take anywhere from 6 to 12 months. This includes design, engineering, permitting, excavation, shell construction, plumbing, electrical, rockwork, plastering, and landscaping. Unforeseen site conditions or material lead times can also impact the schedule. We maintain clear communication throughout each phase to keep you informed.",
+        "@type": "Answer",
+        "description": "A resort-style pool construction typically takes 6 to 12 months, covering design, permits, excavation, construction, and finishing touches."
+      }
+    }
+  ],
+  "description": "A resort-style pool construction typically takes 6 to 12 months, covering design, permits, excavation, construction, and finishing touches."
 }

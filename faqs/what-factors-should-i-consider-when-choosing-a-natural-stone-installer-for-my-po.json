@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a natural stone installer for my pool deck?",
-  "description": "Consider experience with natural stone pool decks, local references, licensing, insurance, and the contractor's understanding of climate and installation practi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-a-natural-stone-installer-for-my-po",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a natural stone installer for my pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting an installer, prioritize experience specifically with natural stone pool decks. Look for contractors with a strong portfolio of completed projects and positive client testimonials, especially within the Los Angeles, Pasadena, or San Marino areas. Verify they are licensed and insured. Inquire about their understanding of local climate challenges, material sourcing, installation techniques, and post-installation support. A reputable installer will provide clear communication, transparent pricing, and a detailed project plan.",
-        "description": "Consider experience with natural stone pool decks, local references, licensing, insurance, and the contractor's understanding of climate and installation practices."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a natural stone installer for my pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a natural stone installer for my pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an installer, prioritize experience specifically with natural stone pool decks. Look for contractors with a strong portfolio of completed projects and positive client testimonials, especially within the Los Angeles, Pasadena, or San Marino areas. Verify they are licensed and insured. Inquire about their understanding of local climate challenges, material sourcing, installation techniques, and post-installation support. A reputable installer will provide clear communication, transparent pricing, and a detailed project plan.",
+        "@type": "Answer",
+        "description": "Consider experience with natural stone pool decks, local references, licensing, insurance, and the contractor's understanding of climate and installation practices."
+      }
+    }
+  ],
+  "description": "Consider experience with natural stone pool decks, local references, licensing, insurance, and the contractor's understanding of climate and installation practi"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are negative-edge pools harder to maintain than regular pools?",
-  "description": "Negative-edge pools have similar routine maintenance but require more attention to water levels due to evaporation and regular cleaning of the capture basin.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-negative-edge-pools-harder-to-maintain-than-regular-pools",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are negative-edge pools harder to maintain than regular pools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negative-edge pools require similar routine maintenance to traditional pools, such as chemical balancing, cleaning, and filtration system checks. However, they do have additional considerations due to their design. The overflow feature means more water surface exposure, which can lead to increased evaporation and a need for more frequent water top-offs. The capture basin also requires regular cleaning to prevent debris accumulation. While not necessarily 'harder,' maintenance involves attention to these specific components to preserve the visual effect and water quality.",
-        "description": "Negative-edge pools have similar routine maintenance but require more attention to water levels due to evaporation and regular cleaning of the capture basin."
-      }
-    }
-  ],
+  "name": "Are negative-edge pools harder to maintain than regular pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are negative-edge pools harder to maintain than regular pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negative-edge pools require similar routine maintenance to traditional pools, such as chemical balancing, cleaning, and filtration system checks. However, they do have additional considerations due to their design. The overflow feature means more water surface exposure, which can lead to increased evaporation and a need for more frequent water top-offs. The capture basin also requires regular cleaning to prevent debris accumulation. While not necessarily 'harder,' maintenance involves attention to these specific components to preserve the visual effect and water quality.",
+        "@type": "Answer",
+        "description": "Negative-edge pools have similar routine maintenance but require more attention to water levels due to evaporation and regular cleaning of the capture basin."
+      }
+    }
+  ],
+  "description": "Negative-edge pools have similar routine maintenance but require more attention to water levels due to evaporation and regular cleaning of the capture basin."
 }

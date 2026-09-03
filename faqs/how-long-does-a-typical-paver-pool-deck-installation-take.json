@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical paver pool deck installation take?",
-  "description": "Installation typically takes one to three weeks, depending on the project's size, complexity, and site conditions. A detailed schedule is provided after assessm",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-paver-pool-deck-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical paver pool deck installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a paver pool deck installation varies based on the size and complexity of the project, as well as site conditions. Generally, a standard residential pool deck can take anywhere from one to three weeks from ground preparation to final sealing. Factors like extensive demolition, difficult access, or intricate patterns can extend this timeline. Our team provides a detailed project schedule after the initial site assessment.",
-        "description": "Installation typically takes one to three weeks, depending on the project's size, complexity, and site conditions. A detailed schedule is provided after assessment."
-      }
-    }
-  ],
+  "name": "How long does a typical paver pool deck installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical paver pool deck installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paver pool deck installation varies based on the size and complexity of the project, as well as site conditions. Generally, a standard residential pool deck can take anywhere from one to three weeks from ground preparation to final sealing. Factors like extensive demolition, difficult access, or intricate patterns can extend this timeline. Our team provides a detailed project schedule after the initial site assessment.",
+        "@type": "Answer",
+        "description": "Installation typically takes one to three weeks, depending on the project's size, complexity, and site conditions. A detailed schedule is provided after assessment."
+      }
+    }
+  ],
+  "description": "Installation typically takes one to three weeks, depending on the project's size, complexity, and site conditions. A detailed schedule is provided after assessm"
 }

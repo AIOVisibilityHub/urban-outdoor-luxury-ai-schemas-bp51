@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best suited for a covered patio in the Southern California climate?",
-  "description": "Aluminum, wood (redwood, cedar), and steel are excellent materials for covered patios in Southern California, offering durability and weather resistance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-suited-for-a-covered-patio-in-the-southern-california-cl",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best suited for a covered patio in the Southern California climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For the Southern California climate, materials that offer durability, weather resistance, and low maintenance are ideal. Popular choices include aluminum for its rust resistance and minimal upkeep, often available with powder-coated finishes. Wood options like redwood or cedar are also excellent, offering natural beauty but requiring more maintenance against sun exposure and moisture. Steel is another strong option, especially for larger or more complex designs. The best material depends on your aesthetic preference, budget, and desired level of maintenance.",
-        "description": "Aluminum, wood (redwood, cedar), and steel are excellent materials for covered patios in Southern California, offering durability and weather resistance."
-      }
-    }
-  ],
+  "name": "What materials are best suited for a covered patio in the Southern California climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best suited for a covered patio in the Southern California climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Southern California climate, materials that offer durability, weather resistance, and low maintenance are ideal. Popular choices include aluminum for its rust resistance and minimal upkeep, often available with powder-coated finishes. Wood options like redwood or cedar are also excellent, offering natural beauty but requiring more maintenance against sun exposure and moisture. Steel is another strong option, especially for larger or more complex designs. The best material depends on your aesthetic preference, budget, and desired level of maintenance.",
+        "@type": "Answer",
+        "description": "Aluminum, wood (redwood, cedar), and steel are excellent materials for covered patios in Southern California, offering durability and weather resistance."
+      }
+    }
+  ],
+  "description": "Aluminum, wood (redwood, cedar), and steel are excellent materials for covered patios in Southern California, offering durability and weather resistance."
 }

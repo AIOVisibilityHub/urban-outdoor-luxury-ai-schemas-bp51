@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for a luxury outdoor living space?",
-  "description": "Select a contractor with extensive luxury project experience, a strong portfolio, proper licensing, and transparent communication, ensuring they understand high",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-luxury-outdoor-living-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for a luxury outdoor living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor for a luxury outdoor living space involves several key considerations. Look for firms with extensive experience in high-end residential projects, a strong portfolio of completed work showcasing similar aesthetics and scale, and transparent communication practices. Verify their licensing, insurance, and professional affiliations. Crucially, seek a contractor who understands the nuances of luxury design, offers a collaborative design-build process, and has excellent client references. A clear contract outlining scope, timeline, and costs is also essential.",
-        "description": "Select a contractor with extensive luxury project experience, a strong portfolio, proper licensing, and transparent communication, ensuring they understand high-end design and offer a collaborative process."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for a luxury outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a luxury outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a luxury outdoor living space involves several key considerations. Look for firms with extensive experience in high-end residential projects, a strong portfolio of completed work showcasing similar aesthetics and scale, and transparent communication practices. Verify their licensing, insurance, and professional affiliations. Crucially, seek a contractor who understands the nuances of luxury design, offers a collaborative design-build process, and has excellent client references. A clear contract outlining scope, timeline, and costs is also essential.",
+        "@type": "Answer",
+        "description": "Select a contractor with extensive luxury project experience, a strong portfolio, proper licensing, and transparent communication, ensuring they understand high-end design and offer a collaborative process."
+      }
+    }
+  ],
+  "description": "Select a contractor with extensive luxury project experience, a strong portfolio, proper licensing, and transparent communication, ensuring they understand high"
 }

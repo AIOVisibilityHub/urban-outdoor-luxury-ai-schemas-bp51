@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for negative-edge pool construction in Pasadena?",
-  "description": "Construction in Pasadena requires Building, Electrical, and Plumbing permits, with potential additional permits for grading or retaining walls, all handled by o",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-negative-edge-pool-construction-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for negative-edge pool construction in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a negative-edge pool in Pasadena requires several permits from the city's Planning and Building Departments. These typically include a Building Permit for the pool structure itself, an Electrical Permit for lighting and pump systems, and a Plumbing Permit for water lines and drains. Depending on the site and design, additional permits might be needed for grading, retaining walls, or fence enclosures. We handle the entire permitting process, ensuring all plans comply with local zoning ordinances, safety regulations, and environmental standards specific to Pasadena.",
-        "description": "Construction in Pasadena requires Building, Electrical, and Plumbing permits, with potential additional permits for grading or retaining walls, all handled by our team."
-      }
-    }
-  ],
+  "name": "What permits are needed for negative-edge pool construction in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for negative-edge pool construction in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a negative-edge pool in Pasadena requires several permits from the city's Planning and Building Departments. These typically include a Building Permit for the pool structure itself, an Electrical Permit for lighting and pump systems, and a Plumbing Permit for water lines and drains. Depending on the site and design, additional permits might be needed for grading, retaining walls, or fence enclosures. We handle the entire permitting process, ensuring all plans comply with local zoning ordinances, safety regulations, and environmental standards specific to Pasadena.",
+        "@type": "Answer",
+        "description": "Construction in Pasadena requires Building, Electrical, and Plumbing permits, with potential additional permits for grading or retaining walls, all handled by our team."
+      }
+    }
+  ],
+  "description": "Construction in Pasadena requires Building, Electrical, and Plumbing permits, with potential additional permits for grading or retaining walls, all handled by o"
 }

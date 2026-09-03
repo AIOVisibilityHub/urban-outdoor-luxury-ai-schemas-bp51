@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the construction process for a negative-edge pool?",
-  "description": "The process involves site assessment, design, excavation, specialized plumbing and basin construction, pouring the pool shell, finishing, and system commissioni",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-construction-process-for-a-negative-edge-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the construction process for a negative-edge pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction process for a negative-edge pool involves several key stages. It begins with comprehensive site assessment and detailed design planning, often including structural engineering specific to the site's elevation and soil conditions. Excavation follows, preparing the pool shell and the overflow basin. Next, the specialized plumbing and recirculation system are installed, crucial for the infinity effect. The pool shell is then reinforced and poured, followed by finishing touches like tiling, coping, and decking. Finally, the sophisticated pumping and filtration systems are commissioned to ensure proper water flow and safety.",
-        "description": "The process involves site assessment, design, excavation, specialized plumbing and basin construction, pouring the pool shell, finishing, and system commissioning."
-      }
-    }
-  ],
+  "name": "What is the construction process for a negative-edge pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the construction process for a negative-edge pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction process for a negative-edge pool involves several key stages. It begins with comprehensive site assessment and detailed design planning, often including structural engineering specific to the site's elevation and soil conditions. Excavation follows, preparing the pool shell and the overflow basin. Next, the specialized plumbing and recirculation system are installed, crucial for the infinity effect. The pool shell is then reinforced and poured, followed by finishing touches like tiling, coping, and decking. Finally, the sophisticated pumping and filtration systems are commissioned to ensure proper water flow and safety.",
+        "@type": "Answer",
+        "description": "The process involves site assessment, design, excavation, specialized plumbing and basin construction, pouring the pool shell, finishing, and system commissioning."
+      }
+    }
+  ],
+  "description": "The process involves site assessment, design, excavation, specialized plumbing and basin construction, pouring the pool shell, finishing, and system commissioni"
 }

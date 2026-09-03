@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost per square foot for natural stone pool deck installation in the Los Angeles area?",
-  "description": "Costs for natural stone pool deck installation in Los Angeles typically range from $25 to $75+ per square foot, depending on stone type, design, and site comple",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-per-square-foot-for-natural-stone-pool-deck-installatio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost per square foot for natural stone pool deck installation in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost per square foot for natural stone pool deck installation in the Los Angeles area can vary significantly, generally ranging from $25 to $75 or more. This range depends on the type of stone chosen, the complexity of the design, site accessibility, and existing ground conditions. High-end or custom cuts, intricate patterns, and specific finishes can increase the price. This estimate usually includes materials, labor, and basic site preparation, but detailed quotes are provided after a site visit.",
-        "description": "Costs for natural stone pool deck installation in Los Angeles typically range from $25 to $75+ per square foot, depending on stone type, design, and site complexity."
-      }
-    }
-  ],
+  "name": "What is the typical cost per square foot for natural stone pool deck installation in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost per square foot for natural stone pool deck installation in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for natural stone pool deck installation in the Los Angeles area can vary significantly, generally ranging from $25 to $75 or more. This range depends on the type of stone chosen, the complexity of the design, site accessibility, and existing ground conditions. High-end or custom cuts, intricate patterns, and specific finishes can increase the price. This estimate usually includes materials, labor, and basic site preparation, but detailed quotes are provided after a site visit.",
+        "@type": "Answer",
+        "description": "Costs for natural stone pool deck installation in Los Angeles typically range from $25 to $75+ per square foot, depending on stone type, design, and site complexity."
+      }
+    }
+  ],
+  "description": "Costs for natural stone pool deck installation in Los Angeles typically range from $25 to $75+ per square foot, depending on stone type, design, and site comple"
 }

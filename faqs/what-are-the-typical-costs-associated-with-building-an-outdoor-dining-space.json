@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical costs associated with building an outdoor dining space?",
-  "description": "Costs vary significantly based on complexity and features, from basic setups costing a few thousand dollars to elaborate designs exceeding $100,000.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-typical-costs-associated-with-building-an-outdoor-dining-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical costs associated with building an outdoor dining space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building an outdoor dining space varies widely depending on design complexity, materials, and necessary infrastructure. Basic setups with furniture and umbrellas might start from a few thousand dollars. More comprehensive projects, including pergolas, custom seating, paving, lighting, and landscaping, can range from $20,000 to over $100,000. Factors like plumbing for outdoor bars or extensive electrical work for heating and entertainment systems will significantly increase the budget. Permitting fees also contribute to the overall expenditure.",
-        "description": "Costs vary significantly based on complexity and features, from basic setups costing a few thousand dollars to elaborate designs exceeding $100,000."
-      }
-    }
-  ],
+  "name": "What are the typical costs associated with building an outdoor dining space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with building an outdoor dining space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an outdoor dining space varies widely depending on design complexity, materials, and necessary infrastructure. Basic setups with furniture and umbrellas might start from a few thousand dollars. More comprehensive projects, including pergolas, custom seating, paving, lighting, and landscaping, can range from $20,000 to over $100,000. Factors like plumbing for outdoor bars or extensive electrical work for heating and entertainment systems will significantly increase the budget. Permitting fees also contribute to the overall expenditure.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on complexity and features, from basic setups costing a few thousand dollars to elaborate designs exceeding $100,000."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on complexity and features, from basic setups costing a few thousand dollars to elaborate designs exceeding $100,000."
 }

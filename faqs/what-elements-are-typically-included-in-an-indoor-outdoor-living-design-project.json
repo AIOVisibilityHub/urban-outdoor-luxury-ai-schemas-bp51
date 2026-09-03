@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What elements are typically included in an indoor-outdoor living design project?",
-  "description": "Key elements are large operable doors and windows, covered patios, outdoor kitchens, seamless flooring, and integrated landscaping.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-elements-are-typically-included-in-an-indoor-outdoor-living-design-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What elements are typically included in an indoor-outdoor living design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typical elements include large bifold or sliding glass doors, pocket doors, and expansive windows that open up walls. Covered patios, pergolas, and verandas provide shade and protection. Integrated outdoor kitchens, dining areas, and fire features extend functionality. Seamless flooring transitions, such as matching tile or concrete, help unify the spaces. Thoughtful landscaping and hardscaping also play a crucial role in the overall design.",
-        "description": "Key elements are large operable doors and windows, covered patios, outdoor kitchens, seamless flooring, and integrated landscaping."
-      }
-    }
-  ],
+  "name": "What elements are typically included in an indoor-outdoor living design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What elements are typically included in an indoor-outdoor living design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical elements include large bifold or sliding glass doors, pocket doors, and expansive windows that open up walls. Covered patios, pergolas, and verandas provide shade and protection. Integrated outdoor kitchens, dining areas, and fire features extend functionality. Seamless flooring transitions, such as matching tile or concrete, help unify the spaces. Thoughtful landscaping and hardscaping also play a crucial role in the overall design.",
+        "@type": "Answer",
+        "description": "Key elements are large operable doors and windows, covered patios, outdoor kitchens, seamless flooring, and integrated landscaping."
+      }
+    }
+  ],
+  "description": "Key elements are large operable doors and windows, covered patios, outdoor kitchens, seamless flooring, and integrated landscaping."
 }

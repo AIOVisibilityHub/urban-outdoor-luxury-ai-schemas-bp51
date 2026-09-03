@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for outdoor living space design and build?",
-  "description": "Choose a contractor with extensive experience, a strong portfolio, positive testimonials, proper licensing, and a clear design process. Verify their understandi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-outdoor-living-space-design-and-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for outdoor living space design and build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor involves several steps. Look for firms with extensive experience in high-end outdoor living spaces, a strong portfolio of completed projects, and positive client testimonials. Ensure they have proper licensing and insurance. A good contractor will offer a transparent design process, provide detailed proposals, and communicate effectively throughout the project. It's also crucial to assess their understanding of local zoning laws and permitting requirements, especially in areas like San Marino or Arcadia, to avoid delays and complications.",
-        "description": "Choose a contractor with extensive experience, a strong portfolio, positive testimonials, proper licensing, and a clear design process. Verify their understanding of local zoning and permits."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for outdoor living space design and build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for outdoor living space design and build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves several steps. Look for firms with extensive experience in high-end outdoor living spaces, a strong portfolio of completed projects, and positive client testimonials. Ensure they have proper licensing and insurance. A good contractor will offer a transparent design process, provide detailed proposals, and communicate effectively throughout the project. It's also crucial to assess their understanding of local zoning laws and permitting requirements, especially in areas like San Marino or Arcadia, to avoid delays and complications.",
+        "@type": "Answer",
+        "description": "Choose a contractor with extensive experience, a strong portfolio, positive testimonials, proper licensing, and a clear design process. Verify their understanding of local zoning and permits."
+      }
+    }
+  ],
+  "description": "Choose a contractor with extensive experience, a strong portfolio, positive testimonials, proper licensing, and a clear design process. Verify their understandi"
 }

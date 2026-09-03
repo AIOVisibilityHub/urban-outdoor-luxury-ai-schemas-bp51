@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of a lagoon-style pool compared to a traditional rectangular pool?",
-  "description": "Lagoon-style pools offer a more natural, resort-like aesthetic with irregular shapes and features, contrasting with the formal, geometric look of traditional re",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-a-lagoon-style-pool-compared-to-a-traditional-rectang",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of a lagoon-style pool compared to a traditional rectangular pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lagoon-style pools offer distinct advantages over traditional rectangular pools by prioritizing natural aesthetics and integration with the landscape. Their irregular shapes and natural rockwork create a more organic, resort-like ambiance, enhancing backyard beauty and property value. They often feature beach entries and grottos, providing varied entry points and recreational spaces. While rectangular pools excel in lap swimming and formal aesthetics, lagoon pools deliver a unique, tranquil escape that feels less like a chlorinated box and more like a private natural spring, fostering relaxation and entertainment.",
-        "description": "Lagoon-style pools offer a more natural, resort-like aesthetic with irregular shapes and features, contrasting with the formal, geometric look of traditional rectangular pools."
-      }
-    }
-  ],
+  "name": "What are the advantages of a lagoon-style pool compared to a traditional rectangular pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of a lagoon-style pool compared to a traditional rectangular pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lagoon-style pools offer distinct advantages over traditional rectangular pools by prioritizing natural aesthetics and integration with the landscape. Their irregular shapes and natural rockwork create a more organic, resort-like ambiance, enhancing backyard beauty and property value. They often feature beach entries and grottos, providing varied entry points and recreational spaces. While rectangular pools excel in lap swimming and formal aesthetics, lagoon pools deliver a unique, tranquil escape that feels less like a chlorinated box and more like a private natural spring, fostering relaxation and entertainment.",
+        "@type": "Answer",
+        "description": "Lagoon-style pools offer a more natural, resort-like aesthetic with irregular shapes and features, contrasting with the formal, geometric look of traditional rectangular pools."
+      }
+    }
+  ],
+  "description": "Lagoon-style pools offer a more natural, resort-like aesthetic with irregular shapes and features, contrasting with the formal, geometric look of traditional re"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges during infinity-edge pool construction?",
-  "description": "Challenges include achieving a perfectly level vanishing edge, managing complex site conditions, ensuring proper waterproofing, and integrating intricate plumbi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-challenges-during-infinity-edge-pool-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges during infinity-edge pool construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges in infinity-edge pool construction include achieving the perfectly level vanishing edge, which requires meticulous precision during concrete pouring and finishing. Site conditions, especially on sloped or unstable terrain, can necessitate extensive excavation, retaining walls, and specialized engineering for structural integrity. Ensuring proper waterproofing and an efficient, hidden catch basin system is crucial to prevent leaks and maintain the aesthetic. Finally, integrating the complex plumbing and hydraulic systems for the vanishing effect requires experienced professionals to avoid operational issues.",
-        "description": "Challenges include achieving a perfectly level vanishing edge, managing complex site conditions, ensuring proper waterproofing, and integrating intricate plumbing for the overflow system."
-      }
-    }
-  ],
+  "name": "What are the common challenges during infinity-edge pool construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges during infinity-edge pool construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in infinity-edge pool construction include achieving the perfectly level vanishing edge, which requires meticulous precision during concrete pouring and finishing. Site conditions, especially on sloped or unstable terrain, can necessitate extensive excavation, retaining walls, and specialized engineering for structural integrity. Ensuring proper waterproofing and an efficient, hidden catch basin system is crucial to prevent leaks and maintain the aesthetic. Finally, integrating the complex plumbing and hydraulic systems for the vanishing effect requires experienced professionals to avoid operational issues.",
+        "@type": "Answer",
+        "description": "Challenges include achieving a perfectly level vanishing edge, managing complex site conditions, ensuring proper waterproofing, and integrating intricate plumbing for the overflow system."
+      }
+    }
+  ],
+  "description": "Challenges include achieving a perfectly level vanishing edge, managing complex site conditions, ensuring proper waterproofing, and integrating intricate plumbi"
 }

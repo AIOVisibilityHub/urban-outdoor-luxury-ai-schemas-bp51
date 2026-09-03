@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you integrate smart home technology with a new luxury pool?",
-  "description": "Yes, luxury pools can integrate smart home technology for remote control and automation of heating, lighting, pumps, and other features.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-smart-home-technology-with-a-new-luxury-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you integrate smart home technology with a new luxury pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, integrating smart home technology is a popular feature in luxury pool construction. This allows for remote control and automation of various pool functions, including heating, lighting, pumps, cleaning systems, and water features, all from a smartphone or tablet. Advanced systems can even monitor water chemistry and alert you to maintenance needs. This integration enhances convenience, energy efficiency, and the overall enjoyment of your pool.",
-        "description": "Yes, luxury pools can integrate smart home technology for remote control and automation of heating, lighting, pumps, and other features."
-      }
-    }
-  ],
+  "name": "Can you integrate smart home technology with a new luxury pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate smart home technology with a new luxury pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, integrating smart home technology is a popular feature in luxury pool construction. This allows for remote control and automation of various pool functions, including heating, lighting, pumps, cleaning systems, and water features, all from a smartphone or tablet. Advanced systems can even monitor water chemistry and alert you to maintenance needs. This integration enhances convenience, energy efficiency, and the overall enjoyment of your pool.",
+        "@type": "Answer",
+        "description": "Yes, luxury pools can integrate smart home technology for remote control and automation of heating, lighting, pumps, and other features."
+      }
+    }
+  ],
+  "description": "Yes, luxury pools can integrate smart home technology for remote control and automation of heating, lighting, pumps, and other features."
 }

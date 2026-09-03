@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install new pool coping?",
-  "description": "Installing new pool coping usually takes 3 to 7 days for an average residential pool, depending on size, complexity, and material.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-new-pool-coping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install new pool coping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of pool coping installation depends on the size and complexity of your pool, as well as the chosen material. For an average-sized residential pool, the installation process can typically take anywhere from 3 to 7 days. This timeline includes preparation, removal of old coping if applicable, cutting and setting the new material, grouting, and sealing. Custom shapes, intricate patterns, or larger pools will naturally extend this timeframe. Weather conditions can also affect the schedule, especially in outdoor projects.",
-        "description": "Installing new pool coping usually takes 3 to 7 days for an average residential pool, depending on size, complexity, and material."
-      }
-    }
-  ],
+  "name": "How long does it take to install new pool coping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new pool coping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of pool coping installation depends on the size and complexity of your pool, as well as the chosen material. For an average-sized residential pool, the installation process can typically take anywhere from 3 to 7 days. This timeline includes preparation, removal of old coping if applicable, cutting and setting the new material, grouting, and sealing. Custom shapes, intricate patterns, or larger pools will naturally extend this timeframe. Weather conditions can also affect the schedule, especially in outdoor projects.",
+        "@type": "Answer",
+        "description": "Installing new pool coping usually takes 3 to 7 days for an average residential pool, depending on size, complexity, and material."
+      }
+    }
+  ],
+  "description": "Installing new pool coping usually takes 3 to 7 days for an average residential pool, depending on size, complexity, and material."
 }

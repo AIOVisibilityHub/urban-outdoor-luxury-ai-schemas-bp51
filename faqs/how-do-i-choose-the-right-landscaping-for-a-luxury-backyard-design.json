@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right landscaping for a luxury backyard design?",
-  "description": "Select landscaping that balances aesthetics with local climate, using native plants for sustainability. Incorporate mature specimens, unique water features, and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-landscaping-for-a-luxury-backyard-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right landscaping for a luxury backyard design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing landscaping involves balancing aesthetics with practicality and local climate. Consider native plants that thrive in the Los Angeles area for sustainability and reduced maintenance. Integrate different textures and colors with trees, shrubs, and flowering plants to create visual interest. For luxury, think about mature specimen plants, unique water features, and strategic lighting to highlight key elements. Our designers can help select plants that complement your home's style and withstand local conditions.",
-        "description": "Select landscaping that balances aesthetics with local climate, using native plants for sustainability. Incorporate mature specimens, unique water features, and strategic lighting to enhance luxury and complement your home."
-      }
-    }
-  ],
+  "name": "How do I choose the right landscaping for a luxury backyard design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right landscaping for a luxury backyard design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing landscaping involves balancing aesthetics with practicality and local climate. Consider native plants that thrive in the Los Angeles area for sustainability and reduced maintenance. Integrate different textures and colors with trees, shrubs, and flowering plants to create visual interest. For luxury, think about mature specimen plants, unique water features, and strategic lighting to highlight key elements. Our designers can help select plants that complement your home's style and withstand local conditions.",
+        "@type": "Answer",
+        "description": "Select landscaping that balances aesthetics with local climate, using native plants for sustainability. Incorporate mature specimens, unique water features, and strategic lighting to enhance luxury and complement your home."
+      }
+    }
+  ],
+  "description": "Select landscaping that balances aesthetics with local climate, using native plants for sustainability. Incorporate mature specimens, unique water features, and"
 }

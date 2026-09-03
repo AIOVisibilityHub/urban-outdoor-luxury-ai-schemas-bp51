@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I integrate smart home technology with my new swimming pool?",
-  "description": "Yes, new pools can integrate with smart home technology to control lighting, heating, filtration, and water features via smart devices for convenience.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-integrate-smart-home-technology-with-my-new-swimming-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I integrate smart home technology with my new swimming pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Modern luxury swimming pools can be seamlessly integrated with smart home technology for enhanced convenience and control. This allows you to manage pool functions such as lighting, heating, filtration, and water features directly from your smartphone, tablet, or home automation system. Smart integration can also include automated chemical feeders, robotic cleaners, and remote monitoring, providing effortless management of your pool environment and optimizing energy efficiency.",
-        "description": "Yes, new pools can integrate with smart home technology to control lighting, heating, filtration, and water features via smart devices for convenience."
-      }
-    }
-  ],
+  "name": "Can I integrate smart home technology with my new swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate smart home technology with my new swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Modern luxury swimming pools can be seamlessly integrated with smart home technology for enhanced convenience and control. This allows you to manage pool functions such as lighting, heating, filtration, and water features directly from your smartphone, tablet, or home automation system. Smart integration can also include automated chemical feeders, robotic cleaners, and remote monitoring, providing effortless management of your pool environment and optimizing energy efficiency.",
+        "@type": "Answer",
+        "description": "Yes, new pools can integrate with smart home technology to control lighting, heating, filtration, and water features via smart devices for convenience."
+      }
+    }
+  ],
+  "description": "Yes, new pools can integrate with smart home technology to control lighting, heating, filtration, and water features via smart devices for convenience."
 }

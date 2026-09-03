@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a custom-built spa?",
-  "description": "Maintenance for a custom spa includes weekly water chemistry balancing, regular filter cleaning, periodic draining and refilling, and equipment checks.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-custom-built-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a custom-built spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom-built spas require regular maintenance to ensure water quality and system longevity. This typically includes balancing water chemistry (pH, alkalinity, sanitizer levels) weekly, cleaning filters every 1-2 weeks, and draining and refilling the spa every 3-4 months depending on usage. Periodically, jets and heating elements should be checked. Our team can provide guidance on proper care or recommend professional maintenance services to keep your spa in optimal condition and extend its lifespan.",
-        "description": "Maintenance for a custom spa includes weekly water chemistry balancing, regular filter cleaning, periodic draining and refilling, and equipment checks."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a custom-built spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom-built spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-built spas require regular maintenance to ensure water quality and system longevity. This typically includes balancing water chemistry (pH, alkalinity, sanitizer levels) weekly, cleaning filters every 1-2 weeks, and draining and refilling the spa every 3-4 months depending on usage. Periodically, jets and heating elements should be checked. Our team can provide guidance on proper care or recommend professional maintenance services to keep your spa in optimal condition and extend its lifespan.",
+        "@type": "Answer",
+        "description": "Maintenance for a custom spa includes weekly water chemistry balancing, regular filter cleaning, periodic draining and refilling, and equipment checks."
+      }
+    }
+  ],
+  "description": "Maintenance for a custom spa includes weekly water chemistry balancing, regular filter cleaning, periodic draining and refilling, and equipment checks."
 }

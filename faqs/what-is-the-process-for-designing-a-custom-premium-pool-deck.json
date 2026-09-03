@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a custom premium pool deck?",
-  "description": "The custom design process starts with a consultation and site assessment, followed by conceptual designs and 3D renderings. We refine the design and material ch",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-a-custom-premium-pool-deck",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a custom premium pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with an initial consultation to understand your vision, lifestyle, and aesthetic preferences. Our design team then conducts a site assessment to evaluate existing conditions and integrate the deck seamlessly with your home's architecture and landscape. We develop conceptual designs, often including 3D renderings, allowing you to visualize the finished product. Following your feedback, we refine the design and select materials. The final design package includes detailed plans and specifications, ensuring all elements align with your expectations before construction begins.",
-        "description": "The custom design process starts with a consultation and site assessment, followed by conceptual designs and 3D renderings. We refine the design and material choices based on your feedback."
-      }
-    }
-  ],
+  "name": "What is the process for designing a custom premium pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom premium pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to understand your vision, lifestyle, and aesthetic preferences. Our design team then conducts a site assessment to evaluate existing conditions and integrate the deck seamlessly with your home's architecture and landscape. We develop conceptual designs, often including 3D renderings, allowing you to visualize the finished product. Following your feedback, we refine the design and select materials. The final design package includes detailed plans and specifications, ensuring all elements align with your expectations before construction begins.",
+        "@type": "Answer",
+        "description": "The custom design process starts with a consultation and site assessment, followed by conceptual designs and 3D renderings. We refine the design and material choices based on your feedback."
+      }
+    }
+  ],
+  "description": "The custom design process starts with a consultation and site assessment, followed by conceptual designs and 3D renderings. We refine the design and material ch"
 }

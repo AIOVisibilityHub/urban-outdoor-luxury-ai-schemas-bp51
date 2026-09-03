@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical installation process for a porcelain pool deck?",
-  "description": "Installation involves site preparation, drainage setup, laying a compacted base, precise paver placement, joint filling, and final compaction and cleaning.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-installation-process-for-a-porcelain-pool-deck",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical installation process for a porcelain pool deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process for a porcelain pool deck typically begins with site preparation, which involves excavating and grading the area, followed by establishing a proper drainage system. A compacted base layer of gravel and sand is then laid to ensure stability. Porcelain pavers are meticulously placed on this prepared base, often using a sand-set or pedestal system, depending on the specific application and desired finish. Gaps between pavers are filled with polymeric sand or a suitable jointing material, and the area is compacted to ensure a level, secure surface. The final step involves a thorough cleaning and inspection.",
-        "description": "Installation involves site preparation, drainage setup, laying a compacted base, precise paver placement, joint filling, and final compaction and cleaning."
-      }
-    }
-  ],
+  "name": "What is the typical installation process for a porcelain pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical installation process for a porcelain pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a porcelain pool deck typically begins with site preparation, which involves excavating and grading the area, followed by establishing a proper drainage system. A compacted base layer of gravel and sand is then laid to ensure stability. Porcelain pavers are meticulously placed on this prepared base, often using a sand-set or pedestal system, depending on the specific application and desired finish. Gaps between pavers are filled with polymeric sand or a suitable jointing material, and the area is compacted to ensure a level, secure surface. The final step involves a thorough cleaning and inspection.",
+        "@type": "Answer",
+        "description": "Installation involves site preparation, drainage setup, laying a compacted base, precise paver placement, joint filling, and final compaction and cleaning."
+      }
+    }
+  ],
+  "description": "Installation involves site preparation, drainage setup, laying a compacted base, precise paver placement, joint filling, and final compaction and cleaning."
 }

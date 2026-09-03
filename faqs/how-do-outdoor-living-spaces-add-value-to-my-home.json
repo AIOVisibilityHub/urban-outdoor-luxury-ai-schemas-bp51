@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do outdoor living spaces add value to my home?",
-  "description": "Outdoor living spaces add value by increasing usable square footage, providing appealing features for entertaining, and boosting curb appeal, especially in desi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-outdoor-living-spaces-add-value-to-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do outdoor living spaces add value to my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Well-designed outdoor living spaces significantly enhance a home's value and appeal. They expand usable square footage, offering additional areas for relaxation, entertaining, and dining. Features such as custom patios, outdoor kitchens, fire pits, and appealing landscaping are highly sought after by homebuyers, particularly in desirable markets like Los Angeles and its surrounding communities. A professional design ensures these additions are cohesive, functional, and durable, providing a strong return on investment by boosting curb appeal and overall property desirability.",
-        "description": "Outdoor living spaces add value by increasing usable square footage, providing appealing features for entertaining, and boosting curb appeal, especially in desirable markets like Los Angeles."
-      }
-    }
-  ],
+  "name": "How do outdoor living spaces add value to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do outdoor living spaces add value to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well-designed outdoor living spaces significantly enhance a home's value and appeal. They expand usable square footage, offering additional areas for relaxation, entertaining, and dining. Features such as custom patios, outdoor kitchens, fire pits, and appealing landscaping are highly sought after by homebuyers, particularly in desirable markets like Los Angeles and its surrounding communities. A professional design ensures these additions are cohesive, functional, and durable, providing a strong return on investment by boosting curb appeal and overall property desirability.",
+        "@type": "Answer",
+        "description": "Outdoor living spaces add value by increasing usable square footage, providing appealing features for entertaining, and boosting curb appeal, especially in desirable markets like Los Angeles."
+      }
+    }
+  ],
+  "description": "Outdoor living spaces add value by increasing usable square footage, providing appealing features for entertaining, and boosting curb appeal, especially in desi"
 }

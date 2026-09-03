@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for an indoor-outdoor living renovation in Los Angeles?",
-  "description": "Costs range from tens of thousands to hundreds of thousands in Los Angeles, depending on project scope, materials, and features.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-an-indoor-outdoor-living-renovation-in-los-an",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for an indoor-outdoor living renovation in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for an indoor-outdoor living renovation in Los Angeles can vary widely, from tens of thousands for modest additions to hundreds of thousands for comprehensive transformations. Factors influencing cost include the size and type of operable doors, materials for patios and decking, addition of outdoor kitchens or fire features, landscaping complexity, and any necessary structural modifications or permits. A detailed estimate requires an on-site consultation.",
-        "description": "Costs range from tens of thousands to hundreds of thousands in Los Angeles, depending on project scope, materials, and features."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for an indoor-outdoor living renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an indoor-outdoor living renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for an indoor-outdoor living renovation in Los Angeles can vary widely, from tens of thousands for modest additions to hundreds of thousands for comprehensive transformations. Factors influencing cost include the size and type of operable doors, materials for patios and decking, addition of outdoor kitchens or fire features, landscaping complexity, and any necessary structural modifications or permits. A detailed estimate requires an on-site consultation.",
+        "@type": "Answer",
+        "description": "Costs range from tens of thousands to hundreds of thousands in Los Angeles, depending on project scope, materials, and features."
+      }
+    }
+  ],
+  "description": "Costs range from tens of thousands to hundreds of thousands in Los Angeles, depending on project scope, materials, and features."
 }

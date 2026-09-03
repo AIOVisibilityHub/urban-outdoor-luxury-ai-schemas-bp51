@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the features and finishes of an integrated pool and spa?",
-  "description": "Yes, features and finishes are highly customizable, including interior surfaces, coping, water features, lighting, and smart controls.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-customize-the-features-and-finishes-of-an-integrated-pool-and-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the features and finishes of an integrated pool and spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, extensive customization is possible for integrated pool and spa designs. You can choose from a wide array of interior finishes like plaster, pebble, or tile, as well as various coping materials such as natural stone or precast concrete. Feature options include waterfalls, deck jets, sheer descents, LED lighting, automated covers, and smart control systems. Our design process allows for selecting elements that reflect your personal style and functional requirements, creating a unique outdoor oasis.",
-        "description": "Yes, features and finishes are highly customizable, including interior surfaces, coping, water features, lighting, and smart controls."
-      }
-    }
-  ],
+  "name": "Can I customize the features and finishes of an integrated pool and spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the features and finishes of an integrated pool and spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, extensive customization is possible for integrated pool and spa designs. You can choose from a wide array of interior finishes like plaster, pebble, or tile, as well as various coping materials such as natural stone or precast concrete. Feature options include waterfalls, deck jets, sheer descents, LED lighting, automated covers, and smart control systems. Our design process allows for selecting elements that reflect your personal style and functional requirements, creating a unique outdoor oasis.",
+        "@type": "Answer",
+        "description": "Yes, features and finishes are highly customizable, including interior surfaces, coping, water features, lighting, and smart controls."
+      }
+    }
+  ],
+  "description": "Yes, features and finishes are highly customizable, including interior surfaces, coping, water features, lighting, and smart controls."
 }

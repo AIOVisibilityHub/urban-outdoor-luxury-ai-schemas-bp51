@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a lagoon-style pool?",
-  "description": "Construction of a lagoon-style pool typically takes 12 to 24 weeks, influenced by design complexity, weather, and material availability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-constructing-a-lagoon-style-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a lagoon-style pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a lagoon-style pool generally ranges from 12 to 24 weeks, though this can vary based on the project's scale and specific features. Key phases include design and permitting (4-8 weeks), excavation and structural work (4-6 weeks), plumbing and electrical installation (2-3 weeks), rockwork and landscaping (3-5 weeks), and final finishes and curing (2-4 weeks). Unexpected weather conditions or material lead times can also influence the overall schedule. We provide a detailed project timeline after finalizing the design.",
-        "description": "Construction of a lagoon-style pool typically takes 12 to 24 weeks, influenced by design complexity, weather, and material availability."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a lagoon-style pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a lagoon-style pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a lagoon-style pool generally ranges from 12 to 24 weeks, though this can vary based on the project's scale and specific features. Key phases include design and permitting (4-8 weeks), excavation and structural work (4-6 weeks), plumbing and electrical installation (2-3 weeks), rockwork and landscaping (3-5 weeks), and final finishes and curing (2-4 weeks). Unexpected weather conditions or material lead times can also influence the overall schedule. We provide a detailed project timeline after finalizing the design.",
+        "@type": "Answer",
+        "description": "Construction of a lagoon-style pool typically takes 12 to 24 weeks, influenced by design complexity, weather, and material availability."
+      }
+    }
+  ],
+  "description": "Construction of a lagoon-style pool typically takes 12 to 24 weeks, influenced by design complexity, weather, and material availability."
 }

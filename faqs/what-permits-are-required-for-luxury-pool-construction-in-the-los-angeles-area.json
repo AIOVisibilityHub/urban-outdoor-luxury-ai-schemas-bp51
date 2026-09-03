@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for luxury pool construction in the Los Angeles area?",
-  "description": "Permits for luxury pool construction in Los Angeles include those for grading, structural, plumbing, and electrical work, all managed by us.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-luxury-pool-construction-in-the-los-angeles-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for luxury pool construction in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Luxury pool construction in the Los Angeles area requires various permits from the local building and safety department, as well as potentially from other agencies depending on the specific location and project scope. These typically include permits for grading, excavation, structural components, plumbing, and electrical work. We manage the entire permitting process on your behalf, ensuring all plans comply with local zoning ordinances and building codes before construction begins.",
-        "description": "Permits for luxury pool construction in Los Angeles include those for grading, structural, plumbing, and electrical work, all managed by us."
-      }
-    }
-  ],
+  "name": "What permits are required for luxury pool construction in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for luxury pool construction in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury pool construction in the Los Angeles area requires various permits from the local building and safety department, as well as potentially from other agencies depending on the specific location and project scope. These typically include permits for grading, excavation, structural components, plumbing, and electrical work. We manage the entire permitting process on your behalf, ensuring all plans comply with local zoning ordinances and building codes before construction begins.",
+        "@type": "Answer",
+        "description": "Permits for luxury pool construction in Los Angeles include those for grading, structural, plumbing, and electrical work, all managed by us."
+      }
+    }
+  ],
+  "description": "Permits for luxury pool construction in Los Angeles include those for grading, structural, plumbing, and electrical work, all managed by us."
 }

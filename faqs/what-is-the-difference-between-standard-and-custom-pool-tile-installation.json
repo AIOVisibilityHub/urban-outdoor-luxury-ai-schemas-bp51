@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between standard and custom pool tile installation?",
-  "description": "Standard installation uses mass-produced tiles with limited options. Custom installation offers bespoke designs, specialized materials, and intricate patterns t",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-standard-and-custom-pool-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between standard and custom pool tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard pool tile installation typically involves using readily available, mass-produced tiles with limited design options, often focusing on functional rather than aesthetic customization. Custom pool tile installation, however, offers a bespoke approach, allowing for unique designs, specialized materials, and intricate patterns tailored specifically to your vision. This includes personalized color schemes, mosaic art, and high-quality, durable tiles that reflect your individual style. While standard options are more budget-friendly, custom installation provides a distinct, high-end finish that enhances property value and appeal.",
-        "description": "Standard installation uses mass-produced tiles with limited options. Custom installation offers bespoke designs, specialized materials, and intricate patterns tailored to your vision, enhancing aesthetics and value."
-      }
-    }
-  ],
+  "name": "What is the difference between standard and custom pool tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard and custom pool tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard pool tile installation typically involves using readily available, mass-produced tiles with limited design options, often focusing on functional rather than aesthetic customization. Custom pool tile installation, however, offers a bespoke approach, allowing for unique designs, specialized materials, and intricate patterns tailored specifically to your vision. This includes personalized color schemes, mosaic art, and high-quality, durable tiles that reflect your individual style. While standard options are more budget-friendly, custom installation provides a distinct, high-end finish that enhances property value and appeal.",
+        "@type": "Answer",
+        "description": "Standard installation uses mass-produced tiles with limited options. Custom installation offers bespoke designs, specialized materials, and intricate patterns tailored to your vision, enhancing aesthetics and value."
+      }
+    }
+  ],
+  "description": "Standard installation uses mass-produced tiles with limited options. Custom installation offers bespoke designs, specialized materials, and intricate patterns t"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the key differences between a standard pool and a luxury pool?",
-  "description": "Luxury pools offer bespoke designs, premium materials, advanced technology, and integrated outdoor living elements, unlike standard pools which prioritize basic",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-differences-between-a-standard-pool-and-a-luxury-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key differences between a standard pool and a luxury pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard pool typically focuses on basic functionality for swimming and recreation. A luxury pool, in contrast, emphasizes bespoke design, premium materials, advanced technology, and integrated outdoor living elements. Luxury pools often feature custom shapes, high-end finishes like natural stone or mosaic tiles, infinity edges, automated control systems, elaborate water features, integrated spas, and sophisticated lighting, creating a holistic outdoor resort experience.",
-        "description": "Luxury pools offer bespoke designs, premium materials, advanced technology, and integrated outdoor living elements, unlike standard pools which prioritize basic function."
-      }
-    }
-  ],
+  "name": "What are the key differences between a standard pool and a luxury pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between a standard pool and a luxury pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard pool typically focuses on basic functionality for swimming and recreation. A luxury pool, in contrast, emphasizes bespoke design, premium materials, advanced technology, and integrated outdoor living elements. Luxury pools often feature custom shapes, high-end finishes like natural stone or mosaic tiles, infinity edges, automated control systems, elaborate water features, integrated spas, and sophisticated lighting, creating a holistic outdoor resort experience.",
+        "@type": "Answer",
+        "description": "Luxury pools offer bespoke designs, premium materials, advanced technology, and integrated outdoor living elements, unlike standard pools which prioritize basic function."
+      }
+    }
+  ],
+  "description": "Luxury pools offer bespoke designs, premium materials, advanced technology, and integrated outdoor living elements, unlike standard pools which prioritize basic"
 }

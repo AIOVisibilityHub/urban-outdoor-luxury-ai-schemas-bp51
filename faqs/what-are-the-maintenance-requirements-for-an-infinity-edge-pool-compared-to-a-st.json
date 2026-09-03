@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the maintenance requirements for an infinity-edge pool compared to a standard pool?",
-  "description": "Infinity-edge pools have similar routine maintenance to standard pools but also require regular cleaning of the catch basin and inspection of the recirculation",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-maintenance-requirements-for-an-infinity-edge-pool-compared-to-a-st",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the maintenance requirements for an infinity-edge pool compared to a standard pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Infinity-edge pools require similar routine maintenance to standard pools, such as chemical balancing, cleaning, and filtration system checks. However, they also have specific considerations due to the continuous overflow. The catch basin needs regular cleaning to prevent debris buildup, and the additional pump for recirculation requires periodic inspection. Evaporation can also be slightly higher due to the increased surface area exposure and constant water movement. Proper maintenance ensures the aesthetic appeal and longevity of the vanishing edge effect, though it's generally manageable for pool owners.",
-        "description": "Infinity-edge pools have similar routine maintenance to standard pools but also require regular cleaning of the catch basin and inspection of the recirculation pump, with potentially higher evaporation."
-      }
-    }
-  ],
+  "name": "What are the maintenance requirements for an infinity-edge pool compared to a standard pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for an infinity-edge pool compared to a standard pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Infinity-edge pools require similar routine maintenance to standard pools, such as chemical balancing, cleaning, and filtration system checks. However, they also have specific considerations due to the continuous overflow. The catch basin needs regular cleaning to prevent debris buildup, and the additional pump for recirculation requires periodic inspection. Evaporation can also be slightly higher due to the increased surface area exposure and constant water movement. Proper maintenance ensures the aesthetic appeal and longevity of the vanishing edge effect, though it's generally manageable for pool owners.",
+        "@type": "Answer",
+        "description": "Infinity-edge pools have similar routine maintenance to standard pools but also require regular cleaning of the catch basin and inspection of the recirculation pump, with potentially higher evaporation."
+      }
+    }
+  ],
+  "description": "Infinity-edge pools have similar routine maintenance to standard pools but also require regular cleaning of the catch basin and inspection of the recirculation"
 }

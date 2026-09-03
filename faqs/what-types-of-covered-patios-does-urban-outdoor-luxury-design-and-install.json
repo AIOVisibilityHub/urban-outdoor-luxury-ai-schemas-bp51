@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of covered patios does Urban Outdoor Luxury design and install?",
-  "description": "Urban Outdoor Luxury designs and installs various covered patios, including pergolas, solid roof, and louvered covers, using materials like aluminum, wood, and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-covered-patios-does-urban-outdoor-luxury-design-and-install",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of covered patios does Urban Outdoor Luxury design and install?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Urban Outdoor Luxury specializes in a variety of covered patio designs tailored to enhance your outdoor living space. We design and install structures such as custom pergolas, solid roof patios, louvered patio covers, and insulated patio covers. Our team works with different materials including aluminum, wood, and steel, ensuring durability and aesthetic integration with your home. We focus on creating functional and stylish outdoor environments that provide shade and protection from the elements, customized to your specific needs and architectural style.",
-        "description": "Urban Outdoor Luxury designs and installs various covered patios, including pergolas, solid roof, and louvered covers, using materials like aluminum, wood, and steel."
-      }
-    }
-  ],
+  "name": "What types of covered patios does Urban Outdoor Luxury design and install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of covered patios does Urban Outdoor Luxury design and install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Urban Outdoor Luxury specializes in a variety of covered patio designs tailored to enhance your outdoor living space. We design and install structures such as custom pergolas, solid roof patios, louvered patio covers, and insulated patio covers. Our team works with different materials including aluminum, wood, and steel, ensuring durability and aesthetic integration with your home. We focus on creating functional and stylish outdoor environments that provide shade and protection from the elements, customized to your specific needs and architectural style.",
+        "@type": "Answer",
+        "description": "Urban Outdoor Luxury designs and installs various covered patios, including pergolas, solid roof, and louvered covers, using materials like aluminum, wood, and steel."
+      }
+    }
+  ],
+  "description": "Urban Outdoor Luxury designs and installs various covered patios, including pergolas, solid roof, and louvered covers, using materials like aluminum, wood, and"
 }

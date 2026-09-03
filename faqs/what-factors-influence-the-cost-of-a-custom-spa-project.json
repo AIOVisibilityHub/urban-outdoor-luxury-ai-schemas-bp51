@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of a custom spa project?",
-  "description": "Cost factors for custom spas include size, materials, equipment, integrated features, site conditions, design complexity, and permitting fees.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-spa-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of a custom spa project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several factors impact the cost of a custom spa. These include the size and depth of the spa, chosen materials (e.g., tile, stone, plaster finishes), type of equipment (e.g., pumps, heaters, jets, automation systems), integrated features (e.g., waterfalls, lighting, sound systems), and site-specific challenges like difficult access or extensive excavation. Design complexity, engineering requirements, and local permitting fees also contribute to the overall investment. We provide transparent estimates after a detailed consultation and site assessment.",
-        "description": "Cost factors for custom spas include size, materials, equipment, integrated features, site conditions, design complexity, and permitting fees."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of a custom spa project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom spa project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the cost of a custom spa. These include the size and depth of the spa, chosen materials (e.g., tile, stone, plaster finishes), type of equipment (e.g., pumps, heaters, jets, automation systems), integrated features (e.g., waterfalls, lighting, sound systems), and site-specific challenges like difficult access or extensive excavation. Design complexity, engineering requirements, and local permitting fees also contribute to the overall investment. We provide transparent estimates after a detailed consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Cost factors for custom spas include size, materials, equipment, integrated features, site conditions, design complexity, and permitting fees."
+      }
+    }
+  ],
+  "description": "Cost factors for custom spas include size, materials, equipment, integrated features, site conditions, design complexity, and permitting fees."
 }

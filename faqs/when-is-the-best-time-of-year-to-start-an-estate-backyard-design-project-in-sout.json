@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to start an estate backyard design project in Southern California?",
-  "description": "Starting the design phase in late fall or early winter is ideal in Southern California, allowing construction to begin in spring or early summer for enjoyment d",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-start-an-estate-backyard-design-project-in-sout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to start an estate backyard design project in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While design work can begin at any time, starting the design phase in late fall or early winter is often ideal for Southern California estate backyard projects. This allows ample time for planning, obtaining permits, and selecting materials during the cooler, wetter months. By the time construction is ready to commence in late spring or early summer, the weather is typically dry and favorable, minimizing potential delays and ensuring your new outdoor space is ready to enjoy during the peak summer and fall seasons.",
-        "description": "Starting the design phase in late fall or early winter is ideal in Southern California, allowing construction to begin in spring or early summer for enjoyment during peak seasons."
-      }
-    }
-  ],
+  "name": "When is the best time of year to start an estate backyard design project in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to start an estate backyard design project in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While design work can begin at any time, starting the design phase in late fall or early winter is often ideal for Southern California estate backyard projects. This allows ample time for planning, obtaining permits, and selecting materials during the cooler, wetter months. By the time construction is ready to commence in late spring or early summer, the weather is typically dry and favorable, minimizing potential delays and ensuring your new outdoor space is ready to enjoy during the peak summer and fall seasons.",
+        "@type": "Answer",
+        "description": "Starting the design phase in late fall or early winter is ideal in Southern California, allowing construction to begin in spring or early summer for enjoyment during peak seasons."
+      }
+    }
+  ],
+  "description": "Starting the design phase in late fall or early winter is ideal in Southern California, allowing construction to begin in spring or early summer for enjoyment d"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical pool renovation project take?",
-  "description": "A basic pool replastering takes 1-2 weeks. More extensive renovations, including decking and equipment, can take 4-8 weeks or longer, depending on scope and wea",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-pool-renovation-project-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical pool renovation project take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a pool renovation depends on the project's complexity and the specific work being done. A basic replastering might take 1-2 weeks. More extensive renovations involving decking, equipment replacement, and added features can take 4-8 weeks, or even longer for significant structural changes or custom installations. Weather conditions and material availability can also influence the timeline. Our team provides a detailed schedule upfront.",
-        "description": "A basic pool replastering takes 1-2 weeks. More extensive renovations, including decking and equipment, can take 4-8 weeks or longer, depending on scope and weather."
-      }
-    }
-  ],
+  "name": "How long does a typical pool renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pool renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool renovation depends on the project's complexity and the specific work being done. A basic replastering might take 1-2 weeks. More extensive renovations involving decking, equipment replacement, and added features can take 4-8 weeks, or even longer for significant structural changes or custom installations. Weather conditions and material availability can also influence the timeline. Our team provides a detailed schedule upfront.",
+        "@type": "Answer",
+        "description": "A basic pool replastering takes 1-2 weeks. More extensive renovations, including decking and equipment, can take 4-8 weeks or longer, depending on scope and weather."
+      }
+    }
+  ],
+  "description": "A basic pool replastering takes 1-2 weeks. More extensive renovations, including decking and equipment, can take 4-8 weeks or longer, depending on scope and wea"
 }

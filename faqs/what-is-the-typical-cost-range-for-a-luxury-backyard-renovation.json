@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for a luxury backyard renovation?",
-  "description": "Costs for luxury backyard renovations vary widely, typically from $75,000 to over $500,000, depending on project scope, features, and materials.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-a-luxury-backyard-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for a luxury backyard renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a luxury backyard renovation varies significantly based on size, features, material choices, and the complexity of the design. Projects can range from $75,000 for a more focused renovation to over $500,000 for comprehensive, multi-feature designs that include custom pools, extensive outdoor kitchens, intricate hardscaping, and advanced landscaping. Factors like site accessibility and existing infrastructure also influence the total investment. A detailed consultation helps provide a more precise estimate.",
-        "description": "Costs for luxury backyard renovations vary widely, typically from $75,000 to over $500,000, depending on project scope, features, and materials."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for a luxury backyard renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a luxury backyard renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury backyard renovation varies significantly based on size, features, material choices, and the complexity of the design. Projects can range from $75,000 for a more focused renovation to over $500,000 for comprehensive, multi-feature designs that include custom pools, extensive outdoor kitchens, intricate hardscaping, and advanced landscaping. Factors like site accessibility and existing infrastructure also influence the total investment. A detailed consultation helps provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "Costs for luxury backyard renovations vary widely, typically from $75,000 to over $500,000, depending on project scope, features, and materials."
+      }
+    }
+  ],
+  "description": "Costs for luxury backyard renovations vary widely, typically from $75,000 to over $500,000, depending on project scope, features, and materials."
 }

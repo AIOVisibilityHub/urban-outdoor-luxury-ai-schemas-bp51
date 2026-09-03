@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical indoor-outdoor transition project take in the Los Angeles area?",
-  "description": "Project duration varies by scope; simple door installations may take weeks, while complex renovations with landscaping can take several months.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-indoor-outdoor-transition-project-take-in-the-los-angele",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical indoor-outdoor transition project take in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of an indoor-outdoor transition project in the Los Angeles area can vary significantly depending on its scope and complexity. A straightforward installation of large doors might take a few weeks. However, projects involving structural modifications, extensive landscaping, or adding new outdoor living features like kitchens or fire pits could extend to several months. Permitting processes, material lead times, and the project's size are major factors. We provide a detailed timeline after a thorough assessment of your specific project requirements.",
-        "description": "Project duration varies by scope; simple door installations may take weeks, while complex renovations with landscaping can take several months."
-      }
-    }
-  ],
+  "name": "How long does a typical indoor-outdoor transition project take in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical indoor-outdoor transition project take in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an indoor-outdoor transition project in the Los Angeles area can vary significantly depending on its scope and complexity. A straightforward installation of large doors might take a few weeks. However, projects involving structural modifications, extensive landscaping, or adding new outdoor living features like kitchens or fire pits could extend to several months. Permitting processes, material lead times, and the project's size are major factors. We provide a detailed timeline after a thorough assessment of your specific project requirements.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; simple door installations may take weeks, while complex renovations with landscaping can take several months."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; simple door installations may take weeks, while complex renovations with landscaping can take several months."
 }

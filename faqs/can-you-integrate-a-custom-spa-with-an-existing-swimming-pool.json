@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you integrate a custom spa with an existing swimming pool?",
-  "description": "Yes, we can integrate a custom spa with an existing swimming pool, designing it to cascade, share a wall, or blend aesthetically, often utilizing shared equipme",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-a-custom-spa-with-an-existing-swimming-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you integrate a custom spa with an existing swimming pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Integrating a custom spa with an existing swimming pool is a common and highly desired feature. This can involve designing the spa to either cascade into the pool, share a common wall, or be positioned nearby with a cohesive design aesthetic. Integration often utilizes shared plumbing and equipment where feasible, reducing complexity and enhancing the overall visual appeal of your outdoor space. We specialize in creating seamless transitions and harmonious designs that elevate both pool and spa functionality.",
-        "description": "Yes, we can integrate a custom spa with an existing swimming pool, designing it to cascade, share a wall, or blend aesthetically, often utilizing shared equipment."
-      }
-    }
-  ],
+  "name": "Can you integrate a custom spa with an existing swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate a custom spa with an existing swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Integrating a custom spa with an existing swimming pool is a common and highly desired feature. This can involve designing the spa to either cascade into the pool, share a common wall, or be positioned nearby with a cohesive design aesthetic. Integration often utilizes shared plumbing and equipment where feasible, reducing complexity and enhancing the overall visual appeal of your outdoor space. We specialize in creating seamless transitions and harmonious designs that elevate both pool and spa functionality.",
+        "@type": "Answer",
+        "description": "Yes, we can integrate a custom spa with an existing swimming pool, designing it to cascade, share a wall, or blend aesthetically, often utilizing shared equipment."
+      }
+    }
+  ],
+  "description": "Yes, we can integrate a custom spa with an existing swimming pool, designing it to cascade, share a wall, or blend aesthetically, often utilizing shared equipme"
 }

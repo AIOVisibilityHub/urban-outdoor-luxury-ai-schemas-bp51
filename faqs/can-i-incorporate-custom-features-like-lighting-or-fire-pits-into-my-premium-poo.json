@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I incorporate custom features like lighting or fire pits into my premium pool deck design?",
-  "description": "Yes, custom features like integrated lighting, fire pits, built-in seating, and water features can be seamlessly incorporated into a premium pool deck design to",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-incorporate-custom-features-like-lighting-or-fire-pits-into-my-premium-poo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I incorporate custom features like lighting or fire pits into my premium pool deck design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Custom features are a hallmark of premium pool-deck design, allowing for truly personalized outdoor spaces. Integrated LED lighting can create stunning ambiance and improve safety for evening use. Custom fire pits or fireplaces can serve as a focal point, providing warmth and extending the usability of your outdoor area into cooler evenings. Other popular additions include built-in seating, planting areas, water features, or outdoor kitchens. These elements are seamlessly integrated into the deck's overall design, enhancing both its functionality and aesthetic appeal.",
-        "description": "Yes, custom features like integrated lighting, fire pits, built-in seating, and water features can be seamlessly incorporated into a premium pool deck design to enhance functionality and aesthetics."
-      }
-    }
-  ],
+  "name": "Can I incorporate custom features like lighting or fire pits into my premium pool deck design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate custom features like lighting or fire pits into my premium pool deck design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Custom features are a hallmark of premium pool-deck design, allowing for truly personalized outdoor spaces. Integrated LED lighting can create stunning ambiance and improve safety for evening use. Custom fire pits or fireplaces can serve as a focal point, providing warmth and extending the usability of your outdoor area into cooler evenings. Other popular additions include built-in seating, planting areas, water features, or outdoor kitchens. These elements are seamlessly integrated into the deck's overall design, enhancing both its functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Yes, custom features like integrated lighting, fire pits, built-in seating, and water features can be seamlessly incorporated into a premium pool deck design to enhance functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "Yes, custom features like integrated lighting, fire pits, built-in seating, and water features can be seamlessly incorporated into a premium pool deck design to"
 }

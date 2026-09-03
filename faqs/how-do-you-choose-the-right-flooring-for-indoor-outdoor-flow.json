@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you choose the right flooring for indoor-outdoor flow?",
-  "description": "Select durable, weather-resistant materials like natural stone, porcelain tile, or composite decking, using the same or similar material indoors and out for con",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-choose-the-right-flooring-for-indoor-outdoor-flow",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you choose the right flooring for indoor-outdoor flow?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right flooring involves selecting materials that can withstand both indoor conditions and outdoor elements. Common choices include natural stone like travertine or slate, porcelain tiles, or composite decking that mimics wood. The key is to use the same material or a highly complementary one with a similar finish and color palette across both spaces. This creates visual continuity and minimizes the perception of a boundary. Consideration for slip resistance, durability, and maintenance requirements for outdoor exposure is crucial.",
-        "description": "Select durable, weather-resistant materials like natural stone, porcelain tile, or composite decking, using the same or similar material indoors and out for continuity."
-      }
-    }
-  ],
+  "name": "How do you choose the right flooring for indoor-outdoor flow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you choose the right flooring for indoor-outdoor flow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right flooring involves selecting materials that can withstand both indoor conditions and outdoor elements. Common choices include natural stone like travertine or slate, porcelain tiles, or composite decking that mimics wood. The key is to use the same material or a highly complementary one with a similar finish and color palette across both spaces. This creates visual continuity and minimizes the perception of a boundary. Consideration for slip resistance, durability, and maintenance requirements for outdoor exposure is crucial.",
+        "@type": "Answer",
+        "description": "Select durable, weather-resistant materials like natural stone, porcelain tile, or composite decking, using the same or similar material indoors and out for continuity."
+      }
+    }
+  ],
+  "description": "Select durable, weather-resistant materials like natural stone, porcelain tile, or composite decking, using the same or similar material indoors and out for con"
 }

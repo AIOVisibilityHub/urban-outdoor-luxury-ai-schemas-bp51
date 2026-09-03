@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do porcelain pavers absorb heat, making the pool deck uncomfortable to walk on in direct sunlight?",
-  "description": "Porcelain pavers absorb less heat than darker materials and release it faster, making them generally more comfortable for bare feet in direct sunlight.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-porcelain-pavers-absorb-heat-making-the-pool-deck-uncomfortable-to-walk-on-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do porcelain pavers absorb heat, making the pool deck uncomfortable to walk on in direct sunlight?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While all outdoor surfaces absorb some degree of heat when exposed to direct sunlight, porcelain pavers tend to absorb less heat compared to darker natural stone or concrete options. Their composition and lighter color choices can contribute to a cooler surface temperature. Many porcelain pavers are also designed with a lower thermal mass, meaning they release absorbed heat more quickly. While not entirely cool, they are generally more comfortable for bare feet than many alternative decking materials, especially in hot climates.",
-        "description": "Porcelain pavers absorb less heat than darker materials and release it faster, making them generally more comfortable for bare feet in direct sunlight."
-      }
-    }
-  ],
+  "name": "Do porcelain pavers absorb heat, making the pool deck uncomfortable to walk on in direct sunlight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do porcelain pavers absorb heat, making the pool deck uncomfortable to walk on in direct sunlight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While all outdoor surfaces absorb some degree of heat when exposed to direct sunlight, porcelain pavers tend to absorb less heat compared to darker natural stone or concrete options. Their composition and lighter color choices can contribute to a cooler surface temperature. Many porcelain pavers are also designed with a lower thermal mass, meaning they release absorbed heat more quickly. While not entirely cool, they are generally more comfortable for bare feet than many alternative decking materials, especially in hot climates.",
+        "@type": "Answer",
+        "description": "Porcelain pavers absorb less heat than darker materials and release it faster, making them generally more comfortable for bare feet in direct sunlight."
+      }
+    }
+  ],
+  "description": "Porcelain pavers absorb less heat than darker materials and release it faster, making them generally more comfortable for bare feet in direct sunlight."
 }

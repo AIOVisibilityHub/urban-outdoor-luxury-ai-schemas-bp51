@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for an outdoor kitchen or covered patio in Southern California?",
-  "description": "Yes, permits are typically required for outdoor kitchens with utilities and covered patios exceeding certain sizes in Southern California to ensure code complia",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-an-outdoor-kitchen-or-covered-patio-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for an outdoor kitchen or covered patio in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in most Southern California jurisdictions, including Los Angeles, Pasadena, and surrounding cities, permits are generally required for significant outdoor structures. An outdoor kitchen, especially one involving plumbing, gas lines, or electrical work, will require permits to ensure compliance with safety and building codes. Similarly, covered patios or pergolas exceeding a certain size or featuring fixed roofs often necessitate permits. It's crucial to consult with your local building department or a qualified contractor early in the planning process to understand specific requirements and avoid potential issues. We assist clients with the permitting process.",
-        "description": "Yes, permits are typically required for outdoor kitchens with utilities and covered patios exceeding certain sizes in Southern California to ensure code compliance."
-      }
-    }
-  ],
+  "name": "Do I need permits for an outdoor kitchen or covered patio in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an outdoor kitchen or covered patio in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most Southern California jurisdictions, including Los Angeles, Pasadena, and surrounding cities, permits are generally required for significant outdoor structures. An outdoor kitchen, especially one involving plumbing, gas lines, or electrical work, will require permits to ensure compliance with safety and building codes. Similarly, covered patios or pergolas exceeding a certain size or featuring fixed roofs often necessitate permits. It's crucial to consult with your local building department or a qualified contractor early in the planning process to understand specific requirements and avoid potential issues. We assist clients with the permitting process.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for outdoor kitchens with utilities and covered patios exceeding certain sizes in Southern California to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for outdoor kitchens with utilities and covered patios exceeding certain sizes in Southern California to ensure code complia"
 }

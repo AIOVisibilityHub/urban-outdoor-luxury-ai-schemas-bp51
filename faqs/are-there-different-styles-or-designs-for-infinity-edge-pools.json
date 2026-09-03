@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there different styles or designs for infinity-edge pools?",
-  "description": "Infinity-edge pools come in various styles, including multi-sided overflows, curved edges, and different material finishes, allowing for customization to match",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-different-styles-or-designs-for-infinity-edge-pools",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there different styles or designs for infinity-edge pools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, infinity-edge pools offer a surprising range of styles and designs beyond the classic single vanishing edge. While the fundamental concept remains, variations include double or triple vanishing edges, curved edges that follow the contours of the landscape, or perimeter overflow designs where water spills over all sides. Materials for the coping and interior finish also significantly influence the aesthetic, ranging from natural stone and exotic tiles to sleek modern concrete. The design can be tailored to complement the architectural style of your home and the surrounding landscape, from minimalist to Mediterranean.",
-        "description": "Infinity-edge pools come in various styles, including multi-sided overflows, curved edges, and different material finishes, allowing for customization to match architectural and landscape aesthetics."
-      }
-    }
-  ],
+  "name": "Are there different styles or designs for infinity-edge pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different styles or designs for infinity-edge pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, infinity-edge pools offer a surprising range of styles and designs beyond the classic single vanishing edge. While the fundamental concept remains, variations include double or triple vanishing edges, curved edges that follow the contours of the landscape, or perimeter overflow designs where water spills over all sides. Materials for the coping and interior finish also significantly influence the aesthetic, ranging from natural stone and exotic tiles to sleek modern concrete. The design can be tailored to complement the architectural style of your home and the surrounding landscape, from minimalist to Mediterranean.",
+        "@type": "Answer",
+        "description": "Infinity-edge pools come in various styles, including multi-sided overflows, curved edges, and different material finishes, allowing for customization to match architectural and landscape aesthetics."
+      }
+    }
+  ],
+  "description": "Infinity-edge pools come in various styles, including multi-sided overflows, curved edges, and different material finishes, allowing for customization to match"
 }

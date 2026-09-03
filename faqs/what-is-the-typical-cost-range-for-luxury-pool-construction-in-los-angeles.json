@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for luxury pool construction in Los Angeles?",
-  "description": "Luxury pool construction in Los Angeles typically ranges from $150,000 to over $500,000, depending on size, features, and site complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-luxury-pool-construction-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for luxury pool construction in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of luxury pool construction in Los Angeles varies significantly based on size, features, materials, and site complexity. Basic luxury pools might start around $150,000, while highly customized designs with advanced features like infinity edges, integrated spas, elaborate landscaping, and smart automation systems can exceed $500,000. Factors such as soil conditions, hillside construction, and accessibility to the site also impact the final price. We provide detailed estimates after an initial consultation and site assessment.",
-        "description": "Luxury pool construction in Los Angeles typically ranges from $150,000 to over $500,000, depending on size, features, and site complexity."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for luxury pool construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for luxury pool construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of luxury pool construction in Los Angeles varies significantly based on size, features, materials, and site complexity. Basic luxury pools might start around $150,000, while highly customized designs with advanced features like infinity edges, integrated spas, elaborate landscaping, and smart automation systems can exceed $500,000. Factors such as soil conditions, hillside construction, and accessibility to the site also impact the final price. We provide detailed estimates after an initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Luxury pool construction in Los Angeles typically ranges from $150,000 to over $500,000, depending on size, features, and site complexity."
+      }
+    }
+  ],
+  "description": "Luxury pool construction in Los Angeles typically ranges from $150,000 to over $500,000, depending on size, features, and site complexity."
 }

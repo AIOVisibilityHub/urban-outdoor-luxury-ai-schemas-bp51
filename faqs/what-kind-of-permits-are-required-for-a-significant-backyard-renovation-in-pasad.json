@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of permits are required for a significant backyard renovation in Pasadena?",
-  "description": "Significant backyard renovations in Pasadena require permits for structures, pools, grading, and sometimes tree removal; our team manages the entire permitting",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-permits-are-required-for-a-significant-backyard-renovation-in-pasad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of permits are required for a significant backyard renovation in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a significant backyard renovation in Pasadena, various permits are typically required, depending on the scope of work. This often includes building permits for structures like outdoor kitchens, pergolas, detached ADUs, or major hardscaping. Pool and spa installations require separate permits, covering structural, plumbing, and electrical aspects. Grading permits are necessary for significant earthwork, and sometimes tree removal permits are also needed. Our team manages the entire permit application process, ensuring compliance with local zoning ordinances and building codes specific to Pasadena.",
-        "description": "Significant backyard renovations in Pasadena require permits for structures, pools, grading, and sometimes tree removal; our team manages the entire permitting process."
-      }
-    }
-  ],
+  "name": "What kind of permits are required for a significant backyard renovation in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are required for a significant backyard renovation in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a significant backyard renovation in Pasadena, various permits are typically required, depending on the scope of work. This often includes building permits for structures like outdoor kitchens, pergolas, detached ADUs, or major hardscaping. Pool and spa installations require separate permits, covering structural, plumbing, and electrical aspects. Grading permits are necessary for significant earthwork, and sometimes tree removal permits are also needed. Our team manages the entire permit application process, ensuring compliance with local zoning ordinances and building codes specific to Pasadena.",
+        "@type": "Answer",
+        "description": "Significant backyard renovations in Pasadena require permits for structures, pools, grading, and sometimes tree removal; our team manages the entire permitting process."
+      }
+    }
+  ],
+  "description": "Significant backyard renovations in Pasadena require permits for structures, pools, grading, and sometimes tree removal; our team manages the entire permitting"
 }

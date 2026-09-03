@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the structural requirements for building a negative-edge pool?",
-  "description": "Negative-edge pools require robust structural engineering, strong foundations, and expert construction of the pool shell and overflow basin to ensure stability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-structural-requirements-for-building-a-negative-edge-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the structural requirements for building a negative-edge pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negative-edge pools demand rigorous structural engineering due to the unique forces exerted by the overflowing water and the separate capture basin. Strong foundations and retaining walls are crucial, especially on sloped properties, to ensure stability and prevent erosion. The pool shell and basin must be expertly constructed to be watertight and withstand continuous water flow pressures. Proper site analysis, including soil reports and geological surveys, is essential to design a structurally sound system that integrates seamlessly with the landscape and complies with local building codes.",
-        "description": "Negative-edge pools require robust structural engineering, strong foundations, and expert construction of the pool shell and overflow basin to ensure stability."
-      }
-    }
-  ],
+  "name": "What are the structural requirements for building a negative-edge pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural requirements for building a negative-edge pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negative-edge pools demand rigorous structural engineering due to the unique forces exerted by the overflowing water and the separate capture basin. Strong foundations and retaining walls are crucial, especially on sloped properties, to ensure stability and prevent erosion. The pool shell and basin must be expertly constructed to be watertight and withstand continuous water flow pressures. Proper site analysis, including soil reports and geological surveys, is essential to design a structurally sound system that integrates seamlessly with the landscape and complies with local building codes.",
+        "@type": "Answer",
+        "description": "Negative-edge pools require robust structural engineering, strong foundations, and expert construction of the pool shell and overflow basin to ensure stability."
+      }
+    }
+  ],
+  "description": "Negative-edge pools require robust structural engineering, strong foundations, and expert construction of the pool shell and overflow basin to ensure stability."
 }

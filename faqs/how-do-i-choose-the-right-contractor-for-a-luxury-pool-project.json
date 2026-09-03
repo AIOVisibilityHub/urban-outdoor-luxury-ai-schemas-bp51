@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for a luxury pool project?",
-  "description": "Choose a contractor with extensive experience in luxury pools, a strong portfolio, verified licenses and insurance, and a clear communication process.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-luxury-pool-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for a luxury pool project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a luxury pool contractor, prioritize experience with high-end, custom projects, a strong portfolio of completed work, and excellent client references. Verify their licensing and insurance to ensure compliance and protection. Look for a contractor who offers comprehensive design-build services, has a clear communication process, and understands local building codes and regulations in areas like Pasadena or San Marino. A good contractor will provide transparent pricing and a detailed contract.",
-        "description": "Choose a contractor with extensive experience in luxury pools, a strong portfolio, verified licenses and insurance, and a clear communication process."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for a luxury pool project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a luxury pool project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a luxury pool contractor, prioritize experience with high-end, custom projects, a strong portfolio of completed work, and excellent client references. Verify their licensing and insurance to ensure compliance and protection. Look for a contractor who offers comprehensive design-build services, has a clear communication process, and understands local building codes and regulations in areas like Pasadena or San Marino. A good contractor will provide transparent pricing and a detailed contract.",
+        "@type": "Answer",
+        "description": "Choose a contractor with extensive experience in luxury pools, a strong portfolio, verified licenses and insurance, and a clear communication process."
+      }
+    }
+  ],
+  "description": "Choose a contractor with extensive experience in luxury pools, a strong portfolio, verified licenses and insurance, and a clear communication process."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best suited for a luxury resort-style pool?",
-  "description": "Premium materials like pebble finishes, glass tiles, natural stone, travertine decking, and custom rockwork are ideal for luxury resort-style pools.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-suited-for-a-luxury-resort-style-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best suited for a luxury resort-style pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a luxury resort-style pool, premium materials enhance both aesthetics and durability. Popular choices for the interior include pebble finishes, glass tiles, or natural stone for a custom look. Decking often incorporates travertine, high-quality pavers, or exotic hardwoods. For water features and coping, natural boulders, custom-carved stone, or unique tile patterns are frequently used. The selection of materials directly impacts the pool's visual appeal, longevity, and maintenance requirements, contributing to the overall resort ambiance.",
-        "description": "Premium materials like pebble finishes, glass tiles, natural stone, travertine decking, and custom rockwork are ideal for luxury resort-style pools."
-      }
-    }
-  ],
+  "name": "What materials are best suited for a luxury resort-style pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best suited for a luxury resort-style pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury resort-style pool, premium materials enhance both aesthetics and durability. Popular choices for the interior include pebble finishes, glass tiles, or natural stone for a custom look. Decking often incorporates travertine, high-quality pavers, or exotic hardwoods. For water features and coping, natural boulders, custom-carved stone, or unique tile patterns are frequently used. The selection of materials directly impacts the pool's visual appeal, longevity, and maintenance requirements, contributing to the overall resort ambiance.",
+        "@type": "Answer",
+        "description": "Premium materials like pebble finishes, glass tiles, natural stone, travertine decking, and custom rockwork are ideal for luxury resort-style pools."
+      }
+    }
+  ],
+  "description": "Premium materials like pebble finishes, glass tiles, natural stone, travertine decking, and custom rockwork are ideal for luxury resort-style pools."
 }

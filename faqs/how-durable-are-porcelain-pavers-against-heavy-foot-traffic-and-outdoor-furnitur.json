@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How durable are porcelain pavers against heavy foot traffic and outdoor furniture?",
-  "description": "Porcelain pavers are highly durable, resisting scratches and chips from heavy foot traffic and outdoor furniture, maintaining their integrity over time.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-durable-are-porcelain-pavers-against-heavy-foot-traffic-and-outdoor-furnitur",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How durable are porcelain pavers against heavy foot traffic and outdoor furniture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Porcelain pavers are exceptionally durable and designed to withstand heavy foot traffic, as well as the weight and movement of outdoor furniture. Their high density and robust composition make them resistant to scratches, chips, and abrasions, which are common concerns in high-traffic pool areas. This resilience ensures that the pool deck remains aesthetically pleasing and structurally sound over many years, even with frequent use and the repositioning of furniture, contributing to its long-term value.",
-        "description": "Porcelain pavers are highly durable, resisting scratches and chips from heavy foot traffic and outdoor furniture, maintaining their integrity over time."
-      }
-    }
-  ],
+  "name": "How durable are porcelain pavers against heavy foot traffic and outdoor furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How durable are porcelain pavers against heavy foot traffic and outdoor furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain pavers are exceptionally durable and designed to withstand heavy foot traffic, as well as the weight and movement of outdoor furniture. Their high density and robust composition make them resistant to scratches, chips, and abrasions, which are common concerns in high-traffic pool areas. This resilience ensures that the pool deck remains aesthetically pleasing and structurally sound over many years, even with frequent use and the repositioning of furniture, contributing to its long-term value.",
+        "@type": "Answer",
+        "description": "Porcelain pavers are highly durable, resisting scratches and chips from heavy foot traffic and outdoor furniture, maintaining their integrity over time."
+      }
+    }
+  ],
+  "description": "Porcelain pavers are highly durable, resisting scratches and chips from heavy foot traffic and outdoor furniture, maintaining their integrity over time."
 }

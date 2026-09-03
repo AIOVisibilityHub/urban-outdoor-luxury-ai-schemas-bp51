@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a lagoon-style pool?",
-  "description": "A lagoon-style pool is a free-form, naturally shaped swimming pool designed to mimic a natural oasis with rocks, waterfalls, and lush landscaping.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-lagoon-style-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a lagoon-style pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A lagoon-style pool mimics a natural oasis, featuring irregular, free-form shapes, natural rock formations, waterfalls, and lush landscaping. Unlike traditional geometric pools, these designs integrate seamlessly with the surrounding environment, often incorporating elements like beach entries, grottos, and custom lighting to create a tranquil, resort-like atmosphere. They prioritize aesthetics and natural appeal, providing a unique swimming experience that feels less like a man-made structure and more like a serene natural body of water.",
-        "description": "A lagoon-style pool is a free-form, naturally shaped swimming pool designed to mimic a natural oasis with rocks, waterfalls, and lush landscaping."
-      }
-    }
-  ],
+  "name": "What is a lagoon-style pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a lagoon-style pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A lagoon-style pool mimics a natural oasis, featuring irregular, free-form shapes, natural rock formations, waterfalls, and lush landscaping. Unlike traditional geometric pools, these designs integrate seamlessly with the surrounding environment, often incorporating elements like beach entries, grottos, and custom lighting to create a tranquil, resort-like atmosphere. They prioritize aesthetics and natural appeal, providing a unique swimming experience that feels less like a man-made structure and more like a serene natural body of water.",
+        "@type": "Answer",
+        "description": "A lagoon-style pool is a free-form, naturally shaped swimming pool designed to mimic a natural oasis with rocks, waterfalls, and lush landscaping."
+      }
+    }
+  ],
+  "description": "A lagoon-style pool is a free-form, naturally shaped swimming pool designed to mimic a natural oasis with rocks, waterfalls, and lush landscaping."
 }

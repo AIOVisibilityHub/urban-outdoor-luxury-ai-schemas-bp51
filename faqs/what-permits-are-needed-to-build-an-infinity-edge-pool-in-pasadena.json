@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed to build an infinity-edge pool in Pasadena?",
-  "description": "In Pasadena, an infinity-edge pool requires building, grading, electrical, and plumbing permits; additional reviews may apply depending on the property, all man",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-to-build-an-infinity-edge-pool-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed to build an infinity-edge pool in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building an infinity-edge pool in Pasadena requires adherence to specific local building codes and obtaining several permits. This typically includes a building permit, grading permit (if significant earthwork is involved), electrical permit for lighting and pumps, and plumbing permits for water lines and drainage. Depending on the property's location and any environmental overlays, additional reviews or permits may be necessary from departments like planning or hillside development. Our firm handles the entire permitting process, ensuring compliance with all city and county regulations in Pasadena to streamline your project.",
-        "description": "In Pasadena, an infinity-edge pool requires building, grading, electrical, and plumbing permits; additional reviews may apply depending on the property, all managed by our firm."
-      }
-    }
-  ],
+  "name": "What permits are needed to build an infinity-edge pool in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed to build an infinity-edge pool in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an infinity-edge pool in Pasadena requires adherence to specific local building codes and obtaining several permits. This typically includes a building permit, grading permit (if significant earthwork is involved), electrical permit for lighting and pumps, and plumbing permits for water lines and drainage. Depending on the property's location and any environmental overlays, additional reviews or permits may be necessary from departments like planning or hillside development. Our firm handles the entire permitting process, ensuring compliance with all city and county regulations in Pasadena to streamline your project.",
+        "@type": "Answer",
+        "description": "In Pasadena, an infinity-edge pool requires building, grading, electrical, and plumbing permits; additional reviews may apply depending on the property, all managed by our firm."
+      }
+    }
+  ],
+  "description": "In Pasadena, an infinity-edge pool requires building, grading, electrical, and plumbing permits; additional reviews may apply depending on the property, all man"
 }

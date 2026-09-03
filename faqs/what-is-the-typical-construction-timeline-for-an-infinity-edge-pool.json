@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical construction timeline for an infinity-edge pool?",
-  "description": "Construction for an infinity-edge pool typically takes 3 to 6 months, factoring in design, excavation, specialized engineering, finishes, and potential site cha",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-construction-timeline-for-an-infinity-edge-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical construction timeline for an infinity-edge pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for an infinity-edge pool generally ranges from 3 to 6 months, depending on the project's scale, site preparation requirements, weather conditions, and the complexity of finishes. This duration includes phases such as design and permitting, excavation, steel reinforcement, plumbing and electrical installation, gunite application, vanishing edge system installation, tile and coping work, plastering, and finally, landscaping integration. Custom designs or challenging site conditions can extend this timeframe, so clear communication with your builder about the schedule is essential.",
-        "description": "Construction for an infinity-edge pool typically takes 3 to 6 months, factoring in design, excavation, specialized engineering, finishes, and potential site challenges."
-      }
-    }
-  ],
+  "name": "What is the typical construction timeline for an infinity-edge pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical construction timeline for an infinity-edge pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for an infinity-edge pool generally ranges from 3 to 6 months, depending on the project's scale, site preparation requirements, weather conditions, and the complexity of finishes. This duration includes phases such as design and permitting, excavation, steel reinforcement, plumbing and electrical installation, gunite application, vanishing edge system installation, tile and coping work, plastering, and finally, landscaping integration. Custom designs or challenging site conditions can extend this timeframe, so clear communication with your builder about the schedule is essential.",
+        "@type": "Answer",
+        "description": "Construction for an infinity-edge pool typically takes 3 to 6 months, factoring in design, excavation, specialized engineering, finishes, and potential site challenges."
+      }
+    }
+  ],
+  "description": "Construction for an infinity-edge pool typically takes 3 to 6 months, factoring in design, excavation, specialized engineering, finishes, and potential site cha"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to drain my pool for custom tile installation?",
-  "description": "Yes, the pool typically needs to be drained for custom tile installation. This ensures a dry, safe surface for proper tile adhesion and efficient work by our te",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-to-drain-my-pool-for-custom-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to drain my pool for custom tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for most custom pool tile installations, the pool will need to be drained. This allows our installers to safely and effectively remove old tiles, prepare the pool's surface, and meticulously apply the new tiling materials. A dry surface is crucial for proper adhesion and a long-lasting finish. Draining also ensures the safety of our team during the working process. Our project manager will coordinate the draining process as part of the overall installation schedule, ensuring minimal disruption to your routine.",
-        "description": "Yes, the pool typically needs to be drained for custom tile installation. This ensures a dry, safe surface for proper tile adhesion and efficient work by our team."
-      }
-    }
-  ],
+  "name": "Do I need to drain my pool for custom tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to drain my pool for custom tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most custom pool tile installations, the pool will need to be drained. This allows our installers to safely and effectively remove old tiles, prepare the pool's surface, and meticulously apply the new tiling materials. A dry surface is crucial for proper adhesion and a long-lasting finish. Draining also ensures the safety of our team during the working process. Our project manager will coordinate the draining process as part of the overall installation schedule, ensuring minimal disruption to your routine.",
+        "@type": "Answer",
+        "description": "Yes, the pool typically needs to be drained for custom tile installation. This ensures a dry, safe surface for proper tile adhesion and efficient work by our team."
+      }
+    }
+  ],
+  "description": "Yes, the pool typically needs to be drained for custom tile installation. This ensures a dry, safe surface for proper tile adhesion and efficient work by our te"
 }

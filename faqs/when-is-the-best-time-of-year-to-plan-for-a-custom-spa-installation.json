@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to plan for a custom spa installation?",
-  "description": "Planning for a custom spa in late fall or winter allows for completion by warmer months, though installation can occur year-round.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-plan-for-a-custom-spa-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to plan for a custom spa installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While a custom spa can be planned and installed year-round, many clients choose to start the design process in late fall or winter. This allows ample time for design, permitting, and material selection before the prime spring and summer construction seasons. By beginning early, your spa can be ready for enjoyment by the warmer months. However, our team is equipped to manage projects throughout the year, adapting to weather and local regulations.",
-        "description": "Planning for a custom spa in late fall or winter allows for completion by warmer months, though installation can occur year-round."
-      }
-    }
-  ],
+  "name": "When is the best time of year to plan for a custom spa installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to plan for a custom spa installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a custom spa can be planned and installed year-round, many clients choose to start the design process in late fall or winter. This allows ample time for design, permitting, and material selection before the prime spring and summer construction seasons. By beginning early, your spa can be ready for enjoyment by the warmer months. However, our team is equipped to manage projects throughout the year, adapting to weather and local regulations.",
+        "@type": "Answer",
+        "description": "Planning for a custom spa in late fall or winter allows for completion by warmer months, though installation can occur year-round."
+      }
+    }
+  ],
+  "description": "Planning for a custom spa in late fall or winter allows for completion by warmer months, though installation can occur year-round."
 }

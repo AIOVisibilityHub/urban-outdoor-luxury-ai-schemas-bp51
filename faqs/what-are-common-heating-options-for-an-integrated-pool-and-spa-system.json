@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common heating options for an integrated pool and spa system?",
-  "description": "Heating options include natural gas, electric heat pumps, and solar systems, often combined for efficiency.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-common-heating-options-for-an-integrated-pool-and-spa-system",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common heating options for an integrated pool and spa system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common heating options for an integrated pool and spa include natural gas heaters, electric heat pumps, and solar heating systems. Gas heaters provide rapid heating, ideal for on-demand spa use. Electric heat pumps are energy-efficient for maintaining pool temperatures. Solar heating is the most environmentally friendly option, utilizing solar energy to warm the water. Often, hybrid systems combining gas and solar or heat pumps are used for optimal performance and efficiency, especially in areas with significant temperature fluctuations.",
-        "description": "Heating options include natural gas, electric heat pumps, and solar systems, often combined for efficiency."
-      }
-    }
-  ],
+  "name": "What are common heating options for an integrated pool and spa system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common heating options for an integrated pool and spa system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common heating options for an integrated pool and spa include natural gas heaters, electric heat pumps, and solar heating systems. Gas heaters provide rapid heating, ideal for on-demand spa use. Electric heat pumps are energy-efficient for maintaining pool temperatures. Solar heating is the most environmentally friendly option, utilizing solar energy to warm the water. Often, hybrid systems combining gas and solar or heat pumps are used for optimal performance and efficiency, especially in areas with significant temperature fluctuations.",
+        "@type": "Answer",
+        "description": "Heating options include natural gas, electric heat pumps, and solar systems, often combined for efficiency."
+      }
+    }
+  ],
+  "description": "Heating options include natural gas, electric heat pumps, and solar systems, often combined for efficiency."
 }

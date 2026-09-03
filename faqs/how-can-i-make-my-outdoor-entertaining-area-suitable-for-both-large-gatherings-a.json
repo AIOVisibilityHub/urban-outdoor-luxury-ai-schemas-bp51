@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I make my outdoor entertaining area suitable for both large gatherings and intimate settings?",
-  "description": "Create distinct, connected zones with flexible seating, strategic lighting, and varied hardscaping. This allows the space to adapt for both large gatherings and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-can-i-make-my-outdoor-entertaining-area-suitable-for-both-large-gatherings-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I make my outdoor entertaining area suitable for both large gatherings and intimate settings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Designing a versatile outdoor entertaining area involves creating distinct yet connected zones. Use varying hardscaping patterns or changes in elevation to subtly delineate areas for dining, lounging, and perhaps a fire pit. Incorporate flexible seating arrangements, such as movable furniture or benches that can serve multiple purposes. Strategic lighting, with dimmer controls and accent lights, can transform the ambiance for different occasions. Water features or lush plantings can also help create a sense of intimacy within a larger space, allowing it to adapt effortlessly from grand parties to quiet evenings.",
-        "description": "Create distinct, connected zones with flexible seating, strategic lighting, and varied hardscaping. This allows the space to adapt for both large gatherings and intimate settings."
-      }
-    }
-  ],
+  "name": "How can I make my outdoor entertaining area suitable for both large gatherings and intimate settings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my outdoor entertaining area suitable for both large gatherings and intimate settings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a versatile outdoor entertaining area involves creating distinct yet connected zones. Use varying hardscaping patterns or changes in elevation to subtly delineate areas for dining, lounging, and perhaps a fire pit. Incorporate flexible seating arrangements, such as movable furniture or benches that can serve multiple purposes. Strategic lighting, with dimmer controls and accent lights, can transform the ambiance for different occasions. Water features or lush plantings can also help create a sense of intimacy within a larger space, allowing it to adapt effortlessly from grand parties to quiet evenings.",
+        "@type": "Answer",
+        "description": "Create distinct, connected zones with flexible seating, strategic lighting, and varied hardscaping. This allows the space to adapt for both large gatherings and intimate settings."
+      }
+    }
+  ],
+  "description": "Create distinct, connected zones with flexible seating, strategic lighting, and varied hardscaping. This allows the space to adapt for both large gatherings and"
 }

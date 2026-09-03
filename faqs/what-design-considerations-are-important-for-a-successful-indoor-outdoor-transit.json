@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design considerations are important for a successful indoor-outdoor transition?",
-  "description": "Key considerations include consistent flooring elevation, cohesive landscaping, complementary furniture, shading solutions, drainage, and adherence to local reg",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-are-important-for-a-successful-indoor-outdoor-transit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design considerations are important for a successful indoor-outdoor transition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Successful indoor-outdoor transitions require careful consideration of several design elements. Beyond door and flooring choices, it's important to ensure consistent elevation between interior and exterior floors to prevent trip hazards and enhance flow. Cohesive landscaping and outdoor furniture that complement interior decor also contribute to a unified aesthetic. Integrating shading solutions like pergolas or awnings, along with effective drainage, protects outdoor elements and allows for year-round enjoyment. Additionally, considering climate and local regulations is key to optimal functionality and compliance.",
-        "description": "Key considerations include consistent flooring elevation, cohesive landscaping, complementary furniture, shading solutions, drainage, and adherence to local regulations."
-      }
-    }
-  ],
+  "name": "What design considerations are important for a successful indoor-outdoor transition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a successful indoor-outdoor transition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Successful indoor-outdoor transitions require careful consideration of several design elements. Beyond door and flooring choices, it's important to ensure consistent elevation between interior and exterior floors to prevent trip hazards and enhance flow. Cohesive landscaping and outdoor furniture that complement interior decor also contribute to a unified aesthetic. Integrating shading solutions like pergolas or awnings, along with effective drainage, protects outdoor elements and allows for year-round enjoyment. Additionally, considering climate and local regulations is key to optimal functionality and compliance.",
+        "@type": "Answer",
+        "description": "Key considerations include consistent flooring elevation, cohesive landscaping, complementary furniture, shading solutions, drainage, and adherence to local regulations."
+      }
+    }
+  ],
+  "description": "Key considerations include consistent flooring elevation, cohesive landscaping, complementary furniture, shading solutions, drainage, and adherence to local reg"
 }
