@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Pasadena Showcase House Featured Designer",
-  "datePublished": "45767",
-  "provider": {
-    "@type": "Organization",
-    "name": "Pasadena Showcase House of Design"
-  },
+  "@type": "CreativeWork",
+  "award": "Pasadena Showcase House Featured Designer",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "award": "Pasadena Showcase House Featured Designer"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Pasadena Showcase House of Design",
+    "@type": "Organization"
+  },
+  "datePublished": "45767"
 }

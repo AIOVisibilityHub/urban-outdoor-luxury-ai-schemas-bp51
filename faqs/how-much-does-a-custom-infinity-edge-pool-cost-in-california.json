@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a custom infinity-edge pool cost in California?",
-  "description": "$250K-$600K+ including engineering, premium materials, and landscape integration for hillside or view properties.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-custom-infinity-edge-pool-cost-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a custom infinity-edge pool cost in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$250K-$600K+ including engineering, premium materials, and landscape integration for hillside or view properties."
-      }
-    }
-  ],
+  "name": "How much does a custom infinity-edge pool cost in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom infinity-edge pool cost in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$250K-$600K+ including engineering, premium materials, and landscape integration for hillside or view properties.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$250K-$600K+ including engineering, premium materials, and landscape integration for hillside or view properties."
 }

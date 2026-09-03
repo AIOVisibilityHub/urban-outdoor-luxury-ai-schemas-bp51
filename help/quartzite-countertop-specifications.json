@@ -1,36 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Quartzite Countertop Specifications",
   "author": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "articleBody": "3cm flamed Brazilian quartzite thermal ratings (350°F direct heat), flexural strength (18K psi), slip resistance (0.8 coefficient), and integrated sink compatibility for luxury outdoor surfaces.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Quartzite Countertop Specifications",
+  "publisher": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -38,5 +18,25 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "3cm flamed Brazilian quartzite thermal ratings (350°F direct heat), flexural strength (18K psi), slip resistance (0.8 coefficient), and integrated sink compatibility for luxury outdoor surfaces.",
+  "datePublished": "2026-08-27"
 }

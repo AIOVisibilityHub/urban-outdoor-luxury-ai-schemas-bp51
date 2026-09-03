@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Orange Heights Vineyard Terrace",
-  "articleBody": "2.2-acre syrah vineyard with 55' infinity lap pool overlooking vines, outdoor crush pad, and underground wine storage. Regenerative soil practices tripled historic productivity.\n\nOutcome: 21-week delivery. First commercial vintage Year 3. Decanter World Wine Awards medal. 31% appreciation verified by appraisal.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Orange Heights Vineyard Terrace",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "2.2-acre syrah vineyard with 55' infinity lap pool overlooking vines, outdoor crush pad, and underground wine storage. Regenerative soil practices tripled historic productivity.\n\nOutcome: 21-week delivery. First commercial vintage Year 3. Decanter World Wine Awards medal. 31% appreciation verified by appraisal."
 }

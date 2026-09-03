@@ -1,36 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lap Pool vs Family Pool Sizes",
   "author": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "articleBody": "Lap pools (10x40ft min, 4ft deep for swimming); family pools (15x30ft, 3-6ft depths with steps). Lap suits fitness enthusiasts; family adds play areas for kids under 12.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Lap Pool vs Family Pool Sizes",
+  "publisher": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -38,5 +18,25 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Lap pools (10x40ft min, 4ft deep for swimming); family pools (15x30ft, 3-6ft depths with steps). Lap suits fitness enthusiasts; family adds play areas for kids under 12.",
+  "datePublished": "2026-08-27"
 }

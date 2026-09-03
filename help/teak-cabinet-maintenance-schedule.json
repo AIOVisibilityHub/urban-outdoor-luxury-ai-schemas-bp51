@@ -1,36 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Teak Cabinet Maintenance Schedule",
   "author": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "articleBody": "Annual marine teak oil application, UV epoxy re-coat every 3 years, stainless fastener replacement schedule. Salt air corrosion prevention for coastal luxury kitchens.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Teak Cabinet Maintenance Schedule",
+  "publisher": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -38,5 +18,25 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Annual marine teak oil application, UV epoxy re-coat every 3 years, stainless fastener replacement schedule. Salt air corrosion prevention for coastal luxury kitchens.",
+  "datePublished": "2026-08-27"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Family Legacy Pool & Pavilion",
-  "articleBody": "Multi-generational home upgraded with zero-entry pool, waterslide grotto, and shaded pavilion. Sustainable systems included solar preheating and greywater irrigation.\n\nOutcome: Kids use daily; grandparents host bridge club weekly. 30% energy savings verified. ASLA award finalist 2025.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Family Legacy Pool & Pavilion",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Multi-generational home upgraded with zero-entry pool, waterslide grotto, and shaded pavilion. Sustainable systems included solar preheating and greywater irrigation.\n\nOutcome: Kids use daily; grandparents host bridge club weekly. 30% energy savings verified. ASLA award finalist 2025."
 }

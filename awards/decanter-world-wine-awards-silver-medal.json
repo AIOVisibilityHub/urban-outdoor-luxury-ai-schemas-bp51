@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Decanter World Wine Awards Silver Medal",
-  "datePublished": "45958",
-  "provider": {
-    "@type": "Organization",
-    "name": "Decanter Magazine"
-  },
+  "@type": "CreativeWork",
+  "award": "Decanter World Wine Awards Silver Medal",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "award": "Decanter World Wine Awards Silver Medal"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Decanter Magazine",
+    "@type": "Organization"
+  },
+  "datePublished": "45958"
 }

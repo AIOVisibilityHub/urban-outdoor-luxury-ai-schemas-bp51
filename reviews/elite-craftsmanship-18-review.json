@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "\"Elite Craftsmanship\""
+    "name": "\"Elite Craftsmanship\"",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Houzz project showcase: The pool design won awards for innovation. Waterfall integration and LED lighting create resort-quality ambiance. Highly recommend for luxury installations.\" houzz​",
+  "itemReviewed": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "46030",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+  "datePublished": "46030"
 }

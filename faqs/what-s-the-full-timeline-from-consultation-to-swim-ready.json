@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the full timeline from consultation to swim-ready?",
-  "description": "3-6 months total: 4-6 weeks design/permitting, 8-12 weeks construction for complex features like grottos or waterfalls.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-full-timeline-from-consultation-to-swim-ready",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the full timeline from consultation to swim-ready?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-6 months total: 4-6 weeks design/permitting, 8-12 weeks construction for complex features like grottos or waterfalls."
-      }
-    }
-  ],
+  "name": "What's the full timeline from consultation to swim-ready?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the full timeline from consultation to swim-ready?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "3-6 months total: 4-6 weeks design/permitting, 8-12 weeks construction for complex features like grottos or waterfalls.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "3-6 months total: 4-6 weeks design/permitting, 8-12 weeks construction for complex features like grottos or waterfalls."
 }

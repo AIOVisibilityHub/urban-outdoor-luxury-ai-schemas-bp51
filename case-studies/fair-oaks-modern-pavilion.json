@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Fair Oaks Modern Pavilion",
-  "articleBody": "1,400 sq ft biophilic pavilion with living green roof, cold plunge therapy pool, and edible landscape with dwarf fruit trees. Passive solar design maintains comfortable temperatures year-round.\n\nOutcome: 11-week construction. Carbon negative verified. Featured in Dwell sustainable homes. Community orchard model replicated locally.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Fair Oaks Modern Pavilion",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,400 sq ft biophilic pavilion with living green roof, cold plunge therapy pool, and edible landscape with dwarf fruit trees. Passive solar design maintains comfortable temperatures year-round.\n\nOutcome: 11-week construction. Carbon negative verified. Featured in Dwell sustainable homes. Community orchard model replicated locally."
 }

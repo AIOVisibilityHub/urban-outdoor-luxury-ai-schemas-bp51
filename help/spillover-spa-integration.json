@@ -1,36 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Spillover Spa Integration",
   "author": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "articleBody": "Variable weir gates (24-36\" width), shared 1.5HP circulation pumps, therapy jet clusters (40+ jets), chromotherapy LED sequencing, and 22°F temperature differential management between 104°F spa/82°F pool.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Spillover Spa Integration",
+  "publisher": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -38,5 +18,25 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Variable weir gates (24-36\" width), shared 1.5HP circulation pumps, therapy jet clusters (40+ jets), chromotherapy LED sequencing, and 22°F temperature differential management between 104°F spa/82°F pool.",
+  "datePublished": "2026-08-27"
 }

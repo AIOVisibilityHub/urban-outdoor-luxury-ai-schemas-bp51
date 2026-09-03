@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is your process for 3D design visualization?",
-  "description": "Hyper-realistic 3D renderings and walkthroughs using advanced modeling software so clients see exactly how materials, lighting, and layouts perform day/night be",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-your-process-for-3d-design-visualization",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is your process for 3D design visualization?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hyper-realistic 3D renderings and walkthroughs using advanced modeling software so clients see exactly how materials, lighting, and layouts perform day/night before construction begins."
-      }
-    }
-  ],
+  "name": "What is your process for 3D design visualization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for 3D design visualization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hyper-realistic 3D renderings and walkthroughs using advanced modeling software so clients see exactly how materials, lighting, and layouts perform day/night before construction begins.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hyper-realistic 3D renderings and walkthroughs using advanced modeling software so clients see exactly how materials, lighting, and layouts perform day/night be"
 }

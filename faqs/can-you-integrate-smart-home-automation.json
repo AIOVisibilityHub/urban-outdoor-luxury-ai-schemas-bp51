@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you integrate smart home automation?",
-  "description": "Full integration with Crestron, Control4, and Sonos systems for automated lighting, audio, pool controls, fire features, and climate systems controlled via app",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-smart-home-automation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you integrate smart home automation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full integration with Crestron, Control4, and Sonos systems for automated lighting, audio, pool controls, fire features, and climate systems controlled via app or voice assistants."
-      }
-    }
-  ],
+  "name": "Can you integrate smart home automation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate smart home automation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full integration with Crestron, Control4, and Sonos systems for automated lighting, audio, pool controls, fire features, and climate systems controlled via app or voice assistants.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full integration with Crestron, Control4, and Sonos systems for automated lighting, audio, pool controls, fire features, and climate systems controlled via app"
 }

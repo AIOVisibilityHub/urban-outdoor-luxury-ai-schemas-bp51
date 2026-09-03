@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lower Arroyo Modern Sanctuary",
-  "articleBody": "Narrow 900 sq ft lot maximized with vertical lap pool, suspended glass walkway, and living bamboo screen. Lightweight composite materials preserved foundation integrity. Solar thermal powers cascade feature.\n\nOutcome: 9-week delivery. 95% native plantings thriving. Pasadena Beautiful award. Daily family swim routine established.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Lower Arroyo Modern Sanctuary",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Narrow 900 sq ft lot maximized with vertical lap pool, suspended glass walkway, and living bamboo screen. Lightweight composite materials preserved foundation integrity. Solar thermal powers cascade feature.\n\nOutcome: 9-week delivery. 95% native plantings thriving. Pasadena Beautiful award. Daily family swim routine established."
 }

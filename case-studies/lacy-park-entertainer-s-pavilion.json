@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lacy Park Entertainer's Pavilion",
-  "articleBody": "2,000 sq ft pavilion with 16-person linear kitchen, sunken OLED television lounge, and kinetic sculpture water feature. Native oak savanna screens provide privacy without blocking mountain views.\n\nOutcome: 14-week modular construction. Hosts bi-weekly corporate events. Featured in California Home + Design. 25% resale value increase.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Lacy Park Entertainer's Pavilion",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "2,000 sq ft pavilion with 16-person linear kitchen, sunken OLED television lounge, and kinetic sculpture water feature. Native oak savanna screens provide privacy without blocking mountain views.\n\nOutcome: 14-week modular construction. Hosts bi-weekly corporate events. Featured in California Home + Design. 25% resale value increase."
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Kinneloa Mesa Entertainer's Paradise",
-  "articleBody": "1,900 sq ft multi-level terrace with 20-person outdoor kitchen, sunken fire conversation pit, and bocce lawn. Native bunchgrass meadows provide discreet neighbor screening.\n\nOutcome: 13-week modular construction. Hosts charity events monthly. Local design awards received. Property listed 23% above comps.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Kinneloa Mesa Entertainer's Paradise",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,900 sq ft multi-level terrace with 20-person outdoor kitchen, sunken fire conversation pit, and bocce lawn. Native bunchgrass meadows provide discreet neighbor screening.\n\nOutcome: 13-week modular construction. Hosts charity events monthly. Local design awards received. Property listed 23% above comps."
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "California Landscape Contractors Award",
-  "datePublished": "45868",
-  "provider": {
-    "@type": "Organization",
-    "name": "CLCA"
-  },
+  "@type": "CreativeWork",
+  "award": "California Landscape Contractors Award",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "award": "California Landscape Contractors Award"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "CLCA",
+    "@type": "Organization"
+  },
+  "datePublished": "45868"
 }

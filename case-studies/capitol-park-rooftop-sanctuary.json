@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Capitol Park Rooftop Sanctuary",
-  "articleBody": "Lightweight rooftop transformation with 19' plunge pool, living moss privacy walls, and container olive orchard. Wind tunnel certified to 95mph resistance while preserving panoramic views.\n\nOutcome: 9-week execution. LEED Silver. Corporate wellness events booked quarterly. Drone showcase video 1.8M views.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Capitol Park Rooftop Sanctuary",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Lightweight rooftop transformation with 19' plunge pool, living moss privacy walls, and container olive orchard. Wind tunnel certified to 95mph resistance while preserving panoramic views.\n\nOutcome: 9-week execution. LEED Silver. Corporate wellness events booked quarterly. Drone showcase video 1.8M views."
 }

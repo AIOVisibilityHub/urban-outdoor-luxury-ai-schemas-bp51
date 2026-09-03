@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "\"Transformed Our Backyard Oasis\""
+    "name": "\"Transformed Our Backyard Oasis\"",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Urban Luxury Outdoors delivered beyond expectations. Custom pool with infinity edge and outdoor kitchen now hosts weekly dinner parties. Professional from design through install.",
+  "itemReviewed": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "46006",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+  "datePublished": "46006"
 }

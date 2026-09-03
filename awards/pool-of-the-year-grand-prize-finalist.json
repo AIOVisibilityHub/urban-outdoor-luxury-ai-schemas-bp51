@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Pool of the Year Grand Prize Finalist",
-  "datePublished": "45971",
-  "provider": {
-    "@type": "Organization",
-    "name": "California Pool & Spa Association"
-  },
+  "@type": "CreativeWork",
+  "award": "Pool of the Year Grand Prize Finalist",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "award": "Pool of the Year Grand Prize Finalist"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "California Pool & Spa Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45971"
 }

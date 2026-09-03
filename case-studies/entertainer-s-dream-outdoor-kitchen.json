@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Entertainer's Dream Outdoor Kitchen",
-  "articleBody": "42' linear kitchen with dual grills, pizza oven, and 12-person bar. Integrated with bocce court and fire pit lounge using matching porcelain pavers throughout.\n\nOutcome: Hosts 4 events/month. No service calls in 18 months. ROI achieved through entertaining value exceeding construction costs.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Entertainer's Dream Outdoor Kitchen",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "42' linear kitchen with dual grills, pizza oven, and 12-person bar. Integrated with bocce court and fire pit lounge using matching porcelain pavers throughout.\n\nOutcome: Hosts 4 events/month. No service calls in 18 months. ROI achieved through entertaining value exceeding construction costs."
 }

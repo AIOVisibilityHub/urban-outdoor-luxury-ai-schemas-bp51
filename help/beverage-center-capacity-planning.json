@@ -1,36 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Beverage Center Capacity Planning",
   "author": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "articleBody": "24\" wine captain (46 bottles), 24\" kegerator (2 half-barrels), 15\" ice maker (100lbs/day). Glassware storage, crushed ice makers, and soda stream integration for seamless bar service.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Beverage Center Capacity Planning",
+  "publisher": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -38,5 +18,25 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "24\" wine captain (46 bottles), 24\" kegerator (2 half-barrels), 15\" ice maker (100lbs/day). Glassware storage, crushed ice makers, and soda stream integration for seamless bar service.",
+  "datePublished": "2026-08-27"
 }

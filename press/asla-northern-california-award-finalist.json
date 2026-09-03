@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "\"ASLA Northern California Award Finalist\"",
-  "datePublished": "45884",
   "url": "https://landarch.org/pasadena-pavilion trillinglandscape​",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Landscape Architecture Magazine"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "\"ASLA Northern California Award Finalist\"",
+  "publisher": {
+    "name": "Landscape Architecture Magazine",
+    "@type": "Organization"
+  },
+  "datePublished": "45884"
 }

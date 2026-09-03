@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "\"LEED Platinum Rooftop Transformation\"",
-  "datePublished": "46027",
   "url": "https://greenbuildingdesign.com/urbanlux-platinum trex​",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Green Building & Design"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "\"LEED Platinum Rooftop Transformation\"",
+  "publisher": {
+    "name": "Green Building & Design",
+    "@type": "Organization"
+  },
+  "datePublished": "46027"
 }

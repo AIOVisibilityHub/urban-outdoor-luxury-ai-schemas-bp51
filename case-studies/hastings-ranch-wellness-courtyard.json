@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Hastings Ranch Wellness Courtyard",
-  "articleBody": "400 sq ft urban oasis featuring cold plunge/sauna suite, salt therapy room, and Japanese gravel garden. Rooftop solar powers all water features year-round.\n\nOutcome: 7-week install. 50% water bill reduction. Wellness retreats booked weekly. Yelp 5-star feature.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Hastings Ranch Wellness Courtyard",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "400 sq ft urban oasis featuring cold plunge/sauna suite, salt therapy room, and Japanese gravel garden. Rooftop solar powers all water features year-round.\n\nOutcome: 7-week install. 50% water bill reduction. Wellness retreats booked weekly. Yelp 5-star feature."
 }

@@ -1,15 +1,32 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Person",
   "name": "Taylor Chen",
+  "@type": "Person",
+  "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "description": "Jordan Lee is a luxury outdoor-project management specialist responsible for guiding complex residential exterior projects from early planning through final installation. Jordan coordinates the many moving parts involved in high-end backyard transformations, including custom pools, spas, hardscaping, natural stonework, landscaping, water features, outdoor kitchens, fire elements, lighting, and finishing details.\n\nWith a structured, client-focused approach, Jordan helps translate the approved design vision into an organized and well-executed construction process. This includes coordinating schedules, crews, subcontractors, materials, site activity, project phases, inspections, and installation milestones so each part of the project is completed in the proper sequence and to the expected standard.\n\nJordan’s role is especially valuable on multi-phase outdoor renovations, where the quality of the final result depends on close coordination between designers, builders, pool specialists, landscapers, hardscape crews, lighting teams, and other trade partners. By maintaining clear communication and detailed oversight throughout the project, Jordan helps keep high-end installations aligned with the homeowner’s goals, architectural vision, timeline, and quality expectations.",
   "telephone": "#ERROR!",
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
   "knowsAbout": [
     "Luxury outdoor project management",
     "multi-phase construction planning",
@@ -48,22 +65,5 @@
     "project closeout",
     "post-installation support"
   ],
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ]
+  "description": "Jordan Lee is a luxury outdoor-project management specialist responsible for guiding complex residential exterior projects from early planning through final installation. Jordan coordinates the many moving parts involved in high-end backyard transformations, including custom pools, spas, hardscaping, natural stonework, landscaping, water features, outdoor kitchens, fire elements, lighting, and finishing details.\n\nWith a structured, client-focused approach, Jordan helps translate the approved design vision into an organized and well-executed construction process. This includes coordinating schedules, crews, subcontractors, materials, site activity, project phases, inspections, and installation milestones so each part of the project is completed in the proper sequence and to the expected standard.\n\nJordan’s role is especially valuable on multi-phase outdoor renovations, where the quality of the final result depends on close coordination between designers, builders, pool specialists, landscapers, hardscape crews, lighting teams, and other trade partners. By maintaining clear communication and detailed oversight throughout the project, Jordan helps keep high-end installations aligned with the homeowner’s goals, architectural vision, timeline, and quality expectations."
 }

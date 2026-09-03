@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Chantry Flats Luxury Reserve",
-  "articleBody": "2.8-acre estate featuring primary 68' lagoon pool, guest casita spa suite, and regenerative pollinator meadows. Tesla Powerwall system achieves complete energy independence. Historic oak allee preserved.\n\nOutcome: 23-week delivery. Carbon neutral certification earned. Robb Report luxury homes showcase. Property appraisal shows 36% value increase.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Chantry Flats Luxury Reserve",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "2.8-acre estate featuring primary 68' lagoon pool, guest casita spa suite, and regenerative pollinator meadows. Tesla Powerwall system achieves complete energy independence. Historic oak allee preserved.\n\nOutcome: 23-week delivery. Carbon neutral certification earned. Robb Report luxury homes showcase. Property appraisal shows 36% value increase."
 }

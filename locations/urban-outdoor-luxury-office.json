@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "url": "https://www.urbanluxuryoutdoorsinc.com",
   "name": "Urban Outdoor Luxury - Urban Outdoor Luxury Office",
+  "@type": "LocalBusiness",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "285 N Lake Ave",
-    "addressLocality": "Pasadena",
+    "postalCode": "91101",
     "addressRegion": "CA",
-    "postalCode": "91101"
+    "streetAddress": "285 N Lake Ave",
+    "addressLocality": "Pasadena"
   },
-  "telephone": "#ERROR!",
-  "url": "https://www.urbanluxuryoutdoorsinc.com"
+  "@context": "https://schema.org",
+  "telephone": "#ERROR!"
 }

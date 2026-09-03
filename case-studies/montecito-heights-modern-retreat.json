@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Montecito Heights Modern Retreat",
-  "articleBody": "1,200 sq ft glass pavilion with geothermal pool heating, living water wall backdrop, and Japanese gravel meditation garden. Rooftop solar powers landscape automation systems year-round.\n\nOutcome: 12-week delivery. 44% energy independence achieved. Private meditation retreats generate $40K/year. Metropolis magazine feature.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Montecito Heights Modern Retreat",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,200 sq ft glass pavilion with geothermal pool heating, living water wall backdrop, and Japanese gravel meditation garden. Rooftop solar powers landscape automation systems year-round.\n\nOutcome: 12-week delivery. 44% energy independence achieved. Private meditation retreats generate $40K/year. Metropolis magazine feature."
 }

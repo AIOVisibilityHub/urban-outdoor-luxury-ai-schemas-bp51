@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Midwick View Legacy Estate",
-  "articleBody": "Historic Spanish colonial restored with 60' lagoon pool, outdoor cinema under pergola, and heritage citrus orchard. Smart glass pavilion hosts private film screenings for 25 guests.\n\nOutcome: 16-week delivery. Pasadena Heritage Society award. 28% property value increase. Neighborhood film series established monthly.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Midwick View Legacy Estate",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Historic Spanish colonial restored with 60' lagoon pool, outdoor cinema under pergola, and heritage citrus orchard. Smart glass pavilion hosts private film screenings for 25 guests.\n\nOutcome: 16-week delivery. Pasadena Heritage Society award. 28% property value increase. Neighborhood film series established monthly."
 }

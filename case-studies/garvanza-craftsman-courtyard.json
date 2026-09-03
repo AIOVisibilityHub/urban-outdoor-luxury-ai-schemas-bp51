@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Garvanza Craftsman Courtyard",
-  "articleBody": "500 sq ft urban oasis featuring linear fire-water trench, modular kitchen island, and espaliered fruit walls. Phased approach maintained occupancy during construction.\n\nOutcome: 6-week completion. 88% drought-tolerant thriving. Pasadena Historical Society feature. Hosts neighborhood events monthly.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Garvanza Craftsman Courtyard",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "500 sq ft urban oasis featuring linear fire-water trench, modular kitchen island, and espaliered fruit walls. Phased approach maintained occupancy during construction.\n\nOutcome: 6-week completion. 88% drought-tolerant thriving. Pasadena Historical Society feature. Hosts neighborhood events monthly."
 }

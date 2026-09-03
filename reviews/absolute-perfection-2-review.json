@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "\"Absolute Perfection\""
+    "name": "\"Absolute Perfection\"",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "The waterfall feature and fire pit integration make nighttime entertaining magical. Attention to detail with LED lighting and stone selection impeccable. Highly recommend!",
+  "itemReviewed": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45989",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+  "datePublished": "45989"
 }

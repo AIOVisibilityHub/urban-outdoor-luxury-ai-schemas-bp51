@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Green Street Courtyard Reserve",
-  "articleBody": "550 sq ft urban courtyard with linear fire-water feature, modular pizza oven station, and espaliered heritage fruit walls. Phased construction maintained occupancy throughout project.\n\nOutcome: 5-week completion. 92% drought-tolerant plantings thriving. Historical board approval secured. Weekly neighborhood pizza nights tradition.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Green Street Courtyard Reserve",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "550 sq ft urban courtyard with linear fire-water feature, modular pizza oven station, and espaliered heritage fruit walls. Phased construction maintained occupancy throughout project.\n\nOutcome: 5-week completion. 92% drought-tolerant plantings thriving. Historical board approval secured. Weekly neighborhood pizza nights tradition."
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "La Cañada Flintridge Family Compound",
-  "articleBody": "1-acre multi-generational redesign with zero-entry therapy pool, waterslide grotto, and adult wellness pavilion. Sustainable features included solar thermal, greywater irrigation, and fruit orchard screening.\n\nOutcome: Family wellness routine established daily. 40% water bill reduction. AIA award finalist. Neighbors replicating design elements.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "La Cañada Flintridge Family Compound",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1-acre multi-generational redesign with zero-entry therapy pool, waterslide grotto, and adult wellness pavilion. Sustainable features included solar thermal, greywater irrigation, and fruit orchard screening.\n\nOutcome: Family wellness routine established daily. 40% water bill reduction. AIA award finalist. Neighbors replicating design elements."
 }

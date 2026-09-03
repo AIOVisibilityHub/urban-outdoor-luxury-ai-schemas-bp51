@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Windsor Modern Entertainer's Pavilion",
-  "articleBody": "1,600 sq ft pavilion with 20-person outdoor kitchen, sunken OLED lounge, and kinetic fire sculpture. Native coastal sage scrub screening maintains privacy while framing mountain vistas.\n\nOutcome: 13-week modular build. Hosts corporate events bi-weekly. California Home + Design feature. 22% resale premium achieved.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Windsor Modern Entertainer's Pavilion",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,600 sq ft pavilion with 20-person outdoor kitchen, sunken OLED lounge, and kinetic fire sculpture. Native coastal sage scrub screening maintains privacy while framing mountain vistas.\n\nOutcome: 13-week modular build. Hosts corporate events bi-weekly. California Home + Design feature. 22% resale premium achieved."
 }

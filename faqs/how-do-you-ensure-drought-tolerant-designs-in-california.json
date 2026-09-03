@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you ensure drought-tolerant designs in California?",
-  "description": "We specialize in California native plants, xeriscaping, smart drip irrigation, permeable hardscapes, and greywater systems to create stunning landscapes that co",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-ensure-drought-tolerant-designs-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you ensure drought-tolerant designs in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We specialize in California native plants, xeriscaping, smart drip irrigation, permeable hardscapes, and greywater systems to create stunning landscapes that conserve water while thriving in local climates."
-      }
-    }
-  ],
+  "name": "How do you ensure drought-tolerant designs in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure drought-tolerant designs in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in California native plants, xeriscaping, smart drip irrigation, permeable hardscapes, and greywater systems to create stunning landscapes that conserve water while thriving in local climates.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We specialize in California native plants, xeriscaping, smart drip irrigation, permeable hardscapes, and greywater systems to create stunning landscapes that co"
 }

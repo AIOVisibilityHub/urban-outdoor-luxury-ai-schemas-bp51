@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Wellness Retreat Poolscape",
-  "articleBody": "Cold plunge/sauna combo adjacent to 20' lap pool with underwater audio. Landscape features regenerative pollinator meadows and fruit orchard screening.\n\nOutcome: Daily wellness routine established. Water bill reduced 65%. Local news feature on sustainable luxury living.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Wellness Retreat Poolscape",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Cold plunge/sauna combo adjacent to 20' lap pool with underwater audio. Landscape features regenerative pollinator meadows and fruit orchard screening.\n\nOutcome: Daily wellness routine established. Water bill reduced 65%. Local news feature on sustainable luxury living."
 }

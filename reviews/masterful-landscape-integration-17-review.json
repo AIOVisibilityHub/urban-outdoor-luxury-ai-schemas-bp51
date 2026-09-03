@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "\"Masterful Landscape Integration\""
+    "name": "\"Masterful Landscape Integration\"",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Google review: Their team handled every detail from custom fire features to native plantings. The result is a true backyard resort used daily for entertaining. Professional execution throughout.\"",
+  "itemReviewed": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45769",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+  "datePublished": "45769"
 }

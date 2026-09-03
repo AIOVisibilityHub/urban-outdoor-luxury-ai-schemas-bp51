@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Eagle Rock Modern Retreat",
-  "articleBody": "600 sq ft urban lot maximized with linear fire-water feature, modular kitchen island, and vertical living walls. Phased construction allowed occupancy during build.\n\nOutcome: Completed in 8 weeks. 92% native plantings thriving. Local design tour feature. ROI achieved Year 1 through entertaining.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Eagle Rock Modern Retreat",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "600 sq ft urban lot maximized with linear fire-water feature, modular kitchen island, and vertical living walls. Phased construction allowed occupancy during build.\n\nOutcome: Completed in 8 weeks. 92% native plantings thriving. Local design tour feature. ROI achieved Year 1 through entertaining."
 }

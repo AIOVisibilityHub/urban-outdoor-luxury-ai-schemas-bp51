@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Daniel Wallace"
+    "name": "Daniel Wallace",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Ron did a great job designing our backyard. He presented a lot of options and spent the time to review the plans to make sure we were happy with the final design plan.\" luxuryoutdoorliving​",
+  "itemReviewed": {
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
+    "name": "Urban Outdoor Luxury",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45616",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
-  }
+  "datePublished": "45616"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lamanda Park Family Legacy",
-  "articleBody": "Multi-generational redesign with therapy pool, waterslide cave, and shaded pavilion. Greywater system irrigates 1-acre citrus grove. Solar thermal preheats all water features.\n\nOutcome: Daily family use established. 45% water savings. Featured in Family Handyman luxury homes. Grandkids' favorite summer destination.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Lamanda Park Family Legacy",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Multi-generational redesign with therapy pool, waterslide cave, and shaded pavilion. Greywater system irrigates 1-acre citrus grove. Solar thermal preheats all water features.\n\nOutcome: Daily family use established. 45% water savings. Featured in Family Handyman luxury homes. Grandkids' favorite summer destination."
 }

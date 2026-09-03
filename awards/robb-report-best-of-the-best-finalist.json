@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Robb Report Best of the Best Finalist",
-  "datePublished": "46054",
-  "provider": {
-    "@type": "Organization",
-    "name": "Robb Report"
-  },
+  "@type": "CreativeWork",
+  "award": "Robb Report Best of the Best Finalist",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "award": "Robb Report Best of the Best Finalist"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Robb Report",
+    "@type": "Organization"
+  },
+  "datePublished": "46054"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Upper Hastings Modern Terrace",
-  "articleBody": "1,800 sq ft multi-level terrace with bi-fold glass walls, fire-water conversation pit, and rooftop wellness garden. Geothermal climate control year-round.\n\nOutcome: 13-week modular construction. Net-zero energy. ASLA Northern California award. High-end event rentals $90K/year.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Upper Hastings Modern Terrace",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,800 sq ft multi-level terrace with bi-fold glass walls, fire-water conversation pit, and rooftop wellness garden. Geothermal climate control year-round.\n\nOutcome: 13-week modular construction. Net-zero energy. ASLA Northern California award. High-end event rentals $90K/year."
 }

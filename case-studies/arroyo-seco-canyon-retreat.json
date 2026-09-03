@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Arroyo Seco Canyon Retreat",
-  "articleBody": "Narrow canyon lot transformed with linear lap pool, cantilevered spa, and vertical rock garden. Geological engineering stabilized 45° slopes while preserving oak canopy.\n\nOutcome: 16-week completion. 25% resale premium achieved. Featured in Dwell magazine. Daily family use established.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Arroyo Seco Canyon Retreat",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.urbanluxuryoutdoorsinc.com",
     "name": "Urban Outdoor Luxury",
-    "url": "https://www.urbanluxuryoutdoorsinc.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Narrow canyon lot transformed with linear lap pool, cantilevered spa, and vertical rock garden. Geological engineering stabilized 45° slopes while preserving oak canopy.\n\nOutcome: 16-week completion. 25% resale premium achieved. Featured in Dwell magazine. Daily family use established."
 }
