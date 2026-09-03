@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical built-in outdoor grill installation take?",
+  "description": "Installation time varies based on complexity; simpler projects may take weeks, while elaborate ones can take months.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-built-in-outdoor-grill-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical built-in outdoor grill installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a built-in outdoor grill installation depends on the project's scope. A straightforward grill and island setup might take a few weeks from design to completion. More elaborate outdoor kitchens with extensive features, custom masonry, and complex utility runs can take several weeks or even months. We establish a clear timeline during the planning phase to keep you informed.",
+        "description": "Installation time varies based on complexity; simpler projects may take weeks, while elaborate ones can take months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

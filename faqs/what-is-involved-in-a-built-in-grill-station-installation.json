@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a built-in grill station installation?",
+  "description": "A built-in grill station installation includes site preparation, structural construction, utility hookups, and final finishes to integrate a grill and amenities",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-built-in-grill-station-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a built-in grill station installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A built-in grill station installation involves designing and constructing a custom outdoor kitchen island to house a grill and other amenities. This typically includes site preparation, laying a foundation, building the structure (often with masonry or stone), installing the grill and appliances, connecting utilities like gas, water, and electricity, and finishing with countertops and cladding materials. The process ensures seamless integration with your outdoor living space and adherence to local building codes.",
+        "description": "A built-in grill station installation includes site preparation, structural construction, utility hookups, and final finishes to integrate a grill and amenities into an outdoor kitchen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

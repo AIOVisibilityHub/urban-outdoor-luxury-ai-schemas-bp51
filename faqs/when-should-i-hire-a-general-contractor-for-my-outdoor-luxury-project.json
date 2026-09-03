@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a general contractor for my outdoor luxury project?",
+  "description": "Hire a general contractor for complex outdoor luxury projects involving multiple trades, permits, or intricate designs to ensure smooth execution.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-hire-a-general-contractor-for-my-outdoor-luxury-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a general contractor for my outdoor luxury project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a general contractor when your outdoor luxury project involves multiple trades, requires permits, or has a complex design. This is particularly true for projects like extensive landscaping, custom outdoor kitchens, pool installations, or significant hardscaping. A general contractor brings expertise in managing these intricacies, ensuring proper sequencing of work, compliance with regulations, and a cohesive final product. Engaging one early in the planning phase can help ensure a smoother process.",
+        "description": "Hire a general contractor for complex outdoor luxury projects involving multiple trades, permits, or intricate designs to ensure smooth execution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer post-construction maintenance advice during closeout?",
+  "description": "Yes, we offer post-construction maintenance advice during closeout, covering plant care, hardscape, irrigation, and other system operations.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-offer-post-construction-maintenance-advice-during-closeout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer post-construction maintenance advice during closeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as part of our project closeout process, we provide guidance on maintaining your new outdoor luxury space. This includes recommendations for plant care, hardscape cleaning, irrigation system operation, and pool/spa maintenance if applicable. We aim to equip you with the knowledge needed to preserve the beauty and functionality of your investment for years to come.",
+        "description": "Yes, we offer post-construction maintenance advice during closeout, covering plant care, hardscape, irrigation, and other system operations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

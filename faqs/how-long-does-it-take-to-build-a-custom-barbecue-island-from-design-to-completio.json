@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a custom barbecue island from design to completion?",
+  "description": "From design to completion, a custom barbecue island typically takes 10-18 weeks. This includes 2-4 weeks for design, 2-6 weeks for permits, and 4-8 weeks for co",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-build-a-custom-barbecue-island-from-design-to-completio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a custom barbecue island from design to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a custom barbecue island varies based on design complexity, material availability, and current project schedules. Generally, the design phase can take 2-4 weeks, involving consultations, revisions, and final approvals. Once designs are finalized, permitting (if required) can add another 2-6 weeks. Construction typically ranges from 4-8 weeks, depending on the island's size, features, and the chosen finishes. A realistic total timeframe from initial consultation to completion is often 10-18 weeks.",
+        "description": "From design to completion, a custom barbecue island typically takes 10-18 weeks. This includes 2-4 weeks for design, 2-6 weeks for permits, and 4-8 weeks for construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a typical outdoor kitchen installation process?",
+  "description": "The process involves consultation, site preparation, framing, utility installation, finishes, and appliance placement, followed by a final inspection.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-typical-outdoor-kitchen-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a typical outdoor kitchen installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process for an outdoor kitchen typically begins with a consultation to understand your vision, space, and budget. This is followed by site preparation, which includes utility trenching for gas, water, and electrical lines. Next, the framing and structural elements for the kitchen island and appliances are constructed. Countertops, veneers, and appliance installation follow, along with any plumbing and electrical hookups. Finally, a thorough quality check and client walkthrough ensure all details meet the design specifications and your satisfaction. Permitting is also handled at the initial stages.",
+        "description": "The process involves consultation, site preparation, framing, utility installation, finishes, and appliance placement, followed by a final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

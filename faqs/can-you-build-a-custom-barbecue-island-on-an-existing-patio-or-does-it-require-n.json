@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you build a custom barbecue island on an existing patio or does it require new foundation work?",
+  "description": "Building on an existing patio depends on its structural integrity. For heavier islands, new or reinforced foundation work may be required to ensure stability. W",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-build-a-custom-barbecue-island-on-an-existing-patio-or-does-it-require-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you build a custom barbecue island on an existing patio or does it require new foundation work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The feasibility of building on an existing patio depends on its structural integrity and material. If the patio is a solid concrete slab in good condition and can support the additional weight, it may be suitable. However, for heavier custom islands, especially those with stone finishes or multiple large appliances, new or reinforced foundation work might be necessary to ensure long-term stability and prevent settling or cracking. Our team will assess your current patio during the initial site visit and advise on the best foundation approach.",
+        "description": "Building on an existing patio depends on its structural integrity. For heavier islands, new or reinforced foundation work may be required to ensure stability. We assess this during a site visit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

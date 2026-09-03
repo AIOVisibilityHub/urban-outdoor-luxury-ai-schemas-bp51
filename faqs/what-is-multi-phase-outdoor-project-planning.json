@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is multi-phase outdoor project planning?",
+  "description": "Multi-phase outdoor project planning divides a large outdoor development into distinct, manageable stages for strategic budgeting and adaptive design.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-multi-phase-outdoor-project-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is multi-phase outdoor project planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multi-phase outdoor project planning involves breaking down a large-scale outdoor development into distinct, manageable stages. This approach allows for strategic budgeting, optimized resource allocation, and a more adaptive design process. Instead of undertaking a complete overhaul at once, clients can prioritize elements like hardscaping, planting, or water features, completing them sequentially. This method is particularly beneficial for complex projects that require significant investment or extend over a longer timeline, ensuring each phase builds upon the last cohesively.",
+        "description": "Multi-phase outdoor project planning divides a large outdoor development into distinct, manageable stages for strategic budgeting and adaptive design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

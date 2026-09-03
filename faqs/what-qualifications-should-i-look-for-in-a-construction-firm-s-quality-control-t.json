@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What qualifications should I look for in a construction firm's quality control team?",
+  "description": "Look for certifications in quality management, extensive experience in similar projects, a deep understanding of local building codes, and a commitment to conti",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-qualifications-should-i-look-for-in-a-construction-firm-s-quality-control-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What qualifications should I look for in a construction firm's quality control team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When evaluating a construction firm's quality control team, look for certifications relevant to construction quality management, such as those from the American Society for Quality (ASQ) or specific trade associations. Experience in managing projects similar to yours, particularly in luxury residential or outdoor construction, is crucial. Their team should demonstrate a deep understanding of local building codes in areas like Los Angeles and Pasadena, as well as an established track record of successful projects. A commitment to continuous training and adherence to industry best practices also indicates a strong quality focus.",
+        "description": "Look for certifications in quality management, extensive experience in similar projects, a deep understanding of local building codes, and a commitment to continuous training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

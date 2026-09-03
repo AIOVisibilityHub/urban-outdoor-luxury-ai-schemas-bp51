@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a custom barbecue island in the Los Angeles area?",
+  "description": "In Los Angeles, custom barbecue islands typically range from $15,000 for basic setups to over $70,000 for elaborate designs, depending on size, materials, and a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-a-custom-barbecue-island-in-the-los-angeles-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a custom barbecue island in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom barbecue island in the Los Angeles area can vary significantly based on size, chosen materials, appliances, and unique features. Basic installations with standard materials and a few appliances might start around $15,000 to $25,000. More elaborate designs incorporating premium stone, multiple high-end appliances, integrated seating, or complex electrical/plumbing can range from $30,000 to $70,000 or more. A detailed quote requires a site visit and design consultation to assess specific needs.",
+        "description": "In Los Angeles, custom barbecue islands typically range from $15,000 for basic setups to over $70,000 for elaborate designs, depending on size, materials, and appliances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

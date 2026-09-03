@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is luxury residential construction?",
+  "description": "Luxury residential construction involves building high-end, custom homes with superior craftsmanship, premium materials, and sophisticated design tailored to a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-luxury-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is luxury residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luxury residential construction focuses on creating high-end, custom homes characterized by superior craftsmanship, premium materials, sophisticated design, and advanced smart home technologies. It involves a meticulous building process tailored to the client's unique vision and lifestyle, often incorporating bespoke features like gourmet kitchens, expansive outdoor living spaces, home theaters, and custom architectural details. The goal is to deliver an exceptional, enduring residence that combines comfort, aesthetics, and functionality.",
+        "description": "Luxury residential construction involves building high-end, custom homes with superior craftsmanship, premium materials, and sophisticated design tailored to a client's specific vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

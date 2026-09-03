@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to build a custom outdoor bar?",
+  "description": "Construction time varies, typically 3-4 weeks for simple designs and 6-10+ weeks for complex bars with extensive features.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-build-a-custom-outdoor-bar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to build a custom outdoor bar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a custom outdoor bar can vary significantly based on its complexity, size, and features. A simpler design might take 3-4 weeks from initial design to completion, while a more elaborate setup with built-in appliances, plumbing, and extensive electrical work could extend to 6-10 weeks or more. This timeframe includes design consultations, permitting processes, material procurement, and construction. Our team provides a detailed project schedule after the initial design phase.",
+        "description": "Construction time varies, typically 3-4 weeks for simple designs and 6-10+ weeks for complex bars with extensive features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

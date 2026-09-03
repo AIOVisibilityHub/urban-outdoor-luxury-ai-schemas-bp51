@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key factors that influence the cost of a kitchen remodel?",
+  "description": "Key cost factors include kitchen size, material quality, layout changes, and appliance choices.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-factors-that-influence-the-cost-of-a-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key factors that influence the cost of a kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a kitchen remodel is primarily influenced by the size of the kitchen, the quality and type of materials selected (e.g., custom versus semi-custom cabinets, natural stone versus engineered countertops), the extent of layout changes requiring plumbing or electrical reconfigurations, and the choice of appliances. High-end finishes, complex designs, and structural modifications will also increase the overall investment. We provide transparent cost breakdowns tailored to your specific selections.",
+        "description": "Key cost factors include kitchen size, material quality, layout changes, and appliance choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

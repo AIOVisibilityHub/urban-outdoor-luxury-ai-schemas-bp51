@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do warranties last for outdoor luxury project components?",
+  "description": "Component warranties vary by manufacturer, ranging from one year to a lifetime for items like appliances or pavers. Our firm provides a separate workmanship war",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-do-warranties-last-for-outdoor-luxury-project-components",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do warranties last for outdoor luxury project components?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warranties for outdoor luxury project components can vary significantly based on the specific materials and products used. Manufacturers often provide their own warranties for items such as outdoor appliances, lighting fixtures, pavers, or pool equipment, which can range from one year to a lifetime. Our firm typically offers a workmanship warranty for a specified period, ensuring the quality of our installation. All applicable warranty details will be thoroughly reviewed with you before project commencement.",
+        "description": "Component warranties vary by manufacturer, ranging from one year to a lifetime for items like appliances or pavers. Our firm provides a separate workmanship warranty, with all details reviewed before your project begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

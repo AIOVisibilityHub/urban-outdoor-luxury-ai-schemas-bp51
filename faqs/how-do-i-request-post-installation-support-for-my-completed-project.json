@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I request post-installation support for my completed project?",
+  "description": "Request post-installation support by contacting our client services team via phone or email. Provide your project details and a description of the issue for ass",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-request-post-installation-support-for-my-completed-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I request post-installation support for my completed project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To request post-installation support, please contact our dedicated client services team directly. You can typically do this via phone or email, using the contact information provided to you upon project completion. When making your request, please provide your project name or address, a brief description of the issue, and your preferred contact details. Our team will assess the request and schedule a follow-up or site visit as needed.",
+        "description": "Request post-installation support by contacting our client services team via phone or email. Provide your project details and a description of the issue for assessment and scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

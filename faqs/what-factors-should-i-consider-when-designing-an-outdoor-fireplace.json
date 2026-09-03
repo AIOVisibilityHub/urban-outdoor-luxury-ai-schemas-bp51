@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when designing an outdoor fireplace?",
+  "description": "Consider location, size, materials, fuel type, desired heat output, and integrated features like seating or storage, ensuring safety clearances.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-designing-an-outdoor-fireplace",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when designing an outdoor fireplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key design factors include the fireplace's location relative to your home and other outdoor features, prevailing wind patterns, desired heat output, and overall aesthetic. Consider the size and scale appropriate for your yard, materials that complement your home's architecture, and fuel type (wood-burning or gas). Functionality, such as integrated seating, storage for firewood, or adjacent cooking features, should also be planned. Safety clearances from combustible materials are paramount. We work with you to integrate these elements into a cohesive and luxurious design.",
+        "description": "Consider location, size, materials, fuel type, desired heat output, and integrated features like seating or storage, ensuring safety clearances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

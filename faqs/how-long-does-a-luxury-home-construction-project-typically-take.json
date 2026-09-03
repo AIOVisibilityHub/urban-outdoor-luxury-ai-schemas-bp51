@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a luxury home construction project typically take?",
+  "description": "Luxury home construction typically takes 12 to 24 months, varying with project size, complexity, and customization.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-luxury-home-construction-project-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a luxury home construction project typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a luxury home construction project varies significantly based on the size, complexity, and customization level of the residence. Generally, a custom luxury home can take anywhere from 12 to 24 months, or even longer for very large or intricate designs, after design and permitting are complete. Factors like site preparation, material lead times, and the decision-making process during construction can also influence the overall duration. We provide a detailed project schedule early in the process.",
+        "description": "Luxury home construction typically takes 12 to 24 months, varying with project size, complexity, and customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

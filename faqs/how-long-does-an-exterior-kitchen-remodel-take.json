@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an exterior kitchen remodel take?",
+  "description": "Remodel times vary from 4-8 weeks for simpler projects to 10-16+ weeks for larger, complex designs, influenced by scope and permits.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-an-exterior-kitchen-remodel-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an exterior kitchen remodel take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior kitchen remodel depends on its complexity, size, and the extent of site preparation required. A smaller, simpler project might take 4-8 weeks from design finalization to completion. Larger, more intricate designs involving extensive custom work, multiple appliances, utility trenching, or landscape integration could extend to 10-16 weeks or more. Permitting timelines, material availability, and weather can also influence the schedule.",
+        "description": "Remodel times vary from 4-8 weeks for simpler projects to 10-16+ weeks for larger, complex designs, influenced by scope and permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

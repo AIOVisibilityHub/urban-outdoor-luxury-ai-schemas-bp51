@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you manage communication between different subcontractors?",
+  "description": "We manage communication through regular meetings, daily updates, centralized document sharing, and a project manager as the main contact.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-manage-communication-between-different-subcontractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you manage communication between different subcontractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managing communication among subcontractors is key to project success. We establish clear communication channels from the outset, including regular site meetings, daily progress updates, and a centralized system for sharing documents and schedules. Our project managers serve as the primary point of contact, facilitating discussions and resolving issues promptly. This proactive approach ensures all parties are informed of project status, changes, and dependencies, minimizing misunderstandings and delays.",
+        "description": "We manage communication through regular meetings, daily updates, centralized document sharing, and a project manager as the main contact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

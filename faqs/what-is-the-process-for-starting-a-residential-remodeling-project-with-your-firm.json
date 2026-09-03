@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for starting a residential remodeling project with your firm?",
+  "description": "Our process starts with a consultation, moves through design, planning, permitting, and construction, with continuous communication.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-starting-a-residential-remodeling-project-with-your-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for starting a residential remodeling project with your firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, we move to concept development and detailed design, followed by comprehensive planning, material selection, and permit acquisition. Once permits are secured, construction commences, managed by a dedicated project manager. We maintain open communication and rigorous quality control throughout, culminating in final inspections and your complete satisfaction.",
+        "description": "Our process starts with a consultation, moves through design, planning, permitting, and construction, with continuous communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

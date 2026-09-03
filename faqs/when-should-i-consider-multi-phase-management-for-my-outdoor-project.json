@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider multi-phase management for my outdoor project?",
+  "description": "Consider multi-phase management for extensive outdoor projects with multiple elements, significant budgets, or complex timelines.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-consider-multi-phase-management-for-my-outdoor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider multi-phase management for my outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider multi-phase management for outdoor projects that are extensive, involve multiple different elements (e.g., hardscaping, planting, outdoor kitchens, pools), or have significant budget and timeline considerations. This approach is particularly beneficial for large residential or commercial properties looking to undergo a complete outdoor transformation, ensuring each component is meticulously planned and executed. It's ideal for projects that cannot be completed in a single, continuous workflow, common in luxury outdoor developments.",
+        "description": "Consider multi-phase management for extensive outdoor projects with multiple elements, significant budgets, or complex timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

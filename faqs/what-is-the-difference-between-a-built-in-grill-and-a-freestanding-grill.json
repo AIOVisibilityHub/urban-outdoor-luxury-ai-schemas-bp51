@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a built-in grill and a freestanding grill?",
+  "description": "A built-in grill is permanently integrated into a custom outdoor kitchen, offering a seamless look and utility connections, while a freestanding grill is mobile",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-built-in-grill-and-a-freestanding-grill",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a built-in grill and a freestanding grill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A built-in grill is permanently integrated into a custom outdoor kitchen island or structure, offering a seamless, custom-designed aesthetic and often connected to a natural gas line and other utilities. Freestanding grills are mobile units that sit on their own cart, typically using propane tanks, and can be moved. Built-in grills provide a more luxurious, integrated cooking experience and can increase property value, while freestanding grills offer flexibility and are generally a more economical option upfront.",
+        "description": "A built-in grill is permanently integrated into a custom outdoor kitchen, offering a seamless look and utility connections, while a freestanding grill is mobile and sits on its own cart."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

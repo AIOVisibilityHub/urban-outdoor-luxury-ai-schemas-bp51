@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an outdoor fireplace and a fire pit?",
+  "description": "An outdoor fireplace has a chimney for upward smoke ventilation and architectural presence, while a fire pit is open-air, ideal for communal gatherings, with sm",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-an-outdoor-fireplace-and-a-fire-pit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an outdoor fireplace and a fire pit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in their structure, function, and aesthetic. An outdoor fireplace features a chimney that vents smoke upwards, similar to an indoor fireplace, providing a more contained flame and often serving as a focal point with architectural presence. Fire pits, on the other hand, are open-air structures designed for a communal, 360-degree experience, with smoke dispersing freely. Fireplaces often provide directional heat and a grander aesthetic, while fire pits are ideal for casual gatherings and marshmallow roasting. The choice depends on your desired ambiance and space utilization.",
+        "description": "An outdoor fireplace has a chimney for upward smoke ventilation and architectural presence, while a fire pit is open-air, ideal for communal gatherings, with smoke dispersing freely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

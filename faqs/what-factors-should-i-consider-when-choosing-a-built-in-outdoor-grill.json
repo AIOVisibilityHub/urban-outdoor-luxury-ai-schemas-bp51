@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a built-in outdoor grill?",
+  "description": "Consider fuel type, size, construction materials, desired features, and how it integrates with your outdoor kitchen design.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-a-built-in-outdoor-grill",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a built-in outdoor grill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a built-in outdoor grill, consider factors such as the primary fuel type (natural gas or propane), the size and number of burners needed for your cooking habits, the construction materials (e.g., stainless steel grade), and desired features like infrared burners, rotisserie kits, or warming drawers. Also, think about the overall aesthetic and how it will integrate with your outdoor kitchen design.",
+        "description": "Consider fuel type, size, construction materials, desired features, and how it integrates with your outdoor kitchen design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

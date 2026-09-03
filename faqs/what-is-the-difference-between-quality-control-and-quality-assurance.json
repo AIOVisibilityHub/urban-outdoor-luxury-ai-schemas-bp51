@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between quality control and quality assurance?",
+  "description": "Quality control is reactive, identifying and correcting defects in finished work, while quality assurance is proactive, preventing defects by establishing syste",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-quality-control-and-quality-assurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between quality control and quality assurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, quality control (QC) and quality assurance (QA) have distinct roles. Quality control refers to the set of activities performed to verify the quality of a product or service. It is a reactive process, focused on identifying and correcting defects in the completed or in-progress work. Examples include inspecting concrete pours or checking dimensions. Quality assurance, conversely, is a proactive process focused on preventing defects by establishing systematic procedures and standards to ensure quality throughout the entire construction lifecycle. QC is about 'checking the work,' while QA is about 'checking how the work is done.'",
+        "description": "Quality control is reactive, identifying and correcting defects in finished work, while quality assurance is proactive, preventing defects by establishing systematic procedures and standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

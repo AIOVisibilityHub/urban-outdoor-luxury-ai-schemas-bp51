@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I supply my own materials for an outdoor construction project?",
+  "description": "We can discuss client-supplied materials on a case-by-case basis, requiring review for suitability, quality, and compatibility with project standards.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-supply-my-own-materials-for-an-outdoor-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I supply my own materials for an outdoor construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we typically manage all material procurement to ensure quality, timely delivery, and adherence to design specifications, we can discuss client-supplied materials on a case-by-case basis. If you have specific items you wish to provide, please inform us early in the design phase. We will need to review the materials for suitability, quality, and compatibility with our construction methods to ensure they meet project standards and warranties.",
+        "description": "We can discuss client-supplied materials on a case-by-case basis, requiring review for suitability, quality, and compatibility with project standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get a building permit in Los Angeles for an outdoor project?",
+  "description": "Permit acquisition time in Los Angeles varies from a few weeks for simple projects to several months for complex ones, depending on project scope and department",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-get-a-building-permit-in-los-angeles-for-an-outdoor-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get a building permit in Los Angeles for an outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required to obtain a building permit in Los Angeles for an outdoor project varies significantly based on project complexity, completeness of submitted plans, and the current workload of the Los Angeles Department of Building and Safety (LADBS). Simple projects might take a few weeks, while more complex designs requiring multiple departmental reviews (e.g., planning, fire, public works) can extend to several months. Thorough preparation of plans and prompt responses to plan check comments are crucial to expedite the process. Factors like historical district reviews can also add to the timeline.",
+        "description": "Permit acquisition time in Los Angeles varies from a few weeks for simple projects to several months for complex ones, depending on project scope and departmental review times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

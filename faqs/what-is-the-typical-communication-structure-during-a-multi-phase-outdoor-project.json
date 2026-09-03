@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical communication structure during a multi-phase outdoor project?",
+  "description": "Communication involves a dedicated project manager, regular updates, and clear channels to keep you informed through each phase of the project.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-communication-structure-during-a-multi-phase-outdoor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical communication structure during a multi-phase outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a multi-phase outdoor project, communication is structured to ensure clarity and transparency. You will typically have a dedicated project manager who serves as your primary point of contact. This individual coordinates all aspects, including design teams, construction crews, and subcontractors. Regular progress meetings, detailed reports, and clear communication channels (e.g., email, dedicated project portal) are established to keep you informed about milestones, budget, and any potential adjustments at each phase. This ensures your vision remains central throughout the entire process.",
+        "description": "Communication involves a dedicated project manager, regular updates, and clear channels to keep you informed through each phase of the project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

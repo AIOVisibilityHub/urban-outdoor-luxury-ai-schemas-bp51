@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you only work with local subcontractors in areas like Pasadena or Arcadia?",
+  "description": "We prioritize local, reputable subcontractors from areas like Pasadena and Arcadia but choose the most qualified partners across our service regions for each pr",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-only-work-with-local-subcontractors-in-areas-like-pasadena-or-arcadia",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you only work with local subcontractors in areas like Pasadena or Arcadia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we prioritize working with local, reputable subcontractors from areas like Pasadena, Arcadia, and surrounding communities, our primary focus is on selecting the most qualified and reliable partners for each specific task. This ensures we maintain the highest standards of craftsmanship and project efficiency. Our network includes skilled professionals across our service areas, allowing us to choose the best fit for your urban outdoor luxury project's unique requirements, regardless of their exact location within our broader operational regions.",
+        "description": "We prioritize local, reputable subcontractors from areas like Pasadena and Arcadia but choose the most qualified partners across our service regions for each project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

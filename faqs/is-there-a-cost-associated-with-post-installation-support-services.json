@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a cost associated with post-installation support services?",
+  "description": "Initial post-installation support is usually included in the project cost. For support beyond this period or for issues not related to installation, separate se",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/is-there-a-cost-associated-with-post-installation-support-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a cost associated with post-installation support services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial period of post-installation support, covering adjustments and certain minor repairs stemming directly from the installation, is often included as part of the overall project agreement. Any costs for this period are typically factored into the original quote. For support needed beyond this initial period or for issues arising from normal wear and tear, neglect, or external damage, separate service fees may apply. We provide a detailed breakdown of what is covered in our initial project proposal.",
+        "description": "Initial post-installation support is usually included in the project cost. For support beyond this period or for issues not related to installation, separate service fees may apply."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

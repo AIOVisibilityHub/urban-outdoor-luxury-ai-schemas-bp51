@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I observe the quality control process during my project?",
+  "description": "Yes, Urban Outdoor Luxury encourages client observation of the quality control process through site visits at key milestones and regular project updates.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-observe-the-quality-control-process-during-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I observe the quality control process during my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Urban Outdoor Luxury encourages client involvement and transparency throughout the construction process, including quality control. We facilitate site visits at key milestones where you can observe progress and our quality assurance measures firsthand. Our project managers provide regular updates, including photographic documentation of critical inspection points. We believe that open communication and direct observation build trust and ensure your complete satisfaction with the ongoing quality and craftsmanship. Your understanding of our rigorous process is important to us.",
+        "description": "Yes, Urban Outdoor Luxury encourages client observation of the quality control process through site visits at key milestones and regular project updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

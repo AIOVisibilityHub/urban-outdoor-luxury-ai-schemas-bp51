@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do custom barbecue islands require special plumbing or electrical connections?",
+  "description": "Custom barbecue islands often require dedicated natural gas or propane, water supply and drainage for sinks, and electrical outlets for appliances. All utilitie",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-custom-barbecue-islands-require-special-plumbing-or-electrical-connections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do custom barbecue islands require special plumbing or electrical connections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most custom barbecue islands require dedicated utility connections for optimal functionality and safety. Barbecues typically need a natural gas line or a propane tank enclosure. Sinks and ice makers necessitate water supply and drainage lines. Electrical outlets are essential for powering refrigerators, rotisserie motors, lighting, and other integrated appliances. Our design process includes planning for all necessary utility runs, and our construction team ensures all connections are installed by licensed professionals to meet local building codes.",
+        "description": "Custom barbecue islands often require dedicated natural gas or propane, water supply and drainage for sinks, and electrical outlets for appliances. All utilities are installed by licensed professionals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

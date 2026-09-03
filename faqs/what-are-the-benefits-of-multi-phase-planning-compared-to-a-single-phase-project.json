@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of multi-phase planning compared to a single-phase project?",
+  "description": "Benefits include financial flexibility, design adaptability, reduced disruption, and better risk management compared to a single-phase project.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-multi-phase-planning-compared-to-a-single-phase-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of multi-phase planning compared to a single-phase project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multi-phase planning offers several benefits over a single-phase project, primarily financial flexibility by spreading costs over time. It allows for design evolution and adjustments between phases based on lived experience or changing preferences. It also reduces the immediate disruption to your property and lifestyle, as construction is segmented. For complex projects, it mitigates risk by allowing for careful execution and quality control at each stage, leading to a more refined and enduring outdoor luxury space.",
+        "description": "Benefits include financial flexibility, design adaptability, reduced disruption, and better risk management compared to a single-phase project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and building an exterior kitchen?",
+  "description": "The process involves consultation, design (with renderings), material selection, permitting, construction, and a final walkthrough.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-building-an-exterior-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and building an exterior kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation to discuss your vision, needs, and budget. Next, our designers create conceptual plans and 3D renderings for your review and approval. Once the design is finalized, we assist with material and appliance selection. Permitting is then handled, followed by site preparation and construction, including utility hookups, masonry, cabinetry, and appliance installation. The final step is a thorough walkthrough to ensure your satisfaction.",
+        "description": "The process involves consultation, design (with renderings), material selection, permitting, construction, and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

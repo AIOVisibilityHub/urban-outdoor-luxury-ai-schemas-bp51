@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure quality control during a remodeling project?",
+  "description": "We ensure quality with a dedicated project manager, regular site inspections, skilled craftsmen, quality materials, and phased client walk-throughs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-ensure-quality-control-during-a-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure quality control during a remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our firm maintains rigorous quality control through a multi-faceted approach. This includes assigning a dedicated project manager to oversee daily operations, conduct regular site inspections, and enforce strict adherence to design specifications and building codes. We also utilize skilled and vetted craftsmen, employ high-quality materials, and conduct phased walk-throughs with clients. Our commitment to excellence ensures every detail meets our high standards and your expectations.",
+        "description": "We ensure quality with a dedicated project manager, regular site inspections, skilled craftsmen, quality materials, and phased client walk-throughs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

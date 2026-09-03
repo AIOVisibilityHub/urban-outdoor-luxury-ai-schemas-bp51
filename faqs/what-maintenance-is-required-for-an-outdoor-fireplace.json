@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for an outdoor fireplace?",
+  "description": "Maintenance includes ash removal and chimney cleaning for wood-burning, periodic burner inspection for gas, and regular masonry checks and cleaning for all type",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-an-outdoor-fireplace",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for an outdoor fireplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for an outdoor fireplace varies by fuel type and materials. For wood-burning fireplaces, regular ash removal, chimney cleaning (annually or as needed), and occasional inspection for creosote buildup are essential. Gas fireplaces require less frequent cleaning but should have their burner and gas lines inspected periodically by a professional. Regardless of fuel, inspect masonry and mortar for cracks, clean the exterior surfaces as needed, and protect it from harsh weather with a cover to extend its lifespan and maintain its appearance. Prompt repairs can prevent larger issues.",
+        "description": "Maintenance includes ash removal and chimney cleaning for wood-burning, periodic burner inspection for gas, and regular masonry checks and cleaning for all types."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

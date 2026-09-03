@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does post-installation support typically begin and end?",
+  "description": "Post-installation support starts after project handover. Its duration varies by project scope and agreements, typically covering 30-90 days for initial adjustme",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-does-post-installation-support-typically-begin-and-end",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does post-installation support typically begin and end?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Post-installation support typically begins immediately after the final walk-through and project handover. The duration of this support can vary depending on the scope of the project and the specific agreements made. For many elements, initial support might cover a period of 30 to 90 days for adjustments or minor fixes. Extended warranties on certain materials or components may offer longer-term coverage. We establish clear timelines for support during the project planning phase.",
+        "description": "Post-installation support starts after project handover. Its duration varies by project scope and agreements, typically covering 30-90 days for initial adjustments, with longer warranties for specific components."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

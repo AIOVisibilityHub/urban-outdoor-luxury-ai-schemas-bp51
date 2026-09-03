@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install a built-in outdoor grill in Los Angeles?",
+  "description": "Costs vary widely based on grill model, island materials, extra features, and utility complexity. We provide detailed estimates.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-a-built-in-outdoor-grill-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install a built-in outdoor grill in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a built-in outdoor grill in Los Angeles varies significantly based on factors like the grill model, material choices for the island (e.g., stone, stucco), additional features like refrigeration or side burners, and the complexity of utility hookups. A basic installation might start at a certain price, but a fully customized outdoor kitchen with high-end appliances will be considerably more. We provide detailed estimates after an on-site consultation.",
+        "description": "Costs vary widely based on grill model, island materials, extra features, and utility complexity. We provide detailed estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

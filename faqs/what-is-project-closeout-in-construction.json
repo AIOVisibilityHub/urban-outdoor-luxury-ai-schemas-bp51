@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is project closeout in construction?",
+  "description": "Project closeout formally concludes a construction project, ensuring all contractual obligations are met and the site is ready for client use.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-project-closeout-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is project closeout in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project closeout formally concludes a construction project, ensuring all contractual obligations are met. It involves final inspections, completing punch-list items, submitting closeout documents like warranties and as-builts, final payments, and transferring ownership to the client. This phase ensures the completed project meets all specifications and is ready for use, establishing a clear end to the construction period.",
+        "description": "Project closeout formally concludes a construction project, ensuring all contractual obligations are met and the site is ready for client use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

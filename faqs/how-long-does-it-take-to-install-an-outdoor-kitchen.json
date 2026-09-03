@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install an outdoor kitchen?",
+  "description": "Installation time varies from a few days for basic units to several weeks or months for custom, complex outdoor kitchens, depending on design and materials.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-an-outdoor-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install an outdoor kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for outdoor kitchen installation varies significantly based on complexity, size, material choices, and permitting requirements. A basic, pre-fabricated unit might be installed in a few days, while a custom, fully integrated outdoor kitchen with extensive utilities and elaborate finishes could take several weeks, or even a couple of months. Factors like weather delays and the availability of specific materials can also influence the schedule. We provide an estimated timeline after the initial design and site assessment.",
+        "description": "Installation time varies from a few days for basic units to several weeks or months for custom, complex outdoor kitchens, depending on design and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does multi-phase outdoor project management differ from a single-contract project?",
+  "description": "Multi-phase management offers flexibility and detailed oversight by breaking projects into stages, unlike single-contract projects which cover the entire scope",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-multi-phase-outdoor-project-management-differ-from-a-single-contract-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does multi-phase outdoor project management differ from a single-contract project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multi-phase project management breaks down a large project into distinct, sequential or overlapping stages, each with its own budget, timeline, and deliverables. This allows for greater flexibility, detailed oversight, and the ability to adapt as the project progresses. In contrast, a single-contract project typically encompasses the entire scope under one agreement, often requiring all details to be finalized upfront. While single contracts can be simpler for smaller projects, multi-phase is better suited for complex, luxury outdoor transformations requiring precision and adaptability.",
+        "description": "Multi-phase management offers flexibility and detailed oversight by breaking projects into stages, unlike single-contract projects which cover the entire scope upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

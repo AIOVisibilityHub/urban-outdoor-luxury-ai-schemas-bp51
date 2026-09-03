@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a multi-phase outdoor project usually take?",
+  "description": "Multi-phase project durations vary from months to several years, depending on scope, complexity, and local factors like permitting in Los Angeles or Pasadena.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-multi-phase-outdoor-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a multi-phase outdoor project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a multi-phase outdoor project varies significantly based on its scope, complexity, and the number of phases planned. A single phase might take anywhere from a few weeks to several months. The overall project, encompassing multiple phases, could extend from one year to several years. Factors such as permitting requirements in areas like Los Angeles or Pasadena, material availability, and weather conditions can also influence timelines. We work closely with clients to establish realistic schedules for each stage.",
+        "description": "Multi-phase project durations vary from months to several years, depending on scope, complexity, and local factors like permitting in Los Angeles or Pasadena."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

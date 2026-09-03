@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I start with a design phase and decide on construction later?",
+  "description": "Yes, starting with a design phase independently allows for refining your vision and obtaining plans before committing to construction.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-start-with-a-design-phase-and-decide-on-construction-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I start with a design phase and decide on construction later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is common and often recommended to begin with a comprehensive design phase independently. This allows you to explore various options, refine your vision, and obtain detailed plans and renderings without committing to the full construction cost immediately. Once the design is finalized, you can then move into the construction phases, either all at once or in planned stages, based on your budget, preferences, and timeline. This flexibility ensures your investment in design is well-considered before breaking ground.",
+        "description": "Yes, starting with a design phase independently allows for refining your vision and obtaining plans before committing to construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

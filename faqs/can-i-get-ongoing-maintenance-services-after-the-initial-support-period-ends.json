@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get ongoing maintenance services after the initial support period ends?",
+  "description": "Yes, after initial support, we offer tailored ongoing maintenance programs for long-term preservation of your outdoor space, covering landscaping, irrigation, l",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-get-ongoing-maintenance-services-after-the-initial-support-period-ends",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get ongoing maintenance services after the initial support period ends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. While post-installation support addresses initial adjustments and issues, we also offer comprehensive ongoing maintenance programs to preserve the beauty and functionality of your outdoor luxury space long-term. These programs can be tailored to your specific needs, covering elements like landscaping care, irrigation system optimization, lighting checks, and cleaning of outdoor structures. We can discuss these options towards the end of your project's initial support period.",
+        "description": "Yes, after initial support, we offer tailored ongoing maintenance programs for long-term preservation of your outdoor space, covering landscaping, irrigation, lighting, and cleaning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

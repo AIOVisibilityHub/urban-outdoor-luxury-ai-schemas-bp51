@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a kitchen remodel in Los Angeles?",
+  "description": "Most kitchen remodels in Los Angeles require permits from LADBS, especially for changes to plumbing, electrical, or structural elements. We handle the permit pr",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-a-kitchen-remodel-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a kitchen remodel in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, most kitchen remodels involving changes to plumbing, electrical, or structural elements require permits from the Department of Building and Safety (LADBS). This includes moving walls, altering gas lines, or significantly changing appliance locations that necessitate new wiring. Even minor projects might require permits if they affect structural integrity or major utility systems. Our team manages all necessary permit applications and ensures compliance with local building codes.",
+        "description": "Most kitchen remodels in Los Angeles require permits from LADBS, especially for changes to plumbing, electrical, or structural elements. We handle the permit process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

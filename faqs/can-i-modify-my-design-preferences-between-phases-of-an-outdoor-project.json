@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I modify my design preferences between phases of an outdoor project?",
+  "description": "Yes, you can modify design preferences between phases. This flexibility allows for adaptive refinement and incorporation of new ideas as the project progresses.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-modify-my-design-preferences-between-phases-of-an-outdoor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I modify my design preferences between phases of an outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, one of the key advantages of a multi-phase outdoor project is the flexibility to modify design preferences between stages. While an initial master plan guides the overall vision, there's opportunity to incorporate new ideas, materials, or features as you experience completed phases or as your needs evolve. This adaptive approach allows for refinement, ensuring the final outcome perfectly aligns with your desires and the latest trends in urban outdoor luxury, without requiring a complete overhaul of previously finished work.",
+        "description": "Yes, you can modify design preferences between phases. This flexibility allows for adaptive refinement and incorporation of new ideas as the project progresses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

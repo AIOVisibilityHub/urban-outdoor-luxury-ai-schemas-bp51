@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should quality control begin in a construction project?",
+  "description": "Quality control should begin in the initial design and planning phase of a construction project, ensuring proactive problem-solving and alignment with quality b",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-quality-control-begin-in-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should quality control begin in a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality control should commence at the very initial stages of a construction project, ideally during the design and planning phase. This includes reviewing architectural plans for constructability, ensuring material specifications meet desired performance and aesthetic criteria, and establishing clear quality benchmarks. Early involvement allows for proactive problem-solving, preventing potential issues before they translate into physical construction. For Urban Outdoor Luxury, this means integrating quality checks from the moment a design concept for an outdoor space is developed, ensuring every detail aligns with our high standards from day one.",
+        "description": "Quality control should begin in the initial design and planning phase of a construction project, ensuring proactive problem-solving and alignment with quality benchmarks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

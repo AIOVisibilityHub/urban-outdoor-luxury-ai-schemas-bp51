@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common fuel options for linear fire features, and which is best for my home?",
+  "description": "Linear fire features use natural gas or liquid propane. Natural gas offers convenience with existing lines; LP provides placement flexibility.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-fuel-options-for-linear-fire-features-and-which-is-best-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common fuel options for linear fire features, and which is best for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary fuel options are natural gas and liquid propane (LP). Natural gas is often more convenient if an existing gas line is accessible, providing an uninterrupted fuel supply. LP requires refillable tanks, which can be easily placed in remote locations without a gas line. The 'best' option depends on your property's existing infrastructure, desired flame intensity, and budget. Natural gas typically offers lower operating costs, while LP provides more flexibility in placement.",
+        "description": "Linear fire features use natural gas or liquid propane. Natural gas offers convenience with existing lines; LP provides placement flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

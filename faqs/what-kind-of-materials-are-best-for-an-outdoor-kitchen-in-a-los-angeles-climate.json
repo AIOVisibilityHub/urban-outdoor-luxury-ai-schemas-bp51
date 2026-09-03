@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of materials are best for an outdoor kitchen in a Los Angeles climate?",
+  "description": "Durable materials like stainless steel appliances, granite/quartz countertops, and stone veneer or marine-grade polymer cabinetry are best for Los Angeles.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-materials-are-best-for-an-outdoor-kitchen-in-a-los-angeles-climate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of materials are best for an outdoor kitchen in a Los Angeles climate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Los Angeles's climate, durable and weather-resistant materials are essential. Stainless steel is ideal for appliances and cabinetry due to its corrosion resistance. Countertops often use granite, quartz, or concrete for their durability and low maintenance. For structure, stone veneer, stucco, or weather-resistant marine-grade polymer cabinetry are popular choices that withstand sun exposure and occasional moisture, ensuring longevity and aesthetic appeal.",
+        "description": "Durable materials like stainless steel appliances, granite/quartz countertops, and stone veneer or marine-grade polymer cabinetry are best for Los Angeles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of a professionally installed fire-bowl compared to a DIY kit?",
+  "description": "Professional installation ensures compliance with codes, proper gas line and foundation work, seamless integration, and mitigates safety risks compared to DIY k",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-a-professionally-installed-fire-bowl-compared-to-a-diy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of a professionally installed fire-bowl compared to a DIY kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professionally installed fire-bowl ensures compliance with local building codes and safety regulations, which can be complex, especially in areas like Los Angeles. Our experts manage gas line extensions, proper foundation work, and integrate the fire-bowl seamlessly into your existing landscape design, guaranteeing both functionality and aesthetic appeal. Professional installation also mitigates risks of gas leaks or improper ventilation, offering peace of mind and often prolonging the lifespan of your investment.",
+        "description": "Professional installation ensures compliance with codes, proper gas line and foundation work, seamless integration, and mitigates safety risks compared to DIY kits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

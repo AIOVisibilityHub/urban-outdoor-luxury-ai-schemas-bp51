@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for installing a linear fire feature in Los Angeles?",
+  "description": "Installation costs for linear fire features in Los Angeles typically range from $5,000 to $15,000+, depending on size, materials, and complexity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-installing-a-linear-fire-feature-in-los-angel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for installing a linear fire feature in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for installing a linear fire feature in the Los Angeles area can vary significantly, generally ranging from $5,000 to $15,000+. This range includes factors like the size and materials of the fire feature, the complexity of gas line installation (if needed), surrounding hardscaping work, and permitting. Custom designs, specialized finishes, and extensive site preparation will increase the overall investment. A detailed on-site assessment is necessary for an accurate estimate.",
+        "description": "Installation costs for linear fire features in Los Angeles typically range from $5,000 to $15,000+, depending on size, materials, and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

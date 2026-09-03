@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a custom barbecue island?",
+  "description": "Maintenance involves regular cleaning of grill grates, countertops, and exterior finishes. Using protective covers for appliances during non-use helps ensure lo",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-custom-barbecue-island",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a custom barbecue island?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a custom barbecue island is generally straightforward and focuses on keeping surfaces clean and protecting appliances. Regularly clean grill grates and interior components after each use. Wipe down countertops and exterior finishes with appropriate cleaners to prevent stains and buildup. During extended periods of non-use or inclement weather, consider using custom-fit covers for your grill and other appliances to protect them from the elements. Periodically inspect utility connections and appliance integrity.",
+        "description": "Maintenance involves regular cleaning of grill grates, countertops, and exterior finishes. Using protective covers for appliances during non-use helps ensure longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do built-in grill stations need special ventilation?",
+  "description": "Built-in grill stations require good air circulation. In covered or semi-enclosed spaces, an outdoor-rated exhaust hood may be necessary for safety and smoke re",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-built-in-grill-stations-need-special-ventilation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do built-in grill stations need special ventilation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While most open-air built-in grill stations do not require elaborate ventilation systems like indoor kitchens, proper air circulation is crucial for safety and performance. The design must ensure adequate clearances around the grill for heat dissipation and to prevent grease fires. If the grill station is located under a covered patio or in a semi-enclosed space, a dedicated outdoor-rated exhaust hood or fan might be necessary to remove smoke and heat efficiently. We assess each project's specific conditions to advise on ventilation needs.",
+        "description": "Built-in grill stations require good air circulation. In covered or semi-enclosed spaces, an outdoor-rated exhaust hood may be necessary for safety and smoke removal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

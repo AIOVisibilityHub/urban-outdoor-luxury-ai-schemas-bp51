@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key benefits of adding an exterior kitchen to my home?",
+  "description": "Benefits include extended living space, enhanced entertaining, increased property value, and dedicated outdoor cooking, reducing indoor mess.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-benefits-of-adding-an-exterior-kitchen-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key benefits of adding an exterior kitchen to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding an exterior kitchen extends your living and entertaining space, especially beneficial in Southern California's climate. It allows for seamless outdoor entertaining, reducing traffic in your main kitchen during gatherings. Property value can increase with a well-designed outdoor kitchen, as it's a desirable amenity. It also provides a dedicated space for cooking, minimizing indoor odors and heat, and encourages more outdoor family time and healthier cooking habits.",
+        "description": "Benefits include extended living space, enhanced entertaining, increased property value, and dedicated outdoor cooking, reducing indoor mess."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

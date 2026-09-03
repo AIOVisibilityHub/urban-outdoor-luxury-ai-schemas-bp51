@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I start thinking about construction scheduling for my new luxury home in Los Angeles?",
+  "description": "Start construction scheduling during the design phase for your luxury home to integrate realities, anticipate challenges, and ensure a robust project timeline.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-start-thinking-about-construction-scheduling-for-my-new-luxury-hom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I start thinking about construction scheduling for my new luxury home in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ideally, construction scheduling should begin during the design phase of your luxury home project. Early involvement allows us to integrate construction realities with design intent, identifying potential challenges and opportunities for efficiency before breaking ground. This proactive approach ensures a more realistic and robust schedule, taking into account permitting timelines, unique material lead times, and the availability of specialized craftsmen. Starting early sets the foundation for a predictable and successful project.",
+        "description": "Start construction scheduling during the design phase for your luxury home to integrate realities, anticipate challenges, and ensure a robust project timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

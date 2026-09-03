@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a general contractor on an outdoor living project?",
+  "description": "The process involves consultation, proposal, permitting, subcontractor management, material procurement, site inspections, and client communication, ending with",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-a-general-contractor-on-an-outdoor-living-projec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a general contractor on an outdoor living project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with an initial consultation to understand your vision and project requirements. Following this, the contractor develops a detailed proposal, including scope, timeline, and budget. Once approved, they manage permits, schedule and supervise subcontractors (e.g., landscapers, masons, electricians), procure materials, and conduct regular site inspections to ensure quality and adherence to plans. Communication with the client is ongoing, with updates provided throughout. The project concludes with a final walkthrough and handover, ensuring your complete satisfaction.",
+        "description": "The process involves consultation, proposal, permitting, subcontractor management, material procurement, site inspections, and client communication, ending with project handover."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

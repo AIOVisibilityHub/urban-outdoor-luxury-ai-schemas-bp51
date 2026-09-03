@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations should I keep in mind when planning a linear fire feature?",
+  "description": "Key design considerations include placement, material selection, burner size, safety clearances, and integration with surrounding landscape.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-should-i-keep-in-mind-when-planning-a-linear-fire-fea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations should I keep in mind when planning a linear fire feature?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When planning, consider the feature's placement relative to seating areas, overall patio design, and prevailing winds. Choose materials that complement your home's architecture and existing hardscaping, such as concrete, stucco, or natural stone. burner size and BTU output should match the desired flame height and heat output. Also, plan for adequate ventilation and safety clearances from combustible materials. Integrated seating or planters can enhance its functionality and aesthetic appeal.",
+        "description": "Key design considerations include placement, material selection, burner size, safety clearances, and integration with surrounding landscape."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

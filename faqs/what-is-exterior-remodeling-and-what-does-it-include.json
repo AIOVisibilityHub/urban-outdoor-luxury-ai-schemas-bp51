@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is exterior remodeling and what does it include?",
+  "description": "Exterior remodeling involves enhancing a property's outdoor spaces and includes projects like patios, landscaping, outdoor kitchens, and new siding to improve a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-exterior-remodeling-and-what-does-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is exterior remodeling and what does it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior remodeling enhances the aesthetic appeal, functionality, and value of a property's outdoor spaces. It can encompass a wide range of projects, from minor updates like painting and landscaping to major renovations such as adding outdoor kitchens, custom patios, pergolas, fire features, new siding, or even swimming pools and spas. Our services focus on creating luxurious and highly functional outdoor environments tailored to your lifestyle and the architectural style of your home, improving curb appeal and outdoor living comfort.",
+        "description": "Exterior remodeling involves enhancing a property's outdoor spaces and includes projects like patios, landscaping, outdoor kitchens, and new siding to improve aesthetics and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

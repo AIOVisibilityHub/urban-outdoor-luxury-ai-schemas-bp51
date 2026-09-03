@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle unexpected delays or changes during the construction of a luxury residence?",
+  "description": "We manage delays with proactive communication, rapid impact assessment, and agile rescheduling, ensuring transparency and minimal disruption to the project.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-handle-unexpected-delays-or-changes-during-the-construction-of-a-luxu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle unexpected delays or changes during the construction of a luxury residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our approach to unexpected delays or changes during luxury residence construction involves proactive communication, rapid assessment, and agile rescheduling. We utilize advanced project management tools to quickly analyze the impact of any changes on the overall schedule and budget. Transparent communication with the client is paramount, outlining options and their implications. We then implement revised plans efficiently, ensuring the project stays on track with minimal disruption to quality or timeline.",
+        "description": "We manage delays with proactive communication, rapid impact assessment, and agile rescheduling, ensuring transparency and minimal disruption to the project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

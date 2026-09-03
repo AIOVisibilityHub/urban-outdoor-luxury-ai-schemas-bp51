@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for my residential remodeling project in Pasadena?",
+  "description": "Most significant residential remodeling projects in Pasadena require permits for structural, electrical, plumbing, and exterior changes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-my-residential-remodeling-project-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for my residential remodeling project in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most significant residential remodeling projects in Pasadena require permits from the City's Planning and Building Departments. This includes structural changes, electrical work, plumbing, significant exterior alterations, and additions. Obtaining proper permits ensures your project complies with local building codes and zoning ordinances, protecting your investment and ensuring safety. We manage the entire permitting process on your behalf, navigating local requirements.",
+        "description": "Most significant residential remodeling projects in Pasadena require permits for structural, electrical, plumbing, and exterior changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

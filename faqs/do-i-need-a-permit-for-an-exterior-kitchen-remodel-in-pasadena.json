@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for an exterior kitchen remodel in Pasadena?",
+  "description": "Yes, most exterior kitchen remodels in Pasadena require permits, especially for new utility connections or structural changes. We assist with this process.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-an-exterior-kitchen-remodel-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for an exterior kitchen remodel in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most exterior kitchen remodels in Pasadena require permits. This is particularly true if the project involves new utility connections (gas, water, electrical), significant structural changes, or substantial plumbing and electrical work. Permitting ensures that the construction adheres to local building codes and safety regulations. We handle the permit application process as part of our service, ensuring compliance and a smooth project timeline.",
+        "description": "Yes, most exterior kitchen remodels in Pasadena require permits, especially for new utility connections or structural changes. We assist with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

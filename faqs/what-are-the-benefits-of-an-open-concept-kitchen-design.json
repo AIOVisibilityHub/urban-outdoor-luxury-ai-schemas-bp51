@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of an open-concept kitchen design?",
+  "description": "Open-concept kitchens offer spaciousness, improved light, and better social interaction, ideal for entertaining and family living.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-an-open-concept-kitchen-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of an open-concept kitchen design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open-concept kitchen designs create a more spacious and integrated living area, enhancing natural light flow and fostering better social interaction. They are ideal for entertaining, allowing hosts to engage with guests while preparing food. This design style also improves sightlines, which can be beneficial for families with young children. While popular, consider how an open layout might impact noise levels and the visibility of kitchen clutter before committing.",
+        "description": "Open-concept kitchens offer spaciousness, improved light, and better social interaction, ideal for entertaining and family living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

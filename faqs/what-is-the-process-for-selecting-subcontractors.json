@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for selecting subcontractors?",
+  "description": "Subcontractor selection involves defining scope, identifying potential partners, vetting their qualifications, and evaluating bids to ensure quality and reliabi",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-selecting-subcontractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for selecting subcontractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The subcontractor selection process involves several steps to ensure qualified and reliable partners are chosen. Initially, we define the scope of work and required specialties. We then identify potential subcontractors through our established network and rigorous vetting. This includes evaluating their experience, financial stability, licensing, insurance, and past project performance. We typically request bids and conduct interviews to assess their capabilities and compatibility with our project standards before making a final selection.",
+        "description": "Subcontractor selection involves defining scope, identifying potential partners, vetting their qualifications, and evaluating bids to ensure quality and reliability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

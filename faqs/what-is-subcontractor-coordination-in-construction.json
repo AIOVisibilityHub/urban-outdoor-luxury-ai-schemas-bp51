@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is subcontractor coordination in construction?",
+  "description": "Subcontractor coordination is the management and integration of specialized contractors' work to ensure project timelines, budget, and quality.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-subcontractor-coordination-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is subcontractor coordination in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subcontractor coordination involves managing and integrating the work of various specialized contractors on a construction project. This includes scheduling their tasks, ensuring they adhere to project specifications, managing communication between different trades, and resolving any potential conflicts or overlaps. Effective coordination is crucial for maintaining project timelines, budget, and quality standards, especially in complex urban outdoor luxury projects where multiple specialists are involved.",
+        "description": "Subcontractor coordination is the management and integration of specialized contractors' work to ensure project timelines, budget, and quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a built-in grill station installation in Pasadena?",
+  "description": "Permits are usually required for built-in grill stations in Pasadena, especially for gas, electrical, or structural work. Our team handles the entire permitting",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-a-built-in-grill-station-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a built-in grill station installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, permits are typically required for built-in grill station installations, especially when involving new gas lines, electrical work, or significant structural changes. The specific permits depend on the project's scope, but often include building, plumbing, and electrical permits. Our team manages the entire permitting process, ensuring all designs and construction adhere to local codes and regulations in Pasadena. This helps avoid delays and ensures your outdoor kitchen is built safely and compliantly.",
+        "description": "Permits are usually required for built-in grill stations in Pasadena, especially for gas, electrical, or structural work. Our team handles the entire permitting process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

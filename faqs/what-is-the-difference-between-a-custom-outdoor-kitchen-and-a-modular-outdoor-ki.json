@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom outdoor kitchen and a modular outdoor kitchen?",
+  "description": "Custom outdoor kitchens are uniquely designed for your space with limitless options, while modular kitchens use pre-fabricated units for quicker, often more bud",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-custom-outdoor-kitchen-and-a-modular-outdoor-ki",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom outdoor kitchen and a modular outdoor kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom outdoor kitchen is designed and built specifically for your space, offering limitless options for layout, materials, and features to perfectly match your aesthetic and functional needs. Modular outdoor kitchens, on the other hand, consist of pre-fabricated units that can be arranged in various configurations. While modular options are often quicker to install and more budget-friendly, custom kitchens provide superior integration with your home's architecture and a more personalized result. Your choice depends on budget, desired customization, and timeline.",
+        "description": "Custom outdoor kitchens are uniquely designed for your space with limitless options, while modular kitchens use pre-fabricated units for quicker, often more budget-friendly installation. Custom offers superior integration and personalization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

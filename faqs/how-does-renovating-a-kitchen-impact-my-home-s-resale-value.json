@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does renovating a kitchen impact my home's resale value?",
+  "description": "A quality kitchen renovation significantly boosts home resale value, offering a high return on investment by appealing to homebuyers with modern, functional des",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-renovating-a-kitchen-impact-my-home-s-resale-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does renovating a kitchen impact my home's resale value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-executed kitchen renovation can significantly increase your home's resale value, often providing one of the highest returns on investment among home improvements. Modern, functional, and aesthetically pleasing kitchens are highly sought after by homebuyers. The exact return depends on the quality of the remodel, current market conditions, and how well the renovation aligns with neighborhood expectations. Focusing on durable materials and timeless design tends to yield the best results.",
+        "description": "A quality kitchen renovation significantly boosts home resale value, offering a high return on investment by appealing to homebuyers with modern, functional designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

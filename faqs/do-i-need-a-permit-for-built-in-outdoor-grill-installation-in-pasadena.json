@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for built-in outdoor grill installation in Pasadena?",
+  "description": "Yes, permits are typically required in Pasadena to ensure compliance with local building and safety codes for gas, electric, and structure.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-built-in-outdoor-grill-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for built-in outdoor grill installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in Pasadena, as in many municipalities, installing a built-in outdoor grill and associated outdoor kitchen structures often requires permits. This is primarily to ensure compliance with local building codes, setback requirements, and safety regulations concerning gas lines, electrical work, and ventilation. Our team handles the necessary permit applications and ensures all installations meet local standards.",
+        "description": "Yes, permits are typically required in Pasadena to ensure compliance with local building and safety codes for gas, electric, and structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

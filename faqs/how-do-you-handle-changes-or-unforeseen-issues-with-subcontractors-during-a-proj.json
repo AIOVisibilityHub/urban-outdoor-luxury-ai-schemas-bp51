@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle changes or unforeseen issues with subcontractors during a project?",
+  "description": "We manage changes or unforeseen issues through a structured change order process, assessing impact, communicating solutions, and documenting all adjustments.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-handle-changes-or-unforeseen-issues-with-subcontractors-during-a-proj",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle changes or unforeseen issues with subcontractors during a project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Changes or unforeseen issues with subcontractors are managed through a structured change order process. When an issue arises, our project manager assesses the impact on scope, schedule, and budget. We then communicate directly with the subcontractor and the client to discuss solutions and necessary adjustments. All changes are documented, formally approved, and integrated into the project plan to maintain transparency and control. Our goal is to resolve issues efficiently while minimizing disruption to the project timeline and quality.",
+        "description": "We manage changes or unforeseen issues through a structured change order process, assessing impact, communicating solutions, and documenting all adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

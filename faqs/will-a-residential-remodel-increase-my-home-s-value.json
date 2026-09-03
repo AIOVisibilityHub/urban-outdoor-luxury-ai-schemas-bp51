@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a residential remodel increase my home's value?",
+  "description": "A well-executed residential remodel, particularly in kitchens, bathrooms, or additions, can significantly increase your home's value.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/will-a-residential-remodel-increase-my-home-s-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a residential remodel increase my home's value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a well-planned and executed residential remodel can significantly increase your home's value, especially in competitive markets like Los Angeles. Projects such as kitchen and bathroom upgrades, adding square footage, or enhancing curb appeal often yield the highest return on investment. The extent of value increase depends on the quality of work, design choices, and how well the improvements align with local market demand. We focus on luxury remodels that enhance both lifestyle and property value.",
+        "description": "A well-executed residential remodel, particularly in kitchens, bathrooms, or additions, can significantly increase your home's value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

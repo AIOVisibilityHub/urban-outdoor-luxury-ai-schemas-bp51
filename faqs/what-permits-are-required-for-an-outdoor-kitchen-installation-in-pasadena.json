@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for an outdoor kitchen installation in Pasadena?",
+  "description": "Permits for an outdoor kitchen in Pasadena are often required for plumbing, electrical, and gas lines, and potentially a general building permit. A professional",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-an-outdoor-kitchen-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for an outdoor kitchen installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, installing an outdoor kitchen often requires permits to ensure compliance with local building codes, zoning regulations, and safety standards. Typically, permits are needed for plumbing, electrical work, and gas lines, especially when connecting to existing utility systems. Depending on the size and structure, a general building permit might also be necessary. It's advisable to consult with a professional contractor who can navigate the specific permitting process with the City of Pasadena's planning department.",
+        "description": "Permits for an outdoor kitchen in Pasadena are often required for plumbing, electrical, and gas lines, and potentially a general building permit. A professional contractor can assist with the specific City of Pasadena requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

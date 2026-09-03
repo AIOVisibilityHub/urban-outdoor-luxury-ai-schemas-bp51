@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical exterior remodeling project take?",
+  "description": "Project duration depends on scope; smaller projects might take weeks, while complex renovations with multiple elements can take several months due to design, pe",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-exterior-remodeling-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical exterior remodeling project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior remodeling project varies significantly based on its scope and complexity. Smaller projects, such as a new patio or updated landscaping, might be completed within a few weeks. More extensive renovations involving multiple elements like outdoor kitchens, pool installations, or significant structural changes can take several months, sometimes four to six or more. Factors like design finalization, permitting, material availability, and weather conditions also influence the timeline. We provide a detailed project schedule after the initial design and planning phases.",
+        "description": "Project duration depends on scope; smaller projects might take weeks, while complex renovations with multiple elements can take several months due to design, permits, and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

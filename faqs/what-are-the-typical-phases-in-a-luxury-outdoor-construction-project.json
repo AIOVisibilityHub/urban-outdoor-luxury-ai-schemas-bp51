@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical phases in a luxury outdoor construction project?",
+  "description": "Typical phases include design, planning, permitting, site preparation, hardscaping, softscaping, feature installation, and finishing touches.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-typical-phases-in-a-luxury-outdoor-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical phases in a luxury outdoor construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luxury outdoor construction projects typically involve several key phases. These often start with an initial consultation and comprehensive design, followed by detailed architectural and engineering plans. Next is the permitting phase, which can be complex in regions like Los Angeles. Construction phases then include site preparation, foundation work, hardscaping (e.g., patios, walkways, pools), softscaping (e.g., planting, irrigation), and the installation of features like outdoor kitchens, lighting, and water elements. The final phase involves finishing touches and project handover.",
+        "description": "Typical phases include design, planning, permitting, site preparation, hardscaping, softscaping, feature installation, and finishing touches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

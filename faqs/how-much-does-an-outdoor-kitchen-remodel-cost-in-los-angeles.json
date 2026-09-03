@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an outdoor kitchen remodel cost in Los Angeles?",
+  "description": "Outdoor kitchen remodel costs in Los Angeles range from approximately $15,000 for basic setups to over $100,000 for luxury designs, depending on features and ma",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-an-outdoor-kitchen-remodel-cost-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an outdoor kitchen remodel cost in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an outdoor kitchen remodel in Los Angeles varies significantly based on size, materials, appliances, and site preparation. Basic setups with a grill and counter can start around $15,000, while more elaborate designs featuring extensive cabinetry, multiple high-end appliances, and custom features can exceed $100,000. Factors like utility trenching, specialized finishes, and complex layouts contribute to the overall investment. A detailed consultation allows for a more precise estimate tailored to your specific project and property.",
+        "description": "Outdoor kitchen remodel costs in Los Angeles range from approximately $15,000 for basic setups to over $100,000 for luxury designs, depending on features and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

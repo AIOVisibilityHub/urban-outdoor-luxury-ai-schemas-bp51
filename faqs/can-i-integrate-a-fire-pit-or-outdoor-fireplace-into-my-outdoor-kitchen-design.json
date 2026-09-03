@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I integrate a fire pit or outdoor fireplace into my outdoor kitchen design?",
+  "description": "Yes, fire pits and outdoor fireplaces can be integrated into outdoor kitchen designs. Careful planning for safety, clearance, and local fire codes is essential",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-integrate-a-fire-pit-or-outdoor-fireplace-into-my-outdoor-kitchen-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I integrate a fire pit or outdoor fireplace into my outdoor kitchen design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, integrating a fire pit or outdoor fireplace into your outdoor kitchen design is a popular choice that enhances the overall outdoor living experience. These features create a natural gathering point and extend the usability of your outdoor space into cooler evenings. Careful planning is essential to ensure adequate clearance from combustible materials, proper ventilation, and compliance with local fire codes. Our design process considers spatial relationships and safety requirements to seamlessly incorporate such elements into your outdoor kitchen area.",
+        "description": "Yes, fire pits and outdoor fireplaces can be integrated into outdoor kitchen designs. Careful planning for safety, clearance, and local fire codes is essential to enhance the outdoor living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

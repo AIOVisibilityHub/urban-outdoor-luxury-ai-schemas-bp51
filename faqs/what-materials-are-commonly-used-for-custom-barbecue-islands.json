@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are commonly used for custom barbecue islands?",
+  "description": "Common materials include steel framing, cement board, CMU for structure, with finishes like stone, stucco, or tile. Countertops are often granite or quartz, wit",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-commonly-used-for-custom-barbecue-islands",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are commonly used for custom barbecue islands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom barbecue islands are typically constructed using durable outdoor-grade materials designed to withstand various weather conditions. Common choices for the base structure include steel framing with cement board, or concrete masonry units (CMU). Finishes range from natural stone veneers like granite or quartzite, to stucco, brick, or porcelain tiles. Countertops are often granite, quartz, or concrete. Appliances, doors, and drawers are selected for outdoor use, usually stainless steel, to ensure longevity and performance.",
+        "description": "Common materials include steel framing, cement board, CMU for structure, with finishes like stone, stucco, or tile. Countertops are often granite or quartz, with stainless steel appliances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

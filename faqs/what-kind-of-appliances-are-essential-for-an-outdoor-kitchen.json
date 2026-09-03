@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of appliances are essential for an outdoor kitchen?",
+  "description": "Essential appliances typically include a grill, refrigerator, sink, and storage. Additional options like side burners or pizza ovens can enhance functionality.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-appliances-are-essential-for-an-outdoor-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of appliances are essential for an outdoor kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The essential appliances for an outdoor kitchen depend on your cooking habits and entertaining needs. A high-quality grill (gas, charcoal, or kamado) is often the centerpiece. Other commonly included appliances are a refrigerator or beverage cooler for convenience, a sink with running water for prep and cleanup, and storage drawers or cabinets. Depending on your preferences, you might also consider side burners, pizza ovens, warming drawers, or power outlets for small appliances. We help clients select appliances that fit their lifestyle.",
+        "description": "Essential appliances typically include a grill, refrigerator, sink, and storage. Additional options like side burners or pizza ovens can enhance functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect from the communication with my general contractor?",
+  "description": "Expect clear, consistent, and transparent communication, including regular updates, prompt responses, and proactive notification of any project changes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-expect-from-the-communication-with-my-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect from the communication with my general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should expect clear, consistent, and transparent communication from your general contractor. This typically includes regular progress updates, either through scheduled meetings, phone calls, or emails. They should promptly address any questions or concerns you have and proactively inform you of any potential issues or changes to the schedule or budget. A good contractor establishes a preferred method and frequency of communication at the project's outset, ensuring you are always informed and comfortable with the project's progression.",
+        "description": "Expect clear, consistent, and transparent communication, including regular updates, prompt responses, and proactive notification of any project changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

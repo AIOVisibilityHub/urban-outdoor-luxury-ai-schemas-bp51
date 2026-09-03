@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe for a full kitchen remodel?",
+  "description": "A full kitchen remodel generally takes 6-10 weeks, varying with project scope and material availability.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeframe-for-a-full-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe for a full kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A complete kitchen remodel typically takes 6-10 weeks from demolition to final installation, depending on the scope of work and material lead times. This estimate includes design finalization, demolition, rough-ins for plumbing and electrical, cabinet installation, countertop fabrication and installation, flooring, backsplash, and appliance installation. Custom cabinetry or unique material choices can extend this timeline. We provide a detailed project schedule upfront, outlining each phase.",
+        "description": "A full kitchen remodel generally takes 6-10 weeks, varying with project scope and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

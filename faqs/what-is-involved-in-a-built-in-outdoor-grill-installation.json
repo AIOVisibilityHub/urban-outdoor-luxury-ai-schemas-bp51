@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a built-in outdoor grill installation?",
+  "description": "It involves design, custom island construction, utility integration (gas/electric), and ventilation for a complete outdoor kitchen.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-built-in-outdoor-grill-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a built-in outdoor grill installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-in outdoor grill installation typically involves designing the outdoor kitchen space, constructing a custom island or enclosure to house the grill, integrating utilities such as gas and electrical lines, and ensuring proper ventilation. We manage the entire process, from initial design concepts to final construction and appliance integration, creating a seamless and functional outdoor cooking area tailored to your home.",
+        "description": "It involves design, custom island construction, utility integration (gas/electric), and ventilation for a complete outdoor kitchen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

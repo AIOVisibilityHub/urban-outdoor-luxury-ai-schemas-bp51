@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of project closeout and punch list support?",
+  "description": "The cost for project closeout and punch list support is generally included in the overall project management fees of your contract.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-cost-of-project-closeout-and-punch-list-support",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of project closeout and punch list support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for project closeout and punch list support is typically included as part of the overall project management fees outlined in your initial construction contract. We aim for transparency, so there are no hidden fees for these essential final stages. Any unforeseen additional work requested by the client during this phase, outside the original scope, would be discussed and quoted separately.",
+        "description": "The cost for project closeout and punch list support is generally included in the overall project management fees of your contract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
