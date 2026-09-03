@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can stone veneer be installed over existing brick or stucco?",
-  "description": "Yes, stone veneer can typically be installed over sound brick or stucco, but the existing surface must be prepared with a weather barrier, lath, and scratch coa",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-stone-veneer-be-installed-over-existing-brick-or-stucco",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can stone veneer be installed over existing brick or stucco?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, stone veneer can often be installed over existing brick or stucco, provided the underlying surface is sound, clean, and structurally adequate to support the added weight. For brick, mortar joints may need to be ground down to create a flatter surface. For stucco, any loose or damaged areas must be repaired. In most cases, a weather-resistant barrier, metal lath, and scratch coat of mortar will be applied over the existing surface to ensure proper adhesion and moisture management before the veneer is set. A professional assessment is recommended to confirm feasibility.",
-        "description": "Yes, stone veneer can typically be installed over sound brick or stucco, but the existing surface must be prepared with a weather barrier, lath, and scratch coat. A professional assessment confirms feasibility."
-      }
-    }
-  ],
+  "name": "Can stone veneer be installed over existing brick or stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can stone veneer be installed over existing brick or stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, stone veneer can often be installed over existing brick or stucco, provided the underlying surface is sound, clean, and structurally adequate to support the added weight. For brick, mortar joints may need to be ground down to create a flatter surface. For stucco, any loose or damaged areas must be repaired. In most cases, a weather-resistant barrier, metal lath, and scratch coat of mortar will be applied over the existing surface to ensure proper adhesion and moisture management before the veneer is set. A professional assessment is recommended to confirm feasibility.",
+        "@type": "Answer",
+        "description": "Yes, stone veneer can typically be installed over sound brick or stucco, but the existing surface must be prepared with a weather barrier, lath, and scratch coat. A professional assessment confirms feasibility."
+      }
+    }
+  ],
+  "description": "Yes, stone veneer can typically be installed over sound brick or stucco, but the existing surface must be prepared with a weather barrier, lath, and scratch coa"
 }

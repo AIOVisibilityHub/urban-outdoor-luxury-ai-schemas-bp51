@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the landscape design process usually take?",
-  "description": "Landscape design duration varies; small projects may take weeks, large ones several months, depending on complexity and client feedback.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-landscape-design-process-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the landscape design process usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a landscape design project varies based on its complexity and scale. A small, straightforward project might take a few weeks for design completion, while a large, intricate design for a luxury estate could span several months. Factors like client feedback cycles, site analysis requirements, and the level of detail in the plans all influence the timeline. We aim for efficient progression while ensuring thoroughness.",
-        "description": "Landscape design duration varies; small projects may take weeks, large ones several months, depending on complexity and client feedback."
-      }
-    }
-  ],
+  "name": "How long does the landscape design process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the landscape design process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a landscape design project varies based on its complexity and scale. A small, straightforward project might take a few weeks for design completion, while a large, intricate design for a luxury estate could span several months. Factors like client feedback cycles, site analysis requirements, and the level of detail in the plans all influence the timeline. We aim for efficient progression while ensuring thoroughness.",
+        "@type": "Answer",
+        "description": "Landscape design duration varies; small projects may take weeks, large ones several months, depending on complexity and client feedback."
+      }
+    }
+  ],
+  "description": "Landscape design duration varies; small projects may take weeks, large ones several months, depending on complexity and client feedback."
 }

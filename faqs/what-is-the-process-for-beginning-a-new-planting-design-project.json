@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for beginning a new planting design project?",
-  "description": "The process begins with a consultation and site assessment, followed by conceptual design, refinement, detailed planning, and finally, installation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-beginning-a-new-planting-design-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for beginning a new planting design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process for a new planting design project typically starts with an initial consultation where we discuss your vision, preferences, budget, and site specific challenges. Following this, a site assessment is conducted to gather detailed information on soil, sun, and existing conditions. Our designers then develop a conceptual design, which is refined based on your feedback. Once approved, detailed planting plans are created, leading to the final installation phase. We keep you informed at each step to ensure the final outcome exceeds expectations.",
-        "description": "The process begins with a consultation and site assessment, followed by conceptual design, refinement, detailed planning, and finally, installation."
-      }
-    }
-  ],
+  "name": "What is the process for beginning a new planting design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a new planting design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a new planting design project typically starts with an initial consultation where we discuss your vision, preferences, budget, and site specific challenges. Following this, a site assessment is conducted to gather detailed information on soil, sun, and existing conditions. Our designers then develop a conceptual design, which is refined based on your feedback. Once approved, detailed planting plans are created, leading to the final installation phase. We keep you informed at each step to ensure the final outcome exceeds expectations.",
+        "@type": "Answer",
+        "description": "The process begins with a consultation and site assessment, followed by conceptual design, refinement, detailed planning, and finally, installation."
+      }
+    }
+  ],
+  "description": "The process begins with a consultation and site assessment, followed by conceptual design, refinement, detailed planning, and finally, installation."
 }

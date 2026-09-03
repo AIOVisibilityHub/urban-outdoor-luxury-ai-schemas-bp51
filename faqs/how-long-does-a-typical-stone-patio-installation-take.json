@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical stone patio installation take?",
-  "description": "Installation time for a stone patio varies by size and complexity, generally ranging from 3 days for small projects to 4 weeks for larger, custom designs. Site",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-stone-patio-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical stone patio installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a stone patio installation varies significantly based on its size, complexity, and the type of stone chosen. A smaller, straightforward patio might take 3-7 days, while larger, custom designs with intricate patterns or extensive site preparation could extend to 2-4 weeks. Factors like weather conditions, material availability, and necessary grading or drainage work also influence the timeline. Our team provides a detailed project schedule after an initial site assessment.",
-        "description": "Installation time for a stone patio varies by size and complexity, generally ranging from 3 days for small projects to 4 weeks for larger, custom designs. Site conditions and weather also play a role."
-      }
-    }
-  ],
+  "name": "How long does a typical stone patio installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical stone patio installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a stone patio installation varies significantly based on its size, complexity, and the type of stone chosen. A smaller, straightforward patio might take 3-7 days, while larger, custom designs with intricate patterns or extensive site preparation could extend to 2-4 weeks. Factors like weather conditions, material availability, and necessary grading or drainage work also influence the timeline. Our team provides a detailed project schedule after an initial site assessment.",
+        "@type": "Answer",
+        "description": "Installation time for a stone patio varies by size and complexity, generally ranging from 3 days for small projects to 4 weeks for larger, custom designs. Site conditions and weather also play a role."
+      }
+    }
+  ],
+  "description": "Installation time for a stone patio varies by size and complexity, generally ranging from 3 days for small projects to 4 weeks for larger, custom designs. Site"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for modern landscape design in Los Angeles?",
-  "description": "Costs range from $15,000 for basic projects to over $100,000 for extensive designs in Los Angeles, depending on scope and features.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-modern-landscape-design-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for modern landscape design in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of modern landscape design in Los Angeles can vary widely, starting from approximately $15,000 for a small, basic project to well over $100,000 for extensive, custom-designed outdoor living spaces. Factors influencing cost include the size of the area, complexity of hardscaping (patios, retaining walls), inclusion of features like outdoor kitchens or pools, type of materials selected, and plant choices. Design fees are typically a percentage of the total construction cost or a flat rate based on project scope.",
-        "description": "Costs range from $15,000 for basic projects to over $100,000 for extensive designs in Los Angeles, depending on scope and features."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for modern landscape design in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for modern landscape design in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of modern landscape design in Los Angeles can vary widely, starting from approximately $15,000 for a small, basic project to well over $100,000 for extensive, custom-designed outdoor living spaces. Factors influencing cost include the size of the area, complexity of hardscaping (patios, retaining walls), inclusion of features like outdoor kitchens or pools, type of materials selected, and plant choices. Design fees are typically a percentage of the total construction cost or a flat rate based on project scope.",
+        "@type": "Answer",
+        "description": "Costs range from $15,000 for basic projects to over $100,000 for extensive designs in Los Angeles, depending on scope and features."
+      }
+    }
+  ],
+  "description": "Costs range from $15,000 for basic projects to over $100,000 for extensive designs in Los Angeles, depending on scope and features."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the best time of year to install new plantings in Southern California?",
-  "description": "The best time for new plantings in Southern California is late fall through early spring (October to March) to allow root establishment before summer heat.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-best-time-of-year-to-install-new-plantings-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best time of year to install new plantings in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Southern California, the cooler months from late fall through early spring (October to March) are generally considered the best time for installing new plantings. This period allows plants to establish their root systems before the intense heat of summer. The milder temperatures reduce transplant shock and the likelihood of excessive water stress. While installations can occur year-round, planting outside of this window may require more intensive initial watering and care.",
-        "description": "The best time for new plantings in Southern California is late fall through early spring (October to March) to allow root establishment before summer heat."
-      }
-    }
-  ],
+  "name": "What is the best time of year to install new plantings in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best time of year to install new plantings in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Southern California, the cooler months from late fall through early spring (October to March) are generally considered the best time for installing new plantings. This period allows plants to establish their root systems before the intense heat of summer. The milder temperatures reduce transplant shock and the likelihood of excessive water stress. While installations can occur year-round, planting outside of this window may require more intensive initial watering and care.",
+        "@type": "Answer",
+        "description": "The best time for new plantings in Southern California is late fall through early spring (October to March) to allow root establishment before summer heat."
+      }
+    }
+  ],
+  "description": "The best time for new plantings in Southern California is late fall through early spring (October to March) to allow root establishment before summer heat."
 }

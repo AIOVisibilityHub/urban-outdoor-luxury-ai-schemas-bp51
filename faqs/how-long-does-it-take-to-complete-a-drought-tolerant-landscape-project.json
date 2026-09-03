@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to complete a drought-tolerant landscape project?",
-  "description": "Project timelines vary; small renovations may take 2-4 weeks, while larger projects can range from 6-12 weeks or more.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-complete-a-drought-tolerant-landscape-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to complete a drought-tolerant landscape project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a drought-tolerant landscape project depends on its scope and complexity. A small-scale renovation might take 2-4 weeks from design to completion. Larger, more intricate projects involving significant hardscaping, grading, or extensive planting can range from 6-12 weeks or more. We establish clear timelines during the planning phase, taking into account material availability and weather conditions, to keep you informed every step of the way.",
-        "description": "Project timelines vary; small renovations may take 2-4 weeks, while larger projects can range from 6-12 weeks or more."
-      }
-    }
-  ],
+  "name": "How long does it take to complete a drought-tolerant landscape project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a drought-tolerant landscape project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drought-tolerant landscape project depends on its scope and complexity. A small-scale renovation might take 2-4 weeks from design to completion. Larger, more intricate projects involving significant hardscaping, grading, or extensive planting can range from 6-12 weeks or more. We establish clear timelines during the planning phase, taking into account material availability and weather conditions, to keep you informed every step of the way.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small renovations may take 2-4 weeks, while larger projects can range from 6-12 weeks or more."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small renovations may take 2-4 weeks, while larger projects can range from 6-12 weeks or more."
 }

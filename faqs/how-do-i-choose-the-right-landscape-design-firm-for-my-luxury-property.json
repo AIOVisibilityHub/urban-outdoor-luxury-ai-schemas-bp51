@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right landscape design firm for my luxury property?",
-  "description": "Choose a landscape design firm for luxury properties by evaluating their high-end portfolio, design process, communication, and local expertise.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-landscape-design-firm-for-my-luxury-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right landscape design firm for my luxury property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a landscape design firm for a luxury property, prioritize experience with high-end projects and a portfolio that aligns with your aesthetic. Look for firms with a clear design process, strong communication skills, and a reputation for quality and attention to detail. Verify their expertise in local climate challenges and sustainable practices, ensuring they can deliver both beauty and functionality tailored to your specific needs and the Southern California environment.",
-        "description": "Choose a landscape design firm for luxury properties by evaluating their high-end portfolio, design process, communication, and local expertise."
-      }
-    }
-  ],
+  "name": "How do I choose the right landscape design firm for my luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right landscape design firm for my luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a landscape design firm for a luxury property, prioritize experience with high-end projects and a portfolio that aligns with your aesthetic. Look for firms with a clear design process, strong communication skills, and a reputation for quality and attention to detail. Verify their expertise in local climate challenges and sustainable practices, ensuring they can deliver both beauty and functionality tailored to your specific needs and the Southern California environment.",
+        "@type": "Answer",
+        "description": "Choose a landscape design firm for luxury properties by evaluating their high-end portfolio, design process, communication, and local expertise."
+      }
+    }
+  ],
+  "description": "Choose a landscape design firm for luxury properties by evaluating their high-end portfolio, design process, communication, and local expertise."
 }

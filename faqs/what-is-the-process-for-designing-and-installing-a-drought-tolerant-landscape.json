@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing and installing a drought-tolerant landscape?",
-  "description": "The process involves consultation, site analysis, conceptual design, detailed planning, and professional installation, with continuous communication.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-drought-tolerant-landscape",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing and installing a drought-tolerant landscape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation to understand your vision, preferences, and site-specific needs. Following this, we conduct a site analysis and develop a conceptual design, including plant palettes and material suggestions. Once approved, we refine the design into detailed plans. The installation phase involves site preparation, irrigation system setup, planting, and hardscape construction. Throughout, we maintain open communication to ensure the project meets your expectations and is completed efficiently.",
-        "description": "The process involves consultation, site analysis, conceptual design, detailed planning, and professional installation, with continuous communication."
-      }
-    }
-  ],
+  "name": "What is the process for designing and installing a drought-tolerant landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and installing a drought-tolerant landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, preferences, and site-specific needs. Following this, we conduct a site analysis and develop a conceptual design, including plant palettes and material suggestions. Once approved, we refine the design into detailed plans. The installation phase involves site preparation, irrigation system setup, planting, and hardscape construction. Throughout, we maintain open communication to ensure the project meets your expectations and is completed efficiently.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site analysis, conceptual design, detailed planning, and professional installation, with continuous communication."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site analysis, conceptual design, detailed planning, and professional installation, with continuous communication."
 }

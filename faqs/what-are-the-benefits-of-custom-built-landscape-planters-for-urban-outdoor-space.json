@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of custom-built landscape planters for urban outdoor spaces?",
-  "description": "Custom-built landscape planters enhance aesthetics and functionality, providing tailored solutions for urban spaces and maximizing design integration.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-custom-built-landscape-planters-for-urban-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of custom-built landscape planters for urban outdoor spaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom-built landscape planters offer significant aesthetic and functional advantages for urban outdoor spaces. They can be designed to perfectly fit unique architectural styles, maximizing the visual appeal of your property. Beyond beauty, they provide tailored solutions for challenging environments, such as limited space or specific drainage needs. Integrating irrigation and lighting systems within the planter design also enhances plant health and usability, contributing to a truly luxurious outdoor living experience that standard, off-the-shelf options cannot achieve. This bespoke approach ensures durability and a cohesive design.",
-        "description": "Custom-built landscape planters enhance aesthetics and functionality, providing tailored solutions for urban spaces and maximizing design integration."
-      }
-    }
-  ],
+  "name": "What are the benefits of custom-built landscape planters for urban outdoor spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of custom-built landscape planters for urban outdoor spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-built landscape planters offer significant aesthetic and functional advantages for urban outdoor spaces. They can be designed to perfectly fit unique architectural styles, maximizing the visual appeal of your property. Beyond beauty, they provide tailored solutions for challenging environments, such as limited space or specific drainage needs. Integrating irrigation and lighting systems within the planter design also enhances plant health and usability, contributing to a truly luxurious outdoor living experience that standard, off-the-shelf options cannot achieve. This bespoke approach ensures durability and a cohesive design.",
+        "@type": "Answer",
+        "description": "Custom-built landscape planters enhance aesthetics and functionality, providing tailored solutions for urban spaces and maximizing design integration."
+      }
+    }
+  ],
+  "description": "Custom-built landscape planters enhance aesthetics and functionality, providing tailored solutions for urban spaces and maximizing design integration."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between permeable and impermeable hardscaping materials?",
-  "description": "Permeable hardscaping allows water to drain through, managing runoff, while impermeable materials prevent water absorption, impacting drainage.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-permeable-and-impermeable-hardscaping-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between permeable and impermeable hardscaping materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permeable hardscaping materials, such as permeable pavers or gravel, allow water to filter through into the ground below, which helps manage stormwater runoff, reduces erosion, and recharges groundwater. Impermeable materials, like solid concrete or asphalt, do not allow water to pass through, causing it to run off the surface. For luxury outdoor spaces, permeable options can be integrated for eco-friendliness and to comply with local drainage regulations, especially in larger hardscape areas, while impermeable options are chosen for specific structural needs or aesthetics.",
-        "description": "Permeable hardscaping allows water to drain through, managing runoff, while impermeable materials prevent water absorption, impacting drainage."
-      }
-    }
-  ],
+  "name": "What is the difference between permeable and impermeable hardscaping materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between permeable and impermeable hardscaping materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permeable hardscaping materials, such as permeable pavers or gravel, allow water to filter through into the ground below, which helps manage stormwater runoff, reduces erosion, and recharges groundwater. Impermeable materials, like solid concrete or asphalt, do not allow water to pass through, causing it to run off the surface. For luxury outdoor spaces, permeable options can be integrated for eco-friendliness and to comply with local drainage regulations, especially in larger hardscape areas, while impermeable options are chosen for specific structural needs or aesthetics.",
+        "@type": "Answer",
+        "description": "Permeable hardscaping allows water to drain through, managing runoff, while impermeable materials prevent water absorption, impacting drainage."
+      }
+    }
+  ],
+  "description": "Permeable hardscaping allows water to drain through, managing runoff, while impermeable materials prevent water absorption, impacting drainage."
 }

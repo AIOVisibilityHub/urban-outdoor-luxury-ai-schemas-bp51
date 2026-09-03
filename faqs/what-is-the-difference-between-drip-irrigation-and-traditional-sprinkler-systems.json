@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between drip irrigation and traditional sprinkler systems?",
-  "description": "Drip irrigation delivers water directly to plant roots for efficiency, while traditional sprinklers cover broader areas like lawns. Often, a hybrid system is us",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-drip-irrigation-and-traditional-sprinkler-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between drip irrigation and traditional sprinkler systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drip irrigation delivers water slowly and directly to the plant's root zone through emitters, minimizing evaporation, runoff, and weed growth. It's highly water-efficient and ideal for shrubs, flowerbeds, and vegetable gardens. Traditional sprinkler systems distribute water over a wider area through spray heads, making them suitable for lawns and larger turf areas. While effective, sprinklers can be less efficient due to evaporation and potential overspray. Often, a hybrid system combining both methods is designed for diverse landscapes to optimize watering efficiency.",
-        "description": "Drip irrigation delivers water directly to plant roots for efficiency, while traditional sprinklers cover broader areas like lawns. Often, a hybrid system is used."
-      }
-    }
-  ],
+  "name": "What is the difference between drip irrigation and traditional sprinkler systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between drip irrigation and traditional sprinkler systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drip irrigation delivers water slowly and directly to the plant's root zone through emitters, minimizing evaporation, runoff, and weed growth. It's highly water-efficient and ideal for shrubs, flowerbeds, and vegetable gardens. Traditional sprinkler systems distribute water over a wider area through spray heads, making them suitable for lawns and larger turf areas. While effective, sprinklers can be less efficient due to evaporation and potential overspray. Often, a hybrid system combining both methods is designed for diverse landscapes to optimize watering efficiency.",
+        "@type": "Answer",
+        "description": "Drip irrigation delivers water directly to plant roots for efficiency, while traditional sprinklers cover broader areas like lawns. Often, a hybrid system is used."
+      }
+    }
+  ],
+  "description": "Drip irrigation delivers water directly to plant roots for efficiency, while traditional sprinklers cover broader areas like lawns. Often, a hybrid system is us"
 }

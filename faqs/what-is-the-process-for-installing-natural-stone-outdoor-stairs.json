@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for installing natural stone outdoor stairs?",
-  "description": "The installation process involves site assessment, preparation, laying and setting the stone, joint filling, and optionally sealing. A final inspection ensures",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-natural-stone-outdoor-stairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for installing natural stone outdoor stairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with a detailed site assessment and design consultation to understand your vision and structural needs. Next, the site is prepared, which may involve excavation, grading, and establishing a stable foundation. The stone is then carefully cut, shaped, and laid, often with a mortar base to ensure stability and proper drainage. Each step is meticulously leveled and aligned. After the main structure is complete, joints are filled, and the stairs are cleaned. Depending on the stone, sealing may be applied to protect against weathering and staining. The final step involves a thorough inspection to ensure quality and adherence to design specifications.",
-        "description": "The installation process involves site assessment, preparation, laying and setting the stone, joint filling, and optionally sealing. A final inspection ensures quality."
-      }
-    }
-  ],
+  "name": "What is the process for installing natural stone outdoor stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing natural stone outdoor stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a detailed site assessment and design consultation to understand your vision and structural needs. Next, the site is prepared, which may involve excavation, grading, and establishing a stable foundation. The stone is then carefully cut, shaped, and laid, often with a mortar base to ensure stability and proper drainage. Each step is meticulously leveled and aligned. After the main structure is complete, joints are filled, and the stairs are cleaned. Depending on the stone, sealing may be applied to protect against weathering and staining. The final step involves a thorough inspection to ensure quality and adherence to design specifications.",
+        "@type": "Answer",
+        "description": "The installation process involves site assessment, preparation, laying and setting the stone, joint filling, and optionally sealing. A final inspection ensures quality."
+      }
+    }
+  ],
+  "description": "The installation process involves site assessment, preparation, laying and setting the stone, joint filling, and optionally sealing. A final inspection ensures"
 }

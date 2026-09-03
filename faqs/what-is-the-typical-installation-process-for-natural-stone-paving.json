@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical installation process for natural stone paving?",
-  "description": "Natural stone paving involves site preparation, laying a compacted base, setting the stones on sand or mortar, filling joints, and then cleaning and sealing the",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-installation-process-for-natural-stone-paving",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical installation process for natural stone paving?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation of natural stone paving typically begins with site preparation, including excavation, grading, and compaction of the sub-base. A suitable base material, such as crushed gravel or decomposed granite, is then laid and compacted to ensure stability and proper drainage. Next, a setting bed, often composed of sand or mortar, is prepared. Individual stone pieces are then carefully placed, leveled, and spaced according to the design. Finally, the joints between the stones are filled with polymeric sand or mortar, followed by cleaning and sealing to protect the surface.",
-        "description": "Natural stone paving involves site preparation, laying a compacted base, setting the stones on sand or mortar, filling joints, and then cleaning and sealing the surface."
-      }
-    }
-  ],
+  "name": "What is the typical installation process for natural stone paving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical installation process for natural stone paving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of natural stone paving typically begins with site preparation, including excavation, grading, and compaction of the sub-base. A suitable base material, such as crushed gravel or decomposed granite, is then laid and compacted to ensure stability and proper drainage. Next, a setting bed, often composed of sand or mortar, is prepared. Individual stone pieces are then carefully placed, leveled, and spaced according to the design. Finally, the joints between the stones are filled with polymeric sand or mortar, followed by cleaning and sealing to protect the surface.",
+        "@type": "Answer",
+        "description": "Natural stone paving involves site preparation, laying a compacted base, setting the stones on sand or mortar, filling joints, and then cleaning and sealing the surface."
+      }
+    }
+  ],
+  "description": "Natural stone paving involves site preparation, laying a compacted base, setting the stones on sand or mortar, filling joints, and then cleaning and sealing the"
 }

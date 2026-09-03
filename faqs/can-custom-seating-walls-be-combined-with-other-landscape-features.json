@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can custom seating walls be combined with other landscape features?",
-  "description": "Yes, seating walls are versatile and can be integrated with fire pits, outdoor kitchens, planters, lighting, or storage to enhance your outdoor space.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-custom-seating-walls-be-combined-with-other-landscape-features",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can custom seating walls be combined with other landscape features?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Custom seating walls are highly versatile and often designed to integrate seamlessly with various other landscape features. They can be built around fire pits to create a cozy gathering space, adjoin outdoor kitchens for dining areas, or incorporate planters for added greenery and visual interest. We can also integrate low-voltage lighting into the wall for evening ambiance or add built-in storage. This integration maximizes functionality and creates a cohesive, luxurious outdoor environment.",
-        "description": "Yes, seating walls are versatile and can be integrated with fire pits, outdoor kitchens, planters, lighting, or storage to enhance your outdoor space."
-      }
-    }
-  ],
+  "name": "Can custom seating walls be combined with other landscape features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom seating walls be combined with other landscape features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Custom seating walls are highly versatile and often designed to integrate seamlessly with various other landscape features. They can be built around fire pits to create a cozy gathering space, adjoin outdoor kitchens for dining areas, or incorporate planters for added greenery and visual interest. We can also integrate low-voltage lighting into the wall for evening ambiance or add built-in storage. This integration maximizes functionality and creates a cohesive, luxurious outdoor environment.",
+        "@type": "Answer",
+        "description": "Yes, seating walls are versatile and can be integrated with fire pits, outdoor kitchens, planters, lighting, or storage to enhance your outdoor space."
+      }
+    }
+  ],
+  "description": "Yes, seating walls are versatile and can be integrated with fire pits, outdoor kitchens, planters, lighting, or storage to enhance your outdoor space."
 }

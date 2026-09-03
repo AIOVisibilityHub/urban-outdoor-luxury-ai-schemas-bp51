@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a pergola add value to my property?",
-  "description": "A well-designed and installed pergola can increase property value by enhancing aesthetic appeal, expanding usable outdoor living space, and making your home mor",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-pergola-add-value-to-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a pergola add value to my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-designed and professionally installed pergola can significantly add value to your property. It transforms an ordinary outdoor space into an appealing, functional extension of your living area, making your home more attractive to potential buyers. The added aesthetic appeal, increased usability of the yard, and potential for a higher perceived value contribute to a strong return on investment. It's an investment in both your lifestyle and your home's marketability.",
-        "description": "A well-designed and installed pergola can increase property value by enhancing aesthetic appeal, expanding usable outdoor living space, and making your home more attractive."
-      }
-    }
-  ],
+  "name": "Can a pergola add value to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pergola add value to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally installed pergola can significantly add value to your property. It transforms an ordinary outdoor space into an appealing, functional extension of your living area, making your home more attractive to potential buyers. The added aesthetic appeal, increased usability of the yard, and potential for a higher perceived value contribute to a strong return on investment. It's an investment in both your lifestyle and your home's marketability.",
+        "@type": "Answer",
+        "description": "A well-designed and installed pergola can increase property value by enhancing aesthetic appeal, expanding usable outdoor living space, and making your home more attractive."
+      }
+    }
+  ],
+  "description": "A well-designed and installed pergola can increase property value by enhancing aesthetic appeal, expanding usable outdoor living space, and making your home mor"
 }

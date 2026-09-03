@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for starting a modern landscape design project with your firm?",
-  "description": "The process starts with a consultation and site analysis, leading to conceptual and detailed designs, followed by material sourcing and construction.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-starting-a-modern-landscape-design-project-with-your-fir",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for starting a modern landscape design project with your firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with an initial consultation to discuss your vision, lifestyle needs, and budget. Following this, we conduct a site analysis to understand the property's unique characteristics. Our team then develops conceptual designs, presenting preliminary layouts and material palettes for your feedback. Once a concept is approved, we move into detailed design development, including planting plans and construction documents. The final phase involves material sourcing and construction, managed to ensure quality and adherence to the approved design.",
-        "description": "The process starts with a consultation and site analysis, leading to conceptual and detailed designs, followed by material sourcing and construction."
-      }
-    }
-  ],
+  "name": "What is the process for starting a modern landscape design project with your firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a modern landscape design project with your firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your vision, lifestyle needs, and budget. Following this, we conduct a site analysis to understand the property's unique characteristics. Our team then develops conceptual designs, presenting preliminary layouts and material palettes for your feedback. Once a concept is approved, we move into detailed design development, including planting plans and construction documents. The final phase involves material sourcing and construction, managed to ensure quality and adherence to the approved design.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation and site analysis, leading to conceptual and detailed designs, followed by material sourcing and construction."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation and site analysis, leading to conceptual and detailed designs, followed by material sourcing and construction."
 }

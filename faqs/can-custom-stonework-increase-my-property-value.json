@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can custom stonework increase my property value?",
-  "description": "Yes, custom stonework enhances curb appeal and functionality, increasing property value by creating desirable, luxurious outdoor living spaces.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-custom-stonework-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can custom stonework increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, well-designed and expertly installed custom stonework can significantly enhance your property's aesthetic appeal and functionality, which often translates into increased property value. High-quality stone features like patios, walkways, and outdoor kitchens are desirable upgrades that contribute to curb appeal and create luxurious outdoor living spaces. Potential buyers often value durable, low-maintenance, and visually appealing hardscaping. Investing in custom stonework is a long-term enhancement that provides both immediate enjoyment and future financial benefits.",
-        "description": "Yes, custom stonework enhances curb appeal and functionality, increasing property value by creating desirable, luxurious outdoor living spaces."
-      }
-    }
-  ],
+  "name": "Can custom stonework increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom stonework increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, well-designed and expertly installed custom stonework can significantly enhance your property's aesthetic appeal and functionality, which often translates into increased property value. High-quality stone features like patios, walkways, and outdoor kitchens are desirable upgrades that contribute to curb appeal and create luxurious outdoor living spaces. Potential buyers often value durable, low-maintenance, and visually appealing hardscaping. Investing in custom stonework is a long-term enhancement that provides both immediate enjoyment and future financial benefits.",
+        "@type": "Answer",
+        "description": "Yes, custom stonework enhances curb appeal and functionality, increasing property value by creating desirable, luxurious outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Yes, custom stonework enhances curb appeal and functionality, increasing property value by creating desirable, luxurious outdoor living spaces."
 }

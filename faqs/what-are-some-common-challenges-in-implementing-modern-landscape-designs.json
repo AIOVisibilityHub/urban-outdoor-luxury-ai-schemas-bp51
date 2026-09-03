@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some common challenges in implementing modern landscape designs?",
-  "description": "Challenges include ensuring drainage, sourcing specific materials, executing precise layouts, integrating with existing architecture, and navigating permits.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-some-common-challenges-in-implementing-modern-landscape-designs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some common challenges in implementing modern landscape designs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges in implementing modern landscape designs include ensuring proper drainage for hardscaped areas, sourcing specific high-quality materials that meet aesthetic requirements, and precisely executing geometric layouts. Integrating new designs with existing architecture while maintaining a cohesive look can also be complex. Additionally, navigating local building codes and obtaining necessary permits, especially in densely populated areas, requires careful planning. Our experience helps mitigate these challenges through meticulous planning and skilled execution.",
-        "description": "Challenges include ensuring drainage, sourcing specific materials, executing precise layouts, integrating with existing architecture, and navigating permits."
-      }
-    }
-  ],
+  "name": "What are some common challenges in implementing modern landscape designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common challenges in implementing modern landscape designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in implementing modern landscape designs include ensuring proper drainage for hardscaped areas, sourcing specific high-quality materials that meet aesthetic requirements, and precisely executing geometric layouts. Integrating new designs with existing architecture while maintaining a cohesive look can also be complex. Additionally, navigating local building codes and obtaining necessary permits, especially in densely populated areas, requires careful planning. Our experience helps mitigate these challenges through meticulous planning and skilled execution.",
+        "@type": "Answer",
+        "description": "Challenges include ensuring drainage, sourcing specific materials, executing precise layouts, integrating with existing architecture, and navigating permits."
+      }
+    }
+  ],
+  "description": "Challenges include ensuring drainage, sourcing specific materials, executing precise layouts, integrating with existing architecture, and navigating permits."
 }

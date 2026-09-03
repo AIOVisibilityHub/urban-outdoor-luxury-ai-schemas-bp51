@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost per square foot for stone walkway installation in Los Angeles?",
-  "description": "In Los Angeles, stone walkway installation costs typically range from $25 to $60+ per square foot, influenced by stone type, design complexity, and site conditi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-per-square-foot-for-stone-walkway-installation-in-los-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost per square foot for stone walkway installation in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost per square foot for stone walkway installation in the Los Angeles area can range widely, typically from $25 to $60 or more. This range depends on several factors, including the type of stone selected (e.g., flagstone, bluestone, granite), the complexity of the design, site preparation requirements, and accessibility. Premium natural stones and intricate patterns will increase the overall cost. We provide detailed, transparent quotes after an on-site consultation to accurately assess your project's specific needs and provide a precise estimate.",
-        "description": "In Los Angeles, stone walkway installation costs typically range from $25 to $60+ per square foot, influenced by stone type, design complexity, and site conditions."
-      }
-    }
-  ],
+  "name": "What is the typical cost per square foot for stone walkway installation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost per square foot for stone walkway installation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for stone walkway installation in the Los Angeles area can range widely, typically from $25 to $60 or more. This range depends on several factors, including the type of stone selected (e.g., flagstone, bluestone, granite), the complexity of the design, site preparation requirements, and accessibility. Premium natural stones and intricate patterns will increase the overall cost. We provide detailed, transparent quotes after an on-site consultation to accurately assess your project's specific needs and provide a precise estimate.",
+        "@type": "Answer",
+        "description": "In Los Angeles, stone walkway installation costs typically range from $25 to $60+ per square foot, influenced by stone type, design complexity, and site conditions."
+      }
+    }
+  ],
+  "description": "In Los Angeles, stone walkway installation costs typically range from $25 to $60+ per square foot, influenced by stone type, design complexity, and site conditi"
 }

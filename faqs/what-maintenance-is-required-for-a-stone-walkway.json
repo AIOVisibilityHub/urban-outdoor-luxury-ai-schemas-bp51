@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a stone walkway?",
-  "description": "Maintenance for stone walkways includes regular sweeping, occasional power washing, replenishing jointing sand, and periodic sealing to protect against stains a",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-stone-walkway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a stone walkway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stone walkways are relatively low maintenance but benefit from occasional care to preserve their appearance and integrity. Regular sweeping or blowing can remove loose debris, preventing accumulation that could lead to staining or weed growth. Periodic power washing on a low setting helps clean the stone surfaces and remove moss or mildew. It's also advisable to check and replenish jointing sand or mortar as needed to prevent weed intrusion and maintain stability. Sealing the stone, typically every few years, can enhance its color, protect against stains, and prolong its lifespan, especially in areas with heavy foot traffic or harsh weather.",
-        "description": "Maintenance for stone walkways includes regular sweeping, occasional power washing, replenishing jointing sand, and periodic sealing to protect against stains and weather."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a stone walkway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a stone walkway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stone walkways are relatively low maintenance but benefit from occasional care to preserve their appearance and integrity. Regular sweeping or blowing can remove loose debris, preventing accumulation that could lead to staining or weed growth. Periodic power washing on a low setting helps clean the stone surfaces and remove moss or mildew. It's also advisable to check and replenish jointing sand or mortar as needed to prevent weed intrusion and maintain stability. Sealing the stone, typically every few years, can enhance its color, protect against stains, and prolong its lifespan, especially in areas with heavy foot traffic or harsh weather.",
+        "@type": "Answer",
+        "description": "Maintenance for stone walkways includes regular sweeping, occasional power washing, replenishing jointing sand, and periodic sealing to protect against stains and weather."
+      }
+    }
+  ],
+  "description": "Maintenance for stone walkways includes regular sweeping, occasional power washing, replenishing jointing sand, and periodic sealing to protect against stains a"
 }

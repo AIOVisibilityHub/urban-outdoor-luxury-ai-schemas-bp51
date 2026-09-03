@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of irrigation system is best for drought-prone regions like Southern California?",
-  "description": "Drip irrigation systems combined with smart controllers are best for drought-prone regions like Southern California, as they maximize water efficiency and conse",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-irrigation-system-is-best-for-drought-prone-regions-like-southern-c",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of irrigation system is best for drought-prone regions like Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For drought-prone regions like Southern California, drip irrigation systems are often recommended due to their exceptional water efficiency. Drip systems deliver water directly to the plant roots, minimizing evaporation and runoff. Smart irrigation controllers, which adjust watering schedules based on real-time weather data and soil moisture, are also crucial. Combining these technologies maximizes water conservation while ensuring your landscape remains healthy and vibrant, complying with local water restrictions.",
-        "description": "Drip irrigation systems combined with smart controllers are best for drought-prone regions like Southern California, as they maximize water efficiency and conservation."
-      }
-    }
-  ],
+  "name": "What kind of irrigation system is best for drought-prone regions like Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of irrigation system is best for drought-prone regions like Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For drought-prone regions like Southern California, drip irrigation systems are often recommended due to their exceptional water efficiency. Drip systems deliver water directly to the plant roots, minimizing evaporation and runoff. Smart irrigation controllers, which adjust watering schedules based on real-time weather data and soil moisture, are also crucial. Combining these technologies maximizes water conservation while ensuring your landscape remains healthy and vibrant, complying with local water restrictions.",
+        "@type": "Answer",
+        "description": "Drip irrigation systems combined with smart controllers are best for drought-prone regions like Southern California, as they maximize water efficiency and conservation."
+      }
+    }
+  ],
+  "description": "Drip irrigation systems combined with smart controllers are best for drought-prone regions like Southern California, as they maximize water efficiency and conse"
 }

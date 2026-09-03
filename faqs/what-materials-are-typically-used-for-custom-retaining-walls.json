@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are typically used for custom retaining walls?",
-  "description": "Common materials include natural stone, concrete blocks, poured concrete, and timber. The best choice depends on design, structural needs, and aesthetic prefere",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-typically-used-for-custom-retaining-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are typically used for custom retaining walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom retaining walls can be constructed from a variety of materials, each offering distinct aesthetic and structural properties. Common choices include natural stone, which provides a classic and durable look; concrete blocks or pavers, offering versatility in design and color; poured concrete, known for its strength and modern finish; and timber, which can lend a natural, rustic charm. The best material for your project depends on factors such as the wall's height and purpose, your property's soil conditions, local building codes, and your desired aesthetic. Our design team can help you select the ideal material.",
-        "description": "Common materials include natural stone, concrete blocks, poured concrete, and timber. The best choice depends on design, structural needs, and aesthetic preferences."
-      }
-    }
-  ],
+  "name": "What materials are typically used for custom retaining walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for custom retaining walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom retaining walls can be constructed from a variety of materials, each offering distinct aesthetic and structural properties. Common choices include natural stone, which provides a classic and durable look; concrete blocks or pavers, offering versatility in design and color; poured concrete, known for its strength and modern finish; and timber, which can lend a natural, rustic charm. The best material for your project depends on factors such as the wall's height and purpose, your property's soil conditions, local building codes, and your desired aesthetic. Our design team can help you select the ideal material.",
+        "@type": "Answer",
+        "description": "Common materials include natural stone, concrete blocks, poured concrete, and timber. The best choice depends on design, structural needs, and aesthetic preferences."
+      }
+    }
+  ],
+  "description": "Common materials include natural stone, concrete blocks, poured concrete, and timber. The best choice depends on design, structural needs, and aesthetic prefere"
 }

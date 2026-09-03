@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What features should I consider for a luxury cabana?",
-  "description": "Consider outdoor kitchens, entertainment systems, custom lighting, climate control, built-in storage, and unique elements like a swim-up bar.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-features-should-i-consider-for-a-luxury-cabana",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What features should I consider for a luxury cabana?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a luxury cabana, consider features that enhance comfort, functionality, and entertainment. This could include integrated outdoor kitchens with high-end appliances, state-of-the-art entertainment systems, custom lighting, ceiling fans, and climate control options like misters or radiant heaters. Built-in storage, elegant landscaping, and a sophisticated lounge area with custom furnishings also elevate the space. We can design unique elements such as a swim-up bar, changing rooms, or a private spa area to create a personalized outdoor oasis.",
-        "description": "Consider outdoor kitchens, entertainment systems, custom lighting, climate control, built-in storage, and unique elements like a swim-up bar."
-      }
-    }
-  ],
+  "name": "What features should I consider for a luxury cabana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What features should I consider for a luxury cabana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury cabana, consider features that enhance comfort, functionality, and entertainment. This could include integrated outdoor kitchens with high-end appliances, state-of-the-art entertainment systems, custom lighting, ceiling fans, and climate control options like misters or radiant heaters. Built-in storage, elegant landscaping, and a sophisticated lounge area with custom furnishings also elevate the space. We can design unique elements such as a swim-up bar, changing rooms, or a private spa area to create a personalized outdoor oasis.",
+        "@type": "Answer",
+        "description": "Consider outdoor kitchens, entertainment systems, custom lighting, climate control, built-in storage, and unique elements like a swim-up bar."
+      }
+    }
+  ],
+  "description": "Consider outdoor kitchens, entertainment systems, custom lighting, climate control, built-in storage, and unique elements like a swim-up bar."
 }

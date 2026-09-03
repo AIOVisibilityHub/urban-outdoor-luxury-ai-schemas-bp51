@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a 'smart' irrigation controller and how does it benefit my landscape?",
-  "description": "A smart irrigation controller automatically adjusts watering schedules using weather and soil data, reducing water waste, lowering bills, and promoting healthie",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-smart-irrigation-controller-and-how-does-it-benefit-my-landscape",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a 'smart' irrigation controller and how does it benefit my landscape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A 'smart' irrigation controller is an advanced device that automatically adjusts watering schedules based on various factors like local weather forecasts, historical climate data, soil moisture levels, and plant type. Unlike traditional timers, smart controllers prevent overwatering during rain, pause watering during strong winds, and optimize delivery based on evaporation rates. This technology significantly reduces water waste, lowers utility bills, promotes healthier plant growth by avoiding water stress, and saves you time on manual adjustments.",
-        "description": "A smart irrigation controller automatically adjusts watering schedules using weather and soil data, reducing water waste, lowering bills, and promoting healthier plants."
-      }
-    }
-  ],
+  "name": "What is a 'smart' irrigation controller and how does it benefit my landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'smart' irrigation controller and how does it benefit my landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'smart' irrigation controller is an advanced device that automatically adjusts watering schedules based on various factors like local weather forecasts, historical climate data, soil moisture levels, and plant type. Unlike traditional timers, smart controllers prevent overwatering during rain, pause watering during strong winds, and optimize delivery based on evaporation rates. This technology significantly reduces water waste, lowers utility bills, promotes healthier plant growth by avoiding water stress, and saves you time on manual adjustments.",
+        "@type": "Answer",
+        "description": "A smart irrigation controller automatically adjusts watering schedules using weather and soil data, reducing water waste, lowering bills, and promoting healthier plants."
+      }
+    }
+  ],
+  "description": "A smart irrigation controller automatically adjusts watering schedules using weather and soil data, reducing water waste, lowering bills, and promoting healthie"
 }

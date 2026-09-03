@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges of establishing a California-native landscape?",
-  "description": "Common challenges include soil preparation, avoiding overwatering during establishment, and controlling weeds, all of which are manageable with proper care.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-challenges-of-establishing-a-california-native-landscape",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges of establishing a California-native landscape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Establishing a California-native landscape can present a few challenges, primarily related to soil preparation, proper initial watering, and weed control. Many native plants prefer well-draining soil, so amending heavy clay soils can be crucial. Overwatering during establishment is a common mistake, as it can lead to root rot; careful monitoring is required. Aggressive weed removal before and during establishment helps natives compete effectively. With proper planning and care during the first one to two years, these challenges are readily overcome.",
-        "description": "Common challenges include soil preparation, avoiding overwatering during establishment, and controlling weeds, all of which are manageable with proper care."
-      }
-    }
-  ],
+  "name": "What are the common challenges of establishing a California-native landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges of establishing a California-native landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Establishing a California-native landscape can present a few challenges, primarily related to soil preparation, proper initial watering, and weed control. Many native plants prefer well-draining soil, so amending heavy clay soils can be crucial. Overwatering during establishment is a common mistake, as it can lead to root rot; careful monitoring is required. Aggressive weed removal before and during establishment helps natives compete effectively. With proper planning and care during the first one to two years, these challenges are readily overcome.",
+        "@type": "Answer",
+        "description": "Common challenges include soil preparation, avoiding overwatering during establishment, and controlling weeds, all of which are manageable with proper care."
+      }
+    }
+  ],
+  "description": "Common challenges include soil preparation, avoiding overwatering during establishment, and controlling weeds, all of which are manageable with proper care."
 }

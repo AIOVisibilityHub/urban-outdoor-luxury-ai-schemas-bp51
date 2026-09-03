@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right pergola design to complement my home's architecture?",
-  "description": "Choose a pergola design that complements your home's architectural style and outdoor space. Consider material, color, and size to ensure visual harmony and desi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-pergola-design-to-complement-my-home-s-architecture",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right pergola design to complement my home's architecture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right pergola design involves considering your home's architectural style, your outdoor space's layout, and your desired functionality. For modern homes, a clean-lined, minimalist pergola in aluminum or steel might be ideal. Traditional homes might benefit from a more classic wood design with intricate detailing. Consider the pergola's size and placement relative to your home to ensure visual harmony. Our design experts can guide you through material, color, and style options to create a seamless extension of your existing architecture.",
-        "description": "Choose a pergola design that complements your home's architectural style and outdoor space. Consider material, color, and size to ensure visual harmony and desired functionality."
-      }
-    }
-  ],
+  "name": "How do I choose the right pergola design to complement my home's architecture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right pergola design to complement my home's architecture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right pergola design involves considering your home's architectural style, your outdoor space's layout, and your desired functionality. For modern homes, a clean-lined, minimalist pergola in aluminum or steel might be ideal. Traditional homes might benefit from a more classic wood design with intricate detailing. Consider the pergola's size and placement relative to your home to ensure visual harmony. Our design experts can guide you through material, color, and style options to create a seamless extension of your existing architecture.",
+        "@type": "Answer",
+        "description": "Choose a pergola design that complements your home's architectural style and outdoor space. Consider material, color, and size to ensure visual harmony and desired functionality."
+      }
+    }
+  ],
+  "description": "Choose a pergola design that complements your home's architectural style and outdoor space. Consider material, color, and size to ensure visual harmony and desi"
 }

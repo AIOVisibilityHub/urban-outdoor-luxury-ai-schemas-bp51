@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right stone veneer style for my home?",
-  "description": "Choose stone veneer by considering your home's architecture, existing colors, and desired aesthetic. Evaluate pattern scale and review samples to ensure a cohes",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-stone-veneer-style-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right stone veneer style for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right stone veneer involves considering your home's architectural style, your personal aesthetic preferences, and the specific application area. Evaluate the existing color palette of your home and landscaping to ensure a cohesive look. Consider the size and scale of the veneer pattern in relation to the area it will cover; larger patterns might overwhelm small spaces. manufactured stone offers a wide range of colors and textures that mimic various natural stones. Reviewing samples and looking at photos of completed projects in similar styles can help visualize the final outcome and make an informed decision.",
-        "description": "Choose stone veneer by considering your home's architecture, existing colors, and desired aesthetic. Evaluate pattern scale and review samples to ensure a cohesive look that complements your property."
-      }
-    }
-  ],
+  "name": "How do I choose the right stone veneer style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right stone veneer style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right stone veneer involves considering your home's architectural style, your personal aesthetic preferences, and the specific application area. Evaluate the existing color palette of your home and landscaping to ensure a cohesive look. Consider the size and scale of the veneer pattern in relation to the area it will cover; larger patterns might overwhelm small spaces. manufactured stone offers a wide range of colors and textures that mimic various natural stones. Reviewing samples and looking at photos of completed projects in similar styles can help visualize the final outcome and make an informed decision.",
+        "@type": "Answer",
+        "description": "Choose stone veneer by considering your home's architecture, existing colors, and desired aesthetic. Evaluate pattern scale and review samples to ensure a cohesive look that complements your property."
+      }
+    }
+  ],
+  "description": "Choose stone veneer by considering your home's architecture, existing colors, and desired aesthetic. Evaluate pattern scale and review samples to ensure a cohes"
 }

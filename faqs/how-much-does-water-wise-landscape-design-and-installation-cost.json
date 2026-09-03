@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does water-wise landscape design and installation cost?",
-  "description": "Costs for water-wise landscaping vary widely based on project scope, size, and materials, from a few thousand dollars for small designs to over $50,000 for larg",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-water-wise-landscape-design-and-installation-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does water-wise landscape design and installation cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of water-wise landscape design and installation is highly variable, depending on factors such as project scope, size of the area, chosen materials, and plant selection. A basic design for a smaller yard might start from a few thousand dollars, while a comprehensive design and installation for a larger property, including hardscaping and advanced irrigation systems, can range from $15,000 to well over $50,000. We provide detailed proposals after understanding your specific needs and site conditions during the consultation phase.",
-        "description": "Costs for water-wise landscaping vary widely based on project scope, size, and materials, from a few thousand dollars for small designs to over $50,000 for large-scale projects."
-      }
-    }
-  ],
+  "name": "How much does water-wise landscape design and installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water-wise landscape design and installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water-wise landscape design and installation is highly variable, depending on factors such as project scope, size of the area, chosen materials, and plant selection. A basic design for a smaller yard might start from a few thousand dollars, while a comprehensive design and installation for a larger property, including hardscaping and advanced irrigation systems, can range from $15,000 to well over $50,000. We provide detailed proposals after understanding your specific needs and site conditions during the consultation phase.",
+        "@type": "Answer",
+        "description": "Costs for water-wise landscaping vary widely based on project scope, size, and materials, from a few thousand dollars for small designs to over $50,000 for large-scale projects."
+      }
+    }
+  ],
+  "description": "Costs for water-wise landscaping vary widely based on project scope, size, and materials, from a few thousand dollars for small designs to over $50,000 for larg"
 }

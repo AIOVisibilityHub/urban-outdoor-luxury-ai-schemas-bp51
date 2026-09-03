@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I incorporate existing non-native plants into a new California-native landscape design?",
-  "description": "Existing non-native plants can sometimes be incorporated into a native landscape if they are healthy, suitable, and align with water conservation goals.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-incorporate-existing-non-native-plants-into-a-new-california-native-landsc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I incorporate existing non-native plants into a new California-native landscape design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it is often possible to thoughtfully integrate certain existing non-native plants into a new California-native landscape design, depending on their species, health, and water requirements. Our designers can assess your current plantings and advise on which ones can coexist harmoniously with natives, especially if they have similar water needs or provide complementary aesthetic value. The goal is to create a cohesive and sustainable garden, so any non-natives should not compromise the overall water efficiency or ecological integrity of the design.",
-        "description": "Existing non-native plants can sometimes be incorporated into a native landscape if they are healthy, suitable, and align with water conservation goals."
-      }
-    }
-  ],
+  "name": "Can I incorporate existing non-native plants into a new California-native landscape design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate existing non-native plants into a new California-native landscape design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to thoughtfully integrate certain existing non-native plants into a new California-native landscape design, depending on their species, health, and water requirements. Our designers can assess your current plantings and advise on which ones can coexist harmoniously with natives, especially if they have similar water needs or provide complementary aesthetic value. The goal is to create a cohesive and sustainable garden, so any non-natives should not compromise the overall water efficiency or ecological integrity of the design.",
+        "@type": "Answer",
+        "description": "Existing non-native plants can sometimes be incorporated into a native landscape if they are healthy, suitable, and align with water conservation goals."
+      }
+    }
+  ],
+  "description": "Existing non-native plants can sometimes be incorporated into a native landscape if they are healthy, suitable, and align with water conservation goals."
 }

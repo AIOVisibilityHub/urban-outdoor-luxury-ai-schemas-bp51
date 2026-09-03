@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of hiring a professional hardscape contractor versus doing it myself?",
-  "description": "Professional hardscape contractors ensure proper planning, durable results, and compliance with regulations, avoiding costly DIY mistakes and achieving luxury f",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-hiring-a-professional-hardscape-contractor-versus-doing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of hiring a professional hardscape contractor versus doing it myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hiring a professional hardscape contractor ensures proper planning, design, and execution, leading to a durable and aesthetically pleasing result. Professionals have the necessary equipment, expertise in local regulations and soil conditions, and knowledge of best practices for drainage and structural integrity. DIY projects, especially for complex hardscapes, often encounter unexpected challenges, can lead to costly mistakes, and may not achieve the desired luxury finish or longevity, ultimately saving time and money in the long run.",
-        "description": "Professional hardscape contractors ensure proper planning, durable results, and compliance with regulations, avoiding costly DIY mistakes and achieving luxury finishes."
-      }
-    }
-  ],
+  "name": "What are the benefits of hiring a professional hardscape contractor versus doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of hiring a professional hardscape contractor versus doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a professional hardscape contractor ensures proper planning, design, and execution, leading to a durable and aesthetically pleasing result. Professionals have the necessary equipment, expertise in local regulations and soil conditions, and knowledge of best practices for drainage and structural integrity. DIY projects, especially for complex hardscapes, often encounter unexpected challenges, can lead to costly mistakes, and may not achieve the desired luxury finish or longevity, ultimately saving time and money in the long run.",
+        "@type": "Answer",
+        "description": "Professional hardscape contractors ensure proper planning, durable results, and compliance with regulations, avoiding costly DIY mistakes and achieving luxury finishes."
+      }
+    }
+  ],
+  "description": "Professional hardscape contractors ensure proper planning, durable results, and compliance with regulations, avoiding costly DIY mistakes and achieving luxury f"
 }

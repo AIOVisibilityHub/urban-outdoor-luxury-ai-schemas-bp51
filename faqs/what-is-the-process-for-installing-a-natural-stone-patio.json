@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for installing a natural stone patio?",
-  "description": "The process involves site preparation (excavation, grading, drainage), laying a compacted gravel base, placing stones, and filling joints with sand or mortar.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-natural-stone-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for installing a natural stone patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process for a natural stone patio typically begins with site preparation, including excavation, grading, and ensuring proper drainage. Next, a stable base layer, usually compacted gravel, is laid, followed by a bedding layer of sand or stone dust. Individual stone pieces are then carefully placed and leveled, ensuring proper spacing and alignment. Depending on the method, joints are then filled with sand (for dry-laid) or mortar (for wet-laid). Finally, the patio is cleaned, and a sealer may be applied to protect the stone.",
-        "description": "The process involves site preparation (excavation, grading, drainage), laying a compacted gravel base, placing stones, and filling joints with sand or mortar."
-      }
-    }
-  ],
+  "name": "What is the process for installing a natural stone patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a natural stone patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a natural stone patio typically begins with site preparation, including excavation, grading, and ensuring proper drainage. Next, a stable base layer, usually compacted gravel, is laid, followed by a bedding layer of sand or stone dust. Individual stone pieces are then carefully placed and leveled, ensuring proper spacing and alignment. Depending on the method, joints are then filled with sand (for dry-laid) or mortar (for wet-laid). Finally, the patio is cleaned, and a sealer may be applied to protect the stone.",
+        "@type": "Answer",
+        "description": "The process involves site preparation (excavation, grading, drainage), laying a compacted gravel base, placing stones, and filling joints with sand or mortar."
+      }
+    }
+  ],
+  "description": "The process involves site preparation (excavation, grading, drainage), laying a compacted gravel base, placing stones, and filling joints with sand or mortar."
 }

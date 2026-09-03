@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there environmental considerations when installing artificial turf?",
-  "description": "Environmental considerations include significant water savings and no need for chemicals, balanced with the use of plastics in production and disposal. We sourc",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-environmental-considerations-when-installing-artificial-turf",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there environmental considerations when installing artificial turf?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, there are several environmental considerations. A major benefit is water conservation, crucial in areas like Los Angeles, as artificial turf requires no irrigation. It also eliminates the need for harmful pesticides, herbicides, and fertilizers. However, considerations include the use of petroleum-based plastics in turf production and the disposal of old turf. We prioritize sourcing turf from manufacturers with sustainable practices and can discuss recycling options for old turf materials where available, minimizing environmental impact.",
-        "description": "Environmental considerations include significant water savings and no need for chemicals, balanced with the use of plastics in production and disposal. We source sustainably and explore recycling options."
-      }
-    }
-  ],
+  "name": "Are there environmental considerations when installing artificial turf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there environmental considerations when installing artificial turf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several environmental considerations. A major benefit is water conservation, crucial in areas like Los Angeles, as artificial turf requires no irrigation. It also eliminates the need for harmful pesticides, herbicides, and fertilizers. However, considerations include the use of petroleum-based plastics in turf production and the disposal of old turf. We prioritize sourcing turf from manufacturers with sustainable practices and can discuss recycling options for old turf materials where available, minimizing environmental impact.",
+        "@type": "Answer",
+        "description": "Environmental considerations include significant water savings and no need for chemicals, balanced with the use of plastics in production and disposal. We source sustainably and explore recycling options."
+      }
+    }
+  ],
+  "description": "Environmental considerations include significant water savings and no need for chemicals, balanced with the use of plastics in production and disposal. We sourc"
 }

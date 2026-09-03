@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it typically take to install stone stairs?",
-  "description": "Installation time for stone stairs typically ranges from 1-4 weeks, depending on complexity, number of steps, stone type, and site conditions.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-install-stone-stairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it typically take to install stone stairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of stone stair installation varies significantly based on the project's complexity, the number of steps, the type of stone, and site conditions. A straightforward, small set of steps might take 1-2 weeks. Larger, more intricate designs, or those involving significant site preparation like excavation and foundation work, could extend to 3-4 weeks or more. Factors such as weather conditions and the need for custom cuts can also influence the timeline. We provide a detailed project schedule after an on-site assessment.",
-        "description": "Installation time for stone stairs typically ranges from 1-4 weeks, depending on complexity, number of steps, stone type, and site conditions."
-      }
-    }
-  ],
+  "name": "How long does it typically take to install stone stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install stone stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stone stair installation varies significantly based on the project's complexity, the number of steps, the type of stone, and site conditions. A straightforward, small set of steps might take 1-2 weeks. Larger, more intricate designs, or those involving significant site preparation like excavation and foundation work, could extend to 3-4 weeks or more. Factors such as weather conditions and the need for custom cuts can also influence the timeline. We provide a detailed project schedule after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Installation time for stone stairs typically ranges from 1-4 weeks, depending on complexity, number of steps, stone type, and site conditions."
+      }
+    }
+  ],
+  "description": "Installation time for stone stairs typically ranges from 1-4 weeks, depending on complexity, number of steps, stone type, and site conditions."
 }

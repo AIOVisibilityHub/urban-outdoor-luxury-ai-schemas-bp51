@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are commonly used for pergolas and which is best for my Los Angeles home?",
-  "description": "Common pergola materials are wood, aluminum, vinyl, and fiberglass. Aluminum or fiberglass are often recommended for Los Angeles due to their durability and low",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-commonly-used-for-pergolas-and-which-is-best-for-my-los-angel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are commonly used for pergolas and which is best for my Los Angeles home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common pergola materials include wood (like cedar or redwood), aluminum, vinyl, and fiberglass. Wood offers a classic, natural aesthetic but requires regular maintenance. Aluminum is durable, low-maintenance, and resistant to rot or pests, available in various finishes. Vinyl is also low-maintenance and highly durable, often mimicking wood. Fiberglass is strong, lightweight, and can span longer distances without intermediate supports. For Los Angeles, aluminum or fiberglass are excellent choices due to their resistance to weather variations and minimal upkeep, though wood remains popular for its timeless look.",
-        "description": "Common pergola materials are wood, aluminum, vinyl, and fiberglass. Aluminum or fiberglass are often recommended for Los Angeles due to their durability and low maintenance."
-      }
-    }
-  ],
+  "name": "What materials are commonly used for pergolas and which is best for my Los Angeles home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for pergolas and which is best for my Los Angeles home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pergola materials include wood (like cedar or redwood), aluminum, vinyl, and fiberglass. Wood offers a classic, natural aesthetic but requires regular maintenance. Aluminum is durable, low-maintenance, and resistant to rot or pests, available in various finishes. Vinyl is also low-maintenance and highly durable, often mimicking wood. Fiberglass is strong, lightweight, and can span longer distances without intermediate supports. For Los Angeles, aluminum or fiberglass are excellent choices due to their resistance to weather variations and minimal upkeep, though wood remains popular for its timeless look.",
+        "@type": "Answer",
+        "description": "Common pergola materials are wood, aluminum, vinyl, and fiberglass. Aluminum or fiberglass are often recommended for Los Angeles due to their durability and low maintenance."
+      }
+    }
+  ],
+  "description": "Common pergola materials are wood, aluminum, vinyl, and fiberglass. Aluminum or fiberglass are often recommended for Los Angeles due to their durability and low"
 }

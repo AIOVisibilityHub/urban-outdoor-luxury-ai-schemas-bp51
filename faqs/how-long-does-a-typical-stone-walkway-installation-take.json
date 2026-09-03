@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical stone walkway installation take?",
-  "description": "Installation time varies, from a few days for simple pathways to one to two weeks for complex designs, depending on length, complexity, and stone type.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-stone-walkway-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical stone walkway installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a stone walkway installation varies based on several factors, including the walkway's length, width, complexity of the design, and the type of stone chosen. Simple, straight pathways might be completed within a few days, while more elaborate designs involving curves, steps, or intricate patterns could take one to two weeks. Site preparation, such as excavation and base laying, also contributes significantly to the timeline. Our team provides a detailed project schedule after the initial site assessment, ensuring clear communication about expected completion times.",
-        "description": "Installation time varies, from a few days for simple pathways to one to two weeks for complex designs, depending on length, complexity, and stone type."
-      }
-    }
-  ],
+  "name": "How long does a typical stone walkway installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical stone walkway installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a stone walkway installation varies based on several factors, including the walkway's length, width, complexity of the design, and the type of stone chosen. Simple, straight pathways might be completed within a few days, while more elaborate designs involving curves, steps, or intricate patterns could take one to two weeks. Site preparation, such as excavation and base laying, also contributes significantly to the timeline. Our team provides a detailed project schedule after the initial site assessment, ensuring clear communication about expected completion times.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few days for simple pathways to one to two weeks for complex designs, depending on length, complexity, and stone type."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few days for simple pathways to one to two weeks for complex designs, depending on length, complexity, and stone type."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right type of natural stone for my specific outdoor project?",
-  "description": "Select natural stone based on project purpose, aesthetic, climate, budget, and durability. View samples in natural light and consult an experienced contractor t",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-type-of-natural-stone-for-my-specific-outdoor-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right type of natural stone for my specific outdoor project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right natural stone depends on several factors: the project's purpose, desired aesthetic, climate, budget, and required durability. Consider whether the area will experience heavy foot traffic, direct sunlight, or moisture. For a formal look, consider honed granite or travertine. For a rustic feel, flagstone or slate are excellent. It's beneficial to view samples in your actual outdoor setting to see how they interact with natural light. Consulting with an experienced stonework contractor can help you balance these considerations and select the best material that aligns with your vision and practical needs.",
-        "description": "Select natural stone based on project purpose, aesthetic, climate, budget, and durability. View samples in natural light and consult an experienced contractor to make the best choice."
-      }
-    }
-  ],
+  "name": "How do I choose the right type of natural stone for my specific outdoor project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of natural stone for my specific outdoor project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right natural stone depends on several factors: the project's purpose, desired aesthetic, climate, budget, and required durability. Consider whether the area will experience heavy foot traffic, direct sunlight, or moisture. For a formal look, consider honed granite or travertine. For a rustic feel, flagstone or slate are excellent. It's beneficial to view samples in your actual outdoor setting to see how they interact with natural light. Consulting with an experienced stonework contractor can help you balance these considerations and select the best material that aligns with your vision and practical needs.",
+        "@type": "Answer",
+        "description": "Select natural stone based on project purpose, aesthetic, climate, budget, and durability. View samples in natural light and consult an experienced contractor to make the best choice."
+      }
+    }
+  ],
+  "description": "Select natural stone based on project purpose, aesthetic, climate, budget, and durability. View samples in natural light and consult an experienced contractor t"
 }

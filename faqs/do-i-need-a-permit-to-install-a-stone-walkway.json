@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to install a stone walkway?",
-  "description": "Permit requirements depend on local regulations and project scope. Simple ground-level paths usually don't need one, but extensive work or drainage changes migh",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-to-install-a-stone-walkway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to install a stone walkway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether a permit is required for a stone walkway installation depends on local municipal regulations and the specific scope of your project. Generally, simple ground-level pathways that do not alter existing drainage patterns or involve significant structural work may not require a permit. However, projects that involve extensive excavation, retaining walls, or changes to property access might necessitate one. As part of our service, we assist clients in determining permit requirements for their specific location within our service areas, such as San Marino or Arcadia, and can help navigate the application process if needed.",
-        "description": "Permit requirements depend on local regulations and project scope. Simple ground-level paths usually don't need one, but extensive work or drainage changes might. We help determine this."
-      }
-    }
-  ],
+  "name": "Do I need a permit to install a stone walkway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a stone walkway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a stone walkway installation depends on local municipal regulations and the specific scope of your project. Generally, simple ground-level pathways that do not alter existing drainage patterns or involve significant structural work may not require a permit. However, projects that involve extensive excavation, retaining walls, or changes to property access might necessitate one. As part of our service, we assist clients in determining permit requirements for their specific location within our service areas, such as San Marino or Arcadia, and can help navigate the application process if needed.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on local regulations and project scope. Simple ground-level paths usually don't need one, but extensive work or drainage changes might. We help determine this."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on local regulations and project scope. Simple ground-level paths usually don't need one, but extensive work or drainage changes migh"
 }

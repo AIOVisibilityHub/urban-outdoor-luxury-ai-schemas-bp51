@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the best materials for a durable outdoor cabana in Southern California?",
-  "description": "Durable materials for Southern California include hardwoods (teak, ipe), composites, metal roofing, and marine-grade stainless steel hardware for longevity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-best-materials-for-a-durable-outdoor-cabana-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the best materials for a durable outdoor cabana in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Southern California's climate, durable and weather-resistant materials are crucial. Popular choices include robust hardwoods like teak or ipe for their natural resistance to rot and pests, or composite materials for low maintenance. For roofing, options like standing seam metal, clay tiles, or high-quality asphalt shingles offer longevity and aesthetic appeal. We also recommend using marine-grade stainless steel for hardware and fasteners to prevent rust, ensuring your cabana withstands the elements and remains beautiful for years.",
-        "description": "Durable materials for Southern California include hardwoods (teak, ipe), composites, metal roofing, and marine-grade stainless steel hardware for longevity."
-      }
-    }
-  ],
+  "name": "What are the best materials for a durable outdoor cabana in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best materials for a durable outdoor cabana in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Southern California's climate, durable and weather-resistant materials are crucial. Popular choices include robust hardwoods like teak or ipe for their natural resistance to rot and pests, or composite materials for low maintenance. For roofing, options like standing seam metal, clay tiles, or high-quality asphalt shingles offer longevity and aesthetic appeal. We also recommend using marine-grade stainless steel for hardware and fasteners to prevent rust, ensuring your cabana withstands the elements and remains beautiful for years.",
+        "@type": "Answer",
+        "description": "Durable materials for Southern California include hardwoods (teak, ipe), composites, metal roofing, and marine-grade stainless steel hardware for longevity."
+      }
+    }
+  ],
+  "description": "Durable materials for Southern California include hardwoods (teak, ipe), composites, metal roofing, and marine-grade stainless steel hardware for longevity."
 }

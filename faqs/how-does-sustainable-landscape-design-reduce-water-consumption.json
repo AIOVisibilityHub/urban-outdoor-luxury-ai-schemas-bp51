@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does sustainable landscape design reduce water consumption?",
-  "description": "It reduces water use by using drought-tolerant native plants, installing efficient irrigation systems, and improving soil health.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-sustainable-landscape-design-reduce-water-consumption",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does sustainable landscape design reduce water consumption?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sustainable landscape design significantly reduces water consumption through several strategies. We prioritize drought-tolerant and native plant species adapted to the Los Angeles climate, which require less supplemental irrigation. Efficient irrigation systems, such as drip irrigation and smart controllers that adjust based on weather, are installed to deliver water precisely where needed. Additionally, improving soil health with organic matter enhances water retention, and practices like mulching reduce evaporation. These measures collectively minimize reliance on potable water for landscape maintenance.",
-        "description": "It reduces water use by using drought-tolerant native plants, installing efficient irrigation systems, and improving soil health."
-      }
-    }
-  ],
+  "name": "How does sustainable landscape design reduce water consumption?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does sustainable landscape design reduce water consumption?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sustainable landscape design significantly reduces water consumption through several strategies. We prioritize drought-tolerant and native plant species adapted to the Los Angeles climate, which require less supplemental irrigation. Efficient irrigation systems, such as drip irrigation and smart controllers that adjust based on weather, are installed to deliver water precisely where needed. Additionally, improving soil health with organic matter enhances water retention, and practices like mulching reduce evaporation. These measures collectively minimize reliance on potable water for landscape maintenance.",
+        "@type": "Answer",
+        "description": "It reduces water use by using drought-tolerant native plants, installing efficient irrigation systems, and improving soil health."
+      }
+    }
+  ],
+  "description": "It reduces water use by using drought-tolerant native plants, installing efficient irrigation systems, and improving soil health."
 }

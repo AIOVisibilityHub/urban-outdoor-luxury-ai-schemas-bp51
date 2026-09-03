@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is stone veneer and how is it different from natural stone?",
-  "description": "Stone veneer is a thin facing material replicating natural stone, differing from full natural stone in weight, cost, and structural application. It can be made",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-stone-veneer-and-how-is-it-different-from-natural-stone",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is stone veneer and how is it different from natural stone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stone veneer is a decorative and protective facing material made from real or manufactured stone that replicates the look of natural stone. Unlike full natural stone, which is a structural material, veneer is a thin layer applied to a substrate. Manufactured stone veneer is typically made from Portland cement, aggregates, and iron oxides for coloring, making it lighter and more affordable than natural stone. Natural stone veneer, while still thinner than full stone, is cut from actual rock formations. Both offer aesthetic appeal but differ in weight, cost, and installation methods.",
-        "description": "Stone veneer is a thin facing material replicating natural stone, differing from full natural stone in weight, cost, and structural application. It can be made from natural rock or manufactured from cement-based materials."
-      }
-    }
-  ],
+  "name": "What is stone veneer and how is it different from natural stone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is stone veneer and how is it different from natural stone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stone veneer is a decorative and protective facing material made from real or manufactured stone that replicates the look of natural stone. Unlike full natural stone, which is a structural material, veneer is a thin layer applied to a substrate. Manufactured stone veneer is typically made from Portland cement, aggregates, and iron oxides for coloring, making it lighter and more affordable than natural stone. Natural stone veneer, while still thinner than full stone, is cut from actual rock formations. Both offer aesthetic appeal but differ in weight, cost, and installation methods.",
+        "@type": "Answer",
+        "description": "Stone veneer is a thin facing material replicating natural stone, differing from full natural stone in weight, cost, and structural application. It can be made from natural rock or manufactured from cement-based materials."
+      }
+    }
+  ],
+  "description": "Stone veneer is a thin facing material replicating natural stone, differing from full natural stone in weight, cost, and structural application. It can be made"
 }

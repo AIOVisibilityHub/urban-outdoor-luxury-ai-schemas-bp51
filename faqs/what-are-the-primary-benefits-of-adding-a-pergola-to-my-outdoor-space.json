@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary benefits of adding a pergola to my outdoor space?",
-  "description": "Pergolas provide partial shade, define outdoor living spaces, add aesthetic value, and can support climbing plants, enhancing your property's appeal and functio",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-adding-a-pergola-to-my-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary benefits of adding a pergola to my outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A pergola enhances your outdoor living area by providing partial shade and defining a distinct zone for relaxation or entertainment. It adds architectural interest and can significantly boost your property's aesthetic appeal and value. Pergolas also offer a structure for climbing plants, creating a natural, lush canopy, and can be customized with lighting, heaters, or privacy screens to extend usability throughout the year. They transform an open space into a more intimate and functional extension of your home.",
-        "description": "Pergolas provide partial shade, define outdoor living spaces, add aesthetic value, and can support climbing plants, enhancing your property's appeal and functionality."
-      }
-    }
-  ],
+  "name": "What are the primary benefits of adding a pergola to my outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of adding a pergola to my outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pergola enhances your outdoor living area by providing partial shade and defining a distinct zone for relaxation or entertainment. It adds architectural interest and can significantly boost your property's aesthetic appeal and value. Pergolas also offer a structure for climbing plants, creating a natural, lush canopy, and can be customized with lighting, heaters, or privacy screens to extend usability throughout the year. They transform an open space into a more intimate and functional extension of your home.",
+        "@type": "Answer",
+        "description": "Pergolas provide partial shade, define outdoor living spaces, add aesthetic value, and can support climbing plants, enhancing your property's appeal and functionality."
+      }
+    }
+  ],
+  "description": "Pergolas provide partial shade, define outdoor living spaces, add aesthetic value, and can support climbing plants, enhancing your property's appeal and functio"
 }

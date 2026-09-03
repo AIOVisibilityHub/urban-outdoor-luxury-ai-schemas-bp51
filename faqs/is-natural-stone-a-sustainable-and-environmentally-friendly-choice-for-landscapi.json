@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is natural stone a sustainable and environmentally friendly choice for landscaping?",
-  "description": "Natural stone is sustainable as it's a natural, durable material requiring less energy for production than manufactured options. Its longevity reduces waste, an",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/is-natural-stone-a-sustainable-and-environmentally-friendly-choice-for-landscapi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is natural stone a sustainable and environmentally friendly choice for landscaping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone is generally considered a sustainable and environmentally friendly choice due to its inherent properties. It is a naturally occurring material that does not require energy-intensive manufacturing processes like many man-made alternatives. Its exceptional durability and longevity mean it rarely needs to be replaced, reducing waste over time. While quarrying and transportation have environmental impacts, responsible sourcing practices minimize these. Choosing local quarries, when available, further reduces carbon footprint. Its timeless appeal also reduces the likelihood of trends dictating premature replacement.",
-        "description": "Natural stone is sustainable as it's a natural, durable material requiring less energy for production than manufactured options. Its longevity reduces waste, and responsible sourcing minimizes environmental impact."
-      }
-    }
-  ],
+  "name": "Is natural stone a sustainable and environmentally friendly choice for landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is natural stone a sustainable and environmentally friendly choice for landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone is generally considered a sustainable and environmentally friendly choice due to its inherent properties. It is a naturally occurring material that does not require energy-intensive manufacturing processes like many man-made alternatives. Its exceptional durability and longevity mean it rarely needs to be replaced, reducing waste over time. While quarrying and transportation have environmental impacts, responsible sourcing practices minimize these. Choosing local quarries, when available, further reduces carbon footprint. Its timeless appeal also reduces the likelihood of trends dictating premature replacement.",
+        "@type": "Answer",
+        "description": "Natural stone is sustainable as it's a natural, durable material requiring less energy for production than manufactured options. Its longevity reduces waste, and responsible sourcing minimizes environmental impact."
+      }
+    }
+  ],
+  "description": "Natural stone is sustainable as it's a natural, durable material requiring less energy for production than manufactured options. Its longevity reduces waste, an"
 }

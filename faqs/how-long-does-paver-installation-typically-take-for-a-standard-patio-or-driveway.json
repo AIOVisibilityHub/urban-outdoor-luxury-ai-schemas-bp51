@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does paver installation typically take for a standard patio or driveway project?",
-  "description": "Standard paver patio or driveway installations typically take 3 to 7 days, depending on size and complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-paver-installation-typically-take-for-a-standard-patio-or-driveway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does paver installation typically take for a standard patio or driveway project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a paver installation project varies depending on factors such as the size and complexity of the area, site preparation requirements, and paver material chosen. A standard patio or driveway project, ranging from 300 to 500 square feet, typically takes our experienced team between 3 to 7 days from start to finish. This includes excavation, base preparation, paver laying, joint filling, and final compaction. Larger or more intricate designs may require additional time.",
-        "description": "Standard paver patio or driveway installations typically take 3 to 7 days, depending on size and complexity."
-      }
-    }
-  ],
+  "name": "How long does paver installation typically take for a standard patio or driveway project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does paver installation typically take for a standard patio or driveway project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paver installation project varies depending on factors such as the size and complexity of the area, site preparation requirements, and paver material chosen. A standard patio or driveway project, ranging from 300 to 500 square feet, typically takes our experienced team between 3 to 7 days from start to finish. This includes excavation, base preparation, paver laying, joint filling, and final compaction. Larger or more intricate designs may require additional time.",
+        "@type": "Answer",
+        "description": "Standard paver patio or driveway installations typically take 3 to 7 days, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "Standard paver patio or driveway installations typically take 3 to 7 days, depending on size and complexity."
 }

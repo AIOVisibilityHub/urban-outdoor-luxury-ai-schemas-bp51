@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing and installing a custom pergola with your firm?",
-  "description": "Our process involves an initial consultation, site visit, custom design creation, material selection, permitting assistance, and expert installation, with conti",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-custom-pergola-with-your-firm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing and installing a custom pergola with your firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. We then conduct a site visit to assess your outdoor space and discuss design possibilities. Following this, we develop detailed custom designs and material selections for your approval. Once the design is finalized and any necessary permits are secured, our skilled craftsmen begin the construction and installation. We maintain clear communication throughout, ensuring a high-quality finished product that exceeds your expectations.",
-        "description": "Our process involves an initial consultation, site visit, custom design creation, material selection, permitting assistance, and expert installation, with continuous communication."
-      }
-    }
-  ],
+  "name": "What is the process for designing and installing a custom pergola with your firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and installing a custom pergola with your firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. We then conduct a site visit to assess your outdoor space and discuss design possibilities. Following this, we develop detailed custom designs and material selections for your approval. Once the design is finalized and any necessary permits are secured, our skilled craftsmen begin the construction and installation. We maintain clear communication throughout, ensuring a high-quality finished product that exceeds your expectations.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, site visit, custom design creation, material selection, permitting assistance, and expert installation, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, site visit, custom design creation, material selection, permitting assistance, and expert installation, with conti"
 }

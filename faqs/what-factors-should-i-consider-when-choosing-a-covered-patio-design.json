@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a covered patio design?",
-  "description": "Consider your use, home architecture, desired sun protection, features like lighting, budget, and materials when choosing a covered patio design.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-a-covered-patio-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a covered patio design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a covered patio design, consider your primary use for the space – whether for dining, lounging, or entertaining. Evaluate your home's architectural style to ensure the patio complements its existing aesthetic. Think about the level of sun protection and privacy you desire, and consider incorporating features like lighting, fans, or built-in heaters. Your budget, material preferences, and local building codes will also guide your choices in creating a functional and beautiful outdoor extension of your home.",
-        "description": "Consider your use, home architecture, desired sun protection, features like lighting, budget, and materials when choosing a covered patio design."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a covered patio design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a covered patio design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a covered patio design, consider your primary use for the space – whether for dining, lounging, or entertaining. Evaluate your home's architectural style to ensure the patio complements its existing aesthetic. Think about the level of sun protection and privacy you desire, and consider incorporating features like lighting, fans, or built-in heaters. Your budget, material preferences, and local building codes will also guide your choices in creating a functional and beautiful outdoor extension of your home.",
+        "@type": "Answer",
+        "description": "Consider your use, home architecture, desired sun protection, features like lighting, budget, and materials when choosing a covered patio design."
+      }
+    }
+  ],
+  "description": "Consider your use, home architecture, desired sun protection, features like lighting, budget, and materials when choosing a covered patio design."
 }

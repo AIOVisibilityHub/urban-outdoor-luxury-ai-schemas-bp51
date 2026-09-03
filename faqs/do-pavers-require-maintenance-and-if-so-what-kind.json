@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do pavers require maintenance, and if so, what kind?",
-  "description": "Pavers require routine cleaning, occasional joint sand replenishment, and periodic sealing every 2-3 years to maintain their look and durability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pavers-require-maintenance-and-if-so-what-kind",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do pavers require maintenance, and if so, what kind?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pavers do require some maintenance to preserve their appearance and integrity. Routine cleaning with a broom or hose helps remove dirt and debris. Periodic washing with a mild detergent can tackle tougher stains. It's also advisable to check and replenish joint sand as needed to prevent weed growth and maintain structural stability. For added protection and to enhance color, sealing pavers every 2-3 years is recommended, especially in high-traffic or sun-exposed areas.",
-        "description": "Pavers require routine cleaning, occasional joint sand replenishment, and periodic sealing every 2-3 years to maintain their look and durability."
-      }
-    }
-  ],
+  "name": "Do pavers require maintenance, and if so, what kind?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do pavers require maintenance, and if so, what kind?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pavers do require some maintenance to preserve their appearance and integrity. Routine cleaning with a broom or hose helps remove dirt and debris. Periodic washing with a mild detergent can tackle tougher stains. It's also advisable to check and replenish joint sand as needed to prevent weed growth and maintain structural stability. For added protection and to enhance color, sealing pavers every 2-3 years is recommended, especially in high-traffic or sun-exposed areas.",
+        "@type": "Answer",
+        "description": "Pavers require routine cleaning, occasional joint sand replenishment, and periodic sealing every 2-3 years to maintain their look and durability."
+      }
+    }
+  ],
+  "description": "Pavers require routine cleaning, occasional joint sand replenishment, and periodic sealing every 2-3 years to maintain their look and durability."
 }

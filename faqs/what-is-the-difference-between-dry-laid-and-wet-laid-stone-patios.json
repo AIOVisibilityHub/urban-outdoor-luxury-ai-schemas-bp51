@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between dry-laid and wet-laid stone patios?",
-  "description": "Dry-laid patios use a sand and gravel base with sand joints, offering flexibility and drainage. Wet-laid patios use a concrete base and mortar joints for a rigi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-dry-laid-and-wet-laid-stone-patios",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between dry-laid and wet-laid stone patios?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dry-laid stone patios are installed over a compacted gravel and sand base, with sand or polymeric sand filling the joints. This method allows for flexibility, drainage, and easier repair, making it popular for permeable surfaces. Wet-laid patios, conversely, use a concrete base and mortar in the joints, creating a rigid, permanent structure. Wet-laid offers greater stability and a more formal appearance but can be more prone to cracking with ground movement. The choice depends on desired aesthetics, drainage needs, and site conditions.",
-        "description": "Dry-laid patios use a sand and gravel base with sand joints, offering flexibility and drainage. Wet-laid patios use a concrete base and mortar joints for a rigid, permanent finish."
-      }
-    }
-  ],
+  "name": "What is the difference between dry-laid and wet-laid stone patios?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between dry-laid and wet-laid stone patios?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry-laid stone patios are installed over a compacted gravel and sand base, with sand or polymeric sand filling the joints. This method allows for flexibility, drainage, and easier repair, making it popular for permeable surfaces. Wet-laid patios, conversely, use a concrete base and mortar in the joints, creating a rigid, permanent structure. Wet-laid offers greater stability and a more formal appearance but can be more prone to cracking with ground movement. The choice depends on desired aesthetics, drainage needs, and site conditions.",
+        "@type": "Answer",
+        "description": "Dry-laid patios use a sand and gravel base with sand joints, offering flexibility and drainage. Wet-laid patios use a concrete base and mortar joints for a rigid, permanent finish."
+      }
+    }
+  ],
+  "description": "Dry-laid patios use a sand and gravel base with sand joints, offering flexibility and drainage. Wet-laid patios use a concrete base and mortar joints for a rigi"
 }

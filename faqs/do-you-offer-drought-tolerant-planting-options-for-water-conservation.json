@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer drought-tolerant planting options for water conservation?",
-  "description": "Yes, we offer drought-tolerant designs using native and low-water plants, coupled with efficient irrigation to conserve water.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-offer-drought-tolerant-planting-options-for-water-conservation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer drought-tolerant planting options for water conservation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we specialize in designing and installing drought-tolerant landscapes, which are essential for water conservation in the Los Angeles area. Our designs often feature native California plants, succulents, and other low-water-use species that thrive with minimal irrigation once established. We also incorporate efficient irrigation systems, such as drip irrigation, and recommend soil amendments to improve water retention. These practices help create beautiful, sustainable gardens that significantly reduce water consumption.",
-        "description": "Yes, we offer drought-tolerant designs using native and low-water plants, coupled with efficient irrigation to conserve water."
-      }
-    }
-  ],
+  "name": "Do you offer drought-tolerant planting options for water conservation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer drought-tolerant planting options for water conservation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in designing and installing drought-tolerant landscapes, which are essential for water conservation in the Los Angeles area. Our designs often feature native California plants, succulents, and other low-water-use species that thrive with minimal irrigation once established. We also incorporate efficient irrigation systems, such as drip irrigation, and recommend soil amendments to improve water retention. These practices help create beautiful, sustainable gardens that significantly reduce water consumption.",
+        "@type": "Answer",
+        "description": "Yes, we offer drought-tolerant designs using native and low-water plants, coupled with efficient irrigation to conserve water."
+      }
+    }
+  ],
+  "description": "Yes, we offer drought-tolerant designs using native and low-water plants, coupled with efficient irrigation to conserve water."
 }

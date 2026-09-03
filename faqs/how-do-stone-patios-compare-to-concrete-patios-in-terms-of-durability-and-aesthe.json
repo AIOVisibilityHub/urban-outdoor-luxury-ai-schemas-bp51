@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do stone patios compare to concrete patios in terms of durability and aesthetic?",
-  "description": "Stone patios offer superior aesthetics and natural variation, often outperforming concrete in long-term durability and appearance, despite concrete's lower init",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-stone-patios-compare-to-concrete-patios-in-terms-of-durability-and-aesthe",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do stone patios compare to concrete patios in terms of durability and aesthetic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stone patios generally offer superior aesthetic appeal and a more natural, luxurious look compared to concrete. Each natural stone piece is unique, providing rich textures and color variations that evolve beautifully over time. In terms of durability, both can be very long-lasting. However, stone patios, when properly installed, can often withstand extreme weather and heavy use without significant wear. While concrete is durable and more budget-friendly initially, it is prone to cracking and staining, and repairs are often more noticeable than with individual stone pieces.",
-        "description": "Stone patios offer superior aesthetics and natural variation, often outperforming concrete in long-term durability and appearance, despite concrete's lower initial cost."
-      }
-    }
-  ],
+  "name": "How do stone patios compare to concrete patios in terms of durability and aesthetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do stone patios compare to concrete patios in terms of durability and aesthetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stone patios generally offer superior aesthetic appeal and a more natural, luxurious look compared to concrete. Each natural stone piece is unique, providing rich textures and color variations that evolve beautifully over time. In terms of durability, both can be very long-lasting. However, stone patios, when properly installed, can often withstand extreme weather and heavy use without significant wear. While concrete is durable and more budget-friendly initially, it is prone to cracking and staining, and repairs are often more noticeable than with individual stone pieces.",
+        "@type": "Answer",
+        "description": "Stone patios offer superior aesthetics and natural variation, often outperforming concrete in long-term durability and appearance, despite concrete's lower initial cost."
+      }
+    }
+  ],
+  "description": "Stone patios offer superior aesthetics and natural variation, often outperforming concrete in long-term durability and appearance, despite concrete's lower init"
 }

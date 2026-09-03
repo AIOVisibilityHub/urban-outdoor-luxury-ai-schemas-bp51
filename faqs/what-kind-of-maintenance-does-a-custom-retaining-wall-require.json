@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance does a custom retaining wall require?",
-  "description": "Custom retaining walls require low maintenance, including regular inspections, keeping drainage clear, and managing nearby vegetation to prevent damage.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-does-a-custom-retaining-wall-require",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance does a custom retaining wall require?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-built custom retaining wall from quality materials requires relatively low maintenance. Regular inspections are recommended to check for any signs of cracking, bulging, or shifting, especially after heavy rains. Ensure that the drainage system remains clear of debris to prevent water buildup behind the wall. Keep vegetation from growing too aggressively near or into the wall's structure, as roots can cause damage over time. Cleaning the wall surface periodically can also help preserve its aesthetic appeal. Addressing minor issues promptly can prevent larger, more costly repairs down the line.",
-        "description": "Custom retaining walls require low maintenance, including regular inspections, keeping drainage clear, and managing nearby vegetation to prevent damage."
-      }
-    }
-  ],
+  "name": "What kind of maintenance does a custom retaining wall require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a custom retaining wall require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-built custom retaining wall from quality materials requires relatively low maintenance. Regular inspections are recommended to check for any signs of cracking, bulging, or shifting, especially after heavy rains. Ensure that the drainage system remains clear of debris to prevent water buildup behind the wall. Keep vegetation from growing too aggressively near or into the wall's structure, as roots can cause damage over time. Cleaning the wall surface periodically can also help preserve its aesthetic appeal. Addressing minor issues promptly can prevent larger, more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Custom retaining walls require low maintenance, including regular inspections, keeping drainage clear, and managing nearby vegetation to prevent damage."
+      }
+    }
+  ],
+  "description": "Custom retaining walls require low maintenance, including regular inspections, keeping drainage clear, and managing nearby vegetation to prevent damage."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of plants are best for a water-wise landscape in Los Angeles and Pasadena?",
-  "description": "Native California plants and Mediterranean-climate species like salvias, lavender, ceanothus, and succulents are ideal for water-wise landscapes in Los Angeles",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-plants-are-best-for-a-water-wise-landscape-in-los-angeles-and-pasa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of plants are best for a water-wise landscape in Los Angeles and Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Los Angeles and Pasadena, native California plants and Mediterranean-climate adapted species are excellent choices for water-wise landscapes. Popular options include various salvias (sages), lavender, rosemary, ceanothus (California lilac), manzanita, and certain ornamental grasses. Succulents and cacti are also highly drought-tolerant. These plants are well-suited to the region's climate, require minimal supplemental water once established, and thrive with less intervention, contributing to a vibrant and sustainable garden.",
-        "description": "Native California plants and Mediterranean-climate species like salvias, lavender, ceanothus, and succulents are ideal for water-wise landscapes in Los Angeles and Pasadena."
-      }
-    }
-  ],
+  "name": "What types of plants are best for a water-wise landscape in Los Angeles and Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of plants are best for a water-wise landscape in Los Angeles and Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Los Angeles and Pasadena, native California plants and Mediterranean-climate adapted species are excellent choices for water-wise landscapes. Popular options include various salvias (sages), lavender, rosemary, ceanothus (California lilac), manzanita, and certain ornamental grasses. Succulents and cacti are also highly drought-tolerant. These plants are well-suited to the region's climate, require minimal supplemental water once established, and thrive with less intervention, contributing to a vibrant and sustainable garden.",
+        "@type": "Answer",
+        "description": "Native California plants and Mediterranean-climate species like salvias, lavender, ceanothus, and succulents are ideal for water-wise landscapes in Los Angeles and Pasadena."
+      }
+    }
+  ],
+  "description": "Native California plants and Mediterranean-climate species like salvias, lavender, ceanothus, and succulents are ideal for water-wise landscapes in Los Angeles"
 }

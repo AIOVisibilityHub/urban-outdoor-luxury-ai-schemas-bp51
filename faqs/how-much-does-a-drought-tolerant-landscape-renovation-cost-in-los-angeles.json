@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a drought-tolerant landscape renovation cost in Los Angeles?",
-  "description": "Costs for drought-tolerant landscaping in Los Angeles vary significantly, typically ranging from $10,000 for basic projects to over $50,000 for comprehensive de",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-drought-tolerant-landscape-renovation-cost-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a drought-tolerant landscape renovation cost in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a drought-tolerant landscape renovation in Los Angeles varies widely based on factors such as yard size, existing conditions, plant selection, hardscaping elements, and the complexity of the design. A basic project might start from $10,000, while a comprehensive redesign with extensive hardscaping and advanced irrigation could exceed $50,000. We provide detailed estimates after an initial consultation and site assessment to ensure transparency and align with your budget and vision.",
-        "description": "Costs for drought-tolerant landscaping in Los Angeles vary significantly, typically ranging from $10,000 for basic projects to over $50,000 for comprehensive designs."
-      }
-    }
-  ],
+  "name": "How much does a drought-tolerant landscape renovation cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a drought-tolerant landscape renovation cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a drought-tolerant landscape renovation in Los Angeles varies widely based on factors such as yard size, existing conditions, plant selection, hardscaping elements, and the complexity of the design. A basic project might start from $10,000, while a comprehensive redesign with extensive hardscaping and advanced irrigation could exceed $50,000. We provide detailed estimates after an initial consultation and site assessment to ensure transparency and align with your budget and vision.",
+        "@type": "Answer",
+        "description": "Costs for drought-tolerant landscaping in Los Angeles vary significantly, typically ranging from $10,000 for basic projects to over $50,000 for comprehensive designs."
+      }
+    }
+  ],
+  "description": "Costs for drought-tolerant landscaping in Los Angeles vary significantly, typically ranging from $10,000 for basic projects to over $50,000 for comprehensive de"
 }

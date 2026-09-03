@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can landscape design incorporate sustainable or drought-tolerant features?",
-  "description": "Yes, sustainable landscape design integrates drought-tolerant plants, efficient irrigation, and permeable paving to conserve water and enhance beauty.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-landscape-design-incorporate-sustainable-or-drought-tolerant-features",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can landscape design incorporate sustainable or drought-tolerant features?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Sustainable and drought-tolerant landscape design is a core component of modern luxury outdoor spaces, especially in regions like Southern California. We specialize in integrating native plants, efficient irrigation systems (like drip lines), permeable paving, and smart landscape features that minimize water usage while maximizing beauty. This approach not only conserves resources but also often reduces maintenance and enhances ecological balance.",
-        "description": "Yes, sustainable landscape design integrates drought-tolerant plants, efficient irrigation, and permeable paving to conserve water and enhance beauty."
-      }
-    }
-  ],
+  "name": "Can landscape design incorporate sustainable or drought-tolerant features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can landscape design incorporate sustainable or drought-tolerant features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Sustainable and drought-tolerant landscape design is a core component of modern luxury outdoor spaces, especially in regions like Southern California. We specialize in integrating native plants, efficient irrigation systems (like drip lines), permeable paving, and smart landscape features that minimize water usage while maximizing beauty. This approach not only conserves resources but also often reduces maintenance and enhances ecological balance.",
+        "@type": "Answer",
+        "description": "Yes, sustainable landscape design integrates drought-tolerant plants, efficient irrigation, and permeable paving to conserve water and enhance beauty."
+      }
+    }
+  ],
+  "description": "Yes, sustainable landscape design integrates drought-tolerant plants, efficient irrigation, and permeable paving to conserve water and enhance beauty."
 }

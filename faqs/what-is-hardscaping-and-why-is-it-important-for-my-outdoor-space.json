@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is hardscaping and why is it important for my outdoor space?",
-  "description": "Hardscaping includes non-living elements like patios and walkways, providing functionality, defining spaces, and enhancing property value and aesthetics.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-hardscaping-and-why-is-it-important-for-my-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is hardscaping and why is it important for my outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hardscaping refers to the non-living elements of your landscape design, such as patios, walkways, retaining walls, pergolas, and outdoor kitchens. These structures provide functionality, define spaces, and add aesthetic appeal to your outdoor environment. Incorporating hardscape elements can improve drainage, reduce maintenance, and significantly increase the usable living area and overall value of your property. For luxury outdoor spaces, hardscaping forms the essential backbone, creating durable and elegant foundations for your entire design.",
-        "description": "Hardscaping includes non-living elements like patios and walkways, providing functionality, defining spaces, and enhancing property value and aesthetics."
-      }
-    }
-  ],
+  "name": "What is hardscaping and why is it important for my outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is hardscaping and why is it important for my outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardscaping refers to the non-living elements of your landscape design, such as patios, walkways, retaining walls, pergolas, and outdoor kitchens. These structures provide functionality, define spaces, and add aesthetic appeal to your outdoor environment. Incorporating hardscape elements can improve drainage, reduce maintenance, and significantly increase the usable living area and overall value of your property. For luxury outdoor spaces, hardscaping forms the essential backbone, creating durable and elegant foundations for your entire design.",
+        "@type": "Answer",
+        "description": "Hardscaping includes non-living elements like patios and walkways, providing functionality, defining spaces, and enhancing property value and aesthetics."
+      }
+    }
+  ],
+  "description": "Hardscaping includes non-living elements like patios and walkways, providing functionality, defining spaces, and enhancing property value and aesthetics."
 }

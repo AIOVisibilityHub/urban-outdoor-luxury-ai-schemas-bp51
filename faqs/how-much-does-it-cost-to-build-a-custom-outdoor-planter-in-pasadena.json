@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a custom outdoor planter in Pasadena?",
-  "description": "Custom outdoor planter costs in Pasadena depend on size, complexity, materials, integrated features, and site access. We provide detailed quotes after consultat",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-build-a-custom-outdoor-planter-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a custom outdoor planter in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building a custom outdoor planter in Pasadena varies significantly based on several factors. Key determinants include the planter's size and complexity, the chosen materials (e.g., concrete, natural stone, specialty finishes), integrated features like irrigation or lighting, and site access. For example, a large, multi-level planter with premium stone will cost more than a smaller, simpler concrete one. We provide detailed, transparent quotes after a site assessment and design consultation to ensure accuracy, reflecting the specific scope of your project and material selections.",
-        "description": "Custom outdoor planter costs in Pasadena depend on size, complexity, materials, integrated features, and site access. We provide detailed quotes after consultation."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a custom outdoor planter in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom outdoor planter in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a custom outdoor planter in Pasadena varies significantly based on several factors. Key determinants include the planter's size and complexity, the chosen materials (e.g., concrete, natural stone, specialty finishes), integrated features like irrigation or lighting, and site access. For example, a large, multi-level planter with premium stone will cost more than a smaller, simpler concrete one. We provide detailed, transparent quotes after a site assessment and design consultation to ensure accuracy, reflecting the specific scope of your project and material selections.",
+        "@type": "Answer",
+        "description": "Custom outdoor planter costs in Pasadena depend on size, complexity, materials, integrated features, and site access. We provide detailed quotes after consultation."
+      }
+    }
+  ],
+  "description": "Custom outdoor planter costs in Pasadena depend on size, complexity, materials, integrated features, and site access. We provide detailed quotes after consultat"
 }

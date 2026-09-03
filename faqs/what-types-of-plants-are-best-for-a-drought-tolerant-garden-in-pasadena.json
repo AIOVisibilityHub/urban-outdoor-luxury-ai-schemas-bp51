@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of plants are best for a drought-tolerant garden in Pasadena?",
-  "description": "Best plants for Pasadena include California natives like Ceanothus, Manzanita, and Toyon, along with various Salvias and succulents.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-plants-are-best-for-a-drought-tolerant-garden-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of plants are best for a drought-tolerant garden in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a drought-tolerant garden in Pasadena, consider native California plants or Mediterranean-climate varieties well-suited to the local conditions. Excellent choices include California Lilac (Ceanothus), Manzanita (Arctostaphylos), Toyon (Heteromeles arbutifolia), various Salvias, and succulents like Agave and Sedum. Ornamental grasses such as California Fescue (Festuca californica) and Deergrass (Muhlenbergia rigens) also thrive. These plants require minimal supplemental water once established and contribute to the local ecosystem.",
-        "description": "Best plants for Pasadena include California natives like Ceanothus, Manzanita, and Toyon, along with various Salvias and succulents."
-      }
-    }
-  ],
+  "name": "What types of plants are best for a drought-tolerant garden in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of plants are best for a drought-tolerant garden in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a drought-tolerant garden in Pasadena, consider native California plants or Mediterranean-climate varieties well-suited to the local conditions. Excellent choices include California Lilac (Ceanothus), Manzanita (Arctostaphylos), Toyon (Heteromeles arbutifolia), various Salvias, and succulents like Agave and Sedum. Ornamental grasses such as California Fescue (Festuca californica) and Deergrass (Muhlenbergia rigens) also thrive. These plants require minimal supplemental water once established and contribute to the local ecosystem.",
+        "@type": "Answer",
+        "description": "Best plants for Pasadena include California natives like Ceanothus, Manzanita, and Toyon, along with various Salvias and succulents."
+      }
+    }
+  ],
+  "description": "Best plants for Pasadena include California natives like Ceanothus, Manzanita, and Toyon, along with various Salvias and succulents."
 }

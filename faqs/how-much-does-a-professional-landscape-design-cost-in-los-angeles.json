@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a professional landscape design cost in Los Angeles?",
-  "description": "Landscape design costs in Los Angeles depend on project scope, property size, and design complexity. Professional design helps avoid costly construction errors.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-professional-landscape-design-cost-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a professional landscape design cost in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Landscape design costs in Los Angeles vary significantly based on project scope, property size, and desired level of detail. Factors influencing cost include the designer's experience, the number of design iterations, and whether specialized elements like custom water features or elaborate hardscaping are involved. Investing in professional design ensures a cohesive and lasting outdoor environment, preventing costly mistakes during construction.",
-        "description": "Landscape design costs in Los Angeles depend on project scope, property size, and design complexity. Professional design helps avoid costly construction errors."
-      }
-    }
-  ],
+  "name": "How much does a professional landscape design cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a professional landscape design cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landscape design costs in Los Angeles vary significantly based on project scope, property size, and desired level of detail. Factors influencing cost include the designer's experience, the number of design iterations, and whether specialized elements like custom water features or elaborate hardscaping are involved. Investing in professional design ensures a cohesive and lasting outdoor environment, preventing costly mistakes during construction.",
+        "@type": "Answer",
+        "description": "Landscape design costs in Los Angeles depend on project scope, property size, and design complexity. Professional design helps avoid costly construction errors."
+      }
+    }
+  ],
+  "description": "Landscape design costs in Los Angeles depend on project scope, property size, and design complexity. Professional design helps avoid costly construction errors."
 }

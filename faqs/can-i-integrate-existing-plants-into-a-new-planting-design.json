@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I integrate existing plants into a new planting design?",
-  "description": "Yes, we can integrate healthy, suitable existing plants into new designs, helping to preserve continuity and potentially reduce costs.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-integrate-existing-plants-into-a-new-planting-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I integrate existing plants into a new planting design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. During the initial site assessment, we evaluate the health and viability of your existing plants. If they are well-suited to the new design aesthetic, healthy, and appropriately located, we can seamlessly integrate them into the updated planting plan. This approach can help preserve sentimental plants, reduce overall project costs, and maintain a sense of continuity in your garden. For plants that are not ideal, we can discuss options for relocation or removal.",
-        "description": "Yes, we can integrate healthy, suitable existing plants into new designs, helping to preserve continuity and potentially reduce costs."
-      }
-    }
-  ],
+  "name": "Can I integrate existing plants into a new planting design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate existing plants into a new planting design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. During the initial site assessment, we evaluate the health and viability of your existing plants. If they are well-suited to the new design aesthetic, healthy, and appropriately located, we can seamlessly integrate them into the updated planting plan. This approach can help preserve sentimental plants, reduce overall project costs, and maintain a sense of continuity in your garden. For plants that are not ideal, we can discuss options for relocation or removal.",
+        "@type": "Answer",
+        "description": "Yes, we can integrate healthy, suitable existing plants into new designs, helping to preserve continuity and potentially reduce costs."
+      }
+    }
+  ],
+  "description": "Yes, we can integrate healthy, suitable existing plants into new designs, helping to preserve continuity and potentially reduce costs."
 }

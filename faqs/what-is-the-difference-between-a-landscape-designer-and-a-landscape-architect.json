@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a landscape designer and a landscape architect?",
-  "description": "Landscape architects handle complex, larger-scale projects and often have formal licensing, while landscape designers focus on residential aesthetics and planti",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-landscape-designer-and-a-landscape-architect",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a landscape designer and a landscape architect?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both professionals create outdoor spaces, landscape architects typically hold a professional degree and are licensed to handle more complex projects, including larger public works, urban planning, and intricate engineering challenges. Landscape designers often focus on residential or smaller commercial projects, emphasizing aesthetics, planting, and material selection. Our firm employs skilled designers capable of transforming luxury residential properties.",
-        "description": "Landscape architects handle complex, larger-scale projects and often have formal licensing, while landscape designers focus on residential aesthetics and planting."
-      }
-    }
-  ],
+  "name": "What is the difference between a landscape designer and a landscape architect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a landscape designer and a landscape architect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both professionals create outdoor spaces, landscape architects typically hold a professional degree and are licensed to handle more complex projects, including larger public works, urban planning, and intricate engineering challenges. Landscape designers often focus on residential or smaller commercial projects, emphasizing aesthetics, planting, and material selection. Our firm employs skilled designers capable of transforming luxury residential properties.",
+        "@type": "Answer",
+        "description": "Landscape architects handle complex, larger-scale projects and often have formal licensing, while landscape designers focus on residential aesthetics and planting."
+      }
+    }
+  ],
+  "description": "Landscape architects handle complex, larger-scale projects and often have formal licensing, while landscape designers focus on residential aesthetics and planti"
 }

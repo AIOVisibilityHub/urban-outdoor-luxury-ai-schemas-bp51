@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for stone stair installation?",
-  "description": "Stone stair installation costs vary based on stone type, number of steps, design complexity, and site preparation. Custom projects can range from several thousa",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-stone-stair-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for stone stair installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of stone stair installation varies widely depending on several factors. These include the type of natural stone selected (e.g., granite, flagstone, bluestone), the number and size of steps, the complexity of the design, site preparation requirements, and accessibility. Custom features like curves or integrated lighting will also affect the price. While it's difficult to provide an exact figure without a site visit, quality stone stair projects can range from several thousand dollars for a simple set of steps to tens of thousands for extensive, custom-designed installations. We offer detailed, transparent quotes after a consultation.",
-        "description": "Stone stair installation costs vary based on stone type, number of steps, design complexity, and site preparation. Custom projects can range from several thousand to tens of thousands of dollars."
-      }
-    }
-  ],
+  "name": "What is the typical cost for stone stair installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for stone stair installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stone stair installation varies widely depending on several factors. These include the type of natural stone selected (e.g., granite, flagstone, bluestone), the number and size of steps, the complexity of the design, site preparation requirements, and accessibility. Custom features like curves or integrated lighting will also affect the price. While it's difficult to provide an exact figure without a site visit, quality stone stair projects can range from several thousand dollars for a simple set of steps to tens of thousands for extensive, custom-designed installations. We offer detailed, transparent quotes after a consultation.",
+        "@type": "Answer",
+        "description": "Stone stair installation costs vary based on stone type, number of steps, design complexity, and site preparation. Custom projects can range from several thousand to tens of thousands of dollars."
+      }
+    }
+  ],
+  "description": "Stone stair installation costs vary based on stone type, number of steps, design complexity, and site preparation. Custom projects can range from several thousa"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when hiring a landscape installation company?",
-  "description": "Look for experience, a strong portfolio, licenses, insurance, good communication, and a clear process. Check for warranties and client testimonials.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-look-for-when-hiring-a-landscape-installation-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when hiring a landscape installation company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When hiring a landscape installation company, look for proven experience, a strong portfolio of completed projects, and positive client testimonials. Ensure they are licensed, bonded, and insured, especially in areas like Los Angeles. Evaluate their design capabilities, understanding of local climate and regulations, and communication style. Ask about their project management process, warranty, and post-installation support. A reputable company will provide clear contracts, detailed proposals, and demonstrate a commitment to quality and customer satisfaction.",
-        "description": "Look for experience, a strong portfolio, licenses, insurance, good communication, and a clear process. Check for warranties and client testimonials."
-      }
-    }
-  ],
+  "name": "What should I look for when hiring a landscape installation company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a landscape installation company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a landscape installation company, look for proven experience, a strong portfolio of completed projects, and positive client testimonials. Ensure they are licensed, bonded, and insured, especially in areas like Los Angeles. Evaluate their design capabilities, understanding of local climate and regulations, and communication style. Ask about their project management process, warranty, and post-installation support. A reputable company will provide clear contracts, detailed proposals, and demonstrate a commitment to quality and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Look for experience, a strong portfolio, licenses, insurance, good communication, and a clear process. Check for warranties and client testimonials."
+      }
+    }
+  ],
+  "description": "Look for experience, a strong portfolio, licenses, insurance, good communication, and a clear process. Check for warranties and client testimonials."
 }

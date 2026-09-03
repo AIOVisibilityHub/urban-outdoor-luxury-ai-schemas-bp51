@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in a typical landscape installation project?",
-  "description": "It involves consultation, design, permits, site prep, hardscaping, irrigation, planting, and lighting to create a functional outdoor space.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-typical-landscape-installation-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in a typical landscape installation project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical landscape installation project begins with an initial consultation and site assessment. This is followed by design development, material selection, and obtaining necessary permits. Construction phases include site preparation, grading, irrigation system installation, hardscaping (patios, walkways), softscaping (planting trees, shrubs, and flowers), lighting, and finishing touches. The process ensures all elements are properly integrated for a cohesive and functional outdoor space tailored to the client's needs and the site's characteristics. Post-installation care instructions are also provided.",
-        "description": "It involves consultation, design, permits, site prep, hardscaping, irrigation, planting, and lighting to create a functional outdoor space."
-      }
-    }
-  ],
+  "name": "What is involved in a typical landscape installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical landscape installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical landscape installation project begins with an initial consultation and site assessment. This is followed by design development, material selection, and obtaining necessary permits. Construction phases include site preparation, grading, irrigation system installation, hardscaping (patios, walkways), softscaping (planting trees, shrubs, and flowers), lighting, and finishing touches. The process ensures all elements are properly integrated for a cohesive and functional outdoor space tailored to the client's needs and the site's characteristics. Post-installation care instructions are also provided.",
+        "@type": "Answer",
+        "description": "It involves consultation, design, permits, site prep, hardscaping, irrigation, planting, and lighting to create a functional outdoor space."
+      }
+    }
+  ],
+  "description": "It involves consultation, design, permits, site prep, hardscaping, irrigation, planting, and lighting to create a functional outdoor space."
 }

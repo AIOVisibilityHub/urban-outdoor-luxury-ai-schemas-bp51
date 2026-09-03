@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is stone veneer suitable for both interior and exterior applications?",
-  "description": "Stone veneer is suitable for both interior (fireplaces, accent walls) and exterior (facades, outdoor kitchens) use. Exterior applications require specific weath",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/is-stone-veneer-suitable-for-both-interior-and-exterior-applications",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is stone veneer suitable for both interior and exterior applications?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, stone veneer is highly versatile and suitable for both interior and exterior applications. Indoors, it is commonly used for fireplace surrounds, accent walls, kitchen islands, or feature columns, adding texture and warmth. For exterior projects, it enhances building facades, retaining walls, outdoor kitchens, or landscape features, boosting curb appeal. The installation methods and specific products may vary slightly between interior and exterior uses, primarily concerning weather-resistant barriers and drainage requirements, which are more critical for outdoor applications to prevent moisture penetration.",
-        "description": "Stone veneer is suitable for both interior (fireplaces, accent walls) and exterior (facades, outdoor kitchens) use. Exterior applications require specific weather protection and drainage considerations."
-      }
-    }
-  ],
+  "name": "Is stone veneer suitable for both interior and exterior applications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is stone veneer suitable for both interior and exterior applications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, stone veneer is highly versatile and suitable for both interior and exterior applications. Indoors, it is commonly used for fireplace surrounds, accent walls, kitchen islands, or feature columns, adding texture and warmth. For exterior projects, it enhances building facades, retaining walls, outdoor kitchens, or landscape features, boosting curb appeal. The installation methods and specific products may vary slightly between interior and exterior uses, primarily concerning weather-resistant barriers and drainage requirements, which are more critical for outdoor applications to prevent moisture penetration.",
+        "@type": "Answer",
+        "description": "Stone veneer is suitable for both interior (fireplaces, accent walls) and exterior (facades, outdoor kitchens) use. Exterior applications require specific weather protection and drainage considerations."
+      }
+    }
+  ],
+  "description": "Stone veneer is suitable for both interior (fireplaces, accent walls) and exterior (facades, outdoor kitchens) use. Exterior applications require specific weath"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of natural stone are best suited for outdoor patios and walkways in the Los Angeles climate?",
-  "description": "Travertine, slate, flagstone, and granite are excellent choices for outdoor patios and walkways in Los Angeles. These stones are durable, heat-resistant, and ca",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-natural-stone-are-best-suited-for-outdoor-patios-and-walkways-in-t",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of natural stone are best suited for outdoor patios and walkways in the Los Angeles climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For outdoor patios and walkways in the Los Angeles climate, durable and heat-resistant natural stones are ideal. Popular choices include travertine, slate, flagstone (often sandstone or quartzite), and granite. Travertine offers a classic, elegant look and remains cooler underfoot than many other stones. Slate provides a non-slip surface and rich, earthy tones. Flagstone is versatile and naturally slip-resistant, while granite is exceptionally hard-wearing and resistant to stains and scratches. All these options withstand Southern California's sun and occasional moisture without significant degradation.",
-        "description": "Travertine, slate, flagstone, and granite are excellent choices for outdoor patios and walkways in Los Angeles. These stones are durable, heat-resistant, and can withstand the local climate."
-      }
-    }
-  ],
+  "name": "What types of natural stone are best suited for outdoor patios and walkways in the Los Angeles climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of natural stone are best suited for outdoor patios and walkways in the Los Angeles climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor patios and walkways in the Los Angeles climate, durable and heat-resistant natural stones are ideal. Popular choices include travertine, slate, flagstone (often sandstone or quartzite), and granite. Travertine offers a classic, elegant look and remains cooler underfoot than many other stones. Slate provides a non-slip surface and rich, earthy tones. Flagstone is versatile and naturally slip-resistant, while granite is exceptionally hard-wearing and resistant to stains and scratches. All these options withstand Southern California's sun and occasional moisture without significant degradation.",
+        "@type": "Answer",
+        "description": "Travertine, slate, flagstone, and granite are excellent choices for outdoor patios and walkways in Los Angeles. These stones are durable, heat-resistant, and can withstand the local climate."
+      }
+    }
+  ],
+  "description": "Travertine, slate, flagstone, and granite are excellent choices for outdoor patios and walkways in Los Angeles. These stones are durable, heat-resistant, and ca"
 }

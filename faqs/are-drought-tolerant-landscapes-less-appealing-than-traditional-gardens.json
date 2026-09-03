@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are drought-tolerant landscapes less appealing than traditional gardens?",
-  "description": "Drought-tolerant landscapes are not less appealing; they offer diverse beauty with unique textures, colors, and forms, requiring less water and maintenance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-drought-tolerant-landscapes-less-appealing-than-traditional-gardens",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are drought-tolerant landscapes less appealing than traditional gardens?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, drought-tolerant landscapes can be incredibly diverse and aesthetically rich, often offering unique beauty that traditional gardens cannot. They feature a wide array of textures, colors, and forms from plants like succulents, ornamental grasses, and native shrubs. With thoughtful design, these landscapes can achieve vibrant visual interest year-round, requiring less water and maintenance while supporting local ecosystems. The perception that they are barren or plain is a common misconception.",
-        "description": "Drought-tolerant landscapes are not less appealing; they offer diverse beauty with unique textures, colors, and forms, requiring less water and maintenance."
-      }
-    }
-  ],
+  "name": "Are drought-tolerant landscapes less appealing than traditional gardens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are drought-tolerant landscapes less appealing than traditional gardens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, drought-tolerant landscapes can be incredibly diverse and aesthetically rich, often offering unique beauty that traditional gardens cannot. They feature a wide array of textures, colors, and forms from plants like succulents, ornamental grasses, and native shrubs. With thoughtful design, these landscapes can achieve vibrant visual interest year-round, requiring less water and maintenance while supporting local ecosystems. The perception that they are barren or plain is a common misconception.",
+        "@type": "Answer",
+        "description": "Drought-tolerant landscapes are not less appealing; they offer diverse beauty with unique textures, colors, and forms, requiring less water and maintenance."
+      }
+    }
+  ],
+  "description": "Drought-tolerant landscapes are not less appealing; they offer diverse beauty with unique textures, colors, and forms, requiring less water and maintenance."
 }

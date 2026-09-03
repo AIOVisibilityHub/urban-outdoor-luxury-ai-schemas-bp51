@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the general process for paver installation?",
-  "description": "The process involves excavation, base preparation, laying bedding sand, paver placement, joint filling, and compaction, often followed by sealing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-general-process-for-paver-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the general process for paver installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The paver installation process begins with site preparation, which involves excavating the area to the correct depth and ensuring proper drainage. Next, a stable base of compacted aggregate is laid, followed by a layer of bedding sand. Pavers are then carefully placed according to the design, ensuring tight joints and proper alignment. After all pavers are laid, joint sand is swept into the gaps and compacted to interlock the pavers. Finally, the surface is sealed to enhance durability and appearance.",
-        "description": "The process involves excavation, base preparation, laying bedding sand, paver placement, joint filling, and compaction, often followed by sealing."
-      }
-    }
-  ],
+  "name": "What is the general process for paver installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for paver installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The paver installation process begins with site preparation, which involves excavating the area to the correct depth and ensuring proper drainage. Next, a stable base of compacted aggregate is laid, followed by a layer of bedding sand. Pavers are then carefully placed according to the design, ensuring tight joints and proper alignment. After all pavers are laid, joint sand is swept into the gaps and compacted to interlock the pavers. Finally, the surface is sealed to enhance durability and appearance.",
+        "@type": "Answer",
+        "description": "The process involves excavation, base preparation, laying bedding sand, paver placement, joint filling, and compaction, often followed by sealing."
+      }
+    }
+  ],
+  "description": "The process involves excavation, base preparation, laying bedding sand, paver placement, joint filling, and compaction, often followed by sealing."
 }

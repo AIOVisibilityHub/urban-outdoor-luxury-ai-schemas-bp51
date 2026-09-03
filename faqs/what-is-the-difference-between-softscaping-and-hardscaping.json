@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between softscaping and hardscaping?",
-  "description": "Softscaping includes living elements like plants and lawns, while hardscaping involves non-living structures such as patios, walkways, and walls.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-softscaping-and-hardscaping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between softscaping and hardscaping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Softscaping refers to the living elements of a landscape, such as trees, shrubs, flowers, groundcover, and lawns. These elements are dynamic, grow over time, and bring natural beauty and ecological benefits to an outdoor space. Hardscaping involves the non-living, structural elements of a landscape. This includes features like patios, walkways, retaining walls, pergolas, fire pits, and other built structures made from materials such as stone, concrete, wood, or pavers. Both are essential for a balanced and functional landscape design.",
-        "description": "Softscaping includes living elements like plants and lawns, while hardscaping involves non-living structures such as patios, walkways, and walls."
-      }
-    }
-  ],
+  "name": "What is the difference between softscaping and hardscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between softscaping and hardscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Softscaping refers to the living elements of a landscape, such as trees, shrubs, flowers, groundcover, and lawns. These elements are dynamic, grow over time, and bring natural beauty and ecological benefits to an outdoor space. Hardscaping involves the non-living, structural elements of a landscape. This includes features like patios, walkways, retaining walls, pergolas, fire pits, and other built structures made from materials such as stone, concrete, wood, or pavers. Both are essential for a balanced and functional landscape design.",
+        "@type": "Answer",
+        "description": "Softscaping includes living elements like plants and lawns, while hardscaping involves non-living structures such as patios, walkways, and walls."
+      }
+    }
+  ],
+  "description": "Softscaping includes living elements like plants and lawns, while hardscaping involves non-living structures such as patios, walkways, and walls."
 }

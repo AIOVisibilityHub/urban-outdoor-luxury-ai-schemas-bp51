@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do stone stairs require special maintenance?",
-  "description": "Stone stairs require routine sweeping and occasional washing with mild soap. Depending on the stone, periodic sealing is recommended to protect against stains a",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-stone-stairs-require-special-maintenance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do stone stairs require special maintenance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone stairs are very durable, but regular maintenance helps preserve their beauty and longevity. This typically involves routine sweeping to remove loose debris and occasional washing with mild soap and water to prevent dirt buildup. It's important to avoid harsh chemicals that can damage the stone or sealant. Depending on the stone type, periodic sealing (every 1-3 years) may be recommended to protect against staining and moisture penetration. Promptly cleaning spills, especially acidic ones, is also crucial. Proper maintenance ensures your stone stairs remain safe, attractive, and withstand the elements for decades.",
-        "description": "Stone stairs require routine sweeping and occasional washing with mild soap. Depending on the stone, periodic sealing is recommended to protect against stains and moisture."
-      }
-    }
-  ],
+  "name": "Do stone stairs require special maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do stone stairs require special maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone stairs are very durable, but regular maintenance helps preserve their beauty and longevity. This typically involves routine sweeping to remove loose debris and occasional washing with mild soap and water to prevent dirt buildup. It's important to avoid harsh chemicals that can damage the stone or sealant. Depending on the stone type, periodic sealing (every 1-3 years) may be recommended to protect against staining and moisture penetration. Promptly cleaning spills, especially acidic ones, is also crucial. Proper maintenance ensures your stone stairs remain safe, attractive, and withstand the elements for decades.",
+        "@type": "Answer",
+        "description": "Stone stairs require routine sweeping and occasional washing with mild soap. Depending on the stone, periodic sealing is recommended to protect against stains and moisture."
+      }
+    }
+  ],
+  "description": "Stone stairs require routine sweeping and occasional washing with mild soap. Depending on the stone, periodic sealing is recommended to protect against stains a"
 }

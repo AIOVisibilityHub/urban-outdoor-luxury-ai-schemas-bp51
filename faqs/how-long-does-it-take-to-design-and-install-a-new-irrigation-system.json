@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to design and install a new irrigation system?",
-  "description": "Design typically takes days to weeks, and installation for a residential system can range from one to three weeks, depending on project complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-design-and-install-a-new-irrigation-system",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to design and install a new irrigation system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for irrigation system design and installation varies based on the property size, landscape complexity, and system features. Design can take a few days to a couple of weeks, depending on the detail required. Installation for a typical residential property might range from one to three weeks. Larger or more intricate projects, such as those involving smart controllers or specialized zones, could extend this timeframe. We provide a detailed project schedule after the initial site assessment.",
-        "description": "Design typically takes days to weeks, and installation for a residential system can range from one to three weeks, depending on project complexity."
-      }
-    }
-  ],
+  "name": "How long does it take to design and install a new irrigation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and install a new irrigation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for irrigation system design and installation varies based on the property size, landscape complexity, and system features. Design can take a few days to a couple of weeks, depending on the detail required. Installation for a typical residential property might range from one to three weeks. Larger or more intricate projects, such as those involving smart controllers or specialized zones, could extend this timeframe. We provide a detailed project schedule after the initial site assessment.",
+        "@type": "Answer",
+        "description": "Design typically takes days to weeks, and installation for a residential system can range from one to three weeks, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Design typically takes days to weeks, and installation for a residential system can range from one to three weeks, depending on project complexity."
 }

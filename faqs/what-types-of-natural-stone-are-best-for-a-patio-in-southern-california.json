@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of natural stone are best for a patio in Southern California?",
-  "description": "Durable and heat-resistant natural stones like flagstone, travertine, granite, and slate are excellent choices for patios in Southern California. Each offers di",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-natural-stone-are-best-for-a-patio-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of natural stone are best for a patio in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Southern California patios, durable and heat-resistant natural stones are ideal. Flagstone (often sandstone or bluestone) is a popular choice for its rustic appeal and slip resistance. Travertine offers a luxurious, cooler surface underfoot, making it comfortable in warm climates. Granite is exceptionally strong and resistant to wear, while slate provides a unique, layered texture. The best choice depends on your aesthetic preference, budget, and the specific use of the patio, considering factors like direct sun exposure and expected foot traffic.",
-        "description": "Durable and heat-resistant natural stones like flagstone, travertine, granite, and slate are excellent choices for patios in Southern California. Each offers distinct aesthetic and practical benefits."
-      }
-    }
-  ],
+  "name": "What types of natural stone are best for a patio in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of natural stone are best for a patio in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Southern California patios, durable and heat-resistant natural stones are ideal. Flagstone (often sandstone or bluestone) is a popular choice for its rustic appeal and slip resistance. Travertine offers a luxurious, cooler surface underfoot, making it comfortable in warm climates. Granite is exceptionally strong and resistant to wear, while slate provides a unique, layered texture. The best choice depends on your aesthetic preference, budget, and the specific use of the patio, considering factors like direct sun exposure and expected foot traffic.",
+        "@type": "Answer",
+        "description": "Durable and heat-resistant natural stones like flagstone, travertine, granite, and slate are excellent choices for patios in Southern California. Each offers distinct aesthetic and practical benefits."
+      }
+    }
+  ],
+  "description": "Durable and heat-resistant natural stones like flagstone, travertine, granite, and slate are excellent choices for patios in Southern California. Each offers di"
 }

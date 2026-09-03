@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost of custom stonework for a patio or outdoor feature?",
-  "description": "Custom stonework costs vary based on stone type, project size, complexity, and design details. We provide detailed estimates after consultation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-average-cost-of-custom-stonework-for-a-patio-or-outdoor-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of custom stonework for a patio or outdoor feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of custom stonework is highly variable, depending on factors such as the type of stone selected, the project's size and complexity, site preparation requirements, and the specific design details. Natural stone materials vary widely in price, and intricate patterns or structural elements like retaining walls require more labor. While it's difficult to provide an average without a consultation, we offer detailed estimates after understanding your vision and assessing the site. Our goal is to balance aesthetic appeal with your budget.",
-        "description": "Custom stonework costs vary based on stone type, project size, complexity, and design details. We provide detailed estimates after consultation."
-      }
-    }
-  ],
+  "name": "What is the average cost of custom stonework for a patio or outdoor feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of custom stonework for a patio or outdoor feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom stonework is highly variable, depending on factors such as the type of stone selected, the project's size and complexity, site preparation requirements, and the specific design details. Natural stone materials vary widely in price, and intricate patterns or structural elements like retaining walls require more labor. While it's difficult to provide an average without a consultation, we offer detailed estimates after understanding your vision and assessing the site. Our goal is to balance aesthetic appeal with your budget.",
+        "@type": "Answer",
+        "description": "Custom stonework costs vary based on stone type, project size, complexity, and design details. We provide detailed estimates after consultation."
+      }
+    }
+  ],
+  "description": "Custom stonework costs vary based on stone type, project size, complexity, and design details. We provide detailed estimates after consultation."
 }

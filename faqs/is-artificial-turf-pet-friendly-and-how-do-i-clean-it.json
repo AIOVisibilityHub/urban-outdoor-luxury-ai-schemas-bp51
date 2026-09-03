@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is artificial turf pet-friendly and how do I clean it?",
-  "description": "Artificial turf is pet-friendly and easy to clean. Remove solid waste, rinse liquid waste with water, and use specialized cleaners or diluted vinegar for odors.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/is-artificial-turf-pet-friendly-and-how-do-i-clean-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is artificial turf pet-friendly and how do I clean it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, artificial turf is highly pet-friendly. It provides a durable, clean surface that won't develop muddy spots or pest infestations common with natural grass. For cleaning pet waste, solid waste should be removed as usual. Liquid waste typically drains through the turf, and occasional rinsing with water is recommended. For stubborn odors or deeper cleaning, specialized turf cleaners or a diluted white vinegar solution can be applied, followed by a rinse.",
-        "description": "Artificial turf is pet-friendly and easy to clean. Remove solid waste, rinse liquid waste with water, and use specialized cleaners or diluted vinegar for odors."
-      }
-    }
-  ],
+  "name": "Is artificial turf pet-friendly and how do I clean it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is artificial turf pet-friendly and how do I clean it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, artificial turf is highly pet-friendly. It provides a durable, clean surface that won't develop muddy spots or pest infestations common with natural grass. For cleaning pet waste, solid waste should be removed as usual. Liquid waste typically drains through the turf, and occasional rinsing with water is recommended. For stubborn odors or deeper cleaning, specialized turf cleaners or a diluted white vinegar solution can be applied, followed by a rinse.",
+        "@type": "Answer",
+        "description": "Artificial turf is pet-friendly and easy to clean. Remove solid waste, rinse liquid waste with water, and use specialized cleaners or diluted vinegar for odors."
+      }
+    }
+  ],
+  "description": "Artificial turf is pet-friendly and easy to clean. Remove solid waste, rinse liquid waste with water, and use specialized cleaners or diluted vinegar for odors."
 }

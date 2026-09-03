@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance does natural stone require to keep it looking new?",
-  "description": "Maintain natural stone by regular cleaning with a neutral pH cleaner and periodic sealing, typically every 1-3 years, to protect against stains and weathering.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-does-natural-stone-require-to-keep-it-looking-new",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance does natural stone require to keep it looking new?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone requires relatively low, but consistent, maintenance to preserve its beauty. Regular sweeping or blowing to remove debris is essential. Periodic cleaning with a neutral pH stone cleaner and water helps remove dirt and grime without damaging the stone or sealant. Sealing is crucial for most natural stones, especially in outdoor settings, to protect against stains, moisture penetration, and efflorescence. The frequency of resealing depends on the stone type and exposure, typically every 1-3 years. Promptly addressing spills also helps prevent staining.",
-        "description": "Maintain natural stone by regular cleaning with a neutral pH cleaner and periodic sealing, typically every 1-3 years, to protect against stains and weathering. Promptly clean spills."
-      }
-    }
-  ],
+  "name": "What kind of maintenance does natural stone require to keep it looking new?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does natural stone require to keep it looking new?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone requires relatively low, but consistent, maintenance to preserve its beauty. Regular sweeping or blowing to remove debris is essential. Periodic cleaning with a neutral pH stone cleaner and water helps remove dirt and grime without damaging the stone or sealant. Sealing is crucial for most natural stones, especially in outdoor settings, to protect against stains, moisture penetration, and efflorescence. The frequency of resealing depends on the stone type and exposure, typically every 1-3 years. Promptly addressing spills also helps prevent staining.",
+        "@type": "Answer",
+        "description": "Maintain natural stone by regular cleaning with a neutral pH cleaner and periodic sealing, typically every 1-3 years, to protect against stains and weathering. Promptly clean spills."
+      }
+    }
+  ],
+  "description": "Maintain natural stone by regular cleaning with a neutral pH cleaner and periodic sealing, typically every 1-3 years, to protect against stains and weathering."
 }

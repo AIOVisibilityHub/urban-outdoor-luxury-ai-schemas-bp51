@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for a sustainable luxury landscape design project?",
-  "description": "The design phase typically takes 4-12 weeks, and construction can range from 8 weeks to 6 months or more, depending on project scope.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-sustainable-luxury-landscape-design-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for a sustainable luxury landscape design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a sustainable luxury landscape design project varies based on its complexity and scope. Generally, the design phase can take 4-12 weeks, involving consultations, site analysis, conceptualization, and detailed plans. Construction and installation typically follow, ranging from 8 weeks for smaller projects to 6 months or more for extensive transformations. Factors influencing the timeline include permitting requirements, material lead times, weather conditions, and the extent of hardscaping and planting. A detailed project schedule is provided after the initial design concepts are approved.",
-        "description": "The design phase typically takes 4-12 weeks, and construction can range from 8 weeks to 6 months or more, depending on project scope."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for a sustainable luxury landscape design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a sustainable luxury landscape design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a sustainable luxury landscape design project varies based on its complexity and scope. Generally, the design phase can take 4-12 weeks, involving consultations, site analysis, conceptualization, and detailed plans. Construction and installation typically follow, ranging from 8 weeks for smaller projects to 6 months or more for extensive transformations. Factors influencing the timeline include permitting requirements, material lead times, weather conditions, and the extent of hardscaping and planting. A detailed project schedule is provided after the initial design concepts are approved.",
+        "@type": "Answer",
+        "description": "The design phase typically takes 4-12 weeks, and construction can range from 8 weeks to 6 months or more, depending on project scope."
+      }
+    }
+  ],
+  "description": "The design phase typically takes 4-12 weeks, and construction can range from 8 weeks to 6 months or more, depending on project scope."
 }

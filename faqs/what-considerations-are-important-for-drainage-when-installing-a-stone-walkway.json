@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important for drainage when installing a stone walkway?",
-  "description": "Proper drainage is crucial to prevent water pooling and erosion. We ensure proper grading and may integrate solutions like French drains or permeable bases to d",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-considerations-are-important-for-drainage-when-installing-a-stone-walkway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important for drainage when installing a stone walkway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Proper drainage is a critical consideration for stone walkway installation to prevent water pooling, erosion, and potential damage to your property's foundation. Our process includes grading the underlying soil and base materials to ensure a slight slope, directing water away from your home and garden beds. We also consider the surrounding landscape, integrating solutions like French drains or permeable base materials if necessary, especially in areas prone to heavy rainfall. Effective drainage extends the lifespan of your walkway and protects your landscape from water-related issues.",
-        "description": "Proper drainage is crucial to prevent water pooling and erosion. We ensure proper grading and may integrate solutions like French drains or permeable bases to direct water away."
-      }
-    }
-  ],
+  "name": "What considerations are important for drainage when installing a stone walkway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for drainage when installing a stone walkway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper drainage is a critical consideration for stone walkway installation to prevent water pooling, erosion, and potential damage to your property's foundation. Our process includes grading the underlying soil and base materials to ensure a slight slope, directing water away from your home and garden beds. We also consider the surrounding landscape, integrating solutions like French drains or permeable base materials if necessary, especially in areas prone to heavy rainfall. Effective drainage extends the lifespan of your walkway and protects your landscape from water-related issues.",
+        "@type": "Answer",
+        "description": "Proper drainage is crucial to prevent water pooling and erosion. We ensure proper grading and may integrate solutions like French drains or permeable bases to direct water away."
+      }
+    }
+  ],
+  "description": "Proper drainage is crucial to prevent water pooling and erosion. We ensure proper grading and may integrate solutions like French drains or permeable bases to d"
 }

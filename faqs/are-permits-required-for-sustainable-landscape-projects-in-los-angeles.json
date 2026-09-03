@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are permits required for sustainable landscape projects in Los Angeles?",
-  "description": "Permits may be required for significant grading, extensive hardscaping, or structural alterations in Los Angeles; simple planting projects typically do not.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-permits-required-for-sustainable-landscape-projects-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are permits required for sustainable landscape projects in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permits may be required for sustainable landscape projects in Los Angeles, depending on the scope of work. Projects involving significant grading, drainage modifications, extensive hardscaping (e.g., large patios, retaining walls over a certain height), or alterations to existing structures typically necessitate permits from the City of Los Angeles Department of Building and Safety, or other relevant municipal departments for specific areas like Pasadena or San Marino. Simple planting projects usually do not require permits. We assist clients in identifying and navigating the necessary permitting processes to ensure full compliance.",
-        "description": "Permits may be required for significant grading, extensive hardscaping, or structural alterations in Los Angeles; simple planting projects typically do not."
-      }
-    }
-  ],
+  "name": "Are permits required for sustainable landscape projects in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for sustainable landscape projects in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits may be required for sustainable landscape projects in Los Angeles, depending on the scope of work. Projects involving significant grading, drainage modifications, extensive hardscaping (e.g., large patios, retaining walls over a certain height), or alterations to existing structures typically necessitate permits from the City of Los Angeles Department of Building and Safety, or other relevant municipal departments for specific areas like Pasadena or San Marino. Simple planting projects usually do not require permits. We assist clients in identifying and navigating the necessary permitting processes to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Permits may be required for significant grading, extensive hardscaping, or structural alterations in Los Angeles; simple planting projects typically do not."
+      }
+    }
+  ],
+  "description": "Permits may be required for significant grading, extensive hardscaping, or structural alterations in Los Angeles; simple planting projects typically do not."
 }

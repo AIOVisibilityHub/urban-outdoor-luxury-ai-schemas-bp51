@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a drought-tolerant landscape?",
-  "description": "Maintenance is low but includes weeding, occasional pruning, and irrigation system checks. Established plants rarely need fertilizing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-drought-tolerant-landscape",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a drought-tolerant landscape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drought-tolerant landscapes generally require less maintenance than traditional lawns, but some care is still essential. This typically includes periodic weeding, occasional pruning to maintain plant shape and health, and checking irrigation systems for efficiency. Established drought-tolerant plants rarely need fertilizing. Regular inspection helps catch any issues early, ensuring your landscape remains healthy and beautiful with minimal effort.",
-        "description": "Maintenance is low but includes weeding, occasional pruning, and irrigation system checks. Established plants rarely need fertilizing."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a drought-tolerant landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a drought-tolerant landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drought-tolerant landscapes generally require less maintenance than traditional lawns, but some care is still essential. This typically includes periodic weeding, occasional pruning to maintain plant shape and health, and checking irrigation systems for efficiency. Established drought-tolerant plants rarely need fertilizing. Regular inspection helps catch any issues early, ensuring your landscape remains healthy and beautiful with minimal effort.",
+        "@type": "Answer",
+        "description": "Maintenance is low but includes weeding, occasional pruning, and irrigation system checks. Established plants rarely need fertilizing."
+      }
+    }
+  ],
+  "description": "Maintenance is low but includes weeding, occasional pruning, and irrigation system checks. Established plants rarely need fertilizing."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a covered patio?",
-  "description": "Maintenance depends on materials: aluminum requires minimal cleaning, while wood may need periodic staining or sealing. Regular inspections are recommended for",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-covered-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a covered patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance requirements for a covered patio vary based on the materials used. Aluminum patio covers generally require minimal upkeep, usually just occasional cleaning with soap and water to remove dirt or debris. Wood patios, especially those exposed to the elements, may need periodic staining or sealing to protect against weathering and maintain their appearance. All patio covers benefit from regular inspection to ensure structural integrity and address any minor issues before they become larger problems.",
-        "description": "Maintenance depends on materials: aluminum requires minimal cleaning, while wood may need periodic staining or sealing. Regular inspections are recommended for all."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements for a covered patio vary based on the materials used. Aluminum patio covers generally require minimal upkeep, usually just occasional cleaning with soap and water to remove dirt or debris. Wood patios, especially those exposed to the elements, may need periodic staining or sealing to protect against weathering and maintain their appearance. All patio covers benefit from regular inspection to ensure structural integrity and address any minor issues before they become larger problems.",
+        "@type": "Answer",
+        "description": "Maintenance depends on materials: aluminum requires minimal cleaning, while wood may need periodic staining or sealing. Regular inspections are recommended for all."
+      }
+    }
+  ],
+  "description": "Maintenance depends on materials: aluminum requires minimal cleaning, while wood may need periodic staining or sealing. Regular inspections are recommended for"
 }

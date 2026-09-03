@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a cabana increase my property value?",
-  "description": "A well-designed cabana can increase property value by adding luxurious outdoor living space and enhancing overall appeal.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-cabana-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a cabana increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-designed and professionally installed cabana can significantly enhance your property's appeal and market value. It expands usable living space, offers luxurious outdoor amenities, and demonstrates a commitment to quality outdoor living. As part of a cohesive landscape design, a cabana can transform your backyard into a sophisticated retreat, making your property more attractive to potential buyers. The return on investment often depends on the quality of construction and how well the cabana integrates with the existing home and landscape.",
-        "description": "A well-designed cabana can increase property value by adding luxurious outdoor living space and enhancing overall appeal."
-      }
-    }
-  ],
+  "name": "Can a cabana increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a cabana increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally installed cabana can significantly enhance your property's appeal and market value. It expands usable living space, offers luxurious outdoor amenities, and demonstrates a commitment to quality outdoor living. As part of a cohesive landscape design, a cabana can transform your backyard into a sophisticated retreat, making your property more attractive to potential buyers. The return on investment often depends on the quality of construction and how well the cabana integrates with the existing home and landscape.",
+        "@type": "Answer",
+        "description": "A well-designed cabana can increase property value by adding luxurious outdoor living space and enhancing overall appeal."
+      }
+    }
+  ],
+  "description": "A well-designed cabana can increase property value by adding luxurious outdoor living space and enhancing overall appeal."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are stone stairs slippery when wet?",
-  "description": "Slip resistance of stone stairs varies by stone type and finish. Many outdoor stones have natural texture or can be finished to provide good grip, especially wh",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-stone-stairs-slippery-when-wet",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are stone stairs slippery when wet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The slip resistance of stone stairs varies depending on the type of stone and its finish. Polished stones like some granites can be slippery when wet, but many natural stones used for outdoor applications have inherent texture or can be finished to provide better grip. Flagstone, for instance, often has a naturally rough surface that offers excellent traction. Bluestone and certain types of sandstone also provide good slip resistance. For areas prone to moisture, we can recommend stones with naturally higher friction or apply finishes that enhance grip, ensuring safety even in damp conditions.",
-        "description": "Slip resistance of stone stairs varies by stone type and finish. Many outdoor stones have natural texture or can be finished to provide good grip, especially when wet."
-      }
-    }
-  ],
+  "name": "Are stone stairs slippery when wet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are stone stairs slippery when wet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The slip resistance of stone stairs varies depending on the type of stone and its finish. Polished stones like some granites can be slippery when wet, but many natural stones used for outdoor applications have inherent texture or can be finished to provide better grip. Flagstone, for instance, often has a naturally rough surface that offers excellent traction. Bluestone and certain types of sandstone also provide good slip resistance. For areas prone to moisture, we can recommend stones with naturally higher friction or apply finishes that enhance grip, ensuring safety even in damp conditions.",
+        "@type": "Answer",
+        "description": "Slip resistance of stone stairs varies by stone type and finish. Many outdoor stones have natural texture or can be finished to provide good grip, especially when wet."
+      }
+    }
+  ],
+  "description": "Slip resistance of stone stairs varies by stone type and finish. Many outdoor stones have natural texture or can be finished to provide good grip, especially wh"
 }

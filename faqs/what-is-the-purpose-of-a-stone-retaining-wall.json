@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the purpose of a stone retaining wall?",
-  "description": "A stone retaining wall holds back soil, prevents erosion on slopes, and creates usable land, while also adding aesthetic value to a landscape.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-purpose-of-a-stone-retaining-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the purpose of a stone retaining wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A stone retaining wall is a structural element designed to hold back soil and prevent erosion on sloped terrain. It helps create flat, usable land, manages water runoff, and can add significant aesthetic value to a landscape. Beyond erosion control, these walls can define outdoor spaces, create garden beds, or level areas for patios and walkways. Proper construction is essential to ensure long-term stability and effectiveness, accommodating soil pressure and drainage requirements.",
-        "description": "A stone retaining wall holds back soil, prevents erosion on slopes, and creates usable land, while also adding aesthetic value to a landscape."
-      }
-    }
-  ],
+  "name": "What is the purpose of a stone retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of a stone retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A stone retaining wall is a structural element designed to hold back soil and prevent erosion on sloped terrain. It helps create flat, usable land, manages water runoff, and can add significant aesthetic value to a landscape. Beyond erosion control, these walls can define outdoor spaces, create garden beds, or level areas for patios and walkways. Proper construction is essential to ensure long-term stability and effectiveness, accommodating soil pressure and drainage requirements.",
+        "@type": "Answer",
+        "description": "A stone retaining wall holds back soil, prevents erosion on slopes, and creates usable land, while also adding aesthetic value to a landscape."
+      }
+    }
+  ],
+  "description": "A stone retaining wall holds back soil, prevents erosion on slopes, and creates usable land, while also adding aesthetic value to a landscape."
 }

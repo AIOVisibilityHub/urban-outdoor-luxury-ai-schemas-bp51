@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you choose the right contractor for a modern landscape design project?",
-  "description": "Choose a contractor with a strong portfolio of modern designs, verified licenses, good references, and clear communication to ensure project success.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-choose-the-right-contractor-for-a-modern-landscape-design-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you choose the right contractor for a modern landscape design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor for a modern landscape design project involves evaluating several key factors. Look for firms with a proven portfolio of modern designs, demonstrating expertise in clean lines, specific materials, and contemporary aesthetics. Verify their licenses, insurance, and client references to ensure reliability and quality. Communication style, project management approach, and a clear understanding of your vision are also crucial. A reputable contractor will provide detailed proposals and transparent cost breakdowns, ensuring alignment throughout the project.",
-        "description": "Choose a contractor with a strong portfolio of modern designs, verified licenses, good references, and clear communication to ensure project success."
-      }
-    }
-  ],
+  "name": "How do you choose the right contractor for a modern landscape design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you choose the right contractor for a modern landscape design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a modern landscape design project involves evaluating several key factors. Look for firms with a proven portfolio of modern designs, demonstrating expertise in clean lines, specific materials, and contemporary aesthetics. Verify their licenses, insurance, and client references to ensure reliability and quality. Communication style, project management approach, and a clear understanding of your vision are also crucial. A reputable contractor will provide detailed proposals and transparent cost breakdowns, ensuring alignment throughout the project.",
+        "@type": "Answer",
+        "description": "Choose a contractor with a strong portfolio of modern designs, verified licenses, good references, and clear communication to ensure project success."
+      }
+    }
+  ],
+  "description": "Choose a contractor with a strong portfolio of modern designs, verified licenses, good references, and clear communication to ensure project success."
 }

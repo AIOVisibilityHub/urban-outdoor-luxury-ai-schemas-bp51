@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when hiring a contractor for paver installation?",
-  "description": "When hiring, consider the contractor's experience, reputation, licensing, insurance, detailed quotes, and clear communication.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-consider-when-hiring-a-contractor-for-paver-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when hiring a contractor for paver installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a paver installation contractor, prioritize experience, reputation, and proper licensing. Look for a contractor with a proven track record in paver projects, evidenced by a portfolio of completed work and positive client testimonials. Ensure they are fully licensed, insured, and can provide a detailed, written quote outlining all costs and project timelines. Communication is key; choose a contractor who is responsive and transparent throughout the process to ensure your vision is realized.",
-        "description": "When hiring, consider the contractor's experience, reputation, licensing, insurance, detailed quotes, and clear communication."
-      }
-    }
-  ],
+  "name": "What should I consider when hiring a contractor for paver installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when hiring a contractor for paver installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a paver installation contractor, prioritize experience, reputation, and proper licensing. Look for a contractor with a proven track record in paver projects, evidenced by a portfolio of completed work and positive client testimonials. Ensure they are fully licensed, insured, and can provide a detailed, written quote outlining all costs and project timelines. Communication is key; choose a contractor who is responsive and transparent throughout the process to ensure your vision is realized.",
+        "@type": "Answer",
+        "description": "When hiring, consider the contractor's experience, reputation, licensing, insurance, detailed quotes, and clear communication."
+      }
+    }
+  ],
+  "description": "When hiring, consider the contractor's experience, reputation, licensing, insurance, detailed quotes, and clear communication."
 }

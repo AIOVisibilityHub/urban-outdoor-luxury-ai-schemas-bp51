@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are used in sustainable luxury landscaping?",
-  "description": "Materials include locally sourced stone, recycled content pavers, permeable surfaces, sustainably harvested wood, and low-VOC sealants chosen for durability and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-used-in-sustainable-luxury-landscaping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are used in sustainable luxury landscaping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sustainable luxury landscaping utilizes materials chosen for their durability, low environmental impact, and aesthetic appeal. This often includes locally sourced stone, recycled content pavers, permeable surfaces that allow water absorption, and sustainably harvested wood. We also incorporate innovative materials like decomposed granite for pathways and low-VOC (volatile organic compound) sealants. The selection emphasizes materials that are long-lasting, require minimal maintenance, and contribute to the overall ecological balance of the site, while maintaining a premium look and feel.",
-        "description": "Materials include locally sourced stone, recycled content pavers, permeable surfaces, sustainably harvested wood, and low-VOC sealants chosen for durability and low environmental impact."
-      }
-    }
-  ],
+  "name": "What materials are used in sustainable luxury landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used in sustainable luxury landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sustainable luxury landscaping utilizes materials chosen for their durability, low environmental impact, and aesthetic appeal. This often includes locally sourced stone, recycled content pavers, permeable surfaces that allow water absorption, and sustainably harvested wood. We also incorporate innovative materials like decomposed granite for pathways and low-VOC (volatile organic compound) sealants. The selection emphasizes materials that are long-lasting, require minimal maintenance, and contribute to the overall ecological balance of the site, while maintaining a premium look and feel.",
+        "@type": "Answer",
+        "description": "Materials include locally sourced stone, recycled content pavers, permeable surfaces, sustainably harvested wood, and low-VOC sealants chosen for durability and low environmental impact."
+      }
+    }
+  ],
+  "description": "Materials include locally sourced stone, recycled content pavers, permeable surfaces, sustainably harvested wood, and low-VOC sealants chosen for durability and"
 }

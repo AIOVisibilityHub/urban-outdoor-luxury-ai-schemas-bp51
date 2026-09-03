@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of a custom pergola project?",
-  "description": "Pergola costs depend on size, design complexity, material choice, added features like shades or lighting, site conditions, and permit fees.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-pergola-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of a custom pergola project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom pergola project is influenced by several key factors. These include the size and complexity of the design, the chosen materials (e.g., cedar, aluminum, fiberglass), integrated features like retractable shades, lighting, or heating elements, and site-specific considerations such as terrain or accessibility. Permit fees and any necessary site preparation also contribute to the overall investment. We provide detailed estimates after an initial consultation to ensure transparency regarding all project costs.",
-        "description": "Pergola costs depend on size, design complexity, material choice, added features like shades or lighting, site conditions, and permit fees."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of a custom pergola project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom pergola project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom pergola project is influenced by several key factors. These include the size and complexity of the design, the chosen materials (e.g., cedar, aluminum, fiberglass), integrated features like retractable shades, lighting, or heating elements, and site-specific considerations such as terrain or accessibility. Permit fees and any necessary site preparation also contribute to the overall investment. We provide detailed estimates after an initial consultation to ensure transparency regarding all project costs.",
+        "@type": "Answer",
+        "description": "Pergola costs depend on size, design complexity, material choice, added features like shades or lighting, site conditions, and permit fees."
+      }
+    }
+  ],
+  "description": "Pergola costs depend on size, design complexity, material choice, added features like shades or lighting, site conditions, and permit fees."
 }

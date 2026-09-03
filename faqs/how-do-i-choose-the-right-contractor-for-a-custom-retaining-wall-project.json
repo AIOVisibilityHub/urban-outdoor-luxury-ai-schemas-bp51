@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for a custom retaining wall project?",
-  "description": "Choose a contractor with specific experience, licenses, insurance, and a strong portfolio of retaining wall projects. Check references and ensure they understan",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-custom-retaining-wall-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for a custom retaining wall project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor is crucial for the success and longevity of your retaining wall. Look for a firm with proven experience in custom retaining wall construction, not just general landscaping. Verify their licenses, insurance, and ask for a portfolio of past projects, specifically showcasing retaining walls. Check client testimonials and references to gauge their reputation for quality, communication, and project management. A good contractor will also provide a detailed proposal, explain the process clearly, and demonstrate expertise in local building codes and engineering requirements for structural integrity.",
-        "description": "Choose a contractor with specific experience, licenses, insurance, and a strong portfolio of retaining wall projects. Check references and ensure they understand local codes."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for a custom retaining wall project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a custom retaining wall project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for the success and longevity of your retaining wall. Look for a firm with proven experience in custom retaining wall construction, not just general landscaping. Verify their licenses, insurance, and ask for a portfolio of past projects, specifically showcasing retaining walls. Check client testimonials and references to gauge their reputation for quality, communication, and project management. A good contractor will also provide a detailed proposal, explain the process clearly, and demonstrate expertise in local building codes and engineering requirements for structural integrity.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific experience, licenses, insurance, and a strong portfolio of retaining wall projects. Check references and ensure they understand local codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific experience, licenses, insurance, and a strong portfolio of retaining wall projects. Check references and ensure they understan"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can modern landscape design increase property value in areas like Pasadena?",
-  "description": "Yes, a well-executed modern landscape design can increase property value in areas like Pasadena by enhancing curb appeal and creating functional outdoor living",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-modern-landscape-design-increase-property-value-in-areas-like-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can modern landscape design increase property value in areas like Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-executed modern landscape design can significantly enhance property value, particularly in desirable areas like Pasadena. It elevates curb appeal, creates functional outdoor living spaces, and often incorporates sustainable elements that appeal to buyers. Contemporary designs, when thoughtfully integrated with the home's architecture, are viewed as an extension of luxury living. The investment in a high-quality modern landscape can yield a strong return, making the property more attractive and competitive in the real estate market.",
-        "description": "Yes, a well-executed modern landscape design can increase property value in areas like Pasadena by enhancing curb appeal and creating functional outdoor living spaces."
-      }
-    }
-  ],
+  "name": "Can modern landscape design increase property value in areas like Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can modern landscape design increase property value in areas like Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-executed modern landscape design can significantly enhance property value, particularly in desirable areas like Pasadena. It elevates curb appeal, creates functional outdoor living spaces, and often incorporates sustainable elements that appeal to buyers. Contemporary designs, when thoughtfully integrated with the home's architecture, are viewed as an extension of luxury living. The investment in a high-quality modern landscape can yield a strong return, making the property more attractive and competitive in the real estate market.",
+        "@type": "Answer",
+        "description": "Yes, a well-executed modern landscape design can increase property value in areas like Pasadena by enhancing curb appeal and creating functional outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Yes, a well-executed modern landscape design can increase property value in areas like Pasadena by enhancing curb appeal and creating functional outdoor living"
 }

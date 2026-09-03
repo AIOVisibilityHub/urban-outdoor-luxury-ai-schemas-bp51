@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What defines modern landscape design?",
-  "description": "Modern landscape design features clean lines, minimalist aesthetics, sustainable materials, and a seamless indoor-outdoor connection.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-defines-modern-landscape-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What defines modern landscape design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern landscape design emphasizes clean lines, minimalist aesthetics, and the integration of sustainable materials. Key characteristics include open spaces, geometric forms, drought-tolerant plantings, and a seamless connection between indoor and outdoor living areas. The focus is on functionality, simplicity, and creating a cohesive, sophisticated environment that complements contemporary architecture. It often incorporates elements like concrete, steel, natural stone, and muted color palettes to achieve a refined, uncluttered look.",
-        "description": "Modern landscape design features clean lines, minimalist aesthetics, sustainable materials, and a seamless indoor-outdoor connection."
-      }
-    }
-  ],
+  "name": "What defines modern landscape design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What defines modern landscape design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern landscape design emphasizes clean lines, minimalist aesthetics, and the integration of sustainable materials. Key characteristics include open spaces, geometric forms, drought-tolerant plantings, and a seamless connection between indoor and outdoor living areas. The focus is on functionality, simplicity, and creating a cohesive, sophisticated environment that complements contemporary architecture. It often incorporates elements like concrete, steel, natural stone, and muted color palettes to achieve a refined, uncluttered look.",
+        "@type": "Answer",
+        "description": "Modern landscape design features clean lines, minimalist aesthetics, sustainable materials, and a seamless indoor-outdoor connection."
+      }
+    }
+  ],
+  "description": "Modern landscape design features clean lines, minimalist aesthetics, sustainable materials, and a seamless indoor-outdoor connection."
 }

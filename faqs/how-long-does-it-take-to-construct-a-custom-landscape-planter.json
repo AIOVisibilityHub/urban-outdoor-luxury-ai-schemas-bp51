@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to construct a custom landscape planter?",
-  "description": "Construction time varies based on size, complexity, materials, and site conditions; typically from a few days to several weeks. Permitting can also affect durat",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-construct-a-custom-landscape-planter",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to construct a custom landscape planter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a custom landscape planter varies based on its size, design complexity, material choices, and site conditions. A smaller, simpler concrete planter might be completed in a few days, while a larger, intricate design involving multiple materials, integrated systems, and specialized finishes could take several weeks. Permitting requirements, if applicable, can also influence the overall project duration. We provide an estimated timeline during the planning phase, ensuring clear communication regarding project milestones from start to completion.",
-        "description": "Construction time varies based on size, complexity, materials, and site conditions; typically from a few days to several weeks. Permitting can also affect duration."
-      }
-    }
-  ],
+  "name": "How long does it take to construct a custom landscape planter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a custom landscape planter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a custom landscape planter varies based on its size, design complexity, material choices, and site conditions. A smaller, simpler concrete planter might be completed in a few days, while a larger, intricate design involving multiple materials, integrated systems, and specialized finishes could take several weeks. Permitting requirements, if applicable, can also influence the overall project duration. We provide an estimated timeline during the planning phase, ensuring clear communication regarding project milestones from start to completion.",
+        "@type": "Answer",
+        "description": "Construction time varies based on size, complexity, materials, and site conditions; typically from a few days to several weeks. Permitting can also affect duration."
+      }
+    }
+  ],
+  "description": "Construction time varies based on size, complexity, materials, and site conditions; typically from a few days to several weeks. Permitting can also affect durat"
 }

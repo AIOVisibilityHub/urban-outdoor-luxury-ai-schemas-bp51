@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best artificial turf for my property in Los Angeles?",
-  "description": "Choose artificial turf by considering intended use, sun exposure, desired aesthetic, and budget, especially for the Los Angeles climate, and consult with local",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-best-artificial-turf-for-my-property-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best artificial turf for my property in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the best artificial turf involves considering several factors relevant to the Los Angeles climate and your specific needs. Evaluate the intended use (e.g., pet area, high-traffic play area, aesthetic lawn) to determine required durability and infill. Consider the sun exposure to select turf with UV protection to prevent fading. Look at blade shape and color for a natural appearance that complements your home. Finally, assess your budget and consult with professionals who understand local regulations and design preferences to ensure an optimal choice.",
-        "description": "Choose artificial turf by considering intended use, sun exposure, desired aesthetic, and budget, especially for the Los Angeles climate, and consult with local professionals."
-      }
-    }
-  ],
+  "name": "How do I choose the best artificial turf for my property in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best artificial turf for my property in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best artificial turf involves considering several factors relevant to the Los Angeles climate and your specific needs. Evaluate the intended use (e.g., pet area, high-traffic play area, aesthetic lawn) to determine required durability and infill. Consider the sun exposure to select turf with UV protection to prevent fading. Look at blade shape and color for a natural appearance that complements your home. Finally, assess your budget and consult with professionals who understand local regulations and design preferences to ensure an optimal choice.",
+        "@type": "Answer",
+        "description": "Choose artificial turf by considering intended use, sun exposure, desired aesthetic, and budget, especially for the Los Angeles climate, and consult with local professionals."
+      }
+    }
+  ],
+  "description": "Choose artificial turf by considering intended use, sun exposure, desired aesthetic, and budget, especially for the Los Angeles climate, and consult with local"
 }

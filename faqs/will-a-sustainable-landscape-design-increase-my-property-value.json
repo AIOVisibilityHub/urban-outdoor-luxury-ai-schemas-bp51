@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a sustainable landscape design increase my property value?",
-  "description": "Yes, sustainable landscape design enhances curb appeal, offers long-term savings on water and maintenance, and appeals to environmentally conscious buyers, incr",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/will-a-sustainable-landscape-design-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a sustainable landscape design increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-executed sustainable landscape design can significantly increase your property value. High-quality landscaping enhances curb appeal and creates desirable outdoor living spaces, which are attractive to potential buyers. The inherent benefits of sustainable design, such as reduced water bills due to efficient irrigation and drought-tolerant planting, and lower maintenance needs, offer long-term financial advantages. Environmentally conscious designs are also increasingly sought after, positioning your property as modern and responsible. These factors collectively contribute to a strong return on investment.",
-        "description": "Yes, sustainable landscape design enhances curb appeal, offers long-term savings on water and maintenance, and appeals to environmentally conscious buyers, increasing property value."
-      }
-    }
-  ],
+  "name": "Will a sustainable landscape design increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a sustainable landscape design increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-executed sustainable landscape design can significantly increase your property value. High-quality landscaping enhances curb appeal and creates desirable outdoor living spaces, which are attractive to potential buyers. The inherent benefits of sustainable design, such as reduced water bills due to efficient irrigation and drought-tolerant planting, and lower maintenance needs, offer long-term financial advantages. Environmentally conscious designs are also increasingly sought after, positioning your property as modern and responsible. These factors collectively contribute to a strong return on investment.",
+        "@type": "Answer",
+        "description": "Yes, sustainable landscape design enhances curb appeal, offers long-term savings on water and maintenance, and appeals to environmentally conscious buyers, increasing property value."
+      }
+    }
+  ],
+  "description": "Yes, sustainable landscape design enhances curb appeal, offers long-term savings on water and maintenance, and appeals to environmentally conscious buyers, incr"
 }

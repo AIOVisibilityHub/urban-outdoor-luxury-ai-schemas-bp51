@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a drought-tolerant landscape increase my property value?",
-  "description": "Yes, a well-designed drought-tolerant landscape can increase property value by offering sustainability, lower utility bills, and enhanced aesthetic appeal.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/will-a-drought-tolerant-landscape-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a drought-tolerant landscape increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, investing in a professionally designed and installed drought-tolerant landscape can enhance your property value. Buyers in water-conscious regions like Southern California increasingly value homes with sustainable features and lower utility bills. A well-executed drought-tolerant landscape signifies efficiency, reduces maintenance costs, and offers year-round aesthetic appeal, making your home more attractive and potentially commanding a higher resale price.",
-        "description": "Yes, a well-designed drought-tolerant landscape can increase property value by offering sustainability, lower utility bills, and enhanced aesthetic appeal."
-      }
-    }
-  ],
+  "name": "Will a drought-tolerant landscape increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a drought-tolerant landscape increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, investing in a professionally designed and installed drought-tolerant landscape can enhance your property value. Buyers in water-conscious regions like Southern California increasingly value homes with sustainable features and lower utility bills. A well-executed drought-tolerant landscape signifies efficiency, reduces maintenance costs, and offers year-round aesthetic appeal, making your home more attractive and potentially commanding a higher resale price.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed drought-tolerant landscape can increase property value by offering sustainability, lower utility bills, and enhanced aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed drought-tolerant landscape can increase property value by offering sustainability, lower utility bills, and enhanced aesthetic appeal."
 }

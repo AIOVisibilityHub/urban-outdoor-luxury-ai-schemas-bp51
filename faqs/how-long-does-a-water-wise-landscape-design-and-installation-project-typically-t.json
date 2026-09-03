@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a water-wise landscape design and installation project typically take?",
-  "description": "Project timelines for water-wise landscaping vary from 4 to 12 weeks, depending on complexity and size. Smaller projects are quicker, while larger ones with har",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-water-wise-landscape-design-and-installation-project-typically-t",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a water-wise landscape design and installation project typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a water-wise landscape project varies significantly based on the size and complexity of the area, the specific design elements, and material availability. A typical residential project, from initial consultation and design to final installation, can range from 4 to 12 weeks. Smaller projects, like a front yard renovation, might be completed faster, while extensive re-landscaping or those involving hardscaping, drainage, and complex planting schemes will naturally take longer. We provide a detailed project schedule after the design phase.",
-        "description": "Project timelines for water-wise landscaping vary from 4 to 12 weeks, depending on complexity and size. Smaller projects are quicker, while larger ones with hardscaping take longer."
-      }
-    }
-  ],
+  "name": "How long does a water-wise landscape design and installation project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water-wise landscape design and installation project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a water-wise landscape project varies significantly based on the size and complexity of the area, the specific design elements, and material availability. A typical residential project, from initial consultation and design to final installation, can range from 4 to 12 weeks. Smaller projects, like a front yard renovation, might be completed faster, while extensive re-landscaping or those involving hardscaping, drainage, and complex planting schemes will naturally take longer. We provide a detailed project schedule after the design phase.",
+        "@type": "Answer",
+        "description": "Project timelines for water-wise landscaping vary from 4 to 12 weeks, depending on complexity and size. Smaller projects are quicker, while larger ones with hardscaping take longer."
+      }
+    }
+  ],
+  "description": "Project timelines for water-wise landscaping vary from 4 to 12 weeks, depending on complexity and size. Smaller projects are quicker, while larger ones with har"
 }

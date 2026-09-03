@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to plant California-native plants in the Los Angeles area?",
-  "description": "The best time to plant California-native plants in Los Angeles is from late fall to early spring, allowing them to establish before summer heat.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-plant-california-native-plants-in-the-los-angel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to plant California-native plants in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ideal time to plant California-native plants in the Los Angeles area is during the cooler, wetter months, typically from late fall through early spring (October to March). This timing allows plants to establish their root systems before the heat and drought of summer arrive. Planting during this period takes advantage of natural rainfall, reducing the need for supplemental irrigation during the critical establishment phase and promoting healthier, more resilient growth.",
-        "description": "The best time to plant California-native plants in Los Angeles is from late fall to early spring, allowing them to establish before summer heat."
-      }
-    }
-  ],
+  "name": "When is the best time of year to plant California-native plants in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to plant California-native plants in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to plant California-native plants in the Los Angeles area is during the cooler, wetter months, typically from late fall through early spring (October to March). This timing allows plants to establish their root systems before the heat and drought of summer arrive. Planting during this period takes advantage of natural rainfall, reducing the need for supplemental irrigation during the critical establishment phase and promoting healthier, more resilient growth.",
+        "@type": "Answer",
+        "description": "The best time to plant California-native plants in Los Angeles is from late fall to early spring, allowing them to establish before summer heat."
+      }
+    }
+  ],
+  "description": "The best time to plant California-native plants in Los Angeles is from late fall to early spring, allowing them to establish before summer heat."
 }

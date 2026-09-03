@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in the sustainable landscape design process?",
-  "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles an",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-the-sustainable-landscape-design-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in the sustainable landscape design process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our sustainable landscape design process typically begins with an initial consultation to understand your vision, needs, and the site's unique characteristics. This is followed by a comprehensive site analysis, assessing sun exposure, soil conditions, and existing features. We then develop conceptual designs that integrate sustainable principles, such as water harvesting, native plant palettes, and efficient material use. After your feedback, detailed plans are created, including planting schemes, irrigation layouts, and material specifications, culminating in a construction-ready design. Throughout, we focus on balancing aesthetics with ecological performance.",
-        "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles and client feedback."
-      }
-    }
-  ],
+  "name": "What is involved in the sustainable landscape design process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the sustainable landscape design process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our sustainable landscape design process typically begins with an initial consultation to understand your vision, needs, and the site's unique characteristics. This is followed by a comprehensive site analysis, assessing sun exposure, soil conditions, and existing features. We then develop conceptual designs that integrate sustainable principles, such as water harvesting, native plant palettes, and efficient material use. After your feedback, detailed plans are created, including planting schemes, irrigation layouts, and material specifications, culminating in a construction-ready design. Throughout, we focus on balancing aesthetics with ecological performance.",
+        "@type": "Answer",
+        "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles and client feedback."
+      }
+    }
+  ],
+  "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles an"
 }

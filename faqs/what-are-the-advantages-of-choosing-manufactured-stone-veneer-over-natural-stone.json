@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of choosing manufactured stone veneer over natural stone veneer?",
-  "description": "Manufactured stone veneer is lighter, often more affordable, offers consistent sizing, and a wider range of styles compared to natural stone veneer. These facto",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-choosing-manufactured-stone-veneer-over-natural-stone",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of choosing manufactured stone veneer over natural stone veneer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Manufactured stone veneer offers several practical advantages. It is typically lighter than natural stone, which can reduce shipping costs and simplify installation, potentially eliminating the need for additional structural support. Its consistency in size and shape can also speed up the installation process. Manufactured veneer often provides a wider range of colors and styles, as pigments and molds can be customized. Additionally, it is generally more affordable than natural stone veneer, making it a budget-friendly option for achieving a high-end look without the higher material cost.",
-        "description": "Manufactured stone veneer is lighter, often more affordable, offers consistent sizing, and a wider range of styles compared to natural stone veneer. These factors can simplify installation and reduce costs."
-      }
-    }
-  ],
+  "name": "What are the advantages of choosing manufactured stone veneer over natural stone veneer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of choosing manufactured stone veneer over natural stone veneer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Manufactured stone veneer offers several practical advantages. It is typically lighter than natural stone, which can reduce shipping costs and simplify installation, potentially eliminating the need for additional structural support. Its consistency in size and shape can also speed up the installation process. Manufactured veneer often provides a wider range of colors and styles, as pigments and molds can be customized. Additionally, it is generally more affordable than natural stone veneer, making it a budget-friendly option for achieving a high-end look without the higher material cost.",
+        "@type": "Answer",
+        "description": "Manufactured stone veneer is lighter, often more affordable, offers consistent sizing, and a wider range of styles compared to natural stone veneer. These factors can simplify installation and reduce costs."
+      }
+    }
+  ],
+  "description": "Manufactured stone veneer is lighter, often more affordable, offers consistent sizing, and a wider range of styles compared to natural stone veneer. These facto"
 }

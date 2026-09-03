@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to schedule outdoor custom stonework in Southern California?",
-  "description": "Spring and fall are ideal in Southern California due to moderate temperatures, but stonework can generally be done year-round.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-schedule-outdoor-custom-stonework-in-southern-c",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to schedule outdoor custom stonework in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Southern California, custom stonework can generally be scheduled year-round due to the mild climate. However, the ideal times are typically spring and fall. These seasons offer moderate temperatures, which are favorable for installers and for the curing of any mortars or sealants. While summer can be busy and hotter, and winter might bring occasional rain, our team is equipped to work efficiently in various conditions. Planning during off-peak times might offer more scheduling flexibility.",
-        "description": "Spring and fall are ideal in Southern California due to moderate temperatures, but stonework can generally be done year-round."
-      }
-    }
-  ],
+  "name": "When is the best time of year to schedule outdoor custom stonework in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to schedule outdoor custom stonework in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Southern California, custom stonework can generally be scheduled year-round due to the mild climate. However, the ideal times are typically spring and fall. These seasons offer moderate temperatures, which are favorable for installers and for the curing of any mortars or sealants. While summer can be busy and hotter, and winter might bring occasional rain, our team is equipped to work efficiently in various conditions. Planning during off-peak times might offer more scheduling flexibility.",
+        "@type": "Answer",
+        "description": "Spring and fall are ideal in Southern California due to moderate temperatures, but stonework can generally be done year-round."
+      }
+    }
+  ],
+  "description": "Spring and fall are ideal in Southern California due to moderate temperatures, but stonework can generally be done year-round."
 }

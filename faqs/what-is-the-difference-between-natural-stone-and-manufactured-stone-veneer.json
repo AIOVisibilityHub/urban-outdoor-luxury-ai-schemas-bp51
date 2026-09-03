@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between natural stone and manufactured stone veneer?",
-  "description": "Natural stone is quarried, unique, and durable; manufactured stone veneer is man-made, lighter, and designed to imitate natural stone at a lower cost.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-natural-stone-and-manufactured-stone-veneer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between natural stone and manufactured stone veneer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone is quarried directly from the earth, offering unique variations in color, texture, and pattern, making each piece one-of-a-kind. It is highly durable and long-lasting. Manufactured stone veneer, on the other hand, is a man-made product typically made from concrete, aggregates, and pigments, designed to mimic the appearance of natural stone. It is lighter and generally less expensive to purchase and install. While manufactured stone can look very realistic, natural stone often provides a more authentic feel and superior longevity.",
-        "description": "Natural stone is quarried, unique, and durable; manufactured stone veneer is man-made, lighter, and designed to imitate natural stone at a lower cost."
-      }
-    }
-  ],
+  "name": "What is the difference between natural stone and manufactured stone veneer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural stone and manufactured stone veneer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone is quarried directly from the earth, offering unique variations in color, texture, and pattern, making each piece one-of-a-kind. It is highly durable and long-lasting. Manufactured stone veneer, on the other hand, is a man-made product typically made from concrete, aggregates, and pigments, designed to mimic the appearance of natural stone. It is lighter and generally less expensive to purchase and install. While manufactured stone can look very realistic, natural stone often provides a more authentic feel and superior longevity.",
+        "@type": "Answer",
+        "description": "Natural stone is quarried, unique, and durable; manufactured stone veneer is man-made, lighter, and designed to imitate natural stone at a lower cost."
+      }
+    }
+  ],
+  "description": "Natural stone is quarried, unique, and durable; manufactured stone veneer is man-made, lighter, and designed to imitate natural stone at a lower cost."
 }

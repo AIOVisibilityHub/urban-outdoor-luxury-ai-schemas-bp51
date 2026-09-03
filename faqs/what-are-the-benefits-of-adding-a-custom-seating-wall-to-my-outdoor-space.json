@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of adding a custom seating wall to my outdoor space?",
-  "description": "Seating walls define spaces, provide durable seating, integrate with landscaping, and enhance both the function and value of your outdoor area.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-adding-a-custom-seating-wall-to-my-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of adding a custom seating wall to my outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom seating walls offer multiple advantages beyond just providing extra seating. They define outdoor living areas, create a sense of enclosure, and can incorporate planters or low-voltage lighting. They are highly durable, low-maintenance, and seamlessly integrate into your landscape design, enhancing both functionality and aesthetic appeal. Unlike movable furniture, they are permanent fixtures that withstand weather conditions and can increase your property's value and usability.",
-        "description": "Seating walls define spaces, provide durable seating, integrate with landscaping, and enhance both the function and value of your outdoor area."
-      }
-    }
-  ],
+  "name": "What are the benefits of adding a custom seating wall to my outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a custom seating wall to my outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom seating walls offer multiple advantages beyond just providing extra seating. They define outdoor living areas, create a sense of enclosure, and can incorporate planters or low-voltage lighting. They are highly durable, low-maintenance, and seamlessly integrate into your landscape design, enhancing both functionality and aesthetic appeal. Unlike movable furniture, they are permanent fixtures that withstand weather conditions and can increase your property's value and usability.",
+        "@type": "Answer",
+        "description": "Seating walls define spaces, provide durable seating, integrate with landscaping, and enhance both the function and value of your outdoor area."
+      }
+    }
+  ],
+  "description": "Seating walls define spaces, provide durable seating, integrate with landscaping, and enhance both the function and value of your outdoor area."
 }

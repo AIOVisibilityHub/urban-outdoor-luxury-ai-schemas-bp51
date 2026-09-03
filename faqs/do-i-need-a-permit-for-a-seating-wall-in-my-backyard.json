@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for a seating wall in my backyard?",
-  "description": "Permit requirements depend on the wall's height, location, and local building codes; we help determine if one is needed.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-a-seating-wall-in-my-backyard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for a seating wall in my backyard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether a permit is required for a seating wall depends on its height, location, and local building codes in cities like Los Angeles, Pasadena, or Arcadia. Generally, walls below a certain height (often 30 or 36 inches) that are not part of a retaining structure or close to property lines do not require a permit. However, it's crucial to verify with your local planning department as regulations can vary. We assist clients in determining permit needs and navigating the application process if required.",
-        "description": "Permit requirements depend on the wall's height, location, and local building codes; we help determine if one is needed."
-      }
-    }
-  ],
+  "name": "Do I need a permit for a seating wall in my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a seating wall in my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a seating wall depends on its height, location, and local building codes in cities like Los Angeles, Pasadena, or Arcadia. Generally, walls below a certain height (often 30 or 36 inches) that are not part of a retaining structure or close to property lines do not require a permit. However, it's crucial to verify with your local planning department as regulations can vary. We assist clients in determining permit needs and navigating the application process if required.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the wall's height, location, and local building codes; we help determine if one is needed."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the wall's height, location, and local building codes; we help determine if one is needed."
 }

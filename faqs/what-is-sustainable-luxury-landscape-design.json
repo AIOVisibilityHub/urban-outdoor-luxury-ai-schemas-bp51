@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is sustainable luxury landscape design?",
-  "description": "Sustainable luxury landscape design combines environmentally responsible practices with high-end aesthetics, focusing on resource efficiency and ecological heal",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-sustainable-luxury-landscape-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is sustainable luxury landscape design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sustainable luxury landscape design integrates environmentally responsible practices with high-end aesthetics and functionality. It focuses on minimizing environmental impact while creating elegant, durable outdoor spaces. This includes using native plants, efficient irrigation systems, permeable paving, recycled materials, and designing for biodiversity and water conservation. The goal is a beautiful, resilient landscape that thrives with minimal resource input and maintenance, enhancing both property value and ecological health.",
-        "description": "Sustainable luxury landscape design combines environmentally responsible practices with high-end aesthetics, focusing on resource efficiency and ecological health."
-      }
-    }
-  ],
+  "name": "What is sustainable luxury landscape design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is sustainable luxury landscape design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sustainable luxury landscape design integrates environmentally responsible practices with high-end aesthetics and functionality. It focuses on minimizing environmental impact while creating elegant, durable outdoor spaces. This includes using native plants, efficient irrigation systems, permeable paving, recycled materials, and designing for biodiversity and water conservation. The goal is a beautiful, resilient landscape that thrives with minimal resource input and maintenance, enhancing both property value and ecological health.",
+        "@type": "Answer",
+        "description": "Sustainable luxury landscape design combines environmentally responsible practices with high-end aesthetics, focusing on resource efficiency and ecological health."
+      }
+    }
+  ],
+  "description": "Sustainable luxury landscape design combines environmentally responsible practices with high-end aesthetics, focusing on resource efficiency and ecological heal"
 }

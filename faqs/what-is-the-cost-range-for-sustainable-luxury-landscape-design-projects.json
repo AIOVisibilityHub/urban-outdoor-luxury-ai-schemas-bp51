@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost range for sustainable luxury landscape design projects?",
-  "description": "Costs vary significantly based on property size, material choices, and design complexity, ranging from tens of thousands to several hundred thousand dollars.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-cost-range-for-sustainable-luxury-landscape-design-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost range for sustainable luxury landscape design projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost range for sustainable luxury landscape design projects is highly variable, depending on factors such as property size, material choices, complexity of the design, and desired features. Projects can range from tens of thousands for smaller enhancements to several hundred thousand dollars for comprehensive, large-scale transformations. Key cost drivers include the type of hardscaping, irrigation systems, plant selections, lighting, and any custom features like water elements or outdoor kitchens. An initial consultation helps establish a budget aligned with your vision and site specifics.",
-        "description": "Costs vary significantly based on property size, material choices, and design complexity, ranging from tens of thousands to several hundred thousand dollars."
-      }
-    }
-  ],
+  "name": "What is the cost range for sustainable luxury landscape design projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for sustainable luxury landscape design projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost range for sustainable luxury landscape design projects is highly variable, depending on factors such as property size, material choices, complexity of the design, and desired features. Projects can range from tens of thousands for smaller enhancements to several hundred thousand dollars for comprehensive, large-scale transformations. Key cost drivers include the type of hardscaping, irrigation systems, plant selections, lighting, and any custom features like water elements or outdoor kitchens. An initial consultation helps establish a budget aligned with your vision and site specifics.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on property size, material choices, and design complexity, ranging from tens of thousands to several hundred thousand dollars."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on property size, material choices, and design complexity, ranging from tens of thousands to several hundred thousand dollars."
 }

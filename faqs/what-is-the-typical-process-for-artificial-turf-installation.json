@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for artificial turf installation?",
-  "description": "Installation involves site preparation, grading, laying a weed barrier, installing and seaming the turf, distributing infill, and final brushing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-artificial-turf-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for artificial turf installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process begins with site preparation, which involves removing existing grass or debris, grading the ground for proper drainage, and compacting the base layer. Next, a weed barrier is laid, followed by the installation of the turf itself, which is cut to fit the area. Seams are joined securely, and infill material (like sand or crumb rubber) is evenly distributed to help the blades stand upright and provide cushioning. Finally, the turf is brushed to achieve a natural look.",
-        "description": "Installation involves site preparation, grading, laying a weed barrier, installing and seaming the turf, distributing infill, and final brushing."
-      }
-    }
-  ],
+  "name": "What is the typical process for artificial turf installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for artificial turf installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with site preparation, which involves removing existing grass or debris, grading the ground for proper drainage, and compacting the base layer. Next, a weed barrier is laid, followed by the installation of the turf itself, which is cut to fit the area. Seams are joined securely, and infill material (like sand or crumb rubber) is evenly distributed to help the blades stand upright and provide cushioning. Finally, the turf is brushed to achieve a natural look.",
+        "@type": "Answer",
+        "description": "Installation involves site preparation, grading, laying a weed barrier, installing and seaming the turf, distributing infill, and final brushing."
+      }
+    }
+  ],
+  "description": "Installation involves site preparation, grading, laying a weed barrier, installing and seaming the turf, distributing infill, and final brushing."
 }

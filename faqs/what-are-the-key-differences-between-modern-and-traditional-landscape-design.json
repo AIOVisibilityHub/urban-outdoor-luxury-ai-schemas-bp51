@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the key differences between modern and traditional landscape design?",
-  "description": "Modern design emphasizes minimalism and geometric forms, while traditional design focuses on organic shapes, lush plantings, and classical elements.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-differences-between-modern-and-traditional-landscape-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key differences between modern and traditional landscape design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern landscape design favors minimalism, geometric shapes, and a limited plant palette, focusing on creating structured, architectural outdoor spaces. It often uses materials like concrete, steel, and clean-cut stone. Traditional design, in contrast, embraces organic forms, lush and diverse plantings, and more classical elements such as intricate pathways, ornate fountains, and a sense of established charm. While modern aims for sleek integration, traditional often seeks a picturesque, naturalistic feel, or a formal, classical garden look.",
-        "description": "Modern design emphasizes minimalism and geometric forms, while traditional design focuses on organic shapes, lush plantings, and classical elements."
-      }
-    }
-  ],
+  "name": "What are the key differences between modern and traditional landscape design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between modern and traditional landscape design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern landscape design favors minimalism, geometric shapes, and a limited plant palette, focusing on creating structured, architectural outdoor spaces. It often uses materials like concrete, steel, and clean-cut stone. Traditional design, in contrast, embraces organic forms, lush and diverse plantings, and more classical elements such as intricate pathways, ornate fountains, and a sense of established charm. While modern aims for sleek integration, traditional often seeks a picturesque, naturalistic feel, or a formal, classical garden look.",
+        "@type": "Answer",
+        "description": "Modern design emphasizes minimalism and geometric forms, while traditional design focuses on organic shapes, lush plantings, and classical elements."
+      }
+    }
+  ],
+  "description": "Modern design emphasizes minimalism and geometric forms, while traditional design focuses on organic shapes, lush plantings, and classical elements."
 }

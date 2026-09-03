@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a stone retaining wall?",
-  "description": "Maintain stone retaining walls by checking for shifts or cracks, ensuring clear drainage, and removing vegetation from crevices.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-stone-retaining-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a stone retaining wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stone retaining walls are relatively low maintenance but benefit from occasional inspection. Check for any signs of shifting, cracking, or bulging, which could indicate structural issues. Ensure drainage systems remain clear of debris to prevent water buildup behind the wall. Periodically remove any vegetation growing within the wall's crevices, as roots can compromise its integrity over time. Addressing minor issues promptly can prevent more significant, costly repairs.",
-        "description": "Maintain stone retaining walls by checking for shifts or cracks, ensuring clear drainage, and removing vegetation from crevices."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a stone retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a stone retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stone retaining walls are relatively low maintenance but benefit from occasional inspection. Check for any signs of shifting, cracking, or bulging, which could indicate structural issues. Ensure drainage systems remain clear of debris to prevent water buildup behind the wall. Periodically remove any vegetation growing within the wall's crevices, as roots can compromise its integrity over time. Addressing minor issues promptly can prevent more significant, costly repairs.",
+        "@type": "Answer",
+        "description": "Maintain stone retaining walls by checking for shifts or cracks, ensuring clear drainage, and removing vegetation from crevices."
+      }
+    }
+  ],
+  "description": "Maintain stone retaining walls by checking for shifts or cracks, ensuring clear drainage, and removing vegetation from crevices."
 }

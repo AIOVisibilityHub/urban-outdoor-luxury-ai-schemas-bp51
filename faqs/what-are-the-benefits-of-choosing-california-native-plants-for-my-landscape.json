@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of choosing California-native plants for my landscape?",
-  "description": "California-native plants conserve water, support local wildlife, and require less maintenance due to their adaptation to the local climate.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-choosing-california-native-plants-for-my-landscape",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of choosing California-native plants for my landscape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California-native plants offer numerous environmental and practical advantages. They are naturally adapted to the local climate and soil conditions, requiring significantly less water once established compared to non-native species. This leads to reduced water bills and supports water conservation efforts. Native plants also provide essential habitat and food sources for local wildlife, such as birds and pollinators, enhancing biodiversity in your garden. Their natural resilience often means less need for fertilizers and pesticides, contributing to a healthier ecosystem and lower maintenance costs over time.",
-        "description": "California-native plants conserve water, support local wildlife, and require less maintenance due to their adaptation to the local climate."
-      }
-    }
-  ],
+  "name": "What are the benefits of choosing California-native plants for my landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing California-native plants for my landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California-native plants offer numerous environmental and practical advantages. They are naturally adapted to the local climate and soil conditions, requiring significantly less water once established compared to non-native species. This leads to reduced water bills and supports water conservation efforts. Native plants also provide essential habitat and food sources for local wildlife, such as birds and pollinators, enhancing biodiversity in your garden. Their natural resilience often means less need for fertilizers and pesticides, contributing to a healthier ecosystem and lower maintenance costs over time.",
+        "@type": "Answer",
+        "description": "California-native plants conserve water, support local wildlife, and require less maintenance due to their adaptation to the local climate."
+      }
+    }
+  ],
+  "description": "California-native plants conserve water, support local wildlife, and require less maintenance due to their adaptation to the local climate."
 }

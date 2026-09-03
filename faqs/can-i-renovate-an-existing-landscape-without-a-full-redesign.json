@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I renovate an existing landscape without a full redesign?",
-  "description": "Yes, targeted renovations like updating planting, irrigation, or lighting can refresh an existing landscape without a full redesign.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-renovate-an-existing-landscape-without-a-full-redesign",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I renovate an existing landscape without a full redesign?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can renovate an existing landscape without undertaking a complete redesign. This often involves targeted updates such as refreshing planting beds, upgrading irrigation systems for efficiency, adding new outdoor lighting, or enhancing specific features like a fire pit or outdoor kitchen. A landscape designer can assess your current space, identify areas for improvement, and develop a plan to revitalize your outdoor environment while retaining desirable existing elements.",
-        "description": "Yes, targeted renovations like updating planting, irrigation, or lighting can refresh an existing landscape without a full redesign."
-      }
-    }
-  ],
+  "name": "Can I renovate an existing landscape without a full redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate an existing landscape without a full redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can renovate an existing landscape without undertaking a complete redesign. This often involves targeted updates such as refreshing planting beds, upgrading irrigation systems for efficiency, adding new outdoor lighting, or enhancing specific features like a fire pit or outdoor kitchen. A landscape designer can assess your current space, identify areas for improvement, and develop a plan to revitalize your outdoor environment while retaining desirable existing elements.",
+        "@type": "Answer",
+        "description": "Yes, targeted renovations like updating planting, irrigation, or lighting can refresh an existing landscape without a full redesign."
+      }
+    }
+  ],
+  "description": "Yes, targeted renovations like updating planting, irrigation, or lighting can refresh an existing landscape without a full redesign."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary benefits of installing artificial turf?",
-  "description": "Artificial turf saves water, reduces maintenance, and provides a consistently green lawn year-round, making it ideal for drought-prone areas and high-traffic zo",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-installing-artificial-turf",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary benefits of installing artificial turf?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Artificial turf offers significant advantages for property owners. It drastically reduces water consumption, leading to lower utility bills and environmental benefits, especially in drought-prone areas like Los Angeles. Maintenance requirements are minimal, eliminating the need for mowing, fertilizing, or pesticides. This frees up time and resources, while providing a consistently lush, green appearance year-round, regardless of climate or foot traffic. Its durability makes it ideal for high-use areas.",
-        "description": "Artificial turf saves water, reduces maintenance, and provides a consistently green lawn year-round, making it ideal for drought-prone areas and high-traffic zones."
-      }
-    }
-  ],
+  "name": "What are the primary benefits of installing artificial turf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of installing artificial turf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Artificial turf offers significant advantages for property owners. It drastically reduces water consumption, leading to lower utility bills and environmental benefits, especially in drought-prone areas like Los Angeles. Maintenance requirements are minimal, eliminating the need for mowing, fertilizing, or pesticides. This frees up time and resources, while providing a consistently lush, green appearance year-round, regardless of climate or foot traffic. Its durability makes it ideal for high-use areas.",
+        "@type": "Answer",
+        "description": "Artificial turf saves water, reduces maintenance, and provides a consistently green lawn year-round, making it ideal for drought-prone areas and high-traffic zones."
+      }
+    }
+  ],
+  "description": "Artificial turf saves water, reduces maintenance, and provides a consistently green lawn year-round, making it ideal for drought-prone areas and high-traffic zo"
 }

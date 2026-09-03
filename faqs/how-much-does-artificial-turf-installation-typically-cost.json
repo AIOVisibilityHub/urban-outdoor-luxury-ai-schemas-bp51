@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does artificial turf installation typically cost?",
-  "description": "Artificial turf installation typically ranges from $8 to $20 per square foot, varying with turf quality, area size, and landscape complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-artificial-turf-installation-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does artificial turf installation typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of artificial turf installation varies based on several factors, including the type and quality of turf selected, the total area to be covered, the complexity of the landscape design, and necessary ground preparation. Generally, homeowners can expect to invest between $8 to $20 per square foot, which includes materials and professional installation. While the initial outlay is higher than traditional sod, long-term savings on water and maintenance often offset this cost.",
-        "description": "Artificial turf installation typically ranges from $8 to $20 per square foot, varying with turf quality, area size, and landscape complexity."
-      }
-    }
-  ],
+  "name": "How much does artificial turf installation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does artificial turf installation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of artificial turf installation varies based on several factors, including the type and quality of turf selected, the total area to be covered, the complexity of the landscape design, and necessary ground preparation. Generally, homeowners can expect to invest between $8 to $20 per square foot, which includes materials and professional installation. While the initial outlay is higher than traditional sod, long-term savings on water and maintenance often offset this cost.",
+        "@type": "Answer",
+        "description": "Artificial turf installation typically ranges from $8 to $20 per square foot, varying with turf quality, area size, and landscape complexity."
+      }
+    }
+  ],
+  "description": "Artificial turf installation typically ranges from $8 to $20 per square foot, varying with turf quality, area size, and landscape complexity."
 }

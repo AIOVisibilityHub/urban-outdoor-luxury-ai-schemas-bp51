@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of a custom retaining wall?",
-  "description": "Cost factors include material choice, wall dimensions, site preparation, design complexity, drainage needs, and permits.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-retaining-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of a custom retaining wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom retaining wall is influenced by several key factors. Material choice plays a significant role, with natural stone often being more expensive than concrete blocks. The wall's dimensions (height and length) directly impact material and labor costs. Site preparation, including excavation, grading, and debris removal, can also affect the overall price. Additionally, the complexity of the design, the need for specialized drainage systems, and any required engineering reports or permits will contribute to the total investment. We provide detailed estimates after assessing your specific project requirements.",
-        "description": "Cost factors include material choice, wall dimensions, site preparation, design complexity, drainage needs, and permits."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of a custom retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom retaining wall is influenced by several key factors. Material choice plays a significant role, with natural stone often being more expensive than concrete blocks. The wall's dimensions (height and length) directly impact material and labor costs. Site preparation, including excavation, grading, and debris removal, can also affect the overall price. Additionally, the complexity of the design, the need for specialized drainage systems, and any required engineering reports or permits will contribute to the total investment. We provide detailed estimates after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Cost factors include material choice, wall dimensions, site preparation, design complexity, drainage needs, and permits."
+      }
+    }
+  ],
+  "description": "Cost factors include material choice, wall dimensions, site preparation, design complexity, drainage needs, and permits."
 }

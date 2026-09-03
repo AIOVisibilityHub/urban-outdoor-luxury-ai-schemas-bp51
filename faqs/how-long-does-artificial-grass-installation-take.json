@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does artificial grass installation take?",
-  "description": "Installation time varies by project size and complexity; smaller lawns may take 1-3 days, while larger projects can take a week or more.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-artificial-grass-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does artificial grass installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of artificial grass installation depends on the project's size and complexity. Smaller residential lawns, typically up to 1,000 square feet, can often be completed within one to three days. Larger or more intricate projects, involving extensive grading, custom shapes, or multiple areas, may take anywhere from three days to a week or more. Our team provides an estimated timeline after assessing your specific site during the consultation phase.",
-        "description": "Installation time varies by project size and complexity; smaller lawns may take 1-3 days, while larger projects can take a week or more."
-      }
-    }
-  ],
+  "name": "How long does artificial grass installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does artificial grass installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of artificial grass installation depends on the project's size and complexity. Smaller residential lawns, typically up to 1,000 square feet, can often be completed within one to three days. Larger or more intricate projects, involving extensive grading, custom shapes, or multiple areas, may take anywhere from three days to a week or more. Our team provides an estimated timeline after assessing your specific site during the consultation phase.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size and complexity; smaller lawns may take 1-3 days, while larger projects can take a week or more."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size and complexity; smaller lawns may take 1-3 days, while larger projects can take a week or more."
 }

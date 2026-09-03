@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for landscape installation in Los Angeles?",
-  "description": "Permits are usually needed for significant grading, large hardscaping elements, and new irrigation systems, but not typically for minor softscaping.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-landscape-installation-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for landscape installation in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for landscape installation in Los Angeles vary depending on the scope of the project. Minor softscaping projects typically do not require permits. However, projects involving significant grading, drainage changes, extensive hardscaping (like retaining walls over a certain height, large patios, or decks), new irrigation systems connecting to main water lines, or structures like pergolas and outdoor kitchens may require permits from the City of Los Angeles Department of Building and Safety. We can assist in determining specific permit needs for your project.",
-        "description": "Permits are usually needed for significant grading, large hardscaping elements, and new irrigation systems, but not typically for minor softscaping."
-      }
-    }
-  ],
+  "name": "Do I need a permit for landscape installation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for landscape installation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for landscape installation in Los Angeles vary depending on the scope of the project. Minor softscaping projects typically do not require permits. However, projects involving significant grading, drainage changes, extensive hardscaping (like retaining walls over a certain height, large patios, or decks), new irrigation systems connecting to main water lines, or structures like pergolas and outdoor kitchens may require permits from the City of Los Angeles Department of Building and Safety. We can assist in determining specific permit needs for your project.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for significant grading, large hardscaping elements, and new irrigation systems, but not typically for minor softscaping."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for significant grading, large hardscaping elements, and new irrigation systems, but not typically for minor softscaping."
 }

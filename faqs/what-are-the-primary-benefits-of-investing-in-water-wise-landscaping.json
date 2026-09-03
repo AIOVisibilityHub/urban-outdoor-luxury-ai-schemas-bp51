@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary benefits of investing in water-wise landscaping?",
-  "description": "Benefits include reduced water bills, lower maintenance, increased property value, and environmental sustainability. It creates a beautiful, resilient landscape",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-investing-in-water-wise-landscaping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary benefits of investing in water-wise landscaping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Investing in water-wise landscaping offers multiple benefits beyond water conservation. It significantly reduces your water bill due to less irrigation. Maintenance requirements are generally lower, as native and drought-tolerant plants often need less pruning, fertilizing, and pest control. These landscapes enhance property value and aesthetic appeal by creating a beautiful, sustainable outdoor environment that is well-suited to the Southern California climate. They also support local ecosystems by providing habitat for wildlife.",
-        "description": "Benefits include reduced water bills, lower maintenance, increased property value, and environmental sustainability. It creates a beautiful, resilient landscape."
-      }
-    }
-  ],
+  "name": "What are the primary benefits of investing in water-wise landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of investing in water-wise landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Investing in water-wise landscaping offers multiple benefits beyond water conservation. It significantly reduces your water bill due to less irrigation. Maintenance requirements are generally lower, as native and drought-tolerant plants often need less pruning, fertilizing, and pest control. These landscapes enhance property value and aesthetic appeal by creating a beautiful, sustainable outdoor environment that is well-suited to the Southern California climate. They also support local ecosystems by providing habitat for wildlife.",
+        "@type": "Answer",
+        "description": "Benefits include reduced water bills, lower maintenance, increased property value, and environmental sustainability. It creates a beautiful, resilient landscape."
+      }
+    }
+  ],
+  "description": "Benefits include reduced water bills, lower maintenance, increased property value, and environmental sustainability. It creates a beautiful, resilient landscape"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the lifespan of artificial turf?",
-  "description": "High-quality artificial turf typically lasts 15 to 20 years, influenced by material quality, foot traffic, climate, and maintenance, often backed by a 8-15 year",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-lifespan-of-artificial-turf",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the lifespan of artificial turf?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "High-quality artificial turf, properly installed and maintained, typically lasts between 15 to 20 years. Factors influencing its lifespan include the quality of the turf material, the amount of foot traffic it receives, local climate conditions, and the regularity of maintenance. Our premium turf products come with manufacturer warranties, often ranging from 8 to 15 years, providing peace of mind regarding your investment. Regular, simple maintenance can significantly contribute to extending its longevity.",
-        "description": "High-quality artificial turf typically lasts 15 to 20 years, influenced by material quality, foot traffic, climate, and maintenance, often backed by a 8-15 year warranty."
-      }
-    }
-  ],
+  "name": "What is the lifespan of artificial turf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of artificial turf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-quality artificial turf, properly installed and maintained, typically lasts between 15 to 20 years. Factors influencing its lifespan include the quality of the turf material, the amount of foot traffic it receives, local climate conditions, and the regularity of maintenance. Our premium turf products come with manufacturer warranties, often ranging from 8 to 15 years, providing peace of mind regarding your investment. Regular, simple maintenance can significantly contribute to extending its longevity.",
+        "@type": "Answer",
+        "description": "High-quality artificial turf typically lasts 15 to 20 years, influenced by material quality, foot traffic, climate, and maintenance, often backed by a 8-15 year warranty."
+      }
+    }
+  ],
+  "description": "High-quality artificial turf typically lasts 15 to 20 years, influenced by material quality, foot traffic, climate, and maintenance, often backed by a 8-15 year"
 }

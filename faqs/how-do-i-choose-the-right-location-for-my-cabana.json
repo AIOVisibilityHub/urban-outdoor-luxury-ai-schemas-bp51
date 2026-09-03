@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right location for my cabana?",
-  "description": "Consider sun exposure, privacy, proximity to other structures, utility access, and the cabana's primary use when choosing its location.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-location-for-my-cabana",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right location for my cabana?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right location involves considering several factors: sun exposure, privacy, proximity to existing structures like a pool or main house, and utility access. Think about the cabana's primary use – relaxation, entertaining, or dining – to determine optimal placement. Assess sun patterns throughout the day to maximize shade or sunlight as desired. Ensure adequate space for construction and future landscaping. Our design team can help you analyze your property's layout and recommend the best location to integrate the cabana seamlessly into your outdoor living space.",
-        "description": "Consider sun exposure, privacy, proximity to other structures, utility access, and the cabana's primary use when choosing its location."
-      }
-    }
-  ],
+  "name": "How do I choose the right location for my cabana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right location for my cabana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right location involves considering several factors: sun exposure, privacy, proximity to existing structures like a pool or main house, and utility access. Think about the cabana's primary use – relaxation, entertaining, or dining – to determine optimal placement. Assess sun patterns throughout the day to maximize shade or sunlight as desired. Ensure adequate space for construction and future landscaping. Our design team can help you analyze your property's layout and recommend the best location to integrate the cabana seamlessly into your outdoor living space.",
+        "@type": "Answer",
+        "description": "Consider sun exposure, privacy, proximity to other structures, utility access, and the cabana's primary use when choosing its location."
+      }
+    }
+  ],
+  "description": "Consider sun exposure, privacy, proximity to other structures, utility access, and the cabana's primary use when choosing its location."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary benefits of installing a drip irrigation system?",
-  "description": "Drip irrigation conserves water, reduces water bills, promotes healthier plants by precise watering, and minimizes weed growth and foliar diseases.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-installing-a-drip-irrigation-system",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary benefits of installing a drip irrigation system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Installing a drip irrigation system offers several key benefits. It significantly conserves water, often reducing usage by 30-50% compared to traditional methods, which is crucial in drought-prone areas like Los Angeles. This efficiency can lead to lower water bills. Drip systems also promote healthier plant growth by delivering water and nutrients precisely where needed, minimizing foliar diseases caused by wet leaves. Additionally, they reduce weed growth by only watering desired plants and offer flexibility in watering times and zones, adapting well to various landscape designs.",
-        "description": "Drip irrigation conserves water, reduces water bills, promotes healthier plants by precise watering, and minimizes weed growth and foliar diseases."
-      }
-    }
-  ],
+  "name": "What are the primary benefits of installing a drip irrigation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of installing a drip irrigation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a drip irrigation system offers several key benefits. It significantly conserves water, often reducing usage by 30-50% compared to traditional methods, which is crucial in drought-prone areas like Los Angeles. This efficiency can lead to lower water bills. Drip systems also promote healthier plant growth by delivering water and nutrients precisely where needed, minimizing foliar diseases caused by wet leaves. Additionally, they reduce weed growth by only watering desired plants and offer flexibility in watering times and zones, adapting well to various landscape designs.",
+        "@type": "Answer",
+        "description": "Drip irrigation conserves water, reduces water bills, promotes healthier plants by precise watering, and minimizes weed growth and foliar diseases."
+      }
+    }
+  ],
+  "description": "Drip irrigation conserves water, reduces water bills, promotes healthier plants by precise watering, and minimizes weed growth and foliar diseases."
 }
