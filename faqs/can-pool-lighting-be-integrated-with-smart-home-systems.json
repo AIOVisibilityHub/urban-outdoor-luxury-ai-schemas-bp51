@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can pool lighting be integrated with smart home systems?",
-  "description": "Modern pool lighting can integrate with smart home systems, allowing control from devices to adjust colors, brightness, and schedules for enhanced convenience.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-pool-lighting-be-integrated-with-smart-home-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can pool lighting be integrated with smart home systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many modern pool lighting systems can be seamlessly integrated with smart home automation platforms. This allows you to control your pool lights, change colors, set schedules, and adjust brightness directly from your smartphone, tablet, or existing smart home hub. Integration enhances convenience and allows for dynamic lighting scenes that can be synchronized with other outdoor features, creating a cohesive and sophisticated outdoor living experience.",
-        "description": "Modern pool lighting can integrate with smart home systems, allowing control from devices to adjust colors, brightness, and schedules for enhanced convenience."
-      }
-    }
-  ],
+  "name": "Can pool lighting be integrated with smart home systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can pool lighting be integrated with smart home systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many modern pool lighting systems can be seamlessly integrated with smart home automation platforms. This allows you to control your pool lights, change colors, set schedules, and adjust brightness directly from your smartphone, tablet, or existing smart home hub. Integration enhances convenience and allows for dynamic lighting scenes that can be synchronized with other outdoor features, creating a cohesive and sophisticated outdoor living experience.",
+        "@type": "Answer",
+        "description": "Modern pool lighting can integrate with smart home systems, allowing control from devices to adjust colors, brightness, and schedules for enhanced convenience."
+      }
+    }
+  ],
+  "description": "Modern pool lighting can integrate with smart home systems, allowing control from devices to adjust colors, brightness, and schedules for enhanced convenience."
 }

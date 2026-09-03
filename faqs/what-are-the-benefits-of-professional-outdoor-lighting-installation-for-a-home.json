@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of professional outdoor lighting installation for a home?",
-  "description": "Professional outdoor lighting improves curb appeal, enhances safety, extends outdoor living, and adds property value through expert installation and design.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-professional-outdoor-lighting-installation-for-a-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of professional outdoor lighting installation for a home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional outdoor lighting enhances a home's curb appeal, increases safety by illuminating pathways and deterring intruders, and extends the usability of outdoor living spaces into the evening. Expert installation ensures proper placement, appropriate fixture selection, and adherence to electrical codes, maximizing aesthetic impact and longevity. It can highlight architectural features and landscaping, creating a welcoming and sophisticated ambiance while adding value to your property. This specialized service also considers energy efficiency and smart home integration options.",
-        "description": "Professional outdoor lighting improves curb appeal, enhances safety, extends outdoor living, and adds property value through expert installation and design."
-      }
-    }
-  ],
+  "name": "What are the benefits of professional outdoor lighting installation for a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional outdoor lighting installation for a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional outdoor lighting enhances a home's curb appeal, increases safety by illuminating pathways and deterring intruders, and extends the usability of outdoor living spaces into the evening. Expert installation ensures proper placement, appropriate fixture selection, and adherence to electrical codes, maximizing aesthetic impact and longevity. It can highlight architectural features and landscaping, creating a welcoming and sophisticated ambiance while adding value to your property. This specialized service also considers energy efficiency and smart home integration options.",
+        "@type": "Answer",
+        "description": "Professional outdoor lighting improves curb appeal, enhances safety, extends outdoor living, and adds property value through expert installation and design."
+      }
+    }
+  ],
+  "description": "Professional outdoor lighting improves curb appeal, enhances safety, extends outdoor living, and adds property value through expert installation and design."
 }

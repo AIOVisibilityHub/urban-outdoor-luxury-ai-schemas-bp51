@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing and installing outdoor accent lighting?",
-  "description": "The process involves consultation, site assessment, custom design, professional installation, and a final walkthrough to ensure satisfaction.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-outdoor-accent-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing and installing outdoor accent lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation to understand your vision, preferences, and the specific areas you wish to highlight. Next, our designers conduct a site visit to assess your property's unique features, existing landscaping, and power access. We then create a customized lighting plan, often including fixture recommendations, placement, and wiring schematics. Once approved, our certified electricians and installation team meticulously install the system, ensuring proper wiring, fixture positioning, and safety compliance. Finally, we conduct a walkthrough to adjust any settings and ensure your complete satisfaction.",
-        "description": "The process involves consultation, site assessment, custom design, professional installation, and a final walkthrough to ensure satisfaction."
-      }
-    }
-  ],
+  "name": "What is the process for designing and installing outdoor accent lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and installing outdoor accent lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, preferences, and the specific areas you wish to highlight. Next, our designers conduct a site visit to assess your property's unique features, existing landscaping, and power access. We then create a customized lighting plan, often including fixture recommendations, placement, and wiring schematics. Once approved, our certified electricians and installation team meticulously install the system, ensuring proper wiring, fixture positioning, and safety compliance. Finally, we conduct a walkthrough to adjust any settings and ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, custom design, professional installation, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, custom design, professional installation, and a final walkthrough to ensure satisfaction."
 }

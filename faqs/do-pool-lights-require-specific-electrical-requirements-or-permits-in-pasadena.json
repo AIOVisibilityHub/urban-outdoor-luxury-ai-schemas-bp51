@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do pool lights require specific electrical requirements or permits in Pasadena?",
-  "description": "Pool lighting installations in Pasadena require adherence to specific electrical codes and may need permits to ensure safety and compliance with local regulatio",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pool-lights-require-specific-electrical-requirements-or-permits-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do pool lights require specific electrical requirements or permits in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pool lighting installations in Pasadena, and throughout our service areas, require adherence to specific electrical codes and may necessitate permits. All outdoor electrical work, especially near water features, must comply with National Electrical Code (NEC) standards to ensure safety. We handle all aspects of permitting and ensure that every installation meets local regulatory requirements, providing a safe and compliant lighting system for your pool.",
-        "description": "Pool lighting installations in Pasadena require adherence to specific electrical codes and may need permits to ensure safety and compliance with local regulations."
-      }
-    }
-  ],
+  "name": "Do pool lights require specific electrical requirements or permits in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do pool lights require specific electrical requirements or permits in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pool lighting installations in Pasadena, and throughout our service areas, require adherence to specific electrical codes and may necessitate permits. All outdoor electrical work, especially near water features, must comply with National Electrical Code (NEC) standards to ensure safety. We handle all aspects of permitting and ensure that every installation meets local regulatory requirements, providing a safe and compliant lighting system for your pool.",
+        "@type": "Answer",
+        "description": "Pool lighting installations in Pasadena require adherence to specific electrical codes and may need permits to ensure safety and compliance with local regulations."
+      }
+    }
+  ],
+  "description": "Pool lighting installations in Pasadena require adherence to specific electrical codes and may need permits to ensure safety and compliance with local regulatio"
 }

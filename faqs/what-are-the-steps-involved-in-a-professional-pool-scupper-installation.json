@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the steps involved in a professional pool scupper installation?",
-  "description": "Installation involves design consultation, site preparation, plumbing, scupper integration, finishing work, and system testing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-steps-involved-in-a-professional-pool-scupper-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the steps involved in a professional pool scupper installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional pool scupper installation typically begins with a design consultation to determine placement, size, and style. Next, precise measurements and structural assessments are conducted. This is followed by preparing the installation site, which may involve cutting into existing structures or forming new ones. Plumbing lines are then installed to deliver water to each scupper. After plumbing, the scupper units are securely integrated, and surrounding finishes (e.g., tile, stone) are applied. Finally, the system is tested for proper water flow and leaks, ensuring optimal performance and aesthetics.",
-        "description": "Installation involves design consultation, site preparation, plumbing, scupper integration, finishing work, and system testing."
-      }
-    }
-  ],
+  "name": "What are the steps involved in a professional pool scupper installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the steps involved in a professional pool scupper installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional pool scupper installation typically begins with a design consultation to determine placement, size, and style. Next, precise measurements and structural assessments are conducted. This is followed by preparing the installation site, which may involve cutting into existing structures or forming new ones. Plumbing lines are then installed to deliver water to each scupper. After plumbing, the scupper units are securely integrated, and surrounding finishes (e.g., tile, stone) are applied. Finally, the system is tested for proper water flow and leaks, ensuring optimal performance and aesthetics.",
+        "@type": "Answer",
+        "description": "Installation involves design consultation, site preparation, plumbing, scupper integration, finishing work, and system testing."
+      }
+    }
+  ],
+  "description": "Installation involves design consultation, site preparation, plumbing, scupper integration, finishing work, and system testing."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for an outdoor fountain?",
-  "description": "Maintenance includes regular water level checks, debris removal, algae cleaning, and potential winterization. Annual checks of pump and electrical components ar",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-an-outdoor-fountain",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for an outdoor fountain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular maintenance for an outdoor fountain typically includes keeping the water level consistent, cleaning out debris like leaves and sediment, and periodically scrubbing algae from surfaces. Depending on your climate, winterizing may be necessary to protect components from freezing. Annual checks of the pump, filtration system, and electrical connections help ensure longevity and optimal performance, preventing costly repairs.",
-        "description": "Maintenance includes regular water level checks, debris removal, algae cleaning, and potential winterization. Annual checks of pump and electrical components are also advised."
-      }
-    }
-  ],
+  "name": "What maintenance is required for an outdoor fountain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for an outdoor fountain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance for an outdoor fountain typically includes keeping the water level consistent, cleaning out debris like leaves and sediment, and periodically scrubbing algae from surfaces. Depending on your climate, winterizing may be necessary to protect components from freezing. Annual checks of the pump, filtration system, and electrical connections help ensure longevity and optimal performance, preventing costly repairs.",
+        "@type": "Answer",
+        "description": "Maintenance includes regular water level checks, debris removal, algae cleaning, and potential winterization. Annual checks of pump and electrical components are also advised."
+      }
+    }
+  ],
+  "description": "Maintenance includes regular water level checks, debris removal, algae cleaning, and potential winterization. Annual checks of pump and electrical components ar"
 }

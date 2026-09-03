@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of outdoor lighting fixtures are available for landscape and architectural lighting?",
-  "description": "Fixture types include path, spot, flood, step, deck, and well lights, alongside specialty and security options. Materials are chosen for durability and aestheti",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-outdoor-lighting-fixtures-are-available-for-landscape-and-architec",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of outdoor lighting fixtures are available for landscape and architectural lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A wide variety of outdoor lighting fixtures are available, each designed for specific purposes. Options include path lights for walkways, spot and floodlights to highlight trees or architectural features, step lights for stairs, deck lights for outdoor living areas, and well lights that are recessed into the ground. We also offer specialty fixtures like string lights, security lights, and underwater lights for water features. Materials often include brass, copper, and powder-coated aluminum, chosen for durability and aesthetics.",
-        "description": "Fixture types include path, spot, flood, step, deck, and well lights, alongside specialty and security options. Materials are chosen for durability and aesthetics."
-      }
-    }
-  ],
+  "name": "What types of outdoor lighting fixtures are available for landscape and architectural lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of outdoor lighting fixtures are available for landscape and architectural lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wide variety of outdoor lighting fixtures are available, each designed for specific purposes. Options include path lights for walkways, spot and floodlights to highlight trees or architectural features, step lights for stairs, deck lights for outdoor living areas, and well lights that are recessed into the ground. We also offer specialty fixtures like string lights, security lights, and underwater lights for water features. Materials often include brass, copper, and powder-coated aluminum, chosen for durability and aesthetics.",
+        "@type": "Answer",
+        "description": "Fixture types include path, spot, flood, step, deck, and well lights, alongside specialty and security options. Materials are chosen for durability and aesthetics."
+      }
+    }
+  ],
+  "description": "Fixture types include path, spot, flood, step, deck, and well lights, alongside specialty and security options. Materials are chosen for durability and aestheti"
 }

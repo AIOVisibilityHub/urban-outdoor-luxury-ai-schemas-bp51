@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can concrete hardscaping increase my property value?",
-  "description": "Yes, high-quality concrete hardscaping can boost property value by enhancing curb appeal and creating desirable outdoor living spaces, often providing a strong",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-concrete-hardscaping-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can concrete hardscaping increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, well-designed and professionally installed concrete hardscaping can significantly enhance your property's curb appeal and overall value. Features like attractive patios, functional driveways, and inviting walkways create desirable outdoor living spaces, often yielding a strong return on investment. The quality and aesthetic integration of the hardscape with your home's existing architecture are key factors in its impact on value.",
-        "description": "Yes, high-quality concrete hardscaping can boost property value by enhancing curb appeal and creating desirable outdoor living spaces, often providing a strong return on investment."
-      }
-    }
-  ],
+  "name": "Can concrete hardscaping increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can concrete hardscaping increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, well-designed and professionally installed concrete hardscaping can significantly enhance your property's curb appeal and overall value. Features like attractive patios, functional driveways, and inviting walkways create desirable outdoor living spaces, often yielding a strong return on investment. The quality and aesthetic integration of the hardscape with your home's existing architecture are key factors in its impact on value.",
+        "@type": "Answer",
+        "description": "Yes, high-quality concrete hardscaping can boost property value by enhancing curb appeal and creating desirable outdoor living spaces, often providing a strong return on investment."
+      }
+    }
+  ],
+  "description": "Yes, high-quality concrete hardscaping can boost property value by enhancing curb appeal and creating desirable outdoor living spaces, often providing a strong"
 }

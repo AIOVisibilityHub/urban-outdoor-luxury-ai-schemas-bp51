@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for a custom waterfall installation in Pasadena?",
-  "description": "Permits in Pasadena depend on the waterfall's size, structural changes, and electrical/plumbing work. We handle the entire permitting process.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-a-custom-waterfall-installation-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for a custom waterfall installation in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Pasadena, permits for custom waterfall installations depend on the project's size, electrical and plumbing work involved, and proximity to property lines. Projects with significant structural changes, electrical wiring, or new plumbing connections typically require building permits, and possibly separate electrical and plumbing permits. Our team manages the entire permitting process, ensuring compliance with all local zoning ordinances and building codes in Pasadena to avoid delays and ensure a smooth, legal installation.",
-        "description": "Permits in Pasadena depend on the waterfall's size, structural changes, and electrical/plumbing work. We handle the entire permitting process."
-      }
-    }
-  ],
+  "name": "What permits are needed for a custom waterfall installation in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a custom waterfall installation in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Pasadena, permits for custom waterfall installations depend on the project's size, electrical and plumbing work involved, and proximity to property lines. Projects with significant structural changes, electrical wiring, or new plumbing connections typically require building permits, and possibly separate electrical and plumbing permits. Our team manages the entire permitting process, ensuring compliance with all local zoning ordinances and building codes in Pasadena to avoid delays and ensure a smooth, legal installation.",
+        "@type": "Answer",
+        "description": "Permits in Pasadena depend on the waterfall's size, structural changes, and electrical/plumbing work. We handle the entire permitting process."
+      }
+    }
+  ],
+  "description": "Permits in Pasadena depend on the waterfall's size, structural changes, and electrical/plumbing work. We handle the entire permitting process."
 }

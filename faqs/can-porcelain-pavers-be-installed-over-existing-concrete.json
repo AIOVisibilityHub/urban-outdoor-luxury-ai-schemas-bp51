@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can porcelain pavers be installed over existing concrete?",
-  "description": "Porcelain pavers can be installed over existing concrete if the slab is sound, level, and has good drainage. Installation methods include pedestal systems or th",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-porcelain-pavers-be-installed-over-existing-concrete",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can porcelain pavers be installed over existing concrete?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, porcelain pavers can often be installed over existing concrete, provided the concrete slab is in good condition, structurally sound, and offers proper drainage. The existing surface must be clean, level, and free of significant cracks or deterioration. Installation typically involves either a pedestal system for drainage and leveling or a thin-set mortar application, depending on the desired outcome and site conditions. A thorough inspection of the existing concrete is essential to determine feasibility and the most suitable installation method.",
-        "description": "Porcelain pavers can be installed over existing concrete if the slab is sound, level, and has good drainage. Installation methods include pedestal systems or thin-set mortar, depending on existing conditions."
-      }
-    }
-  ],
+  "name": "Can porcelain pavers be installed over existing concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can porcelain pavers be installed over existing concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, porcelain pavers can often be installed over existing concrete, provided the concrete slab is in good condition, structurally sound, and offers proper drainage. The existing surface must be clean, level, and free of significant cracks or deterioration. Installation typically involves either a pedestal system for drainage and leveling or a thin-set mortar application, depending on the desired outcome and site conditions. A thorough inspection of the existing concrete is essential to determine feasibility and the most suitable installation method.",
+        "@type": "Answer",
+        "description": "Porcelain pavers can be installed over existing concrete if the slab is sound, level, and has good drainage. Installation methods include pedestal systems or thin-set mortar, depending on existing conditions."
+      }
+    }
+  ],
+  "description": "Porcelain pavers can be installed over existing concrete if the slab is sound, level, and has good drainage. Installation methods include pedestal systems or th"
 }

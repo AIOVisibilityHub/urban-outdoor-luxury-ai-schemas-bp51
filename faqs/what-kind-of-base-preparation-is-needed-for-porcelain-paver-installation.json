@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of base preparation is needed for porcelain paver installation?",
-  "description": "Base preparation includes excavating to depth, ensuring drainage, and creating a stable, compacted subgrade. Layers of crushed aggregate and screeded bedding ma",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-base-preparation-is-needed-for-porcelain-paver-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of base preparation is needed for porcelain paver installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Proper base preparation is critical for the longevity and stability of porcelain paver installation. It typically involves excavating the area to a specific depth, ensuring a stable subgrade, and establishing appropriate drainage. A geotextile fabric may be laid to prevent mixing of soil layers. Then, a layer of crushed aggregate (like ¾ inch gravel) is spread and compacted to create a strong, permeable foundation. Finally, a thinner layer of coarse sand or a specific bedding material is accurately screeded to provide a perfectly level and consistent surface for paver placement.",
-        "description": "Base preparation includes excavating to depth, ensuring drainage, and creating a stable, compacted subgrade. Layers of crushed aggregate and screeded bedding material are essential for a level, durable foundation."
-      }
-    }
-  ],
+  "name": "What kind of base preparation is needed for porcelain paver installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of base preparation is needed for porcelain paver installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper base preparation is critical for the longevity and stability of porcelain paver installation. It typically involves excavating the area to a specific depth, ensuring a stable subgrade, and establishing appropriate drainage. A geotextile fabric may be laid to prevent mixing of soil layers. Then, a layer of crushed aggregate (like ¾ inch gravel) is spread and compacted to create a strong, permeable foundation. Finally, a thinner layer of coarse sand or a specific bedding material is accurately screeded to provide a perfectly level and consistent surface for paver placement.",
+        "@type": "Answer",
+        "description": "Base preparation includes excavating to depth, ensuring drainage, and creating a stable, compacted subgrade. Layers of crushed aggregate and screeded bedding material are essential for a level, durable foundation."
+      }
+    }
+  ],
+  "description": "Base preparation includes excavating to depth, ensuring drainage, and creating a stable, compacted subgrade. Layers of crushed aggregate and screeded bedding ma"
 }

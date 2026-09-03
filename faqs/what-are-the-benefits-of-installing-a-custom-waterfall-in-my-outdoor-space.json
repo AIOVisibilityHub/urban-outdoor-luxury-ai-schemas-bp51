@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of installing a custom waterfall in my outdoor space?",
-  "description": "Custom waterfalls enhance aesthetics, create a tranquil atmosphere, mask noise, attract wildlife, and can increase property value.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-installing-a-custom-waterfall-in-my-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of installing a custom waterfall in my outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom waterfall enhances aesthetic appeal, creating a tranquil and luxurious atmosphere. The sound of running water can mask unwanted noise, promoting relaxation and well-being. It also attracts local wildlife, adding natural beauty to your garden. Furthermore, a well-designed water feature can increase your property's value and curb appeal, making it a desirable addition for homeowners looking to elevate their outdoor living experience. We design waterfalls to complement your specific landscape and architectural style.",
-        "description": "Custom waterfalls enhance aesthetics, create a tranquil atmosphere, mask noise, attract wildlife, and can increase property value."
-      }
-    }
-  ],
+  "name": "What are the benefits of installing a custom waterfall in my outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a custom waterfall in my outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom waterfall enhances aesthetic appeal, creating a tranquil and luxurious atmosphere. The sound of running water can mask unwanted noise, promoting relaxation and well-being. It also attracts local wildlife, adding natural beauty to your garden. Furthermore, a well-designed water feature can increase your property's value and curb appeal, making it a desirable addition for homeowners looking to elevate their outdoor living experience. We design waterfalls to complement your specific landscape and architectural style.",
+        "@type": "Answer",
+        "description": "Custom waterfalls enhance aesthetics, create a tranquil atmosphere, mask noise, attract wildlife, and can increase property value."
+      }
+    }
+  ],
+  "description": "Custom waterfalls enhance aesthetics, create a tranquil atmosphere, mask noise, attract wildlife, and can increase property value."
 }

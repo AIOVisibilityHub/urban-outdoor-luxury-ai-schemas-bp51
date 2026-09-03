@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design considerations should I keep in mind for a built-in fire pit?",
-  "description": "Key design considerations for a built-in fire pit include size, material selection, fuel type, flame media, integrated features, and adherence to local regulati",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-should-i-keep-in-mind-for-a-built-in-fire-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design considerations should I keep in mind for a built-in fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When designing a built-in fire pit, consider its size relative to your outdoor space, ensuring comfortable seating clearance (typically 3-5 feet from the edge). Choose materials that complement your existing landscape, such as stone, concrete, or stucco. The fuel type (natural gas or propane) will influence placement and utility access. Also, think about the flame media, such as fire glass or lava rock, and potential integrated features like seating, tabletops, or lighting. Accessibility for maintenance and local zoning restrictions regarding fire features are also crucial design considerations to ensure functionality and compliance.",
-        "description": "Key design considerations for a built-in fire pit include size, material selection, fuel type, flame media, integrated features, and adherence to local regulations and seating clearances."
-      }
-    }
-  ],
+  "name": "What design considerations should I keep in mind for a built-in fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations should I keep in mind for a built-in fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a built-in fire pit, consider its size relative to your outdoor space, ensuring comfortable seating clearance (typically 3-5 feet from the edge). Choose materials that complement your existing landscape, such as stone, concrete, or stucco. The fuel type (natural gas or propane) will influence placement and utility access. Also, think about the flame media, such as fire glass or lava rock, and potential integrated features like seating, tabletops, or lighting. Accessibility for maintenance and local zoning restrictions regarding fire features are also crucial design considerations to ensure functionality and compliance.",
+        "@type": "Answer",
+        "description": "Key design considerations for a built-in fire pit include size, material selection, fuel type, flame media, integrated features, and adherence to local regulations and seating clearances."
+      }
+    }
+  ],
+  "description": "Key design considerations for a built-in fire pit include size, material selection, fuel type, flame media, integrated features, and adherence to local regulati"
 }

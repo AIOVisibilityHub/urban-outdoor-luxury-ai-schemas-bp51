@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right color and brightness for my pool lights?",
-  "description": "Choose color and brightness based on your desired aesthetic and surroundings. Consider color-changing LEDs and dimmable systems for versatility and optimal ambi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-color-and-brightness-for-my-pool-lights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right color and brightness for my pool lights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right color and brightness involves considering your desired aesthetic and the pool's surroundings. For a serene ambiance, warmer white or blue tones are often preferred, while vibrant colors can create a festive atmosphere. Brightness should be sufficient for safety and visibility without being overpowering. We recommend a design consultation to explore options, including color-changing LED lights and dimmable systems, to find the perfect balance that complements your outdoor living space and personal style.",
-        "description": "Choose color and brightness based on your desired aesthetic and surroundings. Consider color-changing LEDs and dimmable systems for versatility and optimal ambiance."
-      }
-    }
-  ],
+  "name": "How do I choose the right color and brightness for my pool lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and brightness for my pool lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and brightness involves considering your desired aesthetic and the pool's surroundings. For a serene ambiance, warmer white or blue tones are often preferred, while vibrant colors can create a festive atmosphere. Brightness should be sufficient for safety and visibility without being overpowering. We recommend a design consultation to explore options, including color-changing LED lights and dimmable systems, to find the perfect balance that complements your outdoor living space and personal style.",
+        "@type": "Answer",
+        "description": "Choose color and brightness based on your desired aesthetic and surroundings. Consider color-changing LEDs and dimmable systems for versatility and optimal ambiance."
+      }
+    }
+  ],
+  "description": "Choose color and brightness based on your desired aesthetic and surroundings. Consider color-changing LEDs and dimmable systems for versatility and optimal ambi"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a natural gas fire pit?",
-  "description": "Natural gas fire pits require minimal maintenance, including regular cleaning of debris, checking gas lines, and an annual professional inspection for safety an",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-natural-gas-fire-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a natural gas fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural gas fire pits generally require minimal maintenance. Key tasks include regularly cleaning the fire pit area to remove debris, leaves, and dirt that can accumulate in the burner pan. It's also important to periodically inspect the gas lines and connections for any signs of leaks or damage, and ensure the igniter is functioning correctly. For optimal performance and safety, we recommend an annual professional inspection to check all components, clear burner ports, and confirm proper gas flow. Using a weather-resistant cover when not in use can significantly extend the life of your fire pit and reduce cleaning frequency.",
-        "description": "Natural gas fire pits require minimal maintenance, including regular cleaning of debris, checking gas lines, and an annual professional inspection for safety and performance."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a natural gas fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a natural gas fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas fire pits generally require minimal maintenance. Key tasks include regularly cleaning the fire pit area to remove debris, leaves, and dirt that can accumulate in the burner pan. It's also important to periodically inspect the gas lines and connections for any signs of leaks or damage, and ensure the igniter is functioning correctly. For optimal performance and safety, we recommend an annual professional inspection to check all components, clear burner ports, and confirm proper gas flow. Using a weather-resistant cover when not in use can significantly extend the life of your fire pit and reduce cleaning frequency.",
+        "@type": "Answer",
+        "description": "Natural gas fire pits require minimal maintenance, including regular cleaning of debris, checking gas lines, and an annual professional inspection for safety and performance."
+      }
+    }
+  ],
+  "description": "Natural gas fire pits require minimal maintenance, including regular cleaning of debris, checking gas lines, and an annual professional inspection for safety an"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance does a fire-bowl require?",
-  "description": "Maintenance involves cleaning fire media, inspecting burners for gas units, and ash removal for wood-burning types. Covering when not in use is recommended.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-does-a-fire-bowl-require",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance does a fire-bowl require?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fire-bowls generally require minimal maintenance. For gas units, this includes regularly cleaning the fire media (lava rock, fire glass) to remove debris and inspecting the burner for blockages. It's also advisable to check gas connections annually for leaks. Wood-burning fire-bowls require routine ash removal and cleaning of the bowl interior. Covering your fire-bowl when not in use can protect it from weather and prolong its lifespan.",
-        "description": "Maintenance involves cleaning fire media, inspecting burners for gas units, and ash removal for wood-burning types. Covering when not in use is recommended."
-      }
-    }
-  ],
+  "name": "What kind of maintenance does a fire-bowl require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a fire-bowl require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire-bowls generally require minimal maintenance. For gas units, this includes regularly cleaning the fire media (lava rock, fire glass) to remove debris and inspecting the burner for blockages. It's also advisable to check gas connections annually for leaks. Wood-burning fire-bowls require routine ash removal and cleaning of the bowl interior. Covering your fire-bowl when not in use can protect it from weather and prolong its lifespan.",
+        "@type": "Answer",
+        "description": "Maintenance involves cleaning fire media, inspecting burners for gas units, and ash removal for wood-burning types. Covering when not in use is recommended."
+      }
+    }
+  ],
+  "description": "Maintenance involves cleaning fire media, inspecting burners for gas units, and ash removal for wood-burning types. Covering when not in use is recommended."
 }

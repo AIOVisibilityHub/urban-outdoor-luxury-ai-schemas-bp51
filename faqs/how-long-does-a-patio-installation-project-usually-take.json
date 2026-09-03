@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a patio installation project usually take?",
-  "description": "Patio installation can take anywhere from a few days for simple designs to several weeks for larger, more complex projects, depending on materials and site cond",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-patio-installation-project-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a patio installation project usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a patio installation project depends on its size, complexity, material selection, and site conditions. A straightforward concrete patio might take a few days to a week. Projects involving pavers or natural stone, custom designs, extensive site grading, or the addition of features like seating walls or fire pits can extend to two to four weeks. Weather conditions and inspection schedules also play a role. We provide a detailed timeline after assessing your project's specific requirements during the initial consultation.",
-        "description": "Patio installation can take anywhere from a few days for simple designs to several weeks for larger, more complex projects, depending on materials and site conditions."
-      }
-    }
-  ],
+  "name": "How long does a patio installation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a patio installation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a patio installation project depends on its size, complexity, material selection, and site conditions. A straightforward concrete patio might take a few days to a week. Projects involving pavers or natural stone, custom designs, extensive site grading, or the addition of features like seating walls or fire pits can extend to two to four weeks. Weather conditions and inspection schedules also play a role. We provide a detailed timeline after assessing your project's specific requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Patio installation can take anywhere from a few days for simple designs to several weeks for larger, more complex projects, depending on materials and site conditions."
+      }
+    }
+  ],
+  "description": "Patio installation can take anywhere from a few days for simple designs to several weeks for larger, more complex projects, depending on materials and site cond"
 }

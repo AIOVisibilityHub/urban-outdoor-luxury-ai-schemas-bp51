@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a custom fire pit increase my property value?",
-  "description": "Yes, a well-designed custom fire pit can increase property value by enhancing outdoor living space, adding a luxurious aesthetic, and making the property more a",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-custom-fire-pit-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a custom fire pit increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a well-designed and professionally installed custom fire pit can certainly enhance your property's value, particularly in desirable markets like Los Angeles. As a key outdoor living amenity, it transforms a backyard into a functional and inviting entertainment space, which is highly sought after by homebuyers. A custom fire pit demonstrates attention to detail and a commitment to quality outdoor design, setting your property apart. It extends the usability of your outdoor area into cooler evenings and adds a luxurious aesthetic appeal. This improvement is often viewed as a significant upgrade, contributing positively to resale value.",
-        "description": "Yes, a well-designed custom fire pit can increase property value by enhancing outdoor living space, adding a luxurious aesthetic, and making the property more appealing to homebuyers."
-      }
-    }
-  ],
+  "name": "Can a custom fire pit increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom fire pit increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally installed custom fire pit can certainly enhance your property's value, particularly in desirable markets like Los Angeles. As a key outdoor living amenity, it transforms a backyard into a functional and inviting entertainment space, which is highly sought after by homebuyers. A custom fire pit demonstrates attention to detail and a commitment to quality outdoor design, setting your property apart. It extends the usability of your outdoor area into cooler evenings and adds a luxurious aesthetic appeal. This improvement is often viewed as a significant upgrade, contributing positively to resale value.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed custom fire pit can increase property value by enhancing outdoor living space, adding a luxurious aesthetic, and making the property more appealing to homebuyers."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed custom fire pit can increase property value by enhancing outdoor living space, adding a luxurious aesthetic, and making the property more a"
 }

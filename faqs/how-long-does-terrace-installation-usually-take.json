@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does terrace installation usually take?",
-  "description": "Installation time varies by project size and complexity, ranging from a few weeks for smaller terraces to several months for larger, custom designs.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-terrace-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does terrace installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a terrace installation varies significantly based on factors like the size and complexity of the design, the chosen materials, and site conditions. A smaller, straightforward terrace might take a few weeks, while a larger, custom-designed luxury terrace with intricate features could take several weeks to a few months. Weather conditions and permitting timelines can also influence the schedule. We provide a detailed timeline after the design phase.",
-        "description": "Installation time varies by project size and complexity, ranging from a few weeks for smaller terraces to several months for larger, custom designs."
-      }
-    }
-  ],
+  "name": "How long does terrace installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does terrace installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a terrace installation varies significantly based on factors like the size and complexity of the design, the chosen materials, and site conditions. A smaller, straightforward terrace might take a few weeks, while a larger, custom-designed luxury terrace with intricate features could take several weeks to a few months. Weather conditions and permitting timelines can also influence the schedule. We provide a detailed timeline after the design phase.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size and complexity, ranging from a few weeks for smaller terraces to several months for larger, custom designs."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size and complexity, ranging from a few weeks for smaller terraces to several months for larger, custom designs."
 }

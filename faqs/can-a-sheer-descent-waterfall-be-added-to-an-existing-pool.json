@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a sheer descent waterfall be added to an existing pool?",
-  "description": "Adding a sheer descent to an existing pool is possible but may require building a new support structure and modifying existing plumbing, electrical, and landsca",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-sheer-descent-waterfall-be-added-to-an-existing-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a sheer descent waterfall be added to an existing pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a sheer descent waterfall can often be added to an existing pool, but it usually requires careful planning and construction. This may involve building a new support structure, such as a raised beam or retaining wall behind the pool, or integrating it into an existing raised bond beam. Plumbing and electrical lines would need to be routed, and the surrounding decking or landscaping might require modification.",
-        "description": "Adding a sheer descent to an existing pool is possible but may require building a new support structure and modifying existing plumbing, electrical, and landscaping."
-      }
-    }
-  ],
+  "name": "Can a sheer descent waterfall be added to an existing pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a sheer descent waterfall be added to an existing pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a sheer descent waterfall can often be added to an existing pool, but it usually requires careful planning and construction. This may involve building a new support structure, such as a raised beam or retaining wall behind the pool, or integrating it into an existing raised bond beam. Plumbing and electrical lines would need to be routed, and the surrounding decking or landscaping might require modification.",
+        "@type": "Answer",
+        "description": "Adding a sheer descent to an existing pool is possible but may require building a new support structure and modifying existing plumbing, electrical, and landscaping."
+      }
+    }
+  ],
+  "description": "Adding a sheer descent to an existing pool is possible but may require building a new support structure and modifying existing plumbing, electrical, and landsca"
 }

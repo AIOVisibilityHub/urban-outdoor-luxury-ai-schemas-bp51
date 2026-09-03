@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose between asphalt, concrete, and pavers for my driveway?",
-  "description": "Asphalt is budget-friendly but needs regular sealing. Concrete is durable and versatile but can crack. Pavers offer high aesthetics, durability, and repairabili",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-between-asphalt-concrete-and-pavers-for-my-driveway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose between asphalt, concrete, and pavers for my driveway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing between asphalt, concrete, and pavers involves weighing cost, durability, maintenance, and aesthetics. Asphalt is generally the least expensive, offers flexibility in colder climates, but requires regular sealing. Concrete is more durable and versatile in design, with options like stamping or staining, but can crack. Pavers offer the highest aesthetic appeal, come in various materials (natural stone, concrete), are extremely durable, and individual units can be replaced if damaged. They are typically the most expensive upfront but offer excellent longevity and design flexibility for a luxury look.",
-        "description": "Asphalt is budget-friendly but needs regular sealing. Concrete is durable and versatile but can crack. Pavers offer high aesthetics, durability, and repairability, but are the most expensive."
-      }
-    }
-  ],
+  "name": "How do I choose between asphalt, concrete, and pavers for my driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between asphalt, concrete, and pavers for my driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between asphalt, concrete, and pavers involves weighing cost, durability, maintenance, and aesthetics. Asphalt is generally the least expensive, offers flexibility in colder climates, but requires regular sealing. Concrete is more durable and versatile in design, with options like stamping or staining, but can crack. Pavers offer the highest aesthetic appeal, come in various materials (natural stone, concrete), are extremely durable, and individual units can be replaced if damaged. They are typically the most expensive upfront but offer excellent longevity and design flexibility for a luxury look.",
+        "@type": "Answer",
+        "description": "Asphalt is budget-friendly but needs regular sealing. Concrete is durable and versatile but can crack. Pavers offer high aesthetics, durability, and repairability, but are the most expensive."
+      }
+    }
+  ],
+  "description": "Asphalt is budget-friendly but needs regular sealing. Concrete is durable and versatile but can crack. Pavers offer high aesthetics, durability, and repairabili"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a self-contained fountain and a custom-built water feature?",
-  "description": "Self-contained fountains are pre-fabricated units with integrated reservoirs, while custom-built features are uniquely designed for a site, offering more design",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-self-contained-fountain-and-a-custom-built-wate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a self-contained fountain and a custom-built water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A self-contained fountain is a pre-fabricated unit with an integrated reservoir, pump, and all necessary components within a single structure. They are generally simpler and quicker to install. Custom-built water features, conversely, are designed and constructed specifically for a site, allowing for unique shapes, sizes, and integration into the landscape. These often involve more extensive excavation, plumbing, and electrical work, offering greater design flexibility and impact.",
-        "description": "Self-contained fountains are pre-fabricated units with integrated reservoirs, while custom-built features are uniquely designed for a site, offering more design flexibility."
-      }
-    }
-  ],
+  "name": "What is the difference between a self-contained fountain and a custom-built water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a self-contained fountain and a custom-built water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A self-contained fountain is a pre-fabricated unit with an integrated reservoir, pump, and all necessary components within a single structure. They are generally simpler and quicker to install. Custom-built water features, conversely, are designed and constructed specifically for a site, allowing for unique shapes, sizes, and integration into the landscape. These often involve more extensive excavation, plumbing, and electrical work, offering greater design flexibility and impact.",
+        "@type": "Answer",
+        "description": "Self-contained fountains are pre-fabricated units with integrated reservoirs, while custom-built features are uniquely designed for a site, offering more design flexibility."
+      }
+    }
+  ],
+  "description": "Self-contained fountains are pre-fabricated units with integrated reservoirs, while custom-built features are uniquely designed for a site, offering more design"
 }

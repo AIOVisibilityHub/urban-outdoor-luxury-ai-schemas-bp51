@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for outdoor lighting systems?",
-  "description": "Maintenance includes cleaning fixtures, checking connections, inspecting wiring, and occasional bulb replacement. Annual professional check-ups are recommended",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-outdoor-lighting-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for outdoor lighting systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outdoor lighting systems require minimal but consistent maintenance to ensure optimal performance and longevity. This typically includes periodic cleaning of fixtures to remove dirt and debris, checking for loose connections, and inspecting wiring for any damage. Bulb replacement, though less frequent with LED systems, is also part of routine care. We recommend annual professional check-ups to assess the system's condition, adjust fixture aiming, and address any potential issues proactively. Proper maintenance preserves the aesthetic appeal and functionality of your investment.",
-        "description": "Maintenance includes cleaning fixtures, checking connections, inspecting wiring, and occasional bulb replacement. Annual professional check-ups are recommended for optimal performance."
-      }
-    }
-  ],
+  "name": "What maintenance is required for outdoor lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for outdoor lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor lighting systems require minimal but consistent maintenance to ensure optimal performance and longevity. This typically includes periodic cleaning of fixtures to remove dirt and debris, checking for loose connections, and inspecting wiring for any damage. Bulb replacement, though less frequent with LED systems, is also part of routine care. We recommend annual professional check-ups to assess the system's condition, adjust fixture aiming, and address any potential issues proactively. Proper maintenance preserves the aesthetic appeal and functionality of your investment.",
+        "@type": "Answer",
+        "description": "Maintenance includes cleaning fixtures, checking connections, inspecting wiring, and occasional bulb replacement. Annual professional check-ups are recommended for optimal performance."
+      }
+    }
+  ],
+  "description": "Maintenance includes cleaning fixtures, checking connections, inspecting wiring, and occasional bulb replacement. Annual professional check-ups are recommended"
 }

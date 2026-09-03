@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of lighting options are available to enhance pool scuppers?",
-  "description": "Lighting options for pool scuppers include integrated LED strips, underwater LEDs, or fiber optics to enhance visual appeal and create ambiance at night.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-lighting-options-are-available-to-enhance-pool-scuppers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of lighting options are available to enhance pool scuppers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lighting can dramatically enhance the visual appeal of pool scuppers, especially at night. Popular options include LED strip lighting integrated directly beneath the water stream, creating a glowing effect as the water falls. Underwater LED lights placed strategically in the pool can also illuminate the falling water from below. Fiber optic lighting offers another discreet option, projecting light through the water without electrical components in the water itself. The choice of lighting can vary in color, intensity, and control, allowing for custom ambiance and highlighting the water feature as a focal point.",
-        "description": "Lighting options for pool scuppers include integrated LED strips, underwater LEDs, or fiber optics to enhance visual appeal and create ambiance at night."
-      }
-    }
-  ],
+  "name": "What kind of lighting options are available to enhance pool scuppers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of lighting options are available to enhance pool scuppers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lighting can dramatically enhance the visual appeal of pool scuppers, especially at night. Popular options include LED strip lighting integrated directly beneath the water stream, creating a glowing effect as the water falls. Underwater LED lights placed strategically in the pool can also illuminate the falling water from below. Fiber optic lighting offers another discreet option, projecting light through the water without electrical components in the water itself. The choice of lighting can vary in color, intensity, and control, allowing for custom ambiance and highlighting the water feature as a focal point.",
+        "@type": "Answer",
+        "description": "Lighting options for pool scuppers include integrated LED strips, underwater LEDs, or fiber optics to enhance visual appeal and create ambiance at night."
+      }
+    }
+  ],
+  "description": "Lighting options for pool scuppers include integrated LED strips, underwater LEDs, or fiber optics to enhance visual appeal and create ambiance at night."
 }

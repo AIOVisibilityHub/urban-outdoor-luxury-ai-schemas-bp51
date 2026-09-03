@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for water features, and how can it be minimized?",
-  "description": "Maintenance involves debris removal, filter cleaning, and water chemistry. Automated systems and durable materials can significantly reduce upkeep.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-water-features-and-how-can-it-be-minimized",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for water features, and how can it be minimized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Water features require routine maintenance to ensure proper operation and water quality. This typically includes debris removal, checking water levels, cleaning filters, and balancing water chemistry to prevent algae growth and equipment corrosion. We can design systems with automation features like auto-fill devices, chemical feeders, and self-cleaning filters to minimize manual intervention. Utilizing durable, low-maintenance materials and selecting appropriate plant life for ponds also reduces ongoing effort. Regular professional servicing can further simplify upkeep.",
-        "description": "Maintenance involves debris removal, filter cleaning, and water chemistry. Automated systems and durable materials can significantly reduce upkeep."
-      }
-    }
-  ],
+  "name": "What maintenance is required for water features, and how can it be minimized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for water features, and how can it be minimized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water features require routine maintenance to ensure proper operation and water quality. This typically includes debris removal, checking water levels, cleaning filters, and balancing water chemistry to prevent algae growth and equipment corrosion. We can design systems with automation features like auto-fill devices, chemical feeders, and self-cleaning filters to minimize manual intervention. Utilizing durable, low-maintenance materials and selecting appropriate plant life for ponds also reduces ongoing effort. Regular professional servicing can further simplify upkeep.",
+        "@type": "Answer",
+        "description": "Maintenance involves debris removal, filter cleaning, and water chemistry. Automated systems and durable materials can significantly reduce upkeep."
+      }
+    }
+  ],
+  "description": "Maintenance involves debris removal, filter cleaning, and water chemistry. Automated systems and durable materials can significantly reduce upkeep."
 }

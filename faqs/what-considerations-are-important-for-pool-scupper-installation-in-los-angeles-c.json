@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important for pool scupper installation in Los Angeles climate?",
-  "description": "In Los Angeles, focus on durable materials for sun exposure and designs that minimize water evaporation, considering local water usage guidelines.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-considerations-are-important-for-pool-scupper-installation-in-los-angeles-c",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important for pool scupper installation in Los Angeles climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the Los Angeles climate, considerations for pool scupper installation primarily involve material longevity and water conservation. Materials like high-quality stainless steel or copper are resilient to sun exposure. While scuppers recirculate pool water, ensuring proper plumbing and sealing is vital to minimize evaporation, especially during hot, dry periods. Design choices that minimize splash out can also help conserve water. We select durable materials and design systems that operate efficiently while complementing the local aesthetic and adhering to any relevant local water usage guidelines.",
-        "description": "In Los Angeles, focus on durable materials for sun exposure and designs that minimize water evaporation, considering local water usage guidelines."
-      }
-    }
-  ],
+  "name": "What considerations are important for pool scupper installation in Los Angeles climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for pool scupper installation in Los Angeles climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Los Angeles climate, considerations for pool scupper installation primarily involve material longevity and water conservation. Materials like high-quality stainless steel or copper are resilient to sun exposure. While scuppers recirculate pool water, ensuring proper plumbing and sealing is vital to minimize evaporation, especially during hot, dry periods. Design choices that minimize splash out can also help conserve water. We select durable materials and design systems that operate efficiently while complementing the local aesthetic and adhering to any relevant local water usage guidelines.",
+        "@type": "Answer",
+        "description": "In Los Angeles, focus on durable materials for sun exposure and designs that minimize water evaporation, considering local water usage guidelines."
+      }
+    }
+  ],
+  "description": "In Los Angeles, focus on durable materials for sun exposure and designs that minimize water evaporation, considering local water usage guidelines."
 }

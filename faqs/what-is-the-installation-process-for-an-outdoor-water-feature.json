@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the installation process for an outdoor water feature?",
-  "description": "Installation involves site assessment, excavation, laying plumbing and electrical, assembling components, testing the system, and final landscaping.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-installation-process-for-an-outdoor-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the installation process for an outdoor water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process begins with site assessment and design finalization, followed by excavation for the basin and foundation. Next, plumbing and electrical lines are laid, ensuring proper water circulation and power for pumps and lighting. The fountain components are then assembled and positioned. Finally, the system is tested, water levels adjusted, and surrounding landscaping restored or enhanced. This ensures a functional and visually appealing water feature.",
-        "description": "Installation involves site assessment, excavation, laying plumbing and electrical, assembling components, testing the system, and final landscaping."
-      }
-    }
-  ],
+  "name": "What is the installation process for an outdoor water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for an outdoor water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with site assessment and design finalization, followed by excavation for the basin and foundation. Next, plumbing and electrical lines are laid, ensuring proper water circulation and power for pumps and lighting. The fountain components are then assembled and positioned. Finally, the system is tested, water levels adjusted, and surrounding landscaping restored or enhanced. This ensures a functional and visually appealing water feature.",
+        "@type": "Answer",
+        "description": "Installation involves site assessment, excavation, laying plumbing and electrical, assembling components, testing the system, and final landscaping."
+      }
+    }
+  ],
+  "description": "Installation involves site assessment, excavation, laying plumbing and electrical, assembling components, testing the system, and final landscaping."
 }

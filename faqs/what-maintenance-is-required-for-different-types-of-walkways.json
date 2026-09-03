@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for different types of walkways?",
-  "description": "Paver walkways need sweeping, rinsing, joint sand replenishment, and periodic sealing. Decomposed granite requires raking. Natural stone and flagstone need swee",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-different-types-of-walkways",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for different types of walkways?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance varies significantly by material. Paver walkways require occasional sweeping, rinsing, and periodic joint sand replenishment, along with sealing every few years to prevent weeds and stains. Decomposed granite walkways benefit from occasional raking to maintain an even surface and may need touch-ups with binder or additional material. Natural stone and flagstone are generally low maintenance, needing only sweeping and occasional cleaning, though sealing can enhance their longevity and appearance. Regular removal of debris and addressing any minor repairs promptly will extend the life of any walkway.",
-        "description": "Paver walkways need sweeping, rinsing, joint sand replenishment, and periodic sealing. Decomposed granite requires raking. Natural stone and flagstone need sweeping and occasional cleaning. All benefit from debris removal."
-      }
-    }
-  ],
+  "name": "What maintenance is required for different types of walkways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for different types of walkways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies significantly by material. Paver walkways require occasional sweeping, rinsing, and periodic joint sand replenishment, along with sealing every few years to prevent weeds and stains. Decomposed granite walkways benefit from occasional raking to maintain an even surface and may need touch-ups with binder or additional material. Natural stone and flagstone are generally low maintenance, needing only sweeping and occasional cleaning, though sealing can enhance their longevity and appearance. Regular removal of debris and addressing any minor repairs promptly will extend the life of any walkway.",
+        "@type": "Answer",
+        "description": "Paver walkways need sweeping, rinsing, joint sand replenishment, and periodic sealing. Decomposed granite requires raking. Natural stone and flagstone need sweeping and occasional cleaning. All benefit from debris removal."
+      }
+    }
+  ],
+  "description": "Paver walkways need sweeping, rinsing, joint sand replenishment, and periodic sealing. Decomposed granite requires raking. Natural stone and flagstone need swee"
 }

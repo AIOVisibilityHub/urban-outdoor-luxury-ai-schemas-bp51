@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in the outdoor lighting installation process?",
-  "description": "The process involves site assessment, design planning, trenching for wiring, fixture mounting, electrical connections, transformer installation, and final adjus",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-the-outdoor-lighting-installation-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in the outdoor lighting installation process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The outdoor lighting installation process typically begins with a detailed site assessment and design consultation to understand your vision and property layout. This is followed by planning, which includes selecting fixtures, determining wiring routes, and mapping out transformer locations. Installation involves carefully trenching for low-voltage wiring, mounting fixtures, making electrical connections, and installing transformers. Finally, the system is tested and adjusted for optimal light direction and intensity to achieve the desired aesthetic and functionality.",
-        "description": "The process involves site assessment, design planning, trenching for wiring, fixture mounting, electrical connections, transformer installation, and final adjustments."
-      }
-    }
-  ],
+  "name": "What is involved in the outdoor lighting installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the outdoor lighting installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The outdoor lighting installation process typically begins with a detailed site assessment and design consultation to understand your vision and property layout. This is followed by planning, which includes selecting fixtures, determining wiring routes, and mapping out transformer locations. Installation involves carefully trenching for low-voltage wiring, mounting fixtures, making electrical connections, and installing transformers. Finally, the system is tested and adjusted for optimal light direction and intensity to achieve the desired aesthetic and functionality.",
+        "@type": "Answer",
+        "description": "The process involves site assessment, design planning, trenching for wiring, fixture mounting, electrical connections, transformer installation, and final adjustments."
+      }
+    }
+  ],
+  "description": "The process involves site assessment, design planning, trenching for wiring, fixture mounting, electrical connections, transformer installation, and final adjus"
 }

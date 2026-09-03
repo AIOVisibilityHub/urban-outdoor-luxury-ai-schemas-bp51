@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a water feature?",
-  "description": "Maintenance depends on the feature type: fountains need cleaning and refills, ponds require filter cleaning and water testing, and pondless features need debris",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance needs vary significantly by the type of water feature. Fountains often require regular cleaning to prevent algae buildup and ensure pumps are free of debris, along with occasional water refills due to evaporation. Ponds require more involved care, including routine cleaning of filters, debris removal, water testing, and seasonal adjustments for fish and plants. Pondless waterfalls are typically lower maintenance, mainly needing debris removal from the basin and occasional water top-offs. We offer maintenance packages to keep your feature pristine.",
-        "description": "Maintenance depends on the feature type: fountains need cleaning and refills, ponds require filter cleaning and water testing, and pondless features need debris removal."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance needs vary significantly by the type of water feature. Fountains often require regular cleaning to prevent algae buildup and ensure pumps are free of debris, along with occasional water refills due to evaporation. Ponds require more involved care, including routine cleaning of filters, debris removal, water testing, and seasonal adjustments for fish and plants. Pondless waterfalls are typically lower maintenance, mainly needing debris removal from the basin and occasional water top-offs. We offer maintenance packages to keep your feature pristine.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the feature type: fountains need cleaning and refills, ponds require filter cleaning and water testing, and pondless features need debris removal."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the feature type: fountains need cleaning and refills, ponds require filter cleaning and water testing, and pondless features need debris"
 }

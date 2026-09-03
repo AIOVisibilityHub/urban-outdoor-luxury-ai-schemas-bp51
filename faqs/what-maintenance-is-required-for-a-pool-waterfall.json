@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a pool waterfall?",
-  "description": "Maintenance involves routine cleaning of surfaces, checking the pump and filter for debris, and ensuring proper water chemistry.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-pool-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a pool waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a pool waterfall primarily involves routine cleaning to prevent algae buildup and ensure clear water flow. This includes periodically cleaning the waterfall surface, checking for debris accumulation in the pump or filter, and ensuring proper water chemistry to prevent staining or scaling. Regular inspection of the pump and plumbing for leaks or wear is also important. Proper maintenance extends the life of your waterfall and keeps it functioning optimally.",
-        "description": "Maintenance involves routine cleaning of surfaces, checking the pump and filter for debris, and ensuring proper water chemistry."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a pool waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a pool waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a pool waterfall primarily involves routine cleaning to prevent algae buildup and ensure clear water flow. This includes periodically cleaning the waterfall surface, checking for debris accumulation in the pump or filter, and ensuring proper water chemistry to prevent staining or scaling. Regular inspection of the pump and plumbing for leaks or wear is also important. Proper maintenance extends the life of your waterfall and keeps it functioning optimally.",
+        "@type": "Answer",
+        "description": "Maintenance involves routine cleaning of surfaces, checking the pump and filter for debris, and ensuring proper water chemistry."
+      }
+    }
+  ],
+  "description": "Maintenance involves routine cleaning of surfaces, checking the pump and filter for debris, and ensuring proper water chemistry."
 }

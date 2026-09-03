@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of an architectural lighting installation project?",
-  "description": "Cost factors include project scale, fixture types and quality, installation complexity (e.g., wiring, smart home integration), and site accessibility.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-an-architectural-lighting-installation-projec",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of an architectural lighting installation project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of an architectural lighting project is influenced by several factors. These include the scale of the project, such as the number of fixtures required and the size of the area to be lit. The type and quality of fixtures, from standard LED to specialty high-end options, also play a significant role. Complexity of installation, including trenching for wiring, integration with smart home systems, and custom design elements, can affect costs. Additionally, accessibility of the site and the need for specialized equipment can impact the overall investment.",
-        "description": "Cost factors include project scale, fixture types and quality, installation complexity (e.g., wiring, smart home integration), and site accessibility."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of an architectural lighting installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an architectural lighting installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an architectural lighting project is influenced by several factors. These include the scale of the project, such as the number of fixtures required and the size of the area to be lit. The type and quality of fixtures, from standard LED to specialty high-end options, also play a significant role. Complexity of installation, including trenching for wiring, integration with smart home systems, and custom design elements, can affect costs. Additionally, accessibility of the site and the need for specialized equipment can impact the overall investment.",
+        "@type": "Answer",
+        "description": "Cost factors include project scale, fixture types and quality, installation complexity (e.g., wiring, smart home integration), and site accessibility."
+      }
+    }
+  ],
+  "description": "Cost factors include project scale, fixture types and quality, installation complexity (e.g., wiring, smart home integration), and site accessibility."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a natural rock waterfall and an artificial rock waterfall?",
-  "description": "Natural rock uses real stones for an organic look, while artificial rock is custom-molded for design flexibility and lighter weight.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-natural-rock-waterfall-and-an-artificial-rock-w",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a natural rock waterfall and an artificial rock waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural rock waterfalls use authentic boulders and stones, offering unique textures and a truly organic appearance that blends seamlessly with natural landscapes. They can be heavier and require more structural support. Artificial rock waterfalls, often made from concrete or fiberglass, are custom-molded to mimic natural rock formations. They offer greater design flexibility, can be lighter, and may be more cost-effective. Both can create stunning water features, with the choice often depending on aesthetic preference, budget, and installation constraints for your property.",
-        "description": "Natural rock uses real stones for an organic look, while artificial rock is custom-molded for design flexibility and lighter weight."
-      }
-    }
-  ],
+  "name": "What is the difference between a natural rock waterfall and an artificial rock waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a natural rock waterfall and an artificial rock waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural rock waterfalls use authentic boulders and stones, offering unique textures and a truly organic appearance that blends seamlessly with natural landscapes. They can be heavier and require more structural support. Artificial rock waterfalls, often made from concrete or fiberglass, are custom-molded to mimic natural rock formations. They offer greater design flexibility, can be lighter, and may be more cost-effective. Both can create stunning water features, with the choice often depending on aesthetic preference, budget, and installation constraints for your property.",
+        "@type": "Answer",
+        "description": "Natural rock uses real stones for an organic look, while artificial rock is custom-molded for design flexibility and lighter weight."
+      }
+    }
+  ],
+  "description": "Natural rock uses real stones for an organic look, while artificial rock is custom-molded for design flexibility and lighter weight."
 }

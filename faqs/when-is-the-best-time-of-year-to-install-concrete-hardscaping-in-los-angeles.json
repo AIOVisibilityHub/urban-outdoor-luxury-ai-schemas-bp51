@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to install concrete hardscaping in Los Angeles?",
-  "description": "In Los Angeles, concrete hardscaping can be installed year-round. Spring or fall are ideal due to moderate temperatures, which optimize concrete curing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-concrete-hardscaping-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to install concrete hardscaping in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Los Angeles, concrete hardscape installation can typically occur year-round due to the mild climate. However, the ideal time is often during the spring or fall when temperatures are moderate, allowing for optimal concrete curing without extreme heat or cold. While winter installations are possible, prolonged rain can cause delays. We schedule projects to minimize weather-related disruptions.",
-        "description": "In Los Angeles, concrete hardscaping can be installed year-round. Spring or fall are ideal due to moderate temperatures, which optimize concrete curing."
-      }
-    }
-  ],
+  "name": "When is the best time of year to install concrete hardscaping in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to install concrete hardscaping in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, concrete hardscape installation can typically occur year-round due to the mild climate. However, the ideal time is often during the spring or fall when temperatures are moderate, allowing for optimal concrete curing without extreme heat or cold. While winter installations are possible, prolonged rain can cause delays. We schedule projects to minimize weather-related disruptions.",
+        "@type": "Answer",
+        "description": "In Los Angeles, concrete hardscaping can be installed year-round. Spring or fall are ideal due to moderate temperatures, which optimize concrete curing."
+      }
+    }
+  ],
+  "description": "In Los Angeles, concrete hardscaping can be installed year-round. Spring or fall are ideal due to moderate temperatures, which optimize concrete curing."
 }

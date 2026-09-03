@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to complete the installation of a custom water feature?",
-  "description": "Installation time for custom water features varies; smaller ones may take weeks, while larger, complex projects can take several months, including design and pe",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-complete-the-installation-of-a-custom-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to complete the installation of a custom water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for completing a custom water feature installation depends on its scope and complexity. Smaller, less intricate features might take a few weeks from groundbreaking to completion. Larger, more complex designs involving significant excavation, custom fabrication, extensive plumbing, and integrated automation can take several months. This timeframe also includes design finalization, permitting, material procurement, and construction. We provide a detailed project schedule after the design is finalized and permits are secured.",
-        "description": "Installation time for custom water features varies; smaller ones may take weeks, while larger, complex projects can take several months, including design and permitting."
-      }
-    }
-  ],
+  "name": "How long does it take to complete the installation of a custom water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete the installation of a custom water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for completing a custom water feature installation depends on its scope and complexity. Smaller, less intricate features might take a few weeks from groundbreaking to completion. Larger, more complex designs involving significant excavation, custom fabrication, extensive plumbing, and integrated automation can take several months. This timeframe also includes design finalization, permitting, material procurement, and construction. We provide a detailed project schedule after the design is finalized and permits are secured.",
+        "@type": "Answer",
+        "description": "Installation time for custom water features varies; smaller ones may take weeks, while larger, complex projects can take several months, including design and permitting."
+      }
+    }
+  ],
+  "description": "Installation time for custom water features varies; smaller ones may take weeks, while larger, complex projects can take several months, including design and pe"
 }

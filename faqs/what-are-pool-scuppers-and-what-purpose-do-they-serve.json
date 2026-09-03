@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are pool scuppers and what purpose do they serve?",
-  "description": "Pool scuppers are decorative water features that pour water into your pool, enhancing aesthetics, sound, and contributing to water circulation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-pool-scuppers-and-what-purpose-do-they-serve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are pool scuppers and what purpose do they serve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pool scuppers are decorative water features that create a stream or sheet of water flowing from an elevated surface, such as a wall or planter, into your swimming pool. They enhance the aesthetic appeal of your outdoor space by adding visual interest and the soothing sound of moving water. Beyond aesthetics, scuppers can also contribute to pool water circulation and aeration, helping to distribute chemicals and slightly oxygenate the water. They are often integrated into pool design as focal points or to create a more luxurious and resort-like ambiance.",
-        "description": "Pool scuppers are decorative water features that pour water into your pool, enhancing aesthetics, sound, and contributing to water circulation."
-      }
-    }
-  ],
+  "name": "What are pool scuppers and what purpose do they serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are pool scuppers and what purpose do they serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool scuppers are decorative water features that create a stream or sheet of water flowing from an elevated surface, such as a wall or planter, into your swimming pool. They enhance the aesthetic appeal of your outdoor space by adding visual interest and the soothing sound of moving water. Beyond aesthetics, scuppers can also contribute to pool water circulation and aeration, helping to distribute chemicals and slightly oxygenate the water. They are often integrated into pool design as focal points or to create a more luxurious and resort-like ambiance.",
+        "@type": "Answer",
+        "description": "Pool scuppers are decorative water features that pour water into your pool, enhancing aesthetics, sound, and contributing to water circulation."
+      }
+    }
+  ],
+  "description": "Pool scuppers are decorative water features that pour water into your pool, enhancing aesthetics, sound, and contributing to water circulation."
 }

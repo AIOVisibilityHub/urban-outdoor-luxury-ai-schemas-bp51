@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to install pathway lighting in Los Angeles?",
-  "description": "Costs vary based on area size, fixture type, electrical requirements, and complexity. A detailed on-site assessment provides an accurate estimate.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-pathway-lighting-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to install pathway lighting in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of pathway lighting installation in Los Angeles varies significantly based on several factors. These include the size and complexity of the area to be lit, the type and quality of lighting fixtures chosen, and the specific electrical requirements. For instance, low-voltage systems require transformer installation and wiring, impacting labor costs. Additionally, the need for trenching and specialized controls like timers or dimmers can influence the overall price. Obtaining a detailed on-site assessment provides the most accurate estimate for your specific project.",
-        "description": "Costs vary based on area size, fixture type, electrical requirements, and complexity. A detailed on-site assessment provides an accurate estimate."
-      }
-    }
-  ],
+  "name": "How much does it cost to install pathway lighting in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install pathway lighting in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pathway lighting installation in Los Angeles varies significantly based on several factors. These include the size and complexity of the area to be lit, the type and quality of lighting fixtures chosen, and the specific electrical requirements. For instance, low-voltage systems require transformer installation and wiring, impacting labor costs. Additionally, the need for trenching and specialized controls like timers or dimmers can influence the overall price. Obtaining a detailed on-site assessment provides the most accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Costs vary based on area size, fixture type, electrical requirements, and complexity. A detailed on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on area size, fixture type, electrical requirements, and complexity. A detailed on-site assessment provides an accurate estimate."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it typically take to install a pool spillway?",
-  "description": "Installation time for a pool spillway depends on its complexity and if it's for a new or existing pool, ranging from a few days to several weeks.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-install-a-pool-spillway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it typically take to install a pool spillway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation timeframe for a pool spillway varies significantly based on its complexity, size, and whether it's part of a new pool construction or an existing pool renovation. For a new pool build, the spillway integration is typically part of the overall construction schedule, adding minimal time to the total project. For an existing pool, adding a spillway can take anywhere from a few days for a simple pre-fabricated unit to several weeks for a custom-designed, built-in feature requiring extensive plumbing and masonry work. We provide a detailed timeline after assessing your specific project.",
-        "description": "Installation time for a pool spillway depends on its complexity and if it's for a new or existing pool, ranging from a few days to several weeks."
-      }
-    }
-  ],
+  "name": "How long does it typically take to install a pool spillway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a pool spillway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for a pool spillway varies significantly based on its complexity, size, and whether it's part of a new pool construction or an existing pool renovation. For a new pool build, the spillway integration is typically part of the overall construction schedule, adding minimal time to the total project. For an existing pool, adding a spillway can take anywhere from a few days for a simple pre-fabricated unit to several weeks for a custom-designed, built-in feature requiring extensive plumbing and masonry work. We provide a detailed timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Installation time for a pool spillway depends on its complexity and if it's for a new or existing pool, ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Installation time for a pool spillway depends on its complexity and if it's for a new or existing pool, ranging from a few days to several weeks."
 }

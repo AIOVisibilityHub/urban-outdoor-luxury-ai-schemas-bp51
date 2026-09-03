@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a spillway compare to a traditional pool waterfall?",
-  "description": "Spillways offer a smooth, defined water flow from a raised edge, while waterfalls mimic natural cascades with an organic, uneven flow, differing in aesthetic an",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-a-spillway-compare-to-a-traditional-pool-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a spillway compare to a traditional pool waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both spillways and waterfalls add dynamic water features, they differ in design and water flow. A spillway typically involves water flowing smoothly from a defined edge, often a raised spa or basin, into the main pool, creating a uniform sheet or stream. Waterfalls, conversely, are designed to emulate natural cascades, often incorporating rocks or other landscaping elements for a more organic, uneven flow. Spillways tend to be more contemporary and integrated, while waterfalls offer a more rustic or naturalistic appearance. Your choice depends on the desired aesthetic and sound for your outdoor space.",
-        "description": "Spillways offer a smooth, defined water flow from a raised edge, while waterfalls mimic natural cascades with an organic, uneven flow, differing in aesthetic and sound."
-      }
-    }
-  ],
+  "name": "How does a spillway compare to a traditional pool waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a spillway compare to a traditional pool waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both spillways and waterfalls add dynamic water features, they differ in design and water flow. A spillway typically involves water flowing smoothly from a defined edge, often a raised spa or basin, into the main pool, creating a uniform sheet or stream. Waterfalls, conversely, are designed to emulate natural cascades, often incorporating rocks or other landscaping elements for a more organic, uneven flow. Spillways tend to be more contemporary and integrated, while waterfalls offer a more rustic or naturalistic appearance. Your choice depends on the desired aesthetic and sound for your outdoor space.",
+        "@type": "Answer",
+        "description": "Spillways offer a smooth, defined water flow from a raised edge, while waterfalls mimic natural cascades with an organic, uneven flow, differing in aesthetic and sound."
+      }
+    }
+  ],
+  "description": "Spillways offer a smooth, defined water flow from a raised edge, while waterfalls mimic natural cascades with an organic, uneven flow, differing in aesthetic an"
 }

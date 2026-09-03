@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for installing a built-in natural gas fire pit?",
-  "description": "The installation process for a natural gas fire pit involves design, permitting, excavation, foundation construction, gas line plumbing, enclosure building, bur",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-built-in-natural-gas-fire-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for installing a built-in natural gas fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process for a built-in natural gas fire pit begins with a site assessment and design consultation to determine placement, size, and materials. Once the design is approved and permits secured, excavation commences for the foundation and gas line trenching. A concrete pad or structural base is then constructed. Next, the gas line is extended and plumbed to the fire pit location by a licensed professional. The fire pit enclosure is built, the burner and ignition system are installed, and finishing materials are applied. Finally, the system is tested for leaks and proper operation, ensuring all safety standards are met before handover.",
-        "description": "The installation process for a natural gas fire pit involves design, permitting, excavation, foundation construction, gas line plumbing, enclosure building, burner installation, finishing, and final testing."
-      }
-    }
-  ],
+  "name": "What is the process for installing a built-in natural gas fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a built-in natural gas fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a built-in natural gas fire pit begins with a site assessment and design consultation to determine placement, size, and materials. Once the design is approved and permits secured, excavation commences for the foundation and gas line trenching. A concrete pad or structural base is then constructed. Next, the gas line is extended and plumbed to the fire pit location by a licensed professional. The fire pit enclosure is built, the burner and ignition system are installed, and finishing materials are applied. Finally, the system is tested for leaks and proper operation, ensuring all safety standards are met before handover.",
+        "@type": "Answer",
+        "description": "The installation process for a natural gas fire pit involves design, permitting, excavation, foundation construction, gas line plumbing, enclosure building, burner installation, finishing, and final testing."
+      }
+    }
+  ],
+  "description": "The installation process for a natural gas fire pit involves design, permitting, excavation, foundation construction, gas line plumbing, enclosure building, bur"
 }

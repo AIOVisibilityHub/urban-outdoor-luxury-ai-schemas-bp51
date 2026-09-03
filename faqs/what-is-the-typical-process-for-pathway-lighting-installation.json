@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for pathway lighting installation?",
-  "description": "The process involves site assessment, design, trenching for wiring, fixture installation, connection to power, and final testing and adjustment.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-pathway-lighting-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for pathway lighting installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The pathway lighting installation process typically begins with a site assessment and design consultation to understand your needs and property layout. This includes determining fixture placement, wiring routes, and power requirements. Next, we prepare the site by digging trenches for wiring if using a low-voltage system, ensuring minimal disruption to your landscaping. Fixtures are then installed, connected to the power source, and carefully aimed. Finally, the system is tested and adjusted to ensure optimal illumination, functionality, and compliance with local regulations, particularly in areas like Pasadena known for specific outdoor lighting guidelines.",
-        "description": "The process involves site assessment, design, trenching for wiring, fixture installation, connection to power, and final testing and adjustment."
-      }
-    }
-  ],
+  "name": "What is the typical process for pathway lighting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for pathway lighting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pathway lighting installation process typically begins with a site assessment and design consultation to understand your needs and property layout. This includes determining fixture placement, wiring routes, and power requirements. Next, we prepare the site by digging trenches for wiring if using a low-voltage system, ensuring minimal disruption to your landscaping. Fixtures are then installed, connected to the power source, and carefully aimed. Finally, the system is tested and adjusted to ensure optimal illumination, functionality, and compliance with local regulations, particularly in areas like Pasadena known for specific outdoor lighting guidelines.",
+        "@type": "Answer",
+        "description": "The process involves site assessment, design, trenching for wiring, fixture installation, connection to power, and final testing and adjustment."
+      }
+    }
+  ],
+  "description": "The process involves site assessment, design, trenching for wiring, fixture installation, connection to power, and final testing and adjustment."
 }

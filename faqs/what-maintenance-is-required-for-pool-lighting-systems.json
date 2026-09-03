@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for pool lighting systems?",
-  "description": "Pool lighting maintenance is minimal, primarily involving cleaning fixtures, checking wiring, and inspecting control systems. Annual checks are recommended.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-pool-lighting-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for pool lighting systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern pool lighting systems, especially LED and fiber optic, require minimal maintenance compared to older incandescent models. Key maintenance tasks include periodic cleaning of light fixtures to remove algae or mineral deposits that can obscure light, checking for any visible signs of wear on wiring or seals, and ensuring proper functionality of transformers and control systems. We recommend annual inspections to address any potential issues proactively and extend the lifespan of your lighting system.",
-        "description": "Pool lighting maintenance is minimal, primarily involving cleaning fixtures, checking wiring, and inspecting control systems. Annual checks are recommended."
-      }
-    }
-  ],
+  "name": "What maintenance is required for pool lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for pool lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern pool lighting systems, especially LED and fiber optic, require minimal maintenance compared to older incandescent models. Key maintenance tasks include periodic cleaning of light fixtures to remove algae or mineral deposits that can obscure light, checking for any visible signs of wear on wiring or seals, and ensuring proper functionality of transformers and control systems. We recommend annual inspections to address any potential issues proactively and extend the lifespan of your lighting system.",
+        "@type": "Answer",
+        "description": "Pool lighting maintenance is minimal, primarily involving cleaning fixtures, checking wiring, and inspecting control systems. Annual checks are recommended."
+      }
+    }
+  ],
+  "description": "Pool lighting maintenance is minimal, primarily involving cleaning fixtures, checking wiring, and inspecting control systems. Annual checks are recommended."
 }

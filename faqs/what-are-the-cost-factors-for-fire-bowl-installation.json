@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the cost factors for fire-bowl installation?",
-  "description": "Key cost factors include fire-bowl type, size, material, gas/electrical line complexity, site preparation, and custom design features.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-cost-factors-for-fire-bowl-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the cost factors for fire-bowl installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fire-bowl installation costs are influenced by several factors, including the type and size of the fire-bowl (e.g., natural gas, propane, wood-burning), material choices, and the complexity of gas line or electrical connections. Site preparation, including excavation and foundation work, also impacts the final price. Custom designs, integrated seating, and advanced safety features will add to the overall cost. We provide transparent estimates tailored to your specific project.",
-        "description": "Key cost factors include fire-bowl type, size, material, gas/electrical line complexity, site preparation, and custom design features."
-      }
-    }
-  ],
+  "name": "What are the cost factors for fire-bowl installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors for fire-bowl installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire-bowl installation costs are influenced by several factors, including the type and size of the fire-bowl (e.g., natural gas, propane, wood-burning), material choices, and the complexity of gas line or electrical connections. Site preparation, including excavation and foundation work, also impacts the final price. Custom designs, integrated seating, and advanced safety features will add to the overall cost. We provide transparent estimates tailored to your specific project.",
+        "@type": "Answer",
+        "description": "Key cost factors include fire-bowl type, size, material, gas/electrical line complexity, site preparation, and custom design features."
+      }
+    }
+  ],
+  "description": "Key cost factors include fire-bowl type, size, material, gas/electrical line complexity, site preparation, and custom design features."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right water feature for my backyard?",
-  "description": "Choose a water feature by considering your space, desired aesthetics, maintenance commitment, budget, and safety needs. Our consultants can help guide your deci",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-water-feature-for-my-backyard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right water feature for my backyard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right water feature involves considering several factors: the size and style of your outdoor space, your desired aesthetic and sound, the amount of maintenance you're willing to commit, your budget, and whether you want to incorporate aquatic life. It's also important to think about safety for children and pets. Our design consultants can provide personalized recommendations, showing you options that best suit your property's characteristics and your personal preferences, ensuring the feature enhances your landscape.",
-        "description": "Choose a water feature by considering your space, desired aesthetics, maintenance commitment, budget, and safety needs. Our consultants can help guide your decision."
-      }
-    }
-  ],
+  "name": "How do I choose the right water feature for my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right water feature for my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right water feature involves considering several factors: the size and style of your outdoor space, your desired aesthetic and sound, the amount of maintenance you're willing to commit, your budget, and whether you want to incorporate aquatic life. It's also important to think about safety for children and pets. Our design consultants can provide personalized recommendations, showing you options that best suit your property's characteristics and your personal preferences, ensuring the feature enhances your landscape.",
+        "@type": "Answer",
+        "description": "Choose a water feature by considering your space, desired aesthetics, maintenance commitment, budget, and safety needs. Our consultants can help guide your decision."
+      }
+    }
+  ],
+  "description": "Choose a water feature by considering your space, desired aesthetics, maintenance commitment, budget, and safety needs. Our consultants can help guide your deci"
 }

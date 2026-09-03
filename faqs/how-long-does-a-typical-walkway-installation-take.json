@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical walkway installation take?",
-  "description": "Walkway installation time varies by size, complexity, and materials, typically ranging from a few days for simple designs to one to two weeks for more intricate",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-walkway-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical walkway installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a walkway installation project varies based on its size, complexity, and the chosen materials. A simple, straight paver walkway might be completed in a few days. More intricate designs, larger areas, or custom stonework can extend the timeline to one to two weeks, or sometimes longer. Factors like site preparation, material delivery, and weather conditions also influence the schedule. We provide a detailed project timeline after the initial consultation and design finalization.",
-        "description": "Walkway installation time varies by size, complexity, and materials, typically ranging from a few days for simple designs to one to two weeks for more intricate projects."
-      }
-    }
-  ],
+  "name": "How long does a typical walkway installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical walkway installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a walkway installation project varies based on its size, complexity, and the chosen materials. A simple, straight paver walkway might be completed in a few days. More intricate designs, larger areas, or custom stonework can extend the timeline to one to two weeks, or sometimes longer. Factors like site preparation, material delivery, and weather conditions also influence the schedule. We provide a detailed project timeline after the initial consultation and design finalization.",
+        "@type": "Answer",
+        "description": "Walkway installation time varies by size, complexity, and materials, typically ranging from a few days for simple designs to one to two weeks for more intricate projects."
+      }
+    }
+  ],
+  "description": "Walkway installation time varies by size, complexity, and materials, typically ranging from a few days for simple designs to one to two weeks for more intricate"
 }

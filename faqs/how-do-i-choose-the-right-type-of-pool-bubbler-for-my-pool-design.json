@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right type of pool bubbler for my pool design?",
-  "description": "Choose a pool bubbler based on your pool's design, desired aesthetic, budget, and features like LED lighting.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-type-of-pool-bubbler-for-my-pool-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right type of pool bubbler for my pool design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right pool bubbler involves considering your pool's design, desired aesthetic, and budget. Factors include the size and number of bubblers, placement (e.g., Baja shelf, steps), and whether you want features like color-changing LED lights. The flow rate and height of the bubbler's stream can also be customized. Consulting with a pool design professional can help integrate bubblers seamlessly into your overall outdoor luxury vision.",
-        "description": "Choose a pool bubbler based on your pool's design, desired aesthetic, budget, and features like LED lighting."
-      }
-    }
-  ],
+  "name": "How do I choose the right type of pool bubbler for my pool design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of pool bubbler for my pool design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right pool bubbler involves considering your pool's design, desired aesthetic, and budget. Factors include the size and number of bubblers, placement (e.g., Baja shelf, steps), and whether you want features like color-changing LED lights. The flow rate and height of the bubbler's stream can also be customized. Consulting with a pool design professional can help integrate bubblers seamlessly into your overall outdoor luxury vision.",
+        "@type": "Answer",
+        "description": "Choose a pool bubbler based on your pool's design, desired aesthetic, budget, and features like LED lighting."
+      }
+    }
+  ],
+  "description": "Choose a pool bubbler based on your pool's design, desired aesthetic, budget, and features like LED lighting."
 }

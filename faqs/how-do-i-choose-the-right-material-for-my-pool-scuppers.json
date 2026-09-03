@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right material for my pool scuppers?",
-  "description": "Select scupper material based on aesthetics, budget, and existing outdoor style; options include stainless steel, copper, stone, or concrete.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-material-for-my-pool-scuppers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right material for my pool scuppers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right material for your pool scuppers depends on your aesthetic preferences, budget, and the overall style of your outdoor living space. Popular choices include stainless steel for a sleek, modern look, copper for a classic, evolving patina, or stone/concrete for a more natural or integrated appearance. Each material offers different durability and maintenance characteristics. Consider how the material will complement your pool decking, coping, and other outdoor elements to ensure a cohesive and luxurious design.",
-        "description": "Select scupper material based on aesthetics, budget, and existing outdoor style; options include stainless steel, copper, stone, or concrete."
-      }
-    }
-  ],
+  "name": "How do I choose the right material for my pool scuppers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right material for my pool scuppers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right material for your pool scuppers depends on your aesthetic preferences, budget, and the overall style of your outdoor living space. Popular choices include stainless steel for a sleek, modern look, copper for a classic, evolving patina, or stone/concrete for a more natural or integrated appearance. Each material offers different durability and maintenance characteristics. Consider how the material will complement your pool decking, coping, and other outdoor elements to ensure a cohesive and luxurious design.",
+        "@type": "Answer",
+        "description": "Select scupper material based on aesthetics, budget, and existing outdoor style; options include stainless steel, copper, stone, or concrete."
+      }
+    }
+  ],
+  "description": "Select scupper material based on aesthetics, budget, and existing outdoor style; options include stainless steel, copper, stone, or concrete."
 }

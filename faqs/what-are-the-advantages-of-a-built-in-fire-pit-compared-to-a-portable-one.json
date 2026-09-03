@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of a built-in fire pit compared to a portable one?",
-  "description": "Built-in fire pits offer permanent aesthetic integration, natural gas convenience, superior durability, and full customization, enhancing property value more th",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-a-built-in-fire-pit-compared-to-a-portable-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of a built-in fire pit compared to a portable one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Built-in fire pits offer several advantages over portable units. They provide a permanent, integrated focal point for your outdoor living space, enhancing aesthetic appeal and property value. Built-in units often use natural gas, eliminating the need to refill propane tanks and offering consistent, controllable flames. They are more durable and weather-resistant, designed to withstand elements without rust or deterioration. Additionally, built-in fire pits can be customized to match your existing landscape and hardscaping, providing a cohesive and luxurious ambiance that portable options cannot replicate.",
-        "description": "Built-in fire pits offer permanent aesthetic integration, natural gas convenience, superior durability, and full customization, enhancing property value more than portable options."
-      }
-    }
-  ],
+  "name": "What are the advantages of a built-in fire pit compared to a portable one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of a built-in fire pit compared to a portable one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in fire pits offer several advantages over portable units. They provide a permanent, integrated focal point for your outdoor living space, enhancing aesthetic appeal and property value. Built-in units often use natural gas, eliminating the need to refill propane tanks and offering consistent, controllable flames. They are more durable and weather-resistant, designed to withstand elements without rust or deterioration. Additionally, built-in fire pits can be customized to match your existing landscape and hardscaping, providing a cohesive and luxurious ambiance that portable options cannot replicate.",
+        "@type": "Answer",
+        "description": "Built-in fire pits offer permanent aesthetic integration, natural gas convenience, superior durability, and full customization, enhancing property value more than portable options."
+      }
+    }
+  ],
+  "description": "Built-in fire pits offer permanent aesthetic integration, natural gas convenience, superior durability, and full customization, enhancing property value more th"
 }

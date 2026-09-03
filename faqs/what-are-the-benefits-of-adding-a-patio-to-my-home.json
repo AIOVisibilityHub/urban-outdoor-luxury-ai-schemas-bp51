@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of adding a patio to my home?",
-  "description": "A patio expands usable outdoor space, enhances aesthetics, increases home value, and provides a low-maintenance area for entertainment and relaxation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-adding-a-patio-to-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of adding a patio to my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adding a patio significantly enhances your outdoor living space, providing an ideal area for entertaining, dining, or relaxation. It can increase your property's usable square footage and improve its overall aesthetic appeal, potentially boosting home value. Patios offer a seamless transition between indoor and outdoor environments, encouraging more time spent outdoors. They are also relatively low-maintenance compared to other landscaping features, offering a durable and functional extension of your home.",
-        "description": "A patio expands usable outdoor space, enhances aesthetics, increases home value, and provides a low-maintenance area for entertainment and relaxation."
-      }
-    }
-  ],
+  "name": "What are the benefits of adding a patio to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a patio to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a patio significantly enhances your outdoor living space, providing an ideal area for entertaining, dining, or relaxation. It can increase your property's usable square footage and improve its overall aesthetic appeal, potentially boosting home value. Patios offer a seamless transition between indoor and outdoor environments, encouraging more time spent outdoors. They are also relatively low-maintenance compared to other landscaping features, offering a durable and functional extension of your home.",
+        "@type": "Answer",
+        "description": "A patio expands usable outdoor space, enhances aesthetics, increases home value, and provides a low-maintenance area for entertainment and relaxation."
+      }
+    }
+  ],
+  "description": "A patio expands usable outdoor space, enhances aesthetics, increases home value, and provides a low-maintenance area for entertainment and relaxation."
 }

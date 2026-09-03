@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install new pool lights?",
-  "description": "Installation time for new pool lights varies from a single day for simple upgrades to several days for complex projects involving new wiring or trenching.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-new-pool-lights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install new pool lights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration for installing new pool lights depends on the project's scope and complexity. For a straightforward installation of a few existing lights, it might take a single day. However, if new wiring needs to be laid, trenches dug, or if it's part of a larger pool renovation project, installation could extend over several days to a week. We provide a detailed timeline after assessing your specific project during the initial consultation.",
-        "description": "Installation time for new pool lights varies from a single day for simple upgrades to several days for complex projects involving new wiring or trenching."
-      }
-    }
-  ],
+  "name": "How long does it take to install new pool lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new pool lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing new pool lights depends on the project's scope and complexity. For a straightforward installation of a few existing lights, it might take a single day. However, if new wiring needs to be laid, trenches dug, or if it's part of a larger pool renovation project, installation could extend over several days to a week. We provide a detailed timeline after assessing your specific project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time for new pool lights varies from a single day for simple upgrades to several days for complex projects involving new wiring or trenching."
+      }
+    }
+  ],
+  "description": "Installation time for new pool lights varies from a single day for simple upgrades to several days for complex projects involving new wiring or trenching."
 }

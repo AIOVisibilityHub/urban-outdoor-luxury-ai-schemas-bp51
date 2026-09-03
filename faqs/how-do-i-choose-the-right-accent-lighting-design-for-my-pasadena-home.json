@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right accent lighting design for my Pasadena home?",
-  "description": "Choose a design that complements your home's architecture and landscaping in Pasadena, highlighting unique features without overpowering them, for a sophisticat",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-accent-lighting-design-for-my-pasadena-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right accent lighting design for my Pasadena home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right accent lighting design for your Pasadena home involves considering several factors, including your architectural style, existing landscaping, and personal preferences. We recommend a design that complements your home's aesthetics, highlighting its unique features rather than overpowering them. Think about what elements you want to emphasize—a stately oak, a stone wall, or a water feature. Our design team specializes in creating bespoke solutions that integrate seamlessly with the natural beauty and architectural elegance common in Pasadena properties, ensuring a sophisticated and cohesive look that enhances your home's value and appeal.",
-        "description": "Choose a design that complements your home's architecture and landscaping in Pasadena, highlighting unique features without overpowering them, for a sophisticated look."
-      }
-    }
-  ],
+  "name": "How do I choose the right accent lighting design for my Pasadena home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right accent lighting design for my Pasadena home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right accent lighting design for your Pasadena home involves considering several factors, including your architectural style, existing landscaping, and personal preferences. We recommend a design that complements your home's aesthetics, highlighting its unique features rather than overpowering them. Think about what elements you want to emphasize—a stately oak, a stone wall, or a water feature. Our design team specializes in creating bespoke solutions that integrate seamlessly with the natural beauty and architectural elegance common in Pasadena properties, ensuring a sophisticated and cohesive look that enhances your home's value and appeal.",
+        "@type": "Answer",
+        "description": "Choose a design that complements your home's architecture and landscaping in Pasadena, highlighting unique features without overpowering them, for a sophisticated look."
+      }
+    }
+  ],
+  "description": "Choose a design that complements your home's architecture and landscaping in Pasadena, highlighting unique features without overpowering them, for a sophisticat"
 }

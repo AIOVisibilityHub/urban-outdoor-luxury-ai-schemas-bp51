@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to install a custom water feature?",
-  "description": "Custom water feature costs vary widely by size, complexity, and materials, from a few thousand for small features to over a hundred thousand for large custom de",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-a-custom-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to install a custom water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of installing a custom water feature varies significantly based on its size, complexity, materials, and chosen components like pumps, filtration, and lighting. A small, pre-fabricated fountain might start in the low thousands, while a large, custom-designed pond or multi-tiered waterfall can range from tens of thousands to over a hundred thousand dollars. Factors such as site preparation, accessibility, and electrical work also influence the total investment. We provide detailed proposals after an initial consultation and site assessment.",
-        "description": "Custom water feature costs vary widely by size, complexity, and materials, from a few thousand for small features to over a hundred thousand for large custom designs."
-      }
-    }
-  ],
+  "name": "How much does it cost to install a custom water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a custom water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a custom water feature varies significantly based on its size, complexity, materials, and chosen components like pumps, filtration, and lighting. A small, pre-fabricated fountain might start in the low thousands, while a large, custom-designed pond or multi-tiered waterfall can range from tens of thousands to over a hundred thousand dollars. Factors such as site preparation, accessibility, and electrical work also influence the total investment. We provide detailed proposals after an initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Custom water feature costs vary widely by size, complexity, and materials, from a few thousand for small features to over a hundred thousand for large custom designs."
+      }
+    }
+  ],
+  "description": "Custom water feature costs vary widely by size, complexity, and materials, from a few thousand for small features to over a hundred thousand for large custom de"
 }

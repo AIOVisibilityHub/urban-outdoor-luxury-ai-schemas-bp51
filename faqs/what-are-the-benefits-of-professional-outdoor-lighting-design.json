@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of professional outdoor lighting design?",
-  "description": "Professional outdoor lighting enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-professional-outdoor-lighting-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of professional outdoor lighting design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional outdoor lighting design enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces. Strategic placement of lights can highlight architectural features, landscape elements, and pathways. It also deters intruders by eliminating dark areas. A well-designed system considers your property's unique characteristics and your personal preferences, creating an inviting and functional environment after dark. This specialized approach often leads to a more aesthetically pleasing and energy-efficient outcome than DIY solutions.",
-        "description": "Professional outdoor lighting enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces."
-      }
-    }
-  ],
+  "name": "What are the benefits of professional outdoor lighting design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional outdoor lighting design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional outdoor lighting design enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces. Strategic placement of lights can highlight architectural features, landscape elements, and pathways. It also deters intruders by eliminating dark areas. A well-designed system considers your property's unique characteristics and your personal preferences, creating an inviting and functional environment after dark. This specialized approach often leads to a more aesthetically pleasing and energy-efficient outcome than DIY solutions.",
+        "@type": "Answer",
+        "description": "Professional outdoor lighting enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces."
+      }
+    }
+  ],
+  "description": "Professional outdoor lighting enhances curb appeal, increases safety and security, and extends the usability of your outdoor spaces."
 }

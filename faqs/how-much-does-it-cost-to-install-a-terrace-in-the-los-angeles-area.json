@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to install a terrace in the Los Angeles area?",
-  "description": "Terrace installation costs in Los Angeles vary based on size, materials, site prep, accessibility, and added features. A custom quote offers the best estimate.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-install-a-terrace-in-the-los-angeles-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to install a terrace in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of terrace installation in the Los Angeles area can vary widely due to several factors. These include the size of the terrace, the type of materials selected (e.g., natural stone versus concrete pavers), site preparation requirements, accessibility, and any additional features like built-in seating, fire pits, or complex drainage systems. A custom quote provides the most accurate estimate tailored to your specific project and location within the service areas like Pasadena or Beverly Hills.",
-        "description": "Terrace installation costs in Los Angeles vary based on size, materials, site prep, accessibility, and added features. A custom quote offers the best estimate."
-      }
-    }
-  ],
+  "name": "How much does it cost to install a terrace in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a terrace in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of terrace installation in the Los Angeles area can vary widely due to several factors. These include the size of the terrace, the type of materials selected (e.g., natural stone versus concrete pavers), site preparation requirements, accessibility, and any additional features like built-in seating, fire pits, or complex drainage systems. A custom quote provides the most accurate estimate tailored to your specific project and location within the service areas like Pasadena or Beverly Hills.",
+        "@type": "Answer",
+        "description": "Terrace installation costs in Los Angeles vary based on size, materials, site prep, accessibility, and added features. A custom quote offers the best estimate."
+      }
+    }
+  ],
+  "description": "Terrace installation costs in Los Angeles vary based on size, materials, site prep, accessibility, and added features. A custom quote offers the best estimate."
 }

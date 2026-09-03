@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install pathway lighting?",
-  "description": "Installation time varies from one day for simple projects to several days for complex systems. Factors include project scope, weather, and specialized equipment",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-pathway-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install pathway lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of pathway lighting installation depends on the scope and complexity of the project. A smaller, straightforward installation with fewer fixtures and accessible wiring may be completed within a day or two. Larger, more intricate systems involving extensive trenching, custom fixture placement, or complex electrical work could take several days to a week. Factors such as weather conditions and the need for specialized equipment can also influence the timeline. Our team provides an estimated completion time after the initial site assessment.",
-        "description": "Installation time varies from one day for simple projects to several days for complex systems. Factors include project scope, weather, and specialized equipment."
-      }
-    }
-  ],
+  "name": "How long does it take to install pathway lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install pathway lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of pathway lighting installation depends on the scope and complexity of the project. A smaller, straightforward installation with fewer fixtures and accessible wiring may be completed within a day or two. Larger, more intricate systems involving extensive trenching, custom fixture placement, or complex electrical work could take several days to a week. Factors such as weather conditions and the need for specialized equipment can also influence the timeline. Our team provides an estimated completion time after the initial site assessment.",
+        "@type": "Answer",
+        "description": "Installation time varies from one day for simple projects to several days for complex systems. Factors include project scope, weather, and specialized equipment."
+      }
+    }
+  ],
+  "description": "Installation time varies from one day for simple projects to several days for complex systems. Factors include project scope, weather, and specialized equipment"
 }

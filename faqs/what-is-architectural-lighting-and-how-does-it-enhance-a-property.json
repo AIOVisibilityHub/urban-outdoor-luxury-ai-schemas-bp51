@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is architectural lighting and how does it enhance a property?",
-  "description": "Architectural lighting enhances a property's aesthetics and functionality by highlighting features and creating ambiance. It improves curb appeal, safety, and e",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-architectural-lighting-and-how-does-it-enhance-a-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is architectural lighting and how does it enhance a property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Architectural lighting goes beyond basic illumination, focusing on aesthetic and functional design to highlight a property's features. It uses carefully placed fixtures and specific light temperatures to emphasize textures, shapes, and landscaping, creating visual depth and appeal. This type of lighting can transform outdoor spaces, improving curb appeal, increasing safety and security, and extending the usability of patios, pathways, and garden areas after dark. It adds a sophisticated ambiance that reflects the property's design and character.",
-        "description": "Architectural lighting enhances a property's aesthetics and functionality by highlighting features and creating ambiance. It improves curb appeal, safety, and extends the usability of outdoor spaces."
-      }
-    }
-  ],
+  "name": "What is architectural lighting and how does it enhance a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is architectural lighting and how does it enhance a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural lighting goes beyond basic illumination, focusing on aesthetic and functional design to highlight a property's features. It uses carefully placed fixtures and specific light temperatures to emphasize textures, shapes, and landscaping, creating visual depth and appeal. This type of lighting can transform outdoor spaces, improving curb appeal, increasing safety and security, and extending the usability of patios, pathways, and garden areas after dark. It adds a sophisticated ambiance that reflects the property's design and character.",
+        "@type": "Answer",
+        "description": "Architectural lighting enhances a property's aesthetics and functionality by highlighting features and creating ambiance. It improves curb appeal, safety, and extends the usability of outdoor spaces."
+      }
+    }
+  ],
+  "description": "Architectural lighting enhances a property's aesthetics and functionality by highlighting features and creating ambiance. It improves curb appeal, safety, and e"
 }

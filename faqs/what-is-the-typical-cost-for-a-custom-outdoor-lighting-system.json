@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for a custom outdoor lighting system?",
-  "description": "Costs vary based on property size, fixture count and type, control system, and installation complexity. A consultation provides an accurate estimate.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-a-custom-outdoor-lighting-system",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for a custom outdoor lighting system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom outdoor lighting system varies significantly based on the size and complexity of your property, the number and type of fixtures selected, the chosen control system, and installation requirements. Factors like the type of wiring, transformer capacity, and labor rates also contribute. A basic system for a small yard might start in the low thousands, while extensive, high-end installations for larger properties can range much higher. A detailed on-site consultation is essential for an accurate estimate.",
-        "description": "Costs vary based on property size, fixture count and type, control system, and installation complexity. A consultation provides an accurate estimate."
-      }
-    }
-  ],
+  "name": "What is the typical cost for a custom outdoor lighting system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a custom outdoor lighting system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom outdoor lighting system varies significantly based on the size and complexity of your property, the number and type of fixtures selected, the chosen control system, and installation requirements. Factors like the type of wiring, transformer capacity, and labor rates also contribute. A basic system for a small yard might start in the low thousands, while extensive, high-end installations for larger properties can range much higher. A detailed on-site consultation is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on property size, fixture count and type, control system, and installation complexity. A consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on property size, fixture count and type, control system, and installation complexity. A consultation provides an accurate estimate."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How should I prepare my property for a concrete hardscape installation?",
-  "description": "Prepare your property by clearing the project area of obstacles and ensuring clear access for equipment. We will handle excavation and grading, but your prepara",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-should-i-prepare-my-property-for-a-concrete-hardscape-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How should I prepare my property for a concrete hardscape installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare for concrete hardscape installation, ensure the project area is cleared of any obstacles, debris, or existing structures. Clear access for our equipment and materials is essential. We will handle the excavation and grading, but removing personal items or making our work area accessible beforehand can help streamline the process. Our team will also discuss any necessary utility marking before commencing work.",
-        "description": "Prepare your property by clearing the project area of obstacles and ensuring clear access for equipment. We will handle excavation and grading, but your preparation helps streamline the process."
-      }
-    }
-  ],
+  "name": "How should I prepare my property for a concrete hardscape installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my property for a concrete hardscape installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for concrete hardscape installation, ensure the project area is cleared of any obstacles, debris, or existing structures. Clear access for our equipment and materials is essential. We will handle the excavation and grading, but removing personal items or making our work area accessible beforehand can help streamline the process. Our team will also discuss any necessary utility marking before commencing work.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing the project area of obstacles and ensuring clear access for equipment. We will handle excavation and grading, but your preparation helps streamline the process."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing the project area of obstacles and ensuring clear access for equipment. We will handle excavation and grading, but your prepara"
 }

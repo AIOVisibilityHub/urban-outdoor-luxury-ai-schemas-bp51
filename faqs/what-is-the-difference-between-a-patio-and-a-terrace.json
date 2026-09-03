@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a patio and a terrace?",
-  "description": "A patio is typically ground-level, while a terrace is an elevated outdoor space, often with structural support, providing views.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-patio-and-a-terrace",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a patio and a terrace?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While often used interchangeably, a key difference is that a patio is typically built directly on the ground level, often adjacent to a house. A terrace, on the other hand, is usually an elevated outdoor space, often constructed on a raised platform or integrated into a hillside, providing views and sometimes accessible from an upper floor. Terraces commonly feature structural elements and can be more complex in their construction compared to ground-level patios.",
-        "description": "A patio is typically ground-level, while a terrace is an elevated outdoor space, often with structural support, providing views."
-      }
-    }
-  ],
+  "name": "What is the difference between a patio and a terrace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a patio and a terrace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a key difference is that a patio is typically built directly on the ground level, often adjacent to a house. A terrace, on the other hand, is usually an elevated outdoor space, often constructed on a raised platform or integrated into a hillside, providing views and sometimes accessible from an upper floor. Terraces commonly feature structural elements and can be more complex in their construction compared to ground-level patios.",
+        "@type": "Answer",
+        "description": "A patio is typically ground-level, while a terrace is an elevated outdoor space, often with structural support, providing views."
+      }
+    }
+  ],
+  "description": "A patio is typically ground-level, while a terrace is an elevated outdoor space, often with structural support, providing views."
 }

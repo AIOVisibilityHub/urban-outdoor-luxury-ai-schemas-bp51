@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for concrete hardscape installation?",
-  "description": "Permit needs vary by project scope and local city regulations. Permits are often required for structures like retaining walls or significant grading changes. Ou",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-concrete-hardscape-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for concrete hardscape installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for concrete hardscape installation depend on the project's scope and local regulations in your specific city (e.g., Pasadena, Arcadia). Generally, permits are needed for structures like retaining walls exceeding a certain height, significant grading changes, or permeable paver systems in some areas. Our team will assess your project during the consultation and advise on all necessary permits, handling the application process on your behalf.",
-        "description": "Permit needs vary by project scope and local city regulations. Permits are often required for structures like retaining walls or significant grading changes. Our team will advise and handle permit applications."
-      }
-    }
-  ],
+  "name": "Do I need permits for concrete hardscape installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for concrete hardscape installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for concrete hardscape installation depend on the project's scope and local regulations in your specific city (e.g., Pasadena, Arcadia). Generally, permits are needed for structures like retaining walls exceeding a certain height, significant grading changes, or permeable paver systems in some areas. Our team will assess your project during the consultation and advise on all necessary permits, handling the application process on your behalf.",
+        "@type": "Answer",
+        "description": "Permit needs vary by project scope and local city regulations. Permits are often required for structures like retaining walls or significant grading changes. Our team will advise and handle permit applications."
+      }
+    }
+  ],
+  "description": "Permit needs vary by project scope and local city regulations. Permits are often required for structures like retaining walls or significant grading changes. Ou"
 }

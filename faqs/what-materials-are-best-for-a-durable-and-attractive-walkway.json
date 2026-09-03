@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best for a durable and attractive walkway?",
-  "description": "Best walkway materials include pavers, decomposed granite, and flagstone. Each offers distinct aesthetics and durability. Pavers are versatile, decomposed grani",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-for-a-durable-and-attractive-walkway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best for a durable and attractive walkway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Selecting the right material for your walkway depends on desired aesthetics, durability, and budget. Popular options include pavers (concrete, brick, natural stone), decomposed granite, and flagstone. Pavers offer a wide range of colors and patterns, are highly durable, and allow for excellent drainage. Decomposed granite provides a natural, permeable surface, ideal for rustic or permeable designs. Flagstone creates an elegant, natural look with irregular shapes and textures. Our design team can help you compare options based on your property's style and functional needs.",
-        "description": "Best walkway materials include pavers, decomposed granite, and flagstone. Each offers distinct aesthetics and durability. Pavers are versatile, decomposed granite is natural, and flagstone provides an elegant, organic look."
-      }
-    }
-  ],
+  "name": "What materials are best for a durable and attractive walkway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for a durable and attractive walkway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right material for your walkway depends on desired aesthetics, durability, and budget. Popular options include pavers (concrete, brick, natural stone), decomposed granite, and flagstone. Pavers offer a wide range of colors and patterns, are highly durable, and allow for excellent drainage. Decomposed granite provides a natural, permeable surface, ideal for rustic or permeable designs. Flagstone creates an elegant, natural look with irregular shapes and textures. Our design team can help you compare options based on your property's style and functional needs.",
+        "@type": "Answer",
+        "description": "Best walkway materials include pavers, decomposed granite, and flagstone. Each offers distinct aesthetics and durability. Pavers are versatile, decomposed granite is natural, and flagstone provides an elegant, organic look."
+      }
+    }
+  ],
+  "description": "Best walkway materials include pavers, decomposed granite, and flagstone. Each offers distinct aesthetics and durability. Pavers are versatile, decomposed grani"
 }

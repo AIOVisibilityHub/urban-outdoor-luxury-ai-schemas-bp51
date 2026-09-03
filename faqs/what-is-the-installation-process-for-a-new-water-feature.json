@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the installation process for a new water feature?",
-  "description": "Installation involves consultation, design, site preparation, construction of the feature, plumbing, electrical, and final landscaping. We manage all stages.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-installation-process-for-a-new-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the installation process for a new water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process typically begins with a consultation and site assessment to understand your vision and evaluate the landscape. This leads to a design proposal, including layout, materials, and cost estimates. Once approved, the construction phase involves excavation, plumbing, electrical wiring, liner installation (for ponds/streams), rock placement, and integration of pumps and filters. Finally, the system is tested, and aesthetic elements like lighting and landscaping are added. Our team manages all stages, ensuring a seamless transition from design to completion.",
-        "description": "Installation involves consultation, design, site preparation, construction of the feature, plumbing, electrical, and final landscaping. We manage all stages."
-      }
-    }
-  ],
+  "name": "What is the installation process for a new water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a new water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation and site assessment to understand your vision and evaluate the landscape. This leads to a design proposal, including layout, materials, and cost estimates. Once approved, the construction phase involves excavation, plumbing, electrical wiring, liner installation (for ponds/streams), rock placement, and integration of pumps and filters. Finally, the system is tested, and aesthetic elements like lighting and landscaping are added. Our team manages all stages, ensuring a seamless transition from design to completion.",
+        "@type": "Answer",
+        "description": "Installation involves consultation, design, site preparation, construction of the feature, plumbing, electrical, and final landscaping. We manage all stages."
+      }
+    }
+  ],
+  "description": "Installation involves consultation, design, site preparation, construction of the feature, plumbing, electrical, and final landscaping. We manage all stages."
 }

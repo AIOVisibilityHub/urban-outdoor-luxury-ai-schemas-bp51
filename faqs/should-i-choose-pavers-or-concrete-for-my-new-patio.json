@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose pavers or concrete for my new patio?",
-  "description": "Pavers offer design versatility and easy repair but are often more expensive, while concrete is budget-friendly but cracks are harder to fix and design options",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/should-i-choose-pavers-or-concrete-for-my-new-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose pavers or concrete for my new patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing between pavers and concrete depends on your aesthetic preference, budget, and desired maintenance. Pavers offer greater design flexibility with various shapes, colors, and patterns, and individual units can be replaced if damaged. They also allow for better drainage with permeable options. Concrete is generally more cost-effective upfront and offers a smooth, continuous surface. However, cracks in concrete can be harder to repair seamlessly, and it may require expansion joints. Both are durable but offer different long-term maintenance and aesthetic considerations.",
-        "description": "Pavers offer design versatility and easy repair but are often more expensive, while concrete is budget-friendly but cracks are harder to fix and design options are more limited."
-      }
-    }
-  ],
+  "name": "Should I choose pavers or concrete for my new patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose pavers or concrete for my new patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between pavers and concrete depends on your aesthetic preference, budget, and desired maintenance. Pavers offer greater design flexibility with various shapes, colors, and patterns, and individual units can be replaced if damaged. They also allow for better drainage with permeable options. Concrete is generally more cost-effective upfront and offers a smooth, continuous surface. However, cracks in concrete can be harder to repair seamlessly, and it may require expansion joints. Both are durable but offer different long-term maintenance and aesthetic considerations.",
+        "@type": "Answer",
+        "description": "Pavers offer design versatility and easy repair but are often more expensive, while concrete is budget-friendly but cracks are harder to fix and design options are more limited."
+      }
+    }
+  ],
+  "description": "Pavers offer design versatility and easy repair but are often more expensive, while concrete is budget-friendly but cracks are harder to fix and design options"
 }

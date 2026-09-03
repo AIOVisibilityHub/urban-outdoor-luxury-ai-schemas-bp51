@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of materials are commonly used for pool waterfalls?",
-  "description": "Materials include natural rock, artificial rock, and various tiles or stone veneers, each offering different aesthetics and installation considerations.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-materials-are-commonly-used-for-pool-waterfalls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of materials are commonly used for pool waterfalls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common materials for pool waterfalls include natural rock, artificial rock (often made from fiberglass or concrete), and various types of tile or stone veneers. Natural rock provides an authentic, rustic look but can be heavier and more complex to install. Artificial rock offers design flexibility and can mimic various rock formations while being lighter. Tile and stone veneers allow for contemporary or highly customized designs, integrating with existing pool finishes. The choice depends on desired aesthetic, budget, and structural considerations for your property.",
-        "description": "Materials include natural rock, artificial rock, and various tiles or stone veneers, each offering different aesthetics and installation considerations."
-      }
-    }
-  ],
+  "name": "What types of materials are commonly used for pool waterfalls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for pool waterfalls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for pool waterfalls include natural rock, artificial rock (often made from fiberglass or concrete), and various types of tile or stone veneers. Natural rock provides an authentic, rustic look but can be heavier and more complex to install. Artificial rock offers design flexibility and can mimic various rock formations while being lighter. Tile and stone veneers allow for contemporary or highly customized designs, integrating with existing pool finishes. The choice depends on desired aesthetic, budget, and structural considerations for your property.",
+        "@type": "Answer",
+        "description": "Materials include natural rock, artificial rock, and various tiles or stone veneers, each offering different aesthetics and installation considerations."
+      }
+    }
+  ],
+  "description": "Materials include natural rock, artificial rock, and various tiles or stone veneers, each offering different aesthetics and installation considerations."
 }

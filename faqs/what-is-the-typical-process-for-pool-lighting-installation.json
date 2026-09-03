@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for pool lighting installation?",
-  "description": "The installation process involves consultation, design, electrical wiring, fixture installation, testing, and a final walkthrough to explain your new system.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-pool-lighting-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for pool lighting installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our pool lighting installation process begins with a consultation to understand your vision and assess your pool and landscape. We then design a lighting plan, including fixture types, placement, and control options. Once approved, our licensed electricians handle all necessary wiring and connections, ensuring compliance with local codes. The fixtures are then installed and tested to ensure optimal performance and safety. Finally, we provide a walkthrough to explain your new lighting system's features and controls.",
-        "description": "The installation process involves consultation, design, electrical wiring, fixture installation, testing, and a final walkthrough to explain your new system."
-      }
-    }
-  ],
+  "name": "What is the typical process for pool lighting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for pool lighting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our pool lighting installation process begins with a consultation to understand your vision and assess your pool and landscape. We then design a lighting plan, including fixture types, placement, and control options. Once approved, our licensed electricians handle all necessary wiring and connections, ensuring compliance with local codes. The fixtures are then installed and tested to ensure optimal performance and safety. Finally, we provide a walkthrough to explain your new lighting system's features and controls.",
+        "@type": "Answer",
+        "description": "The installation process involves consultation, design, electrical wiring, fixture installation, testing, and a final walkthrough to explain your new system."
+      }
+    }
+  ],
+  "description": "The installation process involves consultation, design, electrical wiring, fixture installation, testing, and a final walkthrough to explain your new system."
 }

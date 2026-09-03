@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it typically take to install pool scuppers?",
-  "description": "Installation time varies, from a few days for new construction to one to two weeks for retrofitting existing pools, depending on complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-install-pool-scuppers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it typically take to install pool scuppers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration for installing pool scuppers depends on the scope of the project. For a simple installation of a few scuppers during new pool construction, it might add a few days to the overall build. If retrofitting scuppers into an existing pool or deck, the process can take longer, potentially one to two weeks, as it involves cutting into existing structures, rerouting plumbing, and finishing work. Custom designs or extensive features will extend the timeline. We provide a detailed project schedule after initial design and assessment.",
-        "description": "Installation time varies, from a few days for new construction to one to two weeks for retrofitting existing pools, depending on complexity."
-      }
-    }
-  ],
+  "name": "How long does it typically take to install pool scuppers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install pool scuppers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing pool scuppers depends on the scope of the project. For a simple installation of a few scuppers during new pool construction, it might add a few days to the overall build. If retrofitting scuppers into an existing pool or deck, the process can take longer, potentially one to two weeks, as it involves cutting into existing structures, rerouting plumbing, and finishing work. Custom designs or extensive features will extend the timeline. We provide a detailed project schedule after initial design and assessment.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few days for new construction to one to two weeks for retrofitting existing pools, depending on complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few days for new construction to one to two weeks for retrofitting existing pools, depending on complexity."
 }

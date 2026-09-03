@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost to install a pool spillway?",
-  "description": "The cost of a pool spillway varies from a few thousand dollars for basic designs to over ten thousand for custom features, depending on materials and complexity",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-average-cost-to-install-a-pool-spillway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost to install a pool spillway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of installing a pool spillway can vary widely, typically ranging from a few thousand dollars for a basic, pre-fabricated unit to over ten thousand dollars for a custom-designed, integrated water feature. Factors influencing the price include the spillway's material (e.g., stone, concrete, tile), its size and design complexity, whether it requires new plumbing or structural modifications, and the accessibility of the installation site. For a precise estimate, we recommend a site visit to assess your specific pool and desired aesthetic.",
-        "description": "The cost of a pool spillway varies from a few thousand dollars for basic designs to over ten thousand for custom features, depending on materials and complexity."
-      }
-    }
-  ],
+  "name": "What is the average cost to install a pool spillway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a pool spillway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a pool spillway can vary widely, typically ranging from a few thousand dollars for a basic, pre-fabricated unit to over ten thousand dollars for a custom-designed, integrated water feature. Factors influencing the price include the spillway's material (e.g., stone, concrete, tile), its size and design complexity, whether it requires new plumbing or structural modifications, and the accessibility of the installation site. For a precise estimate, we recommend a site visit to assess your specific pool and desired aesthetic.",
+        "@type": "Answer",
+        "description": "The cost of a pool spillway varies from a few thousand dollars for basic designs to over ten thousand for custom features, depending on materials and complexity."
+      }
+    }
+  ],
+  "description": "The cost of a pool spillway varies from a few thousand dollars for basic designs to over ten thousand for custom features, depending on materials and complexity"
 }

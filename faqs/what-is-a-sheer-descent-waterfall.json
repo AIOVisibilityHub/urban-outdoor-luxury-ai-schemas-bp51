@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a sheer descent waterfall?",
-  "description": "A sheer descent waterfall is a water feature that creates a smooth, continuous sheet of water flowing from a horizontal spillway.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-sheer-descent-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a sheer descent waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A sheer descent waterfall is a type of water feature characterized by a continuous, smooth sheet of water flowing from a horizontal scupper or spillway into a pool or basin. It creates a modern, elegant aesthetic and a tranquil sound. These features are often integrated into retaining walls, raised spas, or custom-built structures in pools and landscapes.",
-        "description": "A sheer descent waterfall is a water feature that creates a smooth, continuous sheet of water flowing from a horizontal spillway."
-      }
-    }
-  ],
+  "name": "What is a sheer descent waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sheer descent waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sheer descent waterfall is a type of water feature characterized by a continuous, smooth sheet of water flowing from a horizontal scupper or spillway into a pool or basin. It creates a modern, elegant aesthetic and a tranquil sound. These features are often integrated into retaining walls, raised spas, or custom-built structures in pools and landscapes.",
+        "@type": "Answer",
+        "description": "A sheer descent waterfall is a water feature that creates a smooth, continuous sheet of water flowing from a horizontal spillway."
+      }
+    }
+  ],
+  "description": "A sheer descent waterfall is a water feature that creates a smooth, continuous sheet of water flowing from a horizontal spillway."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install a water feature?",
-  "description": "Installation time varies by feature complexity; small fountains may take days, while large custom projects can take several weeks to months.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-water-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install a water feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation timeline for a water feature depends on its size, complexity, and site conditions. A simple, small fountain might be installed in a few days. More elaborate custom projects, such as a large pond with filtration or a complex waterfall system, can take several weeks or even a few months from initial groundbreaking to final landscaping and water testing. We provide a projected timeline during the design and proposal phase, taking into account all project specifics.",
-        "description": "Installation time varies by feature complexity; small fountains may take days, while large custom projects can take several weeks to months."
-      }
-    }
-  ],
+  "name": "How long does it take to install a water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a water feature depends on its size, complexity, and site conditions. A simple, small fountain might be installed in a few days. More elaborate custom projects, such as a large pond with filtration or a complex waterfall system, can take several weeks or even a few months from initial groundbreaking to final landscaping and water testing. We provide a projected timeline during the design and proposal phase, taking into account all project specifics.",
+        "@type": "Answer",
+        "description": "Installation time varies by feature complexity; small fountains may take days, while large custom projects can take several weeks to months."
+      }
+    }
+  ],
+  "description": "Installation time varies by feature complexity; small fountains may take days, while large custom projects can take several weeks to months."
 }

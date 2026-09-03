@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of upgrading to LED pool lighting?",
-  "description": "LED pool lighting offers benefits like energy efficiency, longer lifespan, lower maintenance, diverse color options, and enhanced safety.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-upgrading-to-led-pool-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of upgrading to LED pool lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Upgrading to LED pool lighting offers numerous advantages. LEDs are significantly more energy-efficient than traditional incandescent bulbs, leading to lower electricity bills. They also have a much longer lifespan, reducing maintenance and replacement costs. Furthermore, many LED systems offer a wide spectrum of color options, allowing you to create dynamic and personalized ambiances for your outdoor space. Their durability and low heat emission also contribute to a safer pool environment.",
-        "description": "LED pool lighting offers benefits like energy efficiency, longer lifespan, lower maintenance, diverse color options, and enhanced safety."
-      }
-    }
-  ],
+  "name": "What are the benefits of upgrading to LED pool lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to LED pool lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to LED pool lighting offers numerous advantages. LEDs are significantly more energy-efficient than traditional incandescent bulbs, leading to lower electricity bills. They also have a much longer lifespan, reducing maintenance and replacement costs. Furthermore, many LED systems offer a wide spectrum of color options, allowing you to create dynamic and personalized ambiances for your outdoor space. Their durability and low heat emission also contribute to a safer pool environment.",
+        "@type": "Answer",
+        "description": "LED pool lighting offers benefits like energy efficiency, longer lifespan, lower maintenance, diverse color options, and enhanced safety."
+      }
+    }
+  ],
+  "description": "LED pool lighting offers benefits like energy efficiency, longer lifespan, lower maintenance, diverse color options, and enhanced safety."
 }

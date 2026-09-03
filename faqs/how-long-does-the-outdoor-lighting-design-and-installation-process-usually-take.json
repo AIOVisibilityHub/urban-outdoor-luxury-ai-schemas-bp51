@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the outdoor lighting design and installation process usually take?",
-  "description": "Design takes weeks, and installation usually ranges from a few days to several weeks, depending on project scope and complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-outdoor-lighting-design-and-installation-process-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the outdoor lighting design and installation process usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for outdoor lighting design and installation depends on the project's scope. The design phase, including consultations and plan development, can take several weeks. Once the design is approved and materials are ordered, installation typically ranges from a few days for smaller projects to several weeks for more extensive systems, especially those requiring significant trenching or complex wiring. Factors like weather conditions and material availability can also influence the schedule.",
-        "description": "Design takes weeks, and installation usually ranges from a few days to several weeks, depending on project scope and complexity."
-      }
-    }
-  ],
+  "name": "How long does the outdoor lighting design and installation process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the outdoor lighting design and installation process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for outdoor lighting design and installation depends on the project's scope. The design phase, including consultations and plan development, can take several weeks. Once the design is approved and materials are ordered, installation typically ranges from a few days for smaller projects to several weeks for more extensive systems, especially those requiring significant trenching or complex wiring. Factors like weather conditions and material availability can also influence the schedule.",
+        "@type": "Answer",
+        "description": "Design takes weeks, and installation usually ranges from a few days to several weeks, depending on project scope and complexity."
+      }
+    }
+  ],
+  "description": "Design takes weeks, and installation usually ranges from a few days to several weeks, depending on project scope and complexity."
 }

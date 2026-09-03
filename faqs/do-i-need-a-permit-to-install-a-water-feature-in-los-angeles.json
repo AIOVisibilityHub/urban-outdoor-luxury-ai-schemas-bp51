@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to install a water feature in Los Angeles?",
-  "description": "Permit needs in Los Angeles depend on the water feature's size, depth, and complexity. Our team assists with permit determination and application.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-to-install-a-water-feature-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to install a water feature in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for water feature installation in Los Angeles depend on the size, depth, and specific features of the project. Smaller, self-contained fountains typically do not require permits. However, larger projects involving significant excavation, electrical work, plumbing, or features exceeding certain dimensions (e.g., depth over 18-24 inches) may necessitate permits from the Los Angeles Department of Building and Safety. Our team assists clients in determining permit needs and navigating the application process to ensure compliance.",
-        "description": "Permit needs in Los Angeles depend on the water feature's size, depth, and complexity. Our team assists with permit determination and application."
-      }
-    }
-  ],
+  "name": "Do I need a permit to install a water feature in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a water feature in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for water feature installation in Los Angeles depend on the size, depth, and specific features of the project. Smaller, self-contained fountains typically do not require permits. However, larger projects involving significant excavation, electrical work, plumbing, or features exceeding certain dimensions (e.g., depth over 18-24 inches) may necessitate permits from the Los Angeles Department of Building and Safety. Our team assists clients in determining permit needs and navigating the application process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permit needs in Los Angeles depend on the water feature's size, depth, and complexity. Our team assists with permit determination and application."
+      }
+    }
+  ],
+  "description": "Permit needs in Los Angeles depend on the water feature's size, depth, and complexity. Our team assists with permit determination and application."
 }

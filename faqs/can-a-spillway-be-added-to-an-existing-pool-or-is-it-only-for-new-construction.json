@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a spillway be added to an existing pool, or is it only for new construction?",
-  "description": "Yes, spillways can be added to existing pools, though it might involve more complex modifications to coping and plumbing than new construction.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-spillway-be-added-to-an-existing-pool-or-is-it-only-for-new-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a spillway be added to an existing pool, or is it only for new construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a spillway can often be added to an existing pool, although the complexity and cost may be higher than integrating it into new construction. For existing pools, adding a spillway typically involves modifying the pool's coping, plumbing, and potentially the surrounding deck area. The feasibility depends on your pool's current structure, available space, and desired spillway design. Our team can assess your pool to determine the best approach and provide a detailed plan for incorporating a new water feature.",
-        "description": "Yes, spillways can be added to existing pools, though it might involve more complex modifications to coping and plumbing than new construction."
-      }
-    }
-  ],
+  "name": "Can a spillway be added to an existing pool, or is it only for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a spillway be added to an existing pool, or is it only for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a spillway can often be added to an existing pool, although the complexity and cost may be higher than integrating it into new construction. For existing pools, adding a spillway typically involves modifying the pool's coping, plumbing, and potentially the surrounding deck area. The feasibility depends on your pool's current structure, available space, and desired spillway design. Our team can assess your pool to determine the best approach and provide a detailed plan for incorporating a new water feature.",
+        "@type": "Answer",
+        "description": "Yes, spillways can be added to existing pools, though it might involve more complex modifications to coping and plumbing than new construction."
+      }
+    }
+  ],
+  "description": "Yes, spillways can be added to existing pools, though it might involve more complex modifications to coping and plumbing than new construction."
 }

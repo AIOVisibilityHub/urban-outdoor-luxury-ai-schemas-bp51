@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important for outdoor lighting design in Pasadena or Los Angeles?",
-  "description": "Consider local light ordinances, durable materials for the dry climate, integration with drought-tolerant landscaping, and harmony with regional architectural s",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-considerations-are-important-for-outdoor-lighting-design-in-pasadena-or-los",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important for outdoor lighting design in Pasadena or Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For outdoor lighting design in Pasadena or Los Angeles, important considerations include local ordinances regarding light pollution, glare, and light trespass, which may dictate fixture types or beam angles. The region's dry climate suggests selecting durable, weather-resistant materials for longevity. Additionally, integrating lighting with drought-tolerant landscaping common in these areas is crucial. Design should also account for the architectural styles prevalent in these cities, from historic craftsman to modern, to ensure aesthetic harmony.",
-        "description": "Consider local light ordinances, durable materials for the dry climate, integration with drought-tolerant landscaping, and harmony with regional architectural styles."
-      }
-    }
-  ],
+  "name": "What considerations are important for outdoor lighting design in Pasadena or Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for outdoor lighting design in Pasadena or Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor lighting design in Pasadena or Los Angeles, important considerations include local ordinances regarding light pollution, glare, and light trespass, which may dictate fixture types or beam angles. The region's dry climate suggests selecting durable, weather-resistant materials for longevity. Additionally, integrating lighting with drought-tolerant landscaping common in these areas is crucial. Design should also account for the architectural styles prevalent in these cities, from historic craftsman to modern, to ensure aesthetic harmony.",
+        "@type": "Answer",
+        "description": "Consider local light ordinances, durable materials for the dry climate, integration with drought-tolerant landscaping, and harmony with regional architectural styles."
+      }
+    }
+  ],
+  "description": "Consider local light ordinances, durable materials for the dry climate, integration with drought-tolerant landscaping, and harmony with regional architectural s"
 }

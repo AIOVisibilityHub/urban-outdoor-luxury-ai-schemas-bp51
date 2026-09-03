@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a waterfall be added to an existing swimming pool, or does it require new construction?",
-  "description": "Yes, waterfalls can be retrofitted to most existing pools, though feasibility depends on the pool's design and available space.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-waterfall-be-added-to-an-existing-swimming-pool-or-does-it-require-new-con",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a waterfall be added to an existing swimming pool, or does it require new construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a waterfall can often be added to an existing swimming pool. This process, known as a retrofit, involves integrating the new feature with the current pool structure and plumbing. The feasibility and complexity depend on your pool's design, available space, and the desired waterfall type. While new construction offers maximum design freedom, retrofits are a popular way to enhance an older pool. Our team assesses your current setup to determine the best approach for seamless integration and aesthetic harmony.",
-        "description": "Yes, waterfalls can be retrofitted to most existing pools, though feasibility depends on the pool's design and available space."
-      }
-    }
-  ],
+  "name": "Can a waterfall be added to an existing swimming pool, or does it require new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a waterfall be added to an existing swimming pool, or does it require new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a waterfall can often be added to an existing swimming pool. This process, known as a retrofit, involves integrating the new feature with the current pool structure and plumbing. The feasibility and complexity depend on your pool's design, available space, and the desired waterfall type. While new construction offers maximum design freedom, retrofits are a popular way to enhance an older pool. Our team assesses your current setup to determine the best approach for seamless integration and aesthetic harmony.",
+        "@type": "Answer",
+        "description": "Yes, waterfalls can be retrofitted to most existing pools, though feasibility depends on the pool's design and available space."
+      }
+    }
+  ],
+  "description": "Yes, waterfalls can be retrofitted to most existing pools, though feasibility depends on the pool's design and available space."
 }

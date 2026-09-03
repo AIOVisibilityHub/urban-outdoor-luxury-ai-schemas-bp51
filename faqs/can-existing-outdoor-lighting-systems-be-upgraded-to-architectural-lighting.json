@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can existing outdoor lighting systems be upgraded to architectural lighting?",
-  "description": "Yes, existing outdoor lighting can be upgraded by evaluating infrastructure, replacing fixtures with LEDs, adding new elements, and integrating smart controls f",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-existing-outdoor-lighting-systems-be-upgraded-to-architectural-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can existing outdoor lighting systems be upgraded to architectural lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, existing outdoor lighting systems can often be upgraded to incorporate architectural lighting principles. This typically involves evaluating the current infrastructure, including wiring and power sources, to determine what can be reused. We might replace outdated fixtures with energy-efficient LEDs, add new fixtures to create specific effects, or integrate smart controls for greater flexibility. The upgrade process focuses on enhancing aesthetics, improving functionality, and optimizing energy consumption, transforming basic illumination into a sophisticated lighting design.",
-        "description": "Yes, existing outdoor lighting can be upgraded by evaluating infrastructure, replacing fixtures with LEDs, adding new elements, and integrating smart controls for enhanced design and efficiency."
-      }
-    }
-  ],
+  "name": "Can existing outdoor lighting systems be upgraded to architectural lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing outdoor lighting systems be upgraded to architectural lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, existing outdoor lighting systems can often be upgraded to incorporate architectural lighting principles. This typically involves evaluating the current infrastructure, including wiring and power sources, to determine what can be reused. We might replace outdated fixtures with energy-efficient LEDs, add new fixtures to create specific effects, or integrate smart controls for greater flexibility. The upgrade process focuses on enhancing aesthetics, improving functionality, and optimizing energy consumption, transforming basic illumination into a sophisticated lighting design.",
+        "@type": "Answer",
+        "description": "Yes, existing outdoor lighting can be upgraded by evaluating infrastructure, replacing fixtures with LEDs, adding new elements, and integrating smart controls for enhanced design and efficiency."
+      }
+    }
+  ],
+  "description": "Yes, existing outdoor lighting can be upgraded by evaluating infrastructure, replacing fixtures with LEDs, adding new elements, and integrating smart controls f"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for a fire pit installation in Los Angeles County?",
-  "description": "Permits are usually required for built-in fire pit installations in Los Angeles County, particularly for gas lines and structural work, varying by specific city",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-a-fire-pit-installation-in-los-angeles-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for a fire pit installation in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Installing a built-in fire pit in Los Angeles County typically requires permits, especially if it involves natural gas lines or significant construction. Generally, a building permit is needed for the structure itself, and a plumbing permit is required for any gas line connections. Specific requirements can vary by municipality within LA County, such as Pasadena or Arcadia. We handle all necessary permit applications and ensure compliance with local building codes, fire safety regulations, and zoning ordinances to ensure your fire pit is installed legally and safely.",
-        "description": "Permits are usually required for built-in fire pit installations in Los Angeles County, particularly for gas lines and structural work, varying by specific city."
-      }
-    }
-  ],
+  "name": "What permits are required for a fire pit installation in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a fire pit installation in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a built-in fire pit in Los Angeles County typically requires permits, especially if it involves natural gas lines or significant construction. Generally, a building permit is needed for the structure itself, and a plumbing permit is required for any gas line connections. Specific requirements can vary by municipality within LA County, such as Pasadena or Arcadia. We handle all necessary permit applications and ensure compliance with local building codes, fire safety regulations, and zoning ordinances to ensure your fire pit is installed legally and safely.",
+        "@type": "Answer",
+        "description": "Permits are usually required for built-in fire pit installations in Los Angeles County, particularly for gas lines and structural work, varying by specific city."
+      }
+    }
+  ],
+  "description": "Permits are usually required for built-in fire pit installations in Los Angeles County, particularly for gas lines and structural work, varying by specific city"
 }

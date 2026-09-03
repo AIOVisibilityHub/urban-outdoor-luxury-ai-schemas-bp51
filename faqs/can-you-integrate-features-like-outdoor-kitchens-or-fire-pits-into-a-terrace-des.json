@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you integrate features like outdoor kitchens or fire pits into a terrace design?",
-  "description": "Yes, we specialize in integrating luxury features like outdoor kitchens, fire pits, custom seating, and water features into terrace designs, ensuring functional",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-features-like-outdoor-kitchens-or-fire-pits-into-a-terrace-des",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you integrate features like outdoor kitchens or fire pits into a terrace design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Integrating features such as outdoor kitchens, built-in fire pits, custom seating, or water features is a hallmark of urban outdoor luxury terrace design. These elements enhance functionality and aesthetic appeal, transforming a terrace into a comprehensive outdoor living space. Our design team specializes in seamlessly incorporating these amenities, ensuring they are not only beautiful but also fully functional and compliant with safety regulations, creating a truly bespoke environment.",
-        "description": "Yes, we specialize in integrating luxury features like outdoor kitchens, fire pits, custom seating, and water features into terrace designs, ensuring functionality and compliance."
-      }
-    }
-  ],
+  "name": "Can you integrate features like outdoor kitchens or fire pits into a terrace design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate features like outdoor kitchens or fire pits into a terrace design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Integrating features such as outdoor kitchens, built-in fire pits, custom seating, or water features is a hallmark of urban outdoor luxury terrace design. These elements enhance functionality and aesthetic appeal, transforming a terrace into a comprehensive outdoor living space. Our design team specializes in seamlessly incorporating these amenities, ensuring they are not only beautiful but also fully functional and compliant with safety regulations, creating a truly bespoke environment.",
+        "@type": "Answer",
+        "description": "Yes, we specialize in integrating luxury features like outdoor kitchens, fire pits, custom seating, and water features into terrace designs, ensuring functionality and compliance."
+      }
+    }
+  ],
+  "description": "Yes, we specialize in integrating luxury features like outdoor kitchens, fire pits, custom seating, and water features into terrace designs, ensuring functional"
 }

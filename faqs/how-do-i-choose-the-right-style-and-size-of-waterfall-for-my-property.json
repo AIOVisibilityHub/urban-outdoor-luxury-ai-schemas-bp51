@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right style and size of waterfall for my property?",
-  "description": "Consider your property's style, space, and desired aesthetic. We offer design consultations to help match the right waterfall to your outdoor area.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-style-and-size-of-waterfall-for-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right style and size of waterfall for my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right waterfall involves considering your property's overall architectural style, landscape design, available space, and personal preferences. A larger property might accommodate a grand, multi-tiered waterfall, while a smaller yard could benefit from a subtle, wall-mounted feature. We assess your outdoor space and discuss your aesthetic goals, considering elements like the desired sound, visual impact, and integration with other landscape features. Our design consultation helps you visualize options and make an informed decision.",
-        "description": "Consider your property's style, space, and desired aesthetic. We offer design consultations to help match the right waterfall to your outdoor area."
-      }
-    }
-  ],
+  "name": "How do I choose the right style and size of waterfall for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style and size of waterfall for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right waterfall involves considering your property's overall architectural style, landscape design, available space, and personal preferences. A larger property might accommodate a grand, multi-tiered waterfall, while a smaller yard could benefit from a subtle, wall-mounted feature. We assess your outdoor space and discuss your aesthetic goals, considering elements like the desired sound, visual impact, and integration with other landscape features. Our design consultation helps you visualize options and make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your property's style, space, and desired aesthetic. We offer design consultations to help match the right waterfall to your outdoor area."
+      }
+    }
+  ],
+  "description": "Consider your property's style, space, and desired aesthetic. We offer design consultations to help match the right waterfall to your outdoor area."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there any permits required for pool waterfall installation in Los Angeles County?",
-  "description": "Permit requirements depend on the waterfall's size, height, and structural aspects; larger installations or those with significant plumbing/electrical work ofte",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-any-permits-required-for-pool-waterfall-installation-in-los-angeles-co",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there any permits required for pool waterfall installation in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for pool waterfall installation in Los Angeles County depend on the size, height, and structural nature of the waterfall, as well as its integration with existing pool equipment and electrical systems. Smaller, standalone features might not require permits, while larger, custom-built structures or those involving significant plumbing or electrical work will likely need approval from the local building department (e.g., in cities like Pasadena or Glendale). Our team handles permit applications to ensure all installations comply with local codes and regulations.",
-        "description": "Permit requirements depend on the waterfall's size, height, and structural aspects; larger installations or those with significant plumbing/electrical work often require approval from local building departments."
-      }
-    }
-  ],
+  "name": "Are there any permits required for pool waterfall installation in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any permits required for pool waterfall installation in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for pool waterfall installation in Los Angeles County depend on the size, height, and structural nature of the waterfall, as well as its integration with existing pool equipment and electrical systems. Smaller, standalone features might not require permits, while larger, custom-built structures or those involving significant plumbing or electrical work will likely need approval from the local building department (e.g., in cities like Pasadena or Glendale). Our team handles permit applications to ensure all installations comply with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the waterfall's size, height, and structural aspects; larger installations or those with significant plumbing/electrical work often require approval from local building departments."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the waterfall's size, height, and structural aspects; larger installations or those with significant plumbing/electrical work ofte"
 }

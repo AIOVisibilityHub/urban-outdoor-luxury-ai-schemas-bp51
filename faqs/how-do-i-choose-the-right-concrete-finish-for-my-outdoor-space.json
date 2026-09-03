@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right concrete finish for my outdoor space?",
-  "description": "Select a concrete finish based on aesthetics, function, and budget. Options like stamped, exposed aggregate, or broom finish offer different looks and benefits.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-concrete-finish-for-my-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right concrete finish for my outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right concrete finish depends on your aesthetic preferences, desired functionality, and budget. Stamped concrete offers decorative patterns mimicking stone or brick, while exposed aggregate provides a textured, natural stone look. Broom finish is slip-resistant and cost-effective. During your consultation, we'll discuss your vision, evaluate your property's style, and recommend options that best suit your needs and the local climate in areas like San Marino or South Pasadena.",
-        "description": "Select a concrete finish based on aesthetics, function, and budget. Options like stamped, exposed aggregate, or broom finish offer different looks and benefits. We'll help you choose during consultation."
-      }
-    }
-  ],
+  "name": "How do I choose the right concrete finish for my outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right concrete finish for my outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right concrete finish depends on your aesthetic preferences, desired functionality, and budget. Stamped concrete offers decorative patterns mimicking stone or brick, while exposed aggregate provides a textured, natural stone look. Broom finish is slip-resistant and cost-effective. During your consultation, we'll discuss your vision, evaluate your property's style, and recommend options that best suit your needs and the local climate in areas like San Marino or South Pasadena.",
+        "@type": "Answer",
+        "description": "Select a concrete finish based on aesthetics, function, and budget. Options like stamped, exposed aggregate, or broom finish offer different looks and benefits. We'll help you choose during consultation."
+      }
+    }
+  ],
+  "description": "Select a concrete finish based on aesthetics, function, and budget. Options like stamped, exposed aggregate, or broom finish offer different looks and benefits."
 }

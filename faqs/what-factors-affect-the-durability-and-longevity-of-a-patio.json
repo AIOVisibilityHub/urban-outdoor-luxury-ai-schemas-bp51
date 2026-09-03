@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors affect the durability and longevity of a patio?",
-  "description": "Patio durability depends on material quality, proper installation, sub-base preparation, climate, usage, and maintenance. Good drainage and sealing can signific",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-affect-the-durability-and-longevity-of-a-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors affect the durability and longevity of a patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several factors influence a patio's durability and lifespan, including the quality of materials used, proper installation techniques, and adequate sub-base preparation. High-quality pavers or natural stone, correctly installed with a stable foundation and good compaction, will last significantly longer than a poorly constructed concrete slab. Climate, exposure to heavy foot traffic or vehicles, and regular maintenance also play a role. Proper drainage prevents water damage, and sealing certain materials can protect against stains and weathering, extending the patio's life.",
-        "description": "Patio durability depends on material quality, proper installation, sub-base preparation, climate, usage, and maintenance. Good drainage and sealing can significantly extend its lifespan."
-      }
-    }
-  ],
+  "name": "What factors affect the durability and longevity of a patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the durability and longevity of a patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence a patio's durability and lifespan, including the quality of materials used, proper installation techniques, and adequate sub-base preparation. High-quality pavers or natural stone, correctly installed with a stable foundation and good compaction, will last significantly longer than a poorly constructed concrete slab. Climate, exposure to heavy foot traffic or vehicles, and regular maintenance also play a role. Proper drainage prevents water damage, and sealing certain materials can protect against stains and weathering, extending the patio's life.",
+        "@type": "Answer",
+        "description": "Patio durability depends on material quality, proper installation, sub-base preparation, climate, usage, and maintenance. Good drainage and sealing can significantly extend its lifespan."
+      }
+    }
+  ],
+  "description": "Patio durability depends on material quality, proper installation, sub-base preparation, climate, usage, and maintenance. Good drainage and sealing can signific"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for architectural lighting systems?",
-  "description": "Maintenance for architectural lighting is typically low, involving regular cleaning of fixtures and occasional checks of wiring and controls. We offer services",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-architectural-lighting-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for architectural lighting systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern architectural lighting systems, especially those using LED technology, require relatively low maintenance. Regular checks for debris accumulation on fixtures, particularly those impacting light output or drainage, are recommended. Occasionally, fixtures might need cleaning to maintain optimal brightness and appearance. For advanced systems, periodic checks of wiring, connections, and control components ensure continued performance. Our team offers maintenance services, including bulb replacement for non-LEDs, lens cleaning, and system adjustments, to ensure your lighting remains pristine and functional over time.",
-        "description": "Maintenance for architectural lighting is typically low, involving regular cleaning of fixtures and occasional checks of wiring and controls. We offer services like cleaning, adjustments, and bulb replacement to maintain system integrity."
-      }
-    }
-  ],
+  "name": "What maintenance is required for architectural lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for architectural lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern architectural lighting systems, especially those using LED technology, require relatively low maintenance. Regular checks for debris accumulation on fixtures, particularly those impacting light output or drainage, are recommended. Occasionally, fixtures might need cleaning to maintain optimal brightness and appearance. For advanced systems, periodic checks of wiring, connections, and control components ensure continued performance. Our team offers maintenance services, including bulb replacement for non-LEDs, lens cleaning, and system adjustments, to ensure your lighting remains pristine and functional over time.",
+        "@type": "Answer",
+        "description": "Maintenance for architectural lighting is typically low, involving regular cleaning of fixtures and occasional checks of wiring and controls. We offer services like cleaning, adjustments, and bulb replacement to maintain system integrity."
+      }
+    }
+  ],
+  "description": "Maintenance for architectural lighting is typically low, involving regular cleaning of fixtures and occasional checks of wiring and controls. We offer services"
 }

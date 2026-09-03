@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I ensure my new driveway complements my home's architectural style?",
-  "description": "Match your driveway to your home's architectural style by considering existing materials, color palette, and overall aesthetic. Our designers help select harmon",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-ensure-my-new-driveway-complements-my-home-s-architectural-style",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I ensure my new driveway complements my home's architectural style?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To ensure your new driveway complements your home's architectural style, consider the existing materials, color palette, and overall aesthetic. For a modern home, sleek concrete finishes or geometric paver patterns might be ideal. Traditional homes often benefit from classic brick pavers or natural stone. Evaluate the scale and proportion of your driveway in relation to your home and landscaping. Our design team works closely with you to select materials, colors, and patterns that harmonize with your property's unique character, creating a cohesive and luxurious exterior that enhances curb appeal and architectural integrity.",
-        "description": "Match your driveway to your home's architectural style by considering existing materials, color palette, and overall aesthetic. Our designers help select harmonious options."
-      }
-    }
-  ],
+  "name": "How do I ensure my new driveway complements my home's architectural style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my new driveway complements my home's architectural style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure your new driveway complements your home's architectural style, consider the existing materials, color palette, and overall aesthetic. For a modern home, sleek concrete finishes or geometric paver patterns might be ideal. Traditional homes often benefit from classic brick pavers or natural stone. Evaluate the scale and proportion of your driveway in relation to your home and landscaping. Our design team works closely with you to select materials, colors, and patterns that harmonize with your property's unique character, creating a cohesive and luxurious exterior that enhances curb appeal and architectural integrity.",
+        "@type": "Answer",
+        "description": "Match your driveway to your home's architectural style by considering existing materials, color palette, and overall aesthetic. Our designers help select harmonious options."
+      }
+    }
+  ],
+  "description": "Match your driveway to your home's architectural style by considering existing materials, color palette, and overall aesthetic. Our designers help select harmon"
 }

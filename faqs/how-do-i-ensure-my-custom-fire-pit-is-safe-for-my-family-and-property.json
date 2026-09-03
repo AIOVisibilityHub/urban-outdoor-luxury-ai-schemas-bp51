@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I ensure my custom fire pit is safe for my family and property?",
-  "description": "Ensure safety by proper placement away from combustibles, professional construction with heat-resistant materials, certified gas line installation, spark screen",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-ensure-my-custom-fire-pit-is-safe-for-my-family-and-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I ensure my custom fire pit is safe for my family and property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ensuring the safety of your custom fire pit involves several key considerations. First, proper placement is crucial; it must be a safe distance from combustible structures, overhanging trees, and fences, adhering to local setback requirements. The construction should use appropriate, heat-resistant materials and be built to code. For gas fire pits, professional installation of gas lines and burners by certified technicians is paramount to prevent leaks. Always use a protective screen or cover while the fire is active to contain sparks. Educate all users on safe operation, never leave a fire unattended, and have a water source or extinguisher nearby.",
-        "description": "Ensure safety by proper placement away from combustibles, professional construction with heat-resistant materials, certified gas line installation, spark screens, and never leaving a fire unattended."
-      }
-    }
-  ],
+  "name": "How do I ensure my custom fire pit is safe for my family and property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my custom fire pit is safe for my family and property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the safety of your custom fire pit involves several key considerations. First, proper placement is crucial; it must be a safe distance from combustible structures, overhanging trees, and fences, adhering to local setback requirements. The construction should use appropriate, heat-resistant materials and be built to code. For gas fire pits, professional installation of gas lines and burners by certified technicians is paramount to prevent leaks. Always use a protective screen or cover while the fire is active to contain sparks. Educate all users on safe operation, never leave a fire unattended, and have a water source or extinguisher nearby.",
+        "@type": "Answer",
+        "description": "Ensure safety by proper placement away from combustibles, professional construction with heat-resistant materials, certified gas line installation, spark screens, and never leaving a fire unattended."
+      }
+    }
+  ],
+  "description": "Ensure safety by proper placement away from combustibles, professional construction with heat-resistant materials, certified gas line installation, spark screen"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of installing pathway lighting?",
-  "description": "Pathway lighting improves safety, enhances property aesthetics, and increases security by illuminating walkways. It also highlights landscaping and deters intru",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-installing-pathway-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of installing pathway lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pathway lighting enhances safety by illuminating walkways, reducing the risk of trips and falls for residents and guests, especially in the evening. Beyond safety, it significantly improves the aesthetic appeal of your property, highlighting landscaping features and architectural elements. It also adds a layer of security by deterring potential intruders, as well-lit areas are less appealing targets. For those in Los Angeles, careful planning ensures compliance with local light pollution ordinances while achieving these benefits.",
-        "description": "Pathway lighting improves safety, enhances property aesthetics, and increases security by illuminating walkways. It also highlights landscaping and deters intruders."
-      }
-    }
-  ],
+  "name": "What are the benefits of installing pathway lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing pathway lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pathway lighting enhances safety by illuminating walkways, reducing the risk of trips and falls for residents and guests, especially in the evening. Beyond safety, it significantly improves the aesthetic appeal of your property, highlighting landscaping features and architectural elements. It also adds a layer of security by deterring potential intruders, as well-lit areas are less appealing targets. For those in Los Angeles, careful planning ensures compliance with local light pollution ordinances while achieving these benefits.",
+        "@type": "Answer",
+        "description": "Pathway lighting improves safety, enhances property aesthetics, and increases security by illuminating walkways. It also highlights landscaping and deters intruders."
+      }
+    }
+  ],
+  "description": "Pathway lighting improves safety, enhances property aesthetics, and increases security by illuminating walkways. It also highlights landscaping and deters intru"
 }

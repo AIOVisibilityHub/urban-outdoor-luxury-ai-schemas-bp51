@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of water features can be incorporated into a luxury outdoor design?",
-  "description": "Luxury outdoor designs can include pools, fountains, waterfalls, ponds, and water walls, chosen based on aesthetics and function.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-water-features-can-be-incorporated-into-a-luxury-outdoor-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of water features can be incorporated into a luxury outdoor design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Luxury outdoor designs can incorporate a variety of water features to enhance aesthetics and ambiance. Popular options include custom-designed swimming pools with integrated spas, naturalistic ponds, elegant fountains, serene waterfalls, and dynamic water walls. Reflecting pools create a sense of tranquility, while stream beds mimic natural landscapes. The choice depends on the desired aesthetic, available space, and functional requirements, such as creating a focal point, masking urban noise, or enhancing biodiversity.",
-        "description": "Luxury outdoor designs can include pools, fountains, waterfalls, ponds, and water walls, chosen based on aesthetics and function."
-      }
-    }
-  ],
+  "name": "What types of water features can be incorporated into a luxury outdoor design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of water features can be incorporated into a luxury outdoor design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury outdoor designs can incorporate a variety of water features to enhance aesthetics and ambiance. Popular options include custom-designed swimming pools with integrated spas, naturalistic ponds, elegant fountains, serene waterfalls, and dynamic water walls. Reflecting pools create a sense of tranquility, while stream beds mimic natural landscapes. The choice depends on the desired aesthetic, available space, and functional requirements, such as creating a focal point, masking urban noise, or enhancing biodiversity.",
+        "@type": "Answer",
+        "description": "Luxury outdoor designs can include pools, fountains, waterfalls, ponds, and water walls, chosen based on aesthetics and function."
+      }
+    }
+  ],
+  "description": "Luxury outdoor designs can include pools, fountains, waterfalls, ponds, and water walls, chosen based on aesthetics and function."
 }

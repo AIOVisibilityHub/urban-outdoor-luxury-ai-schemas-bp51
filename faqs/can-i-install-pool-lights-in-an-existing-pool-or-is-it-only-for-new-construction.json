@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I install pool lights in an existing pool, or is it only for new construction?",
-  "description": "Pool lights can be installed in both new and existing pools. Retrofitting an existing pool involves integrating new lighting with current structures and electri",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-install-pool-lights-in-an-existing-pool-or-is-it-only-for-new-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I install pool lights in an existing pool, or is it only for new construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pool lights can be installed in both new construction and existing pools. For existing pools, it's often referred to as a 'retrofit' installation. This process typically involves careful planning to integrate the new lighting with existing pool structures and electrical systems. While slightly more complex than new construction installations, modern lighting solutions are designed to accommodate existing pools effectively, enhancing their appearance and usability without requiring major structural changes.",
-        "description": "Pool lights can be installed in both new and existing pools. Retrofitting an existing pool involves integrating new lighting with current structures and electrical systems."
-      }
-    }
-  ],
+  "name": "Can I install pool lights in an existing pool, or is it only for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install pool lights in an existing pool, or is it only for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pool lights can be installed in both new construction and existing pools. For existing pools, it's often referred to as a 'retrofit' installation. This process typically involves careful planning to integrate the new lighting with existing pool structures and electrical systems. While slightly more complex than new construction installations, modern lighting solutions are designed to accommodate existing pools effectively, enhancing their appearance and usability without requiring major structural changes.",
+        "@type": "Answer",
+        "description": "Pool lights can be installed in both new and existing pools. Retrofitting an existing pool involves integrating new lighting with current structures and electrical systems."
+      }
+    }
+  ],
+  "description": "Pool lights can be installed in both new and existing pools. Retrofitting an existing pool involves integrating new lighting with current structures and electri"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for architectural lighting installation in Los Angeles County?",
-  "description": "Permits may be required for architectural lighting in Los Angeles County, especially for projects involving new electrical circuits, significant trenching, or c",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-architectural-lighting-installation-in-los-angeles-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for architectural lighting installation in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for architectural lighting installation in Los Angeles County, including areas like Pasadena and Arcadia, can vary based on the project's scope. Minor installations involving low-voltage systems and existing wiring might not require extensive permits. However, projects that involve new electrical circuits, significant trenching, structural modifications, or complex control systems typically necessitate permits to ensure compliance with local building codes and safety regulations. We manage the permit acquisition process to ensure all installations meet local jurisdictional requirements.",
-        "description": "Permits may be required for architectural lighting in Los Angeles County, especially for projects involving new electrical circuits, significant trenching, or complex systems, to comply with local codes."
-      }
-    }
-  ],
+  "name": "Do I need permits for architectural lighting installation in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for architectural lighting installation in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for architectural lighting installation in Los Angeles County, including areas like Pasadena and Arcadia, can vary based on the project's scope. Minor installations involving low-voltage systems and existing wiring might not require extensive permits. However, projects that involve new electrical circuits, significant trenching, structural modifications, or complex control systems typically necessitate permits to ensure compliance with local building codes and safety regulations. We manage the permit acquisition process to ensure all installations meet local jurisdictional requirements.",
+        "@type": "Answer",
+        "description": "Permits may be required for architectural lighting in Los Angeles County, especially for projects involving new electrical circuits, significant trenching, or complex systems, to comply with local codes."
+      }
+    }
+  ],
+  "description": "Permits may be required for architectural lighting in Los Angeles County, especially for projects involving new electrical circuits, significant trenching, or c"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can outdoor lighting be integrated with smart home systems?",
-  "description": "Yes, outdoor lighting can integrate with smart home systems for app/voice control, automation, dimming, color changing, and enhanced efficiency/security.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-outdoor-lighting-be-integrated-with-smart-home-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can outdoor lighting be integrated with smart home systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, outdoor lighting can be seamlessly integrated with various smart home systems. This allows for convenient control through smartphone apps, voice commands, or automated schedules. Smart lighting options enable features like dimming, color changing, zone control, and sensor-based activation. Integration enhances energy efficiency and security while offering dynamic customization for different moods or occasions. Our team can recommend and install smart lighting solutions compatible with popular home automation platforms, providing advanced control and flexibility.",
-        "description": "Yes, outdoor lighting can integrate with smart home systems for app/voice control, automation, dimming, color changing, and enhanced efficiency/security."
-      }
-    }
-  ],
+  "name": "Can outdoor lighting be integrated with smart home systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can outdoor lighting be integrated with smart home systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, outdoor lighting can be seamlessly integrated with various smart home systems. This allows for convenient control through smartphone apps, voice commands, or automated schedules. Smart lighting options enable features like dimming, color changing, zone control, and sensor-based activation. Integration enhances energy efficiency and security while offering dynamic customization for different moods or occasions. Our team can recommend and install smart lighting solutions compatible with popular home automation platforms, providing advanced control and flexibility.",
+        "@type": "Answer",
+        "description": "Yes, outdoor lighting can integrate with smart home systems for app/voice control, automation, dimming, color changing, and enhanced efficiency/security."
+      }
+    }
+  ],
+  "description": "Yes, outdoor lighting can integrate with smart home systems for app/voice control, automation, dimming, color changing, and enhanced efficiency/security."
 }

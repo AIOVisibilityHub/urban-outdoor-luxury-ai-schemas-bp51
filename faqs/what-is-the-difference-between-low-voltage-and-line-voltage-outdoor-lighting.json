@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between low-voltage and line-voltage outdoor lighting?",
-  "description": "Low-voltage lighting uses 12-24V with a transformer, safer and easier for landscapes. Line-voltage uses 120V for high-output needs, requiring complex installati",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-low-voltage-and-line-voltage-outdoor-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between low-voltage and line-voltage outdoor lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low-voltage outdoor lighting operates on 12-24 volts, requiring a transformer to reduce standard household current. It is generally safer, easier to install, and more flexible for landscape applications, offering a wide range of fixture options. Line-voltage lighting uses the full 120-volt household current and is typically used for powerful security lights or wall-mounted fixtures that cover larger areas. While line-voltage offers greater light output, it requires more complex installation and adherence to stricter electrical codes. We primarily focus on low-voltage systems for aesthetic landscape illumination.",
-        "description": "Low-voltage lighting uses 12-24V with a transformer, safer and easier for landscapes. Line-voltage uses 120V for high-output needs, requiring complex installation."
-      }
-    }
-  ],
+  "name": "What is the difference between low-voltage and line-voltage outdoor lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between low-voltage and line-voltage outdoor lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-voltage outdoor lighting operates on 12-24 volts, requiring a transformer to reduce standard household current. It is generally safer, easier to install, and more flexible for landscape applications, offering a wide range of fixture options. Line-voltage lighting uses the full 120-volt household current and is typically used for powerful security lights or wall-mounted fixtures that cover larger areas. While line-voltage offers greater light output, it requires more complex installation and adherence to stricter electrical codes. We primarily focus on low-voltage systems for aesthetic landscape illumination.",
+        "@type": "Answer",
+        "description": "Low-voltage lighting uses 12-24V with a transformer, safer and easier for landscapes. Line-voltage uses 120V for high-output needs, requiring complex installation."
+      }
+    }
+  ],
+  "description": "Low-voltage lighting uses 12-24V with a transformer, safer and easier for landscapes. Line-voltage uses 120V for high-output needs, requiring complex installati"
 }

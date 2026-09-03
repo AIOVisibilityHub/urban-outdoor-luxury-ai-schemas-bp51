@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an outdoor fountain be installed in a small space?",
-  "description": "Yes, outdoor fountains can be installed in small spaces like patios or balconies, with options such as wall-mounted or compact bubbling features.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-outdoor-fountain-be-installed-in-a-small-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an outdoor fountain be installed in a small space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, outdoor fountains can be installed in small spaces such as compact patios, courtyards, or even balconies. Options for limited areas include wall-mounted fountains, small self-contained bubbling rocks, or slender sculptural pieces. Careful planning ensures the fountain complements the space without overwhelming it, providing the soothing sound and visual appeal of water without requiring extensive square footage.",
-        "description": "Yes, outdoor fountains can be installed in small spaces like patios or balconies, with options such as wall-mounted or compact bubbling features."
-      }
-    }
-  ],
+  "name": "Can an outdoor fountain be installed in a small space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor fountain be installed in a small space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, outdoor fountains can be installed in small spaces such as compact patios, courtyards, or even balconies. Options for limited areas include wall-mounted fountains, small self-contained bubbling rocks, or slender sculptural pieces. Careful planning ensures the fountain complements the space without overwhelming it, providing the soothing sound and visual appeal of water without requiring extensive square footage.",
+        "@type": "Answer",
+        "description": "Yes, outdoor fountains can be installed in small spaces like patios or balconies, with options such as wall-mounted or compact bubbling features."
+      }
+    }
+  ],
+  "description": "Yes, outdoor fountains can be installed in small spaces like patios or balconies, with options such as wall-mounted or compact bubbling features."
 }

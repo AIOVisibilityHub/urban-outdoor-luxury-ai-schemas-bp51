@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing porcelain pavers for my project?",
-  "description": "Consider thickness, slip resistance, color, texture, size, and manufacturer's reputation when choosing porcelain pavers. Also, assess the intended use of the ar",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-choosing-porcelain-pavers-for-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing porcelain pavers for my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting porcelain pavers, consider the paver's thickness (e.g., 2cm for outdoor use), slip resistance rating (especially for pool decks or wet areas), color and texture to complement your home's aesthetics, and the desired size and shape to fit your design vision. Also, evaluate the manufacturer's reputation and warranty. Consider the intended use of the area – high-traffic zones may benefit from more robust options. Our team can guide you through these choices to ensure the best fit for your specific outdoor environment.",
-        "description": "Consider thickness, slip resistance, color, texture, size, and manufacturer's reputation when choosing porcelain pavers. Also, assess the intended use of the area for durability needs."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing porcelain pavers for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing porcelain pavers for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting porcelain pavers, consider the paver's thickness (e.g., 2cm for outdoor use), slip resistance rating (especially for pool decks or wet areas), color and texture to complement your home's aesthetics, and the desired size and shape to fit your design vision. Also, evaluate the manufacturer's reputation and warranty. Consider the intended use of the area – high-traffic zones may benefit from more robust options. Our team can guide you through these choices to ensure the best fit for your specific outdoor environment.",
+        "@type": "Answer",
+        "description": "Consider thickness, slip resistance, color, texture, size, and manufacturer's reputation when choosing porcelain pavers. Also, assess the intended use of the area for durability needs."
+      }
+    }
+  ],
+  "description": "Consider thickness, slip resistance, color, texture, size, and manufacturer's reputation when choosing porcelain pavers. Also, assess the intended use of the ar"
 }

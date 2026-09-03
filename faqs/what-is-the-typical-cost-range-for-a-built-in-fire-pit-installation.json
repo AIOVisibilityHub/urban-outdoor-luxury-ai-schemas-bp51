@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for a built-in fire pit installation?",
-  "description": "Costs for a built-in fire pit installation typically range from $3,000 to over $20,000, depending on materials, size, fuel type, and design complexity.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-a-built-in-fire-pit-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for a built-in fire pit installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a built-in fire pit installation varies significantly based on factors such as materials, size, fuel type (natural gas or propane), and complexity of the design. Basic installations using materials like concrete blocks or pavers might start around $3,000 to $5,000. More elaborate custom designs with premium materials such as natural stone, integrated seating, or advanced features can range from $8,000 to over $20,000. This estimate generally includes excavation, material acquisition, labor, and gas line installation if applicable. A detailed site assessment is necessary for an accurate quote.",
-        "description": "Costs for a built-in fire pit installation typically range from $3,000 to over $20,000, depending on materials, size, fuel type, and design complexity."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for a built-in fire pit installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a built-in fire pit installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a built-in fire pit installation varies significantly based on factors such as materials, size, fuel type (natural gas or propane), and complexity of the design. Basic installations using materials like concrete blocks or pavers might start around $3,000 to $5,000. More elaborate custom designs with premium materials such as natural stone, integrated seating, or advanced features can range from $8,000 to over $20,000. This estimate generally includes excavation, material acquisition, labor, and gas line installation if applicable. A detailed site assessment is necessary for an accurate quote.",
+        "@type": "Answer",
+        "description": "Costs for a built-in fire pit installation typically range from $3,000 to over $20,000, depending on materials, size, fuel type, and design complexity."
+      }
+    }
+  ],
+  "description": "Costs for a built-in fire pit installation typically range from $3,000 to over $20,000, depending on materials, size, fuel type, and design complexity."
 }

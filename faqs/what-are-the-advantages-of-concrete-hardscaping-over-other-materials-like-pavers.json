@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of concrete hardscaping over other materials like pavers or natural stone?",
-  "description": "Concrete is durable, less prone to shifting or weeds than pavers, and offers versatile customization options like colors and textures. It's often a cost-effecti",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-concrete-hardscaping-over-other-materials-like-pavers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of concrete hardscaping over other materials like pavers or natural stone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Concrete offers several benefits over materials like pavers or natural stone. It provides a durable, monolithic surface less prone to shifting or weed growth between joints, which is common with pavers. Concrete can also be customized with various colors, textures, and stamps to mimic other materials at a potentially lower cost. Its longevity and minimal maintenance requirements make it a practical choice for many outdoor living spaces.",
-        "description": "Concrete is durable, less prone to shifting or weeds than pavers, and offers versatile customization options like colors and textures. It's often a cost-effective and low-maintenance choice."
-      }
-    }
-  ],
+  "name": "What are the advantages of concrete hardscaping over other materials like pavers or natural stone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of concrete hardscaping over other materials like pavers or natural stone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete offers several benefits over materials like pavers or natural stone. It provides a durable, monolithic surface less prone to shifting or weed growth between joints, which is common with pavers. Concrete can also be customized with various colors, textures, and stamps to mimic other materials at a potentially lower cost. Its longevity and minimal maintenance requirements make it a practical choice for many outdoor living spaces.",
+        "@type": "Answer",
+        "description": "Concrete is durable, less prone to shifting or weeds than pavers, and offers versatile customization options like colors and textures. It's often a cost-effective and low-maintenance choice."
+      }
+    }
+  ],
+  "description": "Concrete is durable, less prone to shifting or weeds than pavers, and offers versatile customization options like colors and textures. It's often a cost-effecti"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a landscape lighting system?",
-  "description": "Maintenance is minimal, including periodic fixture cleaning, alignment checks, and trimming foliage. Optional professional maintenance plans are also available.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-landscape-lighting-system",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a landscape lighting system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern landscape lighting systems, especially LED, require minimal maintenance. We recommend periodic cleaning of fixtures to remove debris and ensure optimal light output. Checking for proper alignment of lights and trimming foliage that might obstruct beams are also beneficial. Our firm offers optional maintenance plans to ensure your system continues to perform flawlessly. These plans typically include bulb replacement (if applicable), fixture adjustments, wiring checks, and cleaning.",
-        "description": "Maintenance is minimal, including periodic fixture cleaning, alignment checks, and trimming foliage. Optional professional maintenance plans are also available."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a landscape lighting system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a landscape lighting system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern landscape lighting systems, especially LED, require minimal maintenance. We recommend periodic cleaning of fixtures to remove debris and ensure optimal light output. Checking for proper alignment of lights and trimming foliage that might obstruct beams are also beneficial. Our firm offers optional maintenance plans to ensure your system continues to perform flawlessly. These plans typically include bulb replacement (if applicable), fixture adjustments, wiring checks, and cleaning.",
+        "@type": "Answer",
+        "description": "Maintenance is minimal, including periodic fixture cleaning, alignment checks, and trimming foliage. Optional professional maintenance plans are also available."
+      }
+    }
+  ],
+  "description": "Maintenance is minimal, including periodic fixture cleaning, alignment checks, and trimming foliage. Optional professional maintenance plans are also available."
 }

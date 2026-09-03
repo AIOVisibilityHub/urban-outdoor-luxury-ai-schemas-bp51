@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a pond and a pondless waterfall?",
-  "description": "Ponds are open water bodies for aquatic life, while pondless waterfalls recirculate water into an underground basin. Pondless systems are lower maintenance and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-pond-and-a-pondless-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a pond and a pondless waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A pond is a contained body of water, typically deeper, that supports aquatic life like fish and plants, requiring a specific filtration system to maintain water quality. A pondless waterfall, conversely, features a stream or waterfall effect where the water disappears into an underground reservoir or basin, recirculating without forming an open pond. Pondless systems are generally lower maintenance, safer for children and pets, and use less space, making them ideal for those who want the sound and sight of moving water without the commitment of a full pond.",
-        "description": "Ponds are open water bodies for aquatic life, while pondless waterfalls recirculate water into an underground basin. Pondless systems are lower maintenance and safer."
-      }
-    }
-  ],
+  "name": "What is the difference between a pond and a pondless waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pond and a pondless waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pond is a contained body of water, typically deeper, that supports aquatic life like fish and plants, requiring a specific filtration system to maintain water quality. A pondless waterfall, conversely, features a stream or waterfall effect where the water disappears into an underground reservoir or basin, recirculating without forming an open pond. Pondless systems are generally lower maintenance, safer for children and pets, and use less space, making them ideal for those who want the sound and sight of moving water without the commitment of a full pond.",
+        "@type": "Answer",
+        "description": "Ponds are open water bodies for aquatic life, while pondless waterfalls recirculate water into an underground basin. Pondless systems are lower maintenance and safer."
+      }
+    }
+  ],
+  "description": "Ponds are open water bodies for aquatic life, while pondless waterfalls recirculate water into an underground basin. Pondless systems are lower maintenance and"
 }

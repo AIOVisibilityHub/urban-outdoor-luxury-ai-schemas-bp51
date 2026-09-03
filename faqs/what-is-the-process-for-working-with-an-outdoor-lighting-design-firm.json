@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for working with an outdoor lighting design firm?",
-  "description": "The process involves consultation, site assessment, custom design, material procurement, professional installation, and a final system walkthrough.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-working-with-an-outdoor-lighting-design-firm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for working with an outdoor lighting design firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an initial consultation where you discuss your vision, needs, and budget. The firm then conducts a site assessment to understand your property's unique features. Following this, a custom design plan is developed, often including fixture types, placement, and control options. Once the design is approved, the firm handles the procurement of materials and professional installation. Finally, a walk-through ensures the system meets your expectations and provides instructions on operation and maintenance.",
-        "description": "The process involves consultation, site assessment, custom design, material procurement, professional installation, and a final system walkthrough."
-      }
-    }
-  ],
+  "name": "What is the process for working with an outdoor lighting design firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for working with an outdoor lighting design firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation where you discuss your vision, needs, and budget. The firm then conducts a site assessment to understand your property's unique features. Following this, a custom design plan is developed, often including fixture types, placement, and control options. Once the design is approved, the firm handles the procurement of materials and professional installation. Finally, a walk-through ensures the system meets your expectations and provides instructions on operation and maintenance.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, custom design, material procurement, professional installation, and a final system walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, custom design, material procurement, professional installation, and a final system walkthrough."
 }

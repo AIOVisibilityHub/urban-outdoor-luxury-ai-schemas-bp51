@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do LED accent lights compare to traditional incandescent options?",
-  "description": "LED accent lights are more energy-efficient, last longer, produce less heat, and offer better long-term savings compared to traditional incandescent options.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-led-accent-lights-compare-to-traditional-incandescent-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do LED accent lights compare to traditional incandescent options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LED accent lights offer significant advantages over traditional incandescent options for outdoor installations. LEDs consume substantially less energy, leading to lower electricity bills, and have a much longer lifespan, reducing maintenance and replacement costs. They also generate less heat, which is safer for plants and surrounding materials. While the initial investment for LEDs might be slightly higher, their efficiency and durability result in considerable long-term savings and a more sustainable lighting solution. Additionally, LEDs provide more options for color temperature and beam control.",
-        "description": "LED accent lights are more energy-efficient, last longer, produce less heat, and offer better long-term savings compared to traditional incandescent options."
-      }
-    }
-  ],
+  "name": "How do LED accent lights compare to traditional incandescent options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do LED accent lights compare to traditional incandescent options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED accent lights offer significant advantages over traditional incandescent options for outdoor installations. LEDs consume substantially less energy, leading to lower electricity bills, and have a much longer lifespan, reducing maintenance and replacement costs. They also generate less heat, which is safer for plants and surrounding materials. While the initial investment for LEDs might be slightly higher, their efficiency and durability result in considerable long-term savings and a more sustainable lighting solution. Additionally, LEDs provide more options for color temperature and beam control.",
+        "@type": "Answer",
+        "description": "LED accent lights are more energy-efficient, last longer, produce less heat, and offer better long-term savings compared to traditional incandescent options."
+      }
+    }
+  ],
+  "description": "LED accent lights are more energy-efficient, last longer, produce less heat, and offer better long-term savings compared to traditional incandescent options."
 }

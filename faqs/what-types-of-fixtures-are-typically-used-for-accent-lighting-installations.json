@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of fixtures are typically used for accent lighting installations?",
-  "description": "Spotlights, well lights, and path lights are common fixtures for accent lighting, chosen based on the feature being highlighted and the desired effect.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-fixtures-are-typically-used-for-accent-lighting-installations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of fixtures are typically used for accent lighting installations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common fixtures for accent lighting include spotlights, well lights, path lights, and sometimes strip lighting or miniature floodlights. Spotlights are versatile for highlighting specific objects or architectural features. Well lights are recessed into the ground, providing an upward beam that is ideal for illuminating trees or walls without visible fixtures. Path lights delineate walkways and garden borders. The choice of fixture depends on the specific element being illuminated, the desired effect, and the overall design aesthetic of your outdoor space. We select fixtures that offer both durability and appropriate beam spread.",
-        "description": "Spotlights, well lights, and path lights are common fixtures for accent lighting, chosen based on the feature being highlighted and the desired effect."
-      }
-    }
-  ],
+  "name": "What types of fixtures are typically used for accent lighting installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of fixtures are typically used for accent lighting installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common fixtures for accent lighting include spotlights, well lights, path lights, and sometimes strip lighting or miniature floodlights. Spotlights are versatile for highlighting specific objects or architectural features. Well lights are recessed into the ground, providing an upward beam that is ideal for illuminating trees or walls without visible fixtures. Path lights delineate walkways and garden borders. The choice of fixture depends on the specific element being illuminated, the desired effect, and the overall design aesthetic of your outdoor space. We select fixtures that offer both durability and appropriate beam spread.",
+        "@type": "Answer",
+        "description": "Spotlights, well lights, and path lights are common fixtures for accent lighting, chosen based on the feature being highlighted and the desired effect."
+      }
+    }
+  ],
+  "description": "Spotlights, well lights, and path lights are common fixtures for accent lighting, chosen based on the feature being highlighted and the desired effect."
 }

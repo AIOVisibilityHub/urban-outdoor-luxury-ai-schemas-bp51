@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the custom fire pit construction process typically take?",
-  "description": "Construction time varies, typically 2-8 weeks, depending on design complexity, material choices, and site preparation. A detailed timeline is provided after ini",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-custom-fire-pit-construction-process-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the custom fire pit construction process typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for custom fire pit construction varies based on design complexity, material choices, site preparation requirements, and permitting processes. A straightforward design might take 2-4 weeks from initial design approval to completion. More elaborate projects involving extensive masonry work, gas line installation, or landscape integration could extend to 4-8 weeks or longer. Our process typically begins with a consultation and design phase, followed by material sourcing, site preparation, construction, and final finishing. We will provide a detailed project timeline after understanding your specific requirements during the initial consultation.",
-        "description": "Construction time varies, typically 2-8 weeks, depending on design complexity, material choices, and site preparation. A detailed timeline is provided after initial consultation."
-      }
-    }
-  ],
+  "name": "How long does the custom fire pit construction process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the custom fire pit construction process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom fire pit construction varies based on design complexity, material choices, site preparation requirements, and permitting processes. A straightforward design might take 2-4 weeks from initial design approval to completion. More elaborate projects involving extensive masonry work, gas line installation, or landscape integration could extend to 4-8 weeks or longer. Our process typically begins with a consultation and design phase, followed by material sourcing, site preparation, construction, and final finishing. We will provide a detailed project timeline after understanding your specific requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Construction time varies, typically 2-8 weeks, depending on design complexity, material choices, and site preparation. A detailed timeline is provided after initial consultation."
+      }
+    }
+  ],
+  "description": "Construction time varies, typically 2-8 weeks, depending on design complexity, material choices, and site preparation. A detailed timeline is provided after ini"
 }

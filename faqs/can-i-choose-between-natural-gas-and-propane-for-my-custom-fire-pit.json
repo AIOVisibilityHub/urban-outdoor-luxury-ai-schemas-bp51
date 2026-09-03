@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I choose between natural gas and propane for my custom fire pit?",
-  "description": "Yes, you can choose natural gas for convenience with a permanent line, or propane for flexibility with portable tanks. Each has different installation and usage",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-choose-between-natural-gas-and-propane-for-my-custom-fire-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I choose between natural gas and propane for my custom fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can typically choose between natural gas and propane for your custom fire pit, each with distinct advantages. Natural gas offers convenience as it's piped directly to the fire pit, eliminating the need for tank refills. However, it requires a permanent gas line installation, which can involve more extensive groundwork if a line isn't already present. Propane offers flexibility as it uses portable tanks, allowing for placement in areas without direct gas access. While convenient for relocation, propane tanks need regular refilling or swapping. Your choice depends on your preference for convenience, initial installation costs, and desired mobility.",
-        "description": "Yes, you can choose natural gas for convenience with a permanent line, or propane for flexibility with portable tanks. Each has different installation and usage considerations."
-      }
-    }
-  ],
+  "name": "Can I choose between natural gas and propane for my custom fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose between natural gas and propane for my custom fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can typically choose between natural gas and propane for your custom fire pit, each with distinct advantages. Natural gas offers convenience as it's piped directly to the fire pit, eliminating the need for tank refills. However, it requires a permanent gas line installation, which can involve more extensive groundwork if a line isn't already present. Propane offers flexibility as it uses portable tanks, allowing for placement in areas without direct gas access. While convenient for relocation, propane tanks need regular refilling or swapping. Your choice depends on your preference for convenience, initial installation costs, and desired mobility.",
+        "@type": "Answer",
+        "description": "Yes, you can choose natural gas for convenience with a permanent line, or propane for flexibility with portable tanks. Each has different installation and usage considerations."
+      }
+    }
+  ],
+  "description": "Yes, you can choose natural gas for convenience with a permanent line, or propane for flexibility with portable tanks. Each has different installation and usage"
 }

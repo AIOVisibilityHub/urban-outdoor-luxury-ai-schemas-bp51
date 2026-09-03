@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can water features be integrated with existing landscape designs or swimming pools?",
-  "description": "Absolutely, water features can be integrated into existing landscapes or pools to create a cohesive outdoor space, ensuring aesthetic and functional harmony.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-water-features-be-integrated-with-existing-landscape-designs-or-swimming-poo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can water features be integrated with existing landscape designs or swimming pools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, water features are frequently integrated with existing landscape designs and swimming pools to create a cohesive outdoor environment. This often involves careful planning to ensure aesthetic harmony and functional connectivity, such as a waterfall flowing into a pool or a fountain serving as a focal point within a garden. Our design team specializes in seamlessly blending new water elements with your current outdoor aesthetic, considering aspects like material consistency, water flow dynamics, and overall landscape flow.",
-        "description": "Absolutely, water features can be integrated into existing landscapes or pools to create a cohesive outdoor space, ensuring aesthetic and functional harmony."
-      }
-    }
-  ],
+  "name": "Can water features be integrated with existing landscape designs or swimming pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can water features be integrated with existing landscape designs or swimming pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water features are frequently integrated with existing landscape designs and swimming pools to create a cohesive outdoor environment. This often involves careful planning to ensure aesthetic harmony and functional connectivity, such as a waterfall flowing into a pool or a fountain serving as a focal point within a garden. Our design team specializes in seamlessly blending new water elements with your current outdoor aesthetic, considering aspects like material consistency, water flow dynamics, and overall landscape flow.",
+        "@type": "Answer",
+        "description": "Absolutely, water features can be integrated into existing landscapes or pools to create a cohesive outdoor space, ensuring aesthetic and functional harmony."
+      }
+    }
+  ],
+  "description": "Absolutely, water features can be integrated into existing landscapes or pools to create a cohesive outdoor space, ensuring aesthetic and functional harmony."
 }

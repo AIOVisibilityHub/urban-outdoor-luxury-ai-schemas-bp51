@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing and building a new patio?",
-  "description": "The patio installation process involves initial consultation, site assessment, design finalization, cost estimation, permitting, site preparation, construction,",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-building-a-new-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing and building a new patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we conduct a site assessment to evaluate conditions like drainage, sun exposure, and existing landscaping. Based on this, a detailed design plan and material selection are finalized, followed by a transparent cost estimate. Once approved, we handle permitting, site preparation, foundation work, material installation, and final finishing touches. Throughout, we maintain clear communication to ensure the project aligns with your expectations.",
-        "description": "The patio installation process involves initial consultation, site assessment, design finalization, cost estimation, permitting, site preparation, construction, and final finishing."
-      }
-    }
-  ],
+  "name": "What is the process for designing and building a new patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building a new patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we conduct a site assessment to evaluate conditions like drainage, sun exposure, and existing landscaping. Based on this, a detailed design plan and material selection are finalized, followed by a transparent cost estimate. Once approved, we handle permitting, site preparation, foundation work, material installation, and final finishing touches. Throughout, we maintain clear communication to ensure the project aligns with your expectations.",
+        "@type": "Answer",
+        "description": "The patio installation process involves initial consultation, site assessment, design finalization, cost estimation, permitting, site preparation, construction, and final finishing."
+      }
+    }
+  ],
+  "description": "The patio installation process involves initial consultation, site assessment, design finalization, cost estimation, permitting, site preparation, construction,"
 }

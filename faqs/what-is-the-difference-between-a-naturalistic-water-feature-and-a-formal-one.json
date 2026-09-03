@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a naturalistic water feature and a formal one?",
-  "description": "Naturalistic features mimic nature with irregular shapes, while formal ones emphasize symmetry, geometric forms, and structured designs.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-naturalistic-water-feature-and-a-formal-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a naturalistic water feature and a formal one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Naturalistic water features mimic elements found in nature, such as meandering streams, rock-strewn waterfalls, and lily ponds. They often feature irregular shapes, natural stone, and lush plantings to blend seamlessly into the surrounding landscape, aiming for an organic, serene aesthetic. Formal water features, conversely, emphasize symmetry, geometric shapes, and structured designs like tiered fountains, reflecting pools, or rectilinear water walls. They often incorporate refined materials such as polished stone, tile, or metal, creating a grand, architectural statement. The choice depends on the desired style of the overall outdoor space.",
-        "description": "Naturalistic features mimic nature with irregular shapes, while formal ones emphasize symmetry, geometric forms, and structured designs."
-      }
-    }
-  ],
+  "name": "What is the difference between a naturalistic water feature and a formal one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a naturalistic water feature and a formal one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Naturalistic water features mimic elements found in nature, such as meandering streams, rock-strewn waterfalls, and lily ponds. They often feature irregular shapes, natural stone, and lush plantings to blend seamlessly into the surrounding landscape, aiming for an organic, serene aesthetic. Formal water features, conversely, emphasize symmetry, geometric shapes, and structured designs like tiered fountains, reflecting pools, or rectilinear water walls. They often incorporate refined materials such as polished stone, tile, or metal, creating a grand, architectural statement. The choice depends on the desired style of the overall outdoor space.",
+        "@type": "Answer",
+        "description": "Naturalistic features mimic nature with irregular shapes, while formal ones emphasize symmetry, geometric forms, and structured designs."
+      }
+    }
+  ],
+  "description": "Naturalistic features mimic nature with irregular shapes, while formal ones emphasize symmetry, geometric forms, and structured designs."
 }

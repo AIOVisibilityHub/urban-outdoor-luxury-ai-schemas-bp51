@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a pool bubbler be added to an existing pool?",
-  "description": "Yes, pool bubblers can be added to existing pools through a retrofit process that involves deck and plumbing work.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-pool-bubbler-be-added-to-an-existing-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a pool bubbler be added to an existing pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pool bubblers can be added to most existing swimming pools. This process, known as a retrofit, typically involves carefully cutting into the existing pool deck and plumbing to install the necessary water lines and the bubbler unit. The deck area is then repaired and matched to the existing finish. While more involved than new construction installation, it's a common upgrade to enhance pool aesthetics.",
-        "description": "Yes, pool bubblers can be added to existing pools through a retrofit process that involves deck and plumbing work."
-      }
-    }
-  ],
+  "name": "Can a pool bubbler be added to an existing pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pool bubbler be added to an existing pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pool bubblers can be added to most existing swimming pools. This process, known as a retrofit, typically involves carefully cutting into the existing pool deck and plumbing to install the necessary water lines and the bubbler unit. The deck area is then repaired and matched to the existing finish. While more involved than new construction installation, it's a common upgrade to enhance pool aesthetics.",
+        "@type": "Answer",
+        "description": "Yes, pool bubblers can be added to existing pools through a retrofit process that involves deck and plumbing work."
+      }
+    }
+  ],
+  "description": "Yes, pool bubblers can be added to existing pools through a retrofit process that involves deck and plumbing work."
 }

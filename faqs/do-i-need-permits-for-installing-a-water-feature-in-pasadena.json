@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for installing a water feature in Pasadena?",
-  "description": "Permit requirements for water features in Pasadena depend on size and complexity; larger custom installations typically require them. Consult local authorities",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-permits-for-installing-a-water-feature-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for installing a water feature in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For properties in Pasadena, the requirement for permits when installing a water feature depends on its size, depth, and specific characteristics. Small, pre-fabricated fountains or ponds may not always require a permit, but larger, custom-built features, especially those with significant excavation, plumbing, or electrical work, almost certainly will. It's crucial to consult with the Pasadena Department of Public Works or a qualified contractor to understand local zoning ordinances and building codes before beginning any construction to ensure compliance and avoid potential issues.",
-        "description": "Permit requirements for water features in Pasadena depend on size and complexity; larger custom installations typically require them. Consult local authorities or a contractor."
-      }
-    }
-  ],
+  "name": "Do I need permits for installing a water feature in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for installing a water feature in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For properties in Pasadena, the requirement for permits when installing a water feature depends on its size, depth, and specific characteristics. Small, pre-fabricated fountains or ponds may not always require a permit, but larger, custom-built features, especially those with significant excavation, plumbing, or electrical work, almost certainly will. It's crucial to consult with the Pasadena Department of Public Works or a qualified contractor to understand local zoning ordinances and building codes before beginning any construction to ensure compliance and avoid potential issues.",
+        "@type": "Answer",
+        "description": "Permit requirements for water features in Pasadena depend on size and complexity; larger custom installations typically require them. Consult local authorities or a contractor."
+      }
+    }
+  ],
+  "description": "Permit requirements for water features in Pasadena depend on size and complexity; larger custom installations typically require them. Consult local authorities"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right size and style of spillway for my pool?",
-  "description": "Select a spillway based on your pool size, desired visual impact, existing aesthetic, and preferred water sound, with design consultations available.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-size-and-style-of-spillway-for-my-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right size and style of spillway for my pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right spillway involves considering your pool's dimensions, the desired visual impact, and the overall architectural style of your outdoor space. A larger pool might benefit from a wider, more dramatic sheer descent, while a smaller spa might suit a more subtle scupper. Consider the material that complements your existing coping and deck. Think about the sound you prefer—a gentle trickle or a more pronounced cascade. Our design consultants can help you visualize options and select a spillway that perfectly integrates with your pool and landscape.",
-        "description": "Select a spillway based on your pool size, desired visual impact, existing aesthetic, and preferred water sound, with design consultations available."
-      }
-    }
-  ],
+  "name": "How do I choose the right size and style of spillway for my pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and style of spillway for my pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right spillway involves considering your pool's dimensions, the desired visual impact, and the overall architectural style of your outdoor space. A larger pool might benefit from a wider, more dramatic sheer descent, while a smaller spa might suit a more subtle scupper. Consider the material that complements your existing coping and deck. Think about the sound you prefer—a gentle trickle or a more pronounced cascade. Our design consultants can help you visualize options and select a spillway that perfectly integrates with your pool and landscape.",
+        "@type": "Answer",
+        "description": "Select a spillway based on your pool size, desired visual impact, existing aesthetic, and preferred water sound, with design consultations available."
+      }
+    }
+  ],
+  "description": "Select a spillway based on your pool size, desired visual impact, existing aesthetic, and preferred water sound, with design consultations available."
 }

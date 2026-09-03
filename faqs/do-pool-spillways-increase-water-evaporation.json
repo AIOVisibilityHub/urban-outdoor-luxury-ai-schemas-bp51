@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do pool spillways increase water evaporation?",
-  "description": "Yes, pool spillways can slightly increase water evaporation due to increased water movement and exposure to air, though the impact is often minor.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-pool-spillways-increase-water-evaporation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do pool spillways increase water evaporation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pool spillways, like any water feature that creates movement and exposes water to air, can slightly increase the rate of water evaporation compared to a still body of water. The increased surface area and aeration facilitate more rapid evaporation. However, the exact increase is generally minor and often considered a worthwhile trade-off for the aesthetic and functional benefits a spillway provides. Factors such as humidity, wind, and air temperature will have a more significant impact on overall evaporation rates.",
-        "description": "Yes, pool spillways can slightly increase water evaporation due to increased water movement and exposure to air, though the impact is often minor."
-      }
-    }
-  ],
+  "name": "Do pool spillways increase water evaporation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do pool spillways increase water evaporation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pool spillways, like any water feature that creates movement and exposes water to air, can slightly increase the rate of water evaporation compared to a still body of water. The increased surface area and aeration facilitate more rapid evaporation. However, the exact increase is generally minor and often considered a worthwhile trade-off for the aesthetic and functional benefits a spillway provides. Factors such as humidity, wind, and air temperature will have a more significant impact on overall evaporation rates.",
+        "@type": "Answer",
+        "description": "Yes, pool spillways can slightly increase water evaporation due to increased water movement and exposure to air, though the impact is often minor."
+      }
+    }
+  ],
+  "description": "Yes, pool spillways can slightly increase water evaporation due to increased water movement and exposure to air, though the impact is often minor."
 }
