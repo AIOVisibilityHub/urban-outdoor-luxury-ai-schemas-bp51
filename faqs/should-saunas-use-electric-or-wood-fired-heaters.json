@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should saunas use electric or wood-fired heaters?",
-  "description": "Electric Harvia for precise humidity control; wood-fired Kukko for authentic Nordic lodge experience.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/should-saunas-use-electric-or-wood-fired-heaters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should saunas use electric or wood-fired heaters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric Harvia for precise humidity control; wood-fired Kukko for authentic Nordic lodge experience."
-      }
-    }
-  ],
+  "name": "Should saunas use electric or wood-fired heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should saunas use electric or wood-fired heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric Harvia for precise humidity control; wood-fired Kukko for authentic Nordic lodge experience.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric Harvia for precise humidity control; wood-fired Kukko for authentic Nordic lodge experience."
 }

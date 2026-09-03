@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do landscape architects charge more than designers?",
-  "description": "Yes, $150-$300/hour vs $75-$150/hour; architects required for retaining walls over 4'. angi​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-landscape-architects-charge-more-than-designers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do landscape architects charge more than designers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, $150-$300/hour vs $75-$150/hour; architects required for retaining walls over 4'. angi​"
-      }
-    }
-  ],
+  "name": "Do landscape architects charge more than designers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do landscape architects charge more than designers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, $150-$300/hour vs $75-$150/hour; architects required for retaining walls over 4'. angi​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, $150-$300/hour vs $75-$150/hour; architects required for retaining walls over 4'. angi​"
 }

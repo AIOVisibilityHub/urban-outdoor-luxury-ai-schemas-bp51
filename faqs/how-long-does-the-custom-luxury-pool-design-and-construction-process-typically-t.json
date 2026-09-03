@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the custom luxury pool design and construction process typically take?",
+  "description": "The process, from design to completion, typically takes 5-8 months, depending on design complexity, site conditions, and permitting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-custom-luxury-pool-design-and-construction-process-typically-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the custom luxury pool design and construction process typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a custom luxury pool project can vary significantly based on the complexity of the design, site conditions, permitting requirements, and material availability. Generally, the design phase can take 4-8 weeks, followed by 2-4 weeks for permitting. Construction itself typically ranges from 12 to 24 weeks, but larger or more intricate projects with extensive hardscaping or automation can extend beyond this. We provide a detailed project timeline during the initial consultation once the design scope is understood.",
+        "description": "The process, from design to completion, typically takes 5-8 months, depending on design complexity, site conditions, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the return on investment for luxury landscapes?",
-  "description": "10-20% property value increase; low-maintenance designs save $5K+ annually versus traditional turf.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-return-on-investment-for-luxury-landscapes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the return on investment for luxury landscapes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "10-20% property value increase; low-maintenance designs save $5K+ annually versus traditional turf."
-      }
-    }
-  ],
+  "name": "What's the return on investment for luxury landscapes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the return on investment for luxury landscapes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "10-20% property value increase; low-maintenance designs save $5K+ annually versus traditional turf.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "10-20% property value increase; low-maintenance designs save $5K+ annually versus traditional turf."
 }

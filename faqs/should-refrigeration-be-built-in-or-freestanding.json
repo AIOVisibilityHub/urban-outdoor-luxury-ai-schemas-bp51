@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should refrigeration be built-in or freestanding?",
-  "description": "Fully integrated panel-ready Sub-Zero or Viking columns (fridge, freezer, ice maker) for furniture-quality appearance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/should-refrigeration-be-built-in-or-freestanding",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should refrigeration be built-in or freestanding?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fully integrated panel-ready Sub-Zero or Viking columns (fridge, freezer, ice maker) for furniture-quality appearance."
-      }
-    }
-  ],
+  "name": "Should refrigeration be built-in or freestanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should refrigeration be built-in or freestanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fully integrated panel-ready Sub-Zero or Viking columns (fridge, freezer, ice maker) for furniture-quality appearance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Fully integrated panel-ready Sub-Zero or Viking columns (fridge, freezer, ice maker) for furniture-quality appearance."
 }

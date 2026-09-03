@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the markup on plant materials?",
-  "description": "25-40% above wholesale; designer procurement ensures quality, warranties, and delivery. proscapeai​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-markup-on-plant-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the markup on plant materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "25-40% above wholesale; designer procurement ensures quality, warranties, and delivery. proscapeai​"
-      }
-    }
-  ],
+  "name": "What's the markup on plant materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the markup on plant materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "25-40% above wholesale; designer procurement ensures quality, warranties, and delivery. proscapeai​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "25-40% above wholesale; designer procurement ensures quality, warranties, and delivery. proscapeai​"
 }

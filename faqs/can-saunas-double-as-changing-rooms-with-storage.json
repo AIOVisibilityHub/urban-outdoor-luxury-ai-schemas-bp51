@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can saunas double as changing rooms with storage?",
-  "description": "Custom 10x12 cedar pavilions with built-in benches, towel warmers, and Bluetooth audio.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-saunas-double-as-changing-rooms-with-storage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can saunas double as changing rooms with storage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom 10x12 cedar pavilions with built-in benches, towel warmers, and Bluetooth audio."
-      }
-    }
-  ],
+  "name": "Can saunas double as changing rooms with storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can saunas double as changing rooms with storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom 10x12 cedar pavilions with built-in benches, towel warmers, and Bluetooth audio.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom 10x12 cedar pavilions with built-in benches, towel warmers, and Bluetooth audio."
 }

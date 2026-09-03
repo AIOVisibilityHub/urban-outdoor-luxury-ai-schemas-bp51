@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can landscapes generate their own power?",
-  "description": "Solar tree canopies charging landscape lighting and EV stations; micro-hydropower from decorative fountains.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-landscapes-generate-their-own-power",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can landscapes generate their own power?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Solar tree canopies charging landscape lighting and EV stations; micro-hydropower from decorative fountains."
-      }
-    }
-  ],
+  "name": "Can landscapes generate their own power?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can landscapes generate their own power?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solar tree canopies charging landscape lighting and EV stations; micro-hydropower from decorative fountains.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Solar tree canopies charging landscape lighting and EV stations; micro-hydropower from decorative fountains."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do waterfalls increase property value significantly?",
-  "description": "8-12% premium in luxury markets; audio-visual drama justifies price positioning.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-waterfalls-increase-property-value-significantly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do waterfalls increase property value significantly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8-12% premium in luxury markets; audio-visual drama justifies price positioning."
-      }
-    }
-  ],
+  "name": "Do waterfalls increase property value significantly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do waterfalls increase property value significantly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "8-12% premium in luxury markets; audio-visual drama justifies price positioning.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "8-12% premium in luxury markets; audio-visual drama justifies price positioning."
 }

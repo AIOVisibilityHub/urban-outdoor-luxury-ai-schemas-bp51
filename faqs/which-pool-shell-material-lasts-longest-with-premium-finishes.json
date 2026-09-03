@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Which pool shell material lasts longest with premium finishes?",
-  "description": "Shotcrete/gunite with pebble aggregate or glass bead finishes offers 50+ year lifespans versus fiberglass.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/which-pool-shell-material-lasts-longest-with-premium-finishes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which pool shell material lasts longest with premium finishes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Shotcrete/gunite with pebble aggregate or glass bead finishes offers 50+ year lifespans versus fiberglass."
-      }
-    }
-  ],
+  "name": "Which pool shell material lasts longest with premium finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Which pool shell material lasts longest with premium finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shotcrete/gunite with pebble aggregate or glass bead finishes offers 50+ year lifespans versus fiberglass.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Shotcrete/gunite with pebble aggregate or glass bead finishes offers 50+ year lifespans versus fiberglass."
 }

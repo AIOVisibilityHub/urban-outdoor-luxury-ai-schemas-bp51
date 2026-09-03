@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you winterize waterfall plumbing?",
-  "description": "Full drain valves, RV antifreeze in pumps, gasket-sealed covers; luxury systems self-winterize electronically.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-winterize-waterfall-plumbing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you winterize waterfall plumbing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full drain valves, RV antifreeze in pumps, gasket-sealed covers; luxury systems self-winterize electronically."
-      }
-    }
-  ],
+  "name": "How do you winterize waterfall plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you winterize waterfall plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full drain valves, RV antifreeze in pumps, gasket-sealed covers; luxury systems self-winterize electronically.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full drain valves, RV antifreeze in pumps, gasket-sealed covers; luxury systems self-winterize electronically."
 }

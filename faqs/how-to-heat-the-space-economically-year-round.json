@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to heat the space economically year-round?",
-  "description": "Propane fire table + mounted infrared heaters ($2K total) extend usability 6 months annually.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-heat-the-space-economically-year-round",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to heat the space economically year-round?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Propane fire table + mounted infrared heaters ($2K total) extend usability 6 months annually."
-      }
-    }
-  ],
+  "name": "How to heat the space economically year-round?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to heat the space economically year-round?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Propane fire table + mounted infrared heaters ($2K total) extend usability 6 months annually.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Propane fire table + mounted infrared heaters ($2K total) extend usability 6 months annually."
 }

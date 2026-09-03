@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Which affordable brands rival $20K+ appliances?",
-  "description": "Blaze, Fire Magic grills ($3K) and Summit refrigeration match Hestan performance at 1/5th cost.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/which-affordable-brands-rival-20k-appliances",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which affordable brands rival $20K+ appliances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Blaze, Fire Magic grills ($3K) and Summit refrigeration match Hestan performance at 1/5th cost."
-      }
-    }
-  ],
+  "name": "Which affordable brands rival $20K+ appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Which affordable brands rival $20K+ appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blaze, Fire Magic grills ($3K) and Summit refrigeration match Hestan performance at 1/5th cost.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Blaze, Fire Magic grills ($3K) and Summit refrigeration match Hestan performance at 1/5th cost."
 }

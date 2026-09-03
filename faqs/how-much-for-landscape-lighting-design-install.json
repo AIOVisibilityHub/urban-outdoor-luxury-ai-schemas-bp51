@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much for landscape lighting design/install?",
-  "description": "$100-$200 per fixture installed; $15K+ for 50-fixture architectural systems. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-for-landscape-lighting-design-install",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much for landscape lighting design/install?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$100-$200 per fixture installed; $15K+ for 50-fixture architectural systems. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "How much for landscape lighting design/install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much for landscape lighting design/install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$100-$200 per fixture installed; $15K+ for 50-fixture architectural systems. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$100-$200 per fixture installed; $15K+ for 50-fixture architectural systems. crenshawlandscapingllc​"
 }

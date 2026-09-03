@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you price per square foot for installation?",
-  "description": "$15-$50/sq ft total; $2-$8/sq ft design phase only depending on complexity. ralstonarchitects​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-price-per-square-foot-for-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you price per square foot for installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$15-$50/sq ft total; $2-$8/sq ft design phase only depending on complexity. ralstonarchitects​"
-      }
-    }
-  ],
+  "name": "How do you price per square foot for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you price per square foot for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$15-$50/sq ft total; $2-$8/sq ft design phase only depending on complexity. ralstonarchitects​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$15-$50/sq ft total; $2-$8/sq ft design phase only depending on complexity. ralstonarchitects​"
 }

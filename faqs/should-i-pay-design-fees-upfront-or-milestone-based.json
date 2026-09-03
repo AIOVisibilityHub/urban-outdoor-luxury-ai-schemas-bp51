@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I pay design fees upfront or milestone-based?",
-  "description": "30% deposit, 40% at final plans, 30% at project start prevents scope creep. proscapeai​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/should-i-pay-design-fees-upfront-or-milestone-based",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I pay design fees upfront or milestone-based?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30% deposit, 40% at final plans, 30% at project start prevents scope creep. proscapeai​"
-      }
-    }
-  ],
+  "name": "Should I pay design fees upfront or milestone-based?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I pay design fees upfront or milestone-based?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30% deposit, 40% at final plans, 30% at project start prevents scope creep. proscapeai​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30% deposit, 40% at final plans, 30% at project start prevents scope creep. proscapeai​"
 }

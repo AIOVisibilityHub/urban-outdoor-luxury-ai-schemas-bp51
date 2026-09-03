@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the best heating system for year-round use?",
-  "description": "Geothermal heat pumps paired with solar preheaters maintain 85°F efficiently in coastal climates.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-best-heating-system-for-year-round-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the best heating system for year-round use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Geothermal heat pumps paired with solar preheaters maintain 85°F efficiently in coastal climates."
-      }
-    }
-  ],
+  "name": "What's the best heating system for year-round use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the best heating system for year-round use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Geothermal heat pumps paired with solar preheaters maintain 85°F efficiently in coastal climates.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Geothermal heat pumps paired with solar preheaters maintain 85°F efficiently in coastal climates."
 }

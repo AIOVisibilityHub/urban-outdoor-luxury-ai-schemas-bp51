@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to soundproof gas valve key access?",
-  "description": "Recessed panels or hidden flip-up seats conceal key valves while maintaining code access.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-soundproof-gas-valve-key-access",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to soundproof gas valve key access?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recessed panels or hidden flip-up seats conceal key valves while maintaining code access."
-      }
-    }
-  ],
+  "name": "How to soundproof gas valve key access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to soundproof gas valve key access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed panels or hidden flip-up seats conceal key valves while maintaining code access.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Recessed panels or hidden flip-up seats conceal key valves while maintaining code access."
 }

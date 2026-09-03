@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much irrigation do natives really need first year?",
-  "description": "1\"/week deep soak May-Oct; establish roots then drop to monthly or rainfall only.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-irrigation-do-natives-really-need-first-year",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much irrigation do natives really need first year?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1\"/week deep soak May-Oct; establish roots then drop to monthly or rainfall only."
-      }
-    }
-  ],
+  "name": "How much irrigation do natives really need first year?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much irrigation do natives really need first year?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1\"/week deep soak May-Oct; establish roots then drop to monthly or rainfall only.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1\"/week deep soak May-Oct; establish roots then drop to monthly or rainfall only."
 }

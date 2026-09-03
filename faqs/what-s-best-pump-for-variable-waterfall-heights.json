@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's best pump for variable waterfall heights?",
-  "description": "Grundfos or Pentair IntelliFlo VSF; 3-5HP handles 20' vertical with multi-zone control.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-best-pump-for-variable-waterfall-heights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's best pump for variable waterfall heights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Grundfos or Pentair IntelliFlo VSF; 3-5HP handles 20' vertical with multi-zone control."
-      }
-    }
-  ],
+  "name": "What's best pump for variable waterfall heights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's best pump for variable waterfall heights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grundfos or Pentair IntelliFlo VSF; 3-5HP handles 20' vertical with multi-zone control.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Grundfos or Pentair IntelliFlo VSF; 3-5HP handles 20' vertical with multi-zone control."
 }

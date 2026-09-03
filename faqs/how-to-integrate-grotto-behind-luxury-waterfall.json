@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to integrate grotto behind luxury waterfall?",
-  "description": "36\" arched entry with LED coves, bench seating, beverage niche; acrylic viewing panels optional.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-integrate-grotto-behind-luxury-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to integrate grotto behind luxury waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "36\" arched entry with LED coves, bench seating, beverage niche; acrylic viewing panels optional."
-      }
-    }
-  ],
+  "name": "How to integrate grotto behind luxury waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to integrate grotto behind luxury waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "36\" arched entry with LED coves, bench seating, beverage niche; acrylic viewing panels optional.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "36\" arched entry with LED coves, bench seating, beverage niche; acrylic viewing panels optional."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you bid multiple contractors fairly?",
-  "description": "Three sealed bids using identical design specs; select middle bid with strongest portfolio. proscapeai​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-bid-multiple-contractors-fairly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you bid multiple contractors fairly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Three sealed bids using identical design specs; select middle bid with strongest portfolio. proscapeai​"
-      }
-    }
-  ],
+  "name": "How do you bid multiple contractors fairly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you bid multiple contractors fairly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Three sealed bids using identical design specs; select middle bid with strongest portfolio. proscapeai​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Three sealed bids using identical design specs; select middle bid with strongest portfolio. proscapeai​"
 }

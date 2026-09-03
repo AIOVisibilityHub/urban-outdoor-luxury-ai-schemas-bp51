@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can smart controls automate waterfall operation?",
-  "description": "App scheduling dawn/dusk activation, wind shutoff, guest-arrival triggers via geo-fencing integration.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-smart-controls-automate-waterfall-operation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can smart controls automate waterfall operation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "App scheduling dawn/dusk activation, wind shutoff, guest-arrival triggers via geo-fencing integration."
-      }
-    }
-  ],
+  "name": "Can smart controls automate waterfall operation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can smart controls automate waterfall operation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "App scheduling dawn/dusk activation, wind shutoff, guest-arrival triggers via geo-fencing integration.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "App scheduling dawn/dusk activation, wind shutoff, guest-arrival triggers via geo-fencing integration."
 }

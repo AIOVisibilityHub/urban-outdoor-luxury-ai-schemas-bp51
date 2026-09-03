@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I see examples of custom swimming pools you have designed in the Pasadena area?",
+  "description": "Yes, we have a portfolio of custom pool designs in the Pasadena area on our website, and can provide references or site visits.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-see-examples-of-custom-swimming-pools-you-have-designed-in-the-pasadena-ar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I see examples of custom swimming pools you have designed in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we have an extensive portfolio showcasing custom swimming pool designs and completed projects throughout the Pasadena area and surrounding communities. Our website features galleries with various styles, sizes, and features, reflecting the unique tastes of our clients and the diverse architectural landscape of the region. We can also provide references and arrange site visits for specific project types upon request.",
+        "description": "Yes, we have a portfolio of custom pool designs in the Pasadena area on our website, and can provide references or site visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

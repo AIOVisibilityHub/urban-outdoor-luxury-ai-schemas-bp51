@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you protect electronics from weather?",
-  "description": "NEMA-rated enclosures, heated glass doors, and remote app control with battery backup.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-protect-electronics-from-weather",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you protect electronics from weather?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "NEMA-rated enclosures, heated glass doors, and remote app control with battery backup."
-      }
-    }
-  ],
+  "name": "How do you protect electronics from weather?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you protect electronics from weather?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "NEMA-rated enclosures, heated glass doors, and remote app control with battery backup.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "NEMA-rated enclosures, heated glass doors, and remote app control with battery backup."
 }

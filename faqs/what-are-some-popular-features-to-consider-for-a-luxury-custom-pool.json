@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some popular features to consider for a luxury custom pool?",
+  "description": "Popular luxury pool features include integrated spas, infinity edges, custom water features, advanced LED lighting, automated controls, high-end decking, sun sh",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-some-popular-features-to-consider-for-a-luxury-custom-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some popular features to consider for a luxury custom pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luxury custom pools often incorporate a range of sophisticated features to enhance aesthetics and functionality. Popular additions include integrated spas with hydrotherapy jets, infinity edges that create a seamless visual effect, and custom water features like sheer descents or rock waterfalls. Advanced LED lighting systems, automated control systems for heating and filtration, and high-quality decking materials such as natural stone or exotic hardwoods are also common. Consider sun shelves, swim-up bars, or integrated fire features for an elevated outdoor living experience.",
+        "description": "Popular luxury pool features include integrated spas, infinity edges, custom water features, advanced LED lighting, automated controls, high-end decking, sun shelves, and swim-up bars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

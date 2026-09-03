@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common materials used for custom swimming pool construction?",
+  "description": "Common custom pool materials include gunite for design flexibility and fiberglass for quick installation and a smooth surface. Each has distinct benefits and ae",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-materials-used-for-custom-swimming-pool-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common materials used for custom swimming pool construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common materials for custom swimming pool construction are gunite (or shotcrete) and fiberglass. Gunite pools offer maximum design flexibility, allowing for unique shapes, depths, and integrated features, and are finished with plaster, aggregate, or tile. Fiberglass pools are pre-fabricated shells, known for quick installation and a smooth, non-porous surface that can reduce chemical use. Other options include vinyl liner pools, though less common for high-end custom designs, and natural swimming pools which use biological filtration.",
+        "description": "Common custom pool materials include gunite for design flexibility and fiberglass for quick installation and a smooth surface. Each has distinct benefits and aesthetic options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

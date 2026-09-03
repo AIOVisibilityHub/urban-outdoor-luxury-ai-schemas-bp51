@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much are mature tree installations?",
-  "description": "$2,000-$8,000 per 20-30' specimen tree delivered and planted professionally. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-are-mature-tree-installations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much are mature tree installations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$2,000-$8,000 per 20-30' specimen tree delivered and planted professionally. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "How much are mature tree installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much are mature tree installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$2,000-$8,000 per 20-30' specimen tree delivered and planted professionally. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$2,000-$8,000 per 20-30' specimen tree delivered and planted professionally. crenshawlandscapingllc​"
 }

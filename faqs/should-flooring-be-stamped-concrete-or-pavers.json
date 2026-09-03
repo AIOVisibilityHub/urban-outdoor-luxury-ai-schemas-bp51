@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should flooring be stamped concrete or pavers?",
-  "description": "$12/sq ft stained concrete with stencil patterns rivals $25/sq ft travertine look.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/should-flooring-be-stamped-concrete-or-pavers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should flooring be stamped concrete or pavers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$12/sq ft stained concrete with stencil patterns rivals $25/sq ft travertine look."
-      }
-    }
-  ],
+  "name": "Should flooring be stamped concrete or pavers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should flooring be stamped concrete or pavers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$12/sq ft stained concrete with stencil patterns rivals $25/sq ft travertine look.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$12/sq ft stained concrete with stencil patterns rivals $25/sq ft travertine look."
 }

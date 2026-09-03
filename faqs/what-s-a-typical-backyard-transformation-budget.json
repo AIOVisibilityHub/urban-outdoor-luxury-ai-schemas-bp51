@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's a typical backyard transformation budget?",
-  "description": "$50,000-$150,000 for 5,000 sq ft including hardscape, mature trees, and lighting systems. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-a-typical-backyard-transformation-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's a typical backyard transformation budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$50,000-$150,000 for 5,000 sq ft including hardscape, mature trees, and lighting systems. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "What's a typical backyard transformation budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's a typical backyard transformation budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$50,000-$150,000 for 5,000 sq ft including hardscape, mature trees, and lighting systems. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$50,000-$150,000 for 5,000 sq ft including hardscape, mature trees, and lighting systems. crenshawlandscapingllc​"
 }

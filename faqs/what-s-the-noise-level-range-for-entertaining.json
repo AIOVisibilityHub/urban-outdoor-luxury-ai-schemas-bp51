@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the noise level range for entertaining?",
-  "description": "40-60dB adjustable via flow control; white noise masks conversation without overpowering.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-noise-level-range-for-entertaining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the noise level range for entertaining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "40-60dB adjustable via flow control; white noise masks conversation without overpowering."
-      }
-    }
-  ],
+  "name": "What's the noise level range for entertaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the noise level range for entertaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "40-60dB adjustable via flow control; white noise masks conversation without overpowering.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "40-60dB adjustable via flow control; white noise masks conversation without overpowering."
 }

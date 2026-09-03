@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is custom luxury pool design and how does it differ from standard pool installations?",
+  "description": "Custom luxury pool design creates a unique pool tailored to your property and lifestyle, featuring bespoke elements and premium materials, unlike standard insta",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-custom-luxury-pool-design-and-how-does-it-differ-from-standard-pool-inst",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is custom luxury pool design and how does it differ from standard pool installations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom luxury pool design involves creating a unique swimming pool tailored to a homeowner's specific aesthetic preferences, property characteristics, and lifestyle needs. Unlike standard pool installations, which often use pre-designed kits or limited customization options, luxury design integrates bespoke features such as infinity edges, custom tiling, integrated spas, elaborate water features, and advanced automation systems. The design process focuses on architectural harmony with the home and landscape, using premium materials and innovative construction techniques to achieve a distinctive and high-end outdoor living space.",
+        "description": "Custom luxury pool design creates a unique pool tailored to your property and lifestyle, featuring bespoke elements and premium materials, unlike standard installations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

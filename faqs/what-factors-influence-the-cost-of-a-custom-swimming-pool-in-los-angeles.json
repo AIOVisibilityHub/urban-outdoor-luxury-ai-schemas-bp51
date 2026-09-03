@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a custom swimming pool in Los Angeles?",
+  "description": "Custom pool costs in Los Angeles depend on size, shape, depth, materials, added features like spas or lighting, site conditions, excavation, and local permittin",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-swimming-pool-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a custom swimming pool in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom swimming pool in the Los Angeles area is influenced by several key factors. These include the pool's size, shape, depth, and chosen materials for the shell (e.g., gunite, fiberglass). Features such as spas, waterfalls, lighting, automation systems, and custom decking significantly impact the price. Site access, excavation requirements, soil conditions, and any necessary retaining walls also contribute to the overall investment. Permitting fees and local regulations specific to Los Angeles and surrounding areas are also factored in.",
+        "description": "Custom pool costs in Los Angeles depend on size, shape, depth, materials, added features like spas or lighting, site conditions, excavation, and local permitting fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

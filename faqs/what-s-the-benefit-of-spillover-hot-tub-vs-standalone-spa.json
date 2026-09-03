@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the benefit of spillover hot tub vs standalone spa?",
-  "description": "Seamless visual flow from pool to spa; shared heating reduces energy costs 30% versus separate systems.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-benefit-of-spillover-hot-tub-vs-standalone-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the benefit of spillover hot tub vs standalone spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Seamless visual flow from pool to spa; shared heating reduces energy costs 30% versus separate systems."
-      }
-    }
-  ],
+  "name": "What's the benefit of spillover hot tub vs standalone spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the benefit of spillover hot tub vs standalone spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seamless visual flow from pool to spa; shared heating reduces energy costs 30% versus separate systems.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Seamless visual flow from pool to spa; shared heating reduces energy costs 30% versus separate systems."
 }

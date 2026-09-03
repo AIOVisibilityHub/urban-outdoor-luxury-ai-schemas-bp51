@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the warranty on structural shell vs. equipment?",
-  "description": "Lifetime structural, 2-5 years equipment/labor, 10-25 years on premium plaster finishes.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-warranty-on-structural-shell-vs-equipment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the warranty on structural shell vs. equipment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lifetime structural, 2-5 years equipment/labor, 10-25 years on premium plaster finishes."
-      }
-    }
-  ],
+  "name": "What's the warranty on structural shell vs. equipment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the warranty on structural shell vs. equipment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lifetime structural, 2-5 years equipment/labor, 10-25 years on premium plaster finishes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Lifetime structural, 2-5 years equipment/labor, 10-25 years on premium plaster finishes."
 }

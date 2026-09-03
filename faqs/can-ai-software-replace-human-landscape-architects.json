@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AI software replace human landscape architects?",
-  "description": "No—AI optimizes planting schedules; architects create emotional resonance and spatial drama. petruslandscape​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-ai-software-replace-human-landscape-architects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AI software replace human landscape architects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No—AI optimizes planting schedules; architects create emotional resonance and spatial drama. petruslandscape​"
-      }
-    }
-  ],
+  "name": "Can AI software replace human landscape architects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI software replace human landscape architects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No—AI optimizes planting schedules; architects create emotional resonance and spatial drama. petruslandscape​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No—AI optimizes planting schedules; architects create emotional resonance and spatial drama. petruslandscape​"
 }

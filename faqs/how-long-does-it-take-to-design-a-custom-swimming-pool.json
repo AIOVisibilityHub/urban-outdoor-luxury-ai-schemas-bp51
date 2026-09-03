@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design a custom swimming pool?",
+  "description": "Custom pool design duration ranges from 4-6 weeks for simpler projects to 8-12 weeks or more for complex designs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-design-a-custom-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design a custom swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a custom swimming pool design can vary significantly based on complexity, client feedback cycles, and desired features. A straightforward design might take 4-6 weeks, while more intricate projects involving extensive landscaping, unique water features, or integration with existing structures could extend to 8-12 weeks or more. This timeframe ensures thorough planning and client satisfaction before construction begins.",
+        "description": "Custom pool design duration ranges from 4-6 weeks for simpler projects to 8-12 weeks or more for complex designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

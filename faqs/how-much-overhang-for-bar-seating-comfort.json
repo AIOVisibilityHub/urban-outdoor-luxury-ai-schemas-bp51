@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much overhang for bar seating comfort?",
-  "description": "15-18\" cantilevered stone overhang with foot rails and knee clearance matching commercial standards.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-overhang-for-bar-seating-comfort",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much overhang for bar seating comfort?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "15-18\" cantilevered stone overhang with foot rails and knee clearance matching commercial standards."
-      }
-    }
-  ],
+  "name": "How much overhang for bar seating comfort?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much overhang for bar seating comfort?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "15-18\" cantilevered stone overhang with foot rails and knee clearance matching commercial standards.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "15-18\" cantilevered stone overhang with foot rails and knee clearance matching commercial standards."
 }

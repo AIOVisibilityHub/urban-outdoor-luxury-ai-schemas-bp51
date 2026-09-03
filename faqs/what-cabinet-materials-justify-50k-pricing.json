@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What cabinet materials justify $50K+ pricing?",
-  "description": "Teak with UV epoxy finish, powder-coated stainless, or marine HDPE with soft-close Blum hardware for heirloom durability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-cabinet-materials-justify-50k-pricing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What cabinet materials justify $50K+ pricing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Teak with UV epoxy finish, powder-coated stainless, or marine HDPE with soft-close Blum hardware for heirloom durability."
-      }
-    }
-  ],
+  "name": "What cabinet materials justify $50K+ pricing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet materials justify $50K+ pricing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Teak with UV epoxy finish, powder-coated stainless, or marine HDPE with soft-close Blum hardware for heirloom durability.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Teak with UV epoxy finish, powder-coated stainless, or marine HDPE with soft-close Blum hardware for heirloom durability."
 }

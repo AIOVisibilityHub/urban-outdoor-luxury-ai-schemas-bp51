@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prevent algae growth behind cascade?",
-  "description": "UV sterilizers, ozone injection, automatic chlorine puck dispensers in waterfall vault.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-prevent-algae-growth-behind-cascade",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to prevent algae growth behind cascade?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "UV sterilizers, ozone injection, automatic chlorine puck dispensers in waterfall vault."
-      }
-    }
-  ],
+  "name": "How to prevent algae growth behind cascade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to prevent algae growth behind cascade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "UV sterilizers, ozone injection, automatic chlorine puck dispensers in waterfall vault.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "UV sterilizers, ozone injection, automatic chlorine puck dispensers in waterfall vault."
 }

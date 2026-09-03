@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I use indoor sink fixtures outdoors safely?",
-  "description": "Yes, Delta or Moen stainless models with air gaps and winter drain plugs for seasonal protection.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-use-indoor-sink-fixtures-outdoors-safely",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I use indoor sink fixtures outdoors safely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Delta or Moen stainless models with air gaps and winter drain plugs for seasonal protection."
-      }
-    }
-  ],
+  "name": "Can I use indoor sink fixtures outdoors safely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use indoor sink fixtures outdoors safely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Delta or Moen stainless models with air gaps and winter drain plugs for seasonal protection.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Delta or Moen stainless models with air gaps and winter drain plugs for seasonal protection."
 }

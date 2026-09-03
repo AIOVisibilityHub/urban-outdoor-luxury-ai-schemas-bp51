@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to winterize without full demo each year?",
-  "description": "Drain lines, propane disconnect, cover appliances; 2-hour process saves $4K storage.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-winterize-without-full-demo-each-year",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to winterize without full demo each year?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drain lines, propane disconnect, cover appliances; 2-hour process saves $4K storage."
-      }
-    }
-  ],
+  "name": "How to winterize without full demo each year?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to winterize without full demo each year?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain lines, propane disconnect, cover appliances; 2-hour process saves $4K storage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drain lines, propane disconnect, cover appliances; 2-hour process saves $4K storage."
 }

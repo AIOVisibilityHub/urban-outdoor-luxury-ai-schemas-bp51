@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Japanese maple thrive drought conditions?",
-  "description": "Bloodgood' cultivars with deep mulch survive on winter rain; stunning red fall color justifies selection. wildscapedesignsco​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-japanese-maple-thrive-drought-conditions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Japanese maple thrive drought conditions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bloodgood' cultivars with deep mulch survive on winter rain; stunning red fall color justifies selection. wildscapedesignsco​"
-      }
-    }
-  ],
+  "name": "Can Japanese maple thrive drought conditions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Japanese maple thrive drought conditions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bloodgood' cultivars with deep mulch survive on winter rain; stunning red fall color justifies selection. wildscapedesignsco​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bloodgood' cultivars with deep mulch survive on winter rain; stunning red fall color justifies selection. wildscapedesignsco​"
 }

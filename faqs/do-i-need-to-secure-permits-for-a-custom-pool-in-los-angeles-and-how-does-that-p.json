@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to secure permits for a custom pool in Los Angeles, and how does that process work?",
+  "description": "Yes, permits are required in Los Angeles. Our firm handles all necessary permit applications and submissions to local authorities on your behalf.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-to-secure-permits-for-a-custom-pool-in-los-angeles-and-how-does-that-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to secure permits for a custom pool in Los Angeles, and how does that process work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, securing permits is mandatory for custom pool construction in Los Angeles, including Pasadena, San Marino, and Arcadia. The specific permits required depend on the project scope and local zoning regulations, typically involving building permits, electrical permits, and sometimes grading permits. Our firm manages the entire permitting process on your behalf, preparing and submitting all necessary plans and documentation to the local municipal building department. This ensures compliance with all safety and construction codes, streamlining approval.",
+        "description": "Yes, permits are required in Los Angeles. Our firm handles all necessary permit applications and submissions to local authorities on your behalf."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

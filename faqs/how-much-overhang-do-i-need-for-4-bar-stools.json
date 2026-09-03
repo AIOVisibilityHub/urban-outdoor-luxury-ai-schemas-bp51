@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much overhang do I need for 4 bar stools?",
-  "description": "14\" minimum per seat; 2cm quartz cantilevers safely without corbels.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-overhang-do-i-need-for-4-bar-stools",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much overhang do I need for 4 bar stools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "14\" minimum per seat; 2cm quartz cantilevers safely without corbels."
-      }
-    }
-  ],
+  "name": "How much overhang do I need for 4 bar stools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much overhang do I need for 4 bar stools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "14\" minimum per seat; 2cm quartz cantilevers safely without corbels.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "14\" minimum per seat; 2cm quartz cantilevers safely without corbels."
 }

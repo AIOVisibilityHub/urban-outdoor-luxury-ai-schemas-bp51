@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between sheet fall and boulder waterfall?",
-  "description": "Sheet falls use stainless steel weirs for glassy precision; boulder falls stack natural stone for organic cascading—sheet for modern, boulder for natural aesthe",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-difference-between-sheet-fall-and-boulder-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between sheet fall and boulder waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sheet falls use stainless steel weirs for glassy precision; boulder falls stack natural stone for organic cascading—sheet for modern, boulder for natural aesthetics."
-      }
-    }
-  ],
+  "name": "What's the difference between sheet fall and boulder waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between sheet fall and boulder waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sheet falls use stainless steel weirs for glassy precision; boulder falls stack natural stone for organic cascading—sheet for modern, boulder for natural aesthetics.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sheet falls use stainless steel weirs for glassy precision; boulder falls stack natural stone for organic cascading—sheet for modern, boulder for natural aesthe"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What safety features are non-negotiable for families?",
-  "description": "Auto-covers, perimeter alarms, child-proof gates, and zero-entry beaches reduce drowning risk 90%.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-safety-features-are-non-negotiable-for-families",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What safety features are non-negotiable for families?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Auto-covers, perimeter alarms, child-proof gates, and zero-entry beaches reduce drowning risk 90%."
-      }
-    }
-  ],
+  "name": "What safety features are non-negotiable for families?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What safety features are non-negotiable for families?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Auto-covers, perimeter alarms, child-proof gates, and zero-entry beaches reduce drowning risk 90%.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Auto-covers, perimeter alarms, child-proof gates, and zero-entry beaches reduce drowning risk 90%."
 }

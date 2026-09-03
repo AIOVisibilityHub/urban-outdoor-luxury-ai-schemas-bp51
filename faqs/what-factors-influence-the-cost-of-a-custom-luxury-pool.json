@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a custom luxury pool?",
+  "description": "Cost factors include pool size, shape, chosen materials, custom features like infinity edges or complex water elements, and advanced automation systems.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-luxury-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a custom luxury pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom luxury pool is primarily driven by its size, shape, materials chosen, and integrated features. High-end finishes like imported tiles, natural stone coping, and specialized plaster can increase expenses. Complex architectural designs, such as infinity edges, multi-level pools, or extensive water features, also contribute to higher costs. Additional factors include advanced filtration systems, automation for lighting and temperature, landscaping integration, and site preparation challenges like hillside excavation. A detailed estimate is provided after the initial design consultation.",
+        "description": "Cost factors include pool size, shape, chosen materials, custom features like infinity edges or complex water elements, and advanced automation systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

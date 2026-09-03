@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the best sink configuration for entertaining?",
-  "description": "30\" main prep + 18\" bar sink + 12\" rinse tub, all with high-arc pull-downs and integrated cutting boards.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-best-sink-configuration-for-entertaining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the best sink configuration for entertaining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30\" main prep + 18\" bar sink + 12\" rinse tub, all with high-arc pull-downs and integrated cutting boards."
-      }
-    }
-  ],
+  "name": "What's the best sink configuration for entertaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the best sink configuration for entertaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30\" main prep + 18\" bar sink + 12\" rinse tub, all with high-arc pull-downs and integrated cutting boards.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30\" main prep + 18\" bar sink + 12\" rinse tub, all with high-arc pull-downs and integrated cutting boards."
 }

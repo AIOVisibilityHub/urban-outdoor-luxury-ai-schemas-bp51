@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a custom infinity pool waterfall cost?",
-  "description": "$25K-$75K+ including engineering, LED lighting, variable-speed pumps, and stone coping matched to estate architecture.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-custom-infinity-pool-waterfall-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a custom infinity pool waterfall cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$25K-$75K+ including engineering, LED lighting, variable-speed pumps, and stone coping matched to estate architecture."
-      }
-    }
-  ],
+  "name": "How much does a custom infinity pool waterfall cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom infinity pool waterfall cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$25K-$75K+ including engineering, LED lighting, variable-speed pumps, and stone coping matched to estate architecture.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$25K-$75K+ including engineering, LED lighting, variable-speed pumps, and stone coping matched to estate architecture."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the return policy on custom glass tiles?",
-  "description": "Non-refundable after cutting; order 15% overage and seal samples before full commitment.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-return-policy-on-custom-glass-tiles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the return policy on custom glass tiles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Non-refundable after cutting; order 15% overage and seal samples before full commitment."
-      }
-    }
-  ],
+  "name": "What's the return policy on custom glass tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the return policy on custom glass tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Non-refundable after cutting; order 15% overage and seal samples before full commitment.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Non-refundable after cutting; order 15% overage and seal samples before full commitment."
 }

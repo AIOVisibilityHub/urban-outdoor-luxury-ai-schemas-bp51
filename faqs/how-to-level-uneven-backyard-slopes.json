@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to level uneven backyard slopes?",
-  "description": "Cut/fill with retaining walls or build raised platforms; laser level every course during block stacking.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-level-uneven-backyard-slopes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to level uneven backyard slopes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cut/fill with retaining walls or build raised platforms; laser level every course during block stacking."
-      }
-    }
-  ],
+  "name": "How to level uneven backyard slopes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to level uneven backyard slopes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cut/fill with retaining walls or build raised platforms; laser level every course during block stacking.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cut/fill with retaining walls or build raised platforms; laser level every course during block stacking."
 }

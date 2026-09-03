@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do infinity pools work on flat properties?",
-  "description": "Elevated catch basins, surge tanks, and precise weirs create the vanishing edge effect without hillside.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-infinity-pools-work-on-flat-properties",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do infinity pools work on flat properties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Elevated catch basins, surge tanks, and precise weirs create the vanishing edge effect without hillside."
-      }
-    }
-  ],
+  "name": "How do infinity pools work on flat properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do infinity pools work on flat properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Elevated catch basins, surge tanks, and precise weirs create the vanishing edge effect without hillside.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Elevated catch basins, surge tanks, and precise weirs create the vanishing edge effect without hillside."
 }

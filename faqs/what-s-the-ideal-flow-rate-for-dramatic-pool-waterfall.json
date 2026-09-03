@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ideal flow rate for dramatic pool waterfall?",
-  "description": "20-40 GPM creates visible cascade without pool chemistry disruption; luxury uses VFD pumps for adjustable drama.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-flow-rate-for-dramatic-pool-waterfall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ideal flow rate for dramatic pool waterfall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "20-40 GPM creates visible cascade without pool chemistry disruption; luxury uses VFD pumps for adjustable drama."
-      }
-    }
-  ],
+  "name": "What's the ideal flow rate for dramatic pool waterfall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ideal flow rate for dramatic pool waterfall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "20-40 GPM creates visible cascade without pool chemistry disruption; luxury uses VFD pumps for adjustable drama.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "20-40 GPM creates visible cascade without pool chemistry disruption; luxury uses VFD pumps for adjustable drama."
 }

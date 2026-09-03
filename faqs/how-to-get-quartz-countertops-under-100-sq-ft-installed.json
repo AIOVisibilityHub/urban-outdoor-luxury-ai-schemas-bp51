@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to get quartz countertops under $100/sq ft installed?",
-  "description": "Prefabbed 2cm Caesarstone slabs with field-seamed sinks; avoid custom edges and waterfalls.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-get-quartz-countertops-under-100-sq-ft-installed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to get quartz countertops under $100/sq ft installed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prefabbed 2cm Caesarstone slabs with field-seamed sinks; avoid custom edges and waterfalls."
-      }
-    }
-  ],
+  "name": "How to get quartz countertops under $100/sq ft installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to get quartz countertops under $100/sq ft installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prefabbed 2cm Caesarstone slabs with field-seamed sinks; avoid custom edges and waterfalls.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Prefabbed 2cm Caesarstone slabs with field-seamed sinks; avoid custom edges and waterfalls."
 }

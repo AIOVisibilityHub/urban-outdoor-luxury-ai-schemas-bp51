@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between gas and wood-burning fire pits?",
-  "description": "Gas offers instant push-button ignition, cleaner burn, no ash cleanup; wood provides traditional crackle and higher BTUs but requires chopping and storage.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-difference-between-gas-and-wood-burning-fire-pits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between gas and wood-burning fire pits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gas offers instant push-button ignition, cleaner burn, no ash cleanup; wood provides traditional crackle and higher BTUs but requires chopping and storage."
-      }
-    }
-  ],
+  "name": "What's the difference between gas and wood-burning fire pits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between gas and wood-burning fire pits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas offers instant push-button ignition, cleaner burn, no ash cleanup; wood provides traditional crackle and higher BTUs but requires chopping and storage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Gas offers instant push-button ignition, cleaner burn, no ash cleanup; wood provides traditional crackle and higher BTUs but requires chopping and storage."
 }

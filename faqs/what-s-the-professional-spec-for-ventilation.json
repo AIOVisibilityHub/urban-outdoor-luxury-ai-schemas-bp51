@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the professional spec for ventilation?",
-  "description": "1200+ CFM hoods with direct makeup air, heat sensors, and auto-dampers for restaurant-grade smoke evacuation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-professional-spec-for-ventilation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the professional spec for ventilation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1200+ CFM hoods with direct makeup air, heat sensors, and auto-dampers for restaurant-grade smoke evacuation."
-      }
-    }
-  ],
+  "name": "What's the professional spec for ventilation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the professional spec for ventilation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1200+ CFM hoods with direct makeup air, heat sensors, and auto-dampers for restaurant-grade smoke evacuation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1200+ CFM hoods with direct makeup air, heat sensors, and auto-dampers for restaurant-grade smoke evacuation."
 }

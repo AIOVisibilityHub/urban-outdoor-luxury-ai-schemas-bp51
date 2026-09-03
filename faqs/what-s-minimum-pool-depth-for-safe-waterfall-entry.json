@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's minimum pool depth for safe waterfall entry?",
-  "description": "4-5' at splashdown zone; gradual 8-10% slope prevents injuries during high-flow operation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-minimum-pool-depth-for-safe-waterfall-entry",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's minimum pool depth for safe waterfall entry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "4-5' at splashdown zone; gradual 8-10% slope prevents injuries during high-flow operation."
-      }
-    }
-  ],
+  "name": "What's minimum pool depth for safe waterfall entry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's minimum pool depth for safe waterfall entry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "4-5' at splashdown zone; gradual 8-10% slope prevents injuries during high-flow operation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "4-5' at splashdown zone; gradual 8-10% slope prevents injuries during high-flow operation."
 }

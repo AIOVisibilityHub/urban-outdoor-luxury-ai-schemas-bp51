@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you winterize gas fire pits?",
-  "description": "Disconnect propane, open valves to drain, cover burner; luxury systems self-winterize via app.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-winterize-gas-fire-pits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you winterize gas fire pits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Disconnect propane, open valves to drain, cover burner; luxury systems self-winterize via app."
-      }
-    }
-  ],
+  "name": "How do you winterize gas fire pits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you winterize gas fire pits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Disconnect propane, open valves to drain, cover burner; luxury systems self-winterize via app.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Disconnect propane, open valves to drain, cover burner; luxury systems self-winterize via app."
 }

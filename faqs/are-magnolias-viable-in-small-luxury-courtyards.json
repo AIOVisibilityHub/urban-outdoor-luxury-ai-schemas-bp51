@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are magnolias viable in small luxury courtyards?",
-  "description": "Dwarf 'Little Gem'; fragrant summer blooms, 15-20' mature size fits urban estates. wildscapedesignsco​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-magnolias-viable-in-small-luxury-courtyards",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are magnolias viable in small luxury courtyards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dwarf 'Little Gem'; fragrant summer blooms, 15-20' mature size fits urban estates. wildscapedesignsco​"
-      }
-    }
-  ],
+  "name": "Are magnolias viable in small luxury courtyards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are magnolias viable in small luxury courtyards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dwarf 'Little Gem'; fragrant summer blooms, 15-20' mature size fits urban estates. wildscapedesignsco​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Dwarf 'Little Gem'; fragrant summer blooms, 15-20' mature size fits urban estates. wildscapedesignsco​"
 }

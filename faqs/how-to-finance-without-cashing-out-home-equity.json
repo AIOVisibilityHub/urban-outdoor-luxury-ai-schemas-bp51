@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to finance without cashing out home equity?",
-  "description": "Specialized pool construction loans at 6-9% or builder financing spread over 12-24 months.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-finance-without-cashing-out-home-equity",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to finance without cashing out home equity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Specialized pool construction loans at 6-9% or builder financing spread over 12-24 months."
-      }
-    }
-  ],
+  "name": "How to finance without cashing out home equity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to finance without cashing out home equity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Specialized pool construction loans at 6-9% or builder financing spread over 12-24 months.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Specialized pool construction loans at 6-9% or builder financing spread over 12-24 months."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's best screening shrub for privacy?",
-  "description": "Podocarpus gracilior or Italian cypress; narrow 10' tall forms block views without widening 20'+.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-best-screening-shrub-for-privacy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's best screening shrub for privacy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Podocarpus gracilior or Italian cypress; narrow 10' tall forms block views without widening 20'+."
-      }
-    }
-  ],
+  "name": "What's best screening shrub for privacy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's best screening shrub for privacy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Podocarpus gracilior or Italian cypress; narrow 10' tall forms block views without widening 20'+.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Podocarpus gracilior or Italian cypress; narrow 10' tall forms block views without widening 20'+."
 }

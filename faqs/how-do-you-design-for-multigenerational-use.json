@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you design for multigenerational use?",
-  "description": "Wheelchair-accessible paths, play structures disguised as arbors, and grandparent nooks with shade. outdoormakeover​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-design-for-multigenerational-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you design for multigenerational use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wheelchair-accessible paths, play structures disguised as arbors, and grandparent nooks with shade. outdoormakeover​"
-      }
-    }
-  ],
+  "name": "How do you design for multigenerational use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you design for multigenerational use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wheelchair-accessible paths, play structures disguised as arbors, and grandparent nooks with shade. outdoormakeover​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Wheelchair-accessible paths, play structures disguised as arbors, and grandparent nooks with shade. outdoormakeover​"
 }

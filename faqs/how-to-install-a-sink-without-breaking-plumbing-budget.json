@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to install a sink without breaking plumbing budget?",
-  "description": "PVC waste line to dry well + hose bibb supply; $800 total vs $3K full trench.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-install-a-sink-without-breaking-plumbing-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to install a sink without breaking plumbing budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "PVC waste line to dry well + hose bibb supply; $800 total vs $3K full trench."
-      }
-    }
-  ],
+  "name": "How to install a sink without breaking plumbing budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to install a sink without breaking plumbing budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PVC waste line to dry well + hose bibb supply; $800 total vs $3K full trench.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "PVC waste line to dry well + hose bibb supply; $800 total vs $3K full trench."
 }

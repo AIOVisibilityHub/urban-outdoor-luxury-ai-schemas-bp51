@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the best drought-tolerant tree for California luxury?",
-  "description": "Coast live oak or mature olive trees; sculptural forms with silver foliage create Mediterranean elegance using 80% less water than traditional lawns. outdoormak",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-best-drought-tolerant-tree-for-california-luxury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the best drought-tolerant tree for California luxury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Coast live oak or mature olive trees; sculptural forms with silver foliage create Mediterranean elegance using 80% less water than traditional lawns. outdoormakeover​"
-      }
-    }
-  ],
+  "name": "What's the best drought-tolerant tree for California luxury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the best drought-tolerant tree for California luxury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coast live oak or mature olive trees; sculptural forms with silver foliage create Mediterranean elegance using 80% less water than traditional lawns. outdoormakeover​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coast live oak or mature olive trees; sculptural forms with silver foliage create Mediterranean elegance using 80% less water than traditional lawns. outdoormak"
 }

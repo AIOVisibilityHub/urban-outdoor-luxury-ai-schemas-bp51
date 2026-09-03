@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's maintenance schedule for integrated spa systems?",
-  "description": "Weekly filter cleaning, monthly chemistry check, bi-annual pump service; $2K/year typical.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-maintenance-schedule-for-integrated-spa-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's maintenance schedule for integrated spa systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weekly filter cleaning, monthly chemistry check, bi-annual pump service; $2K/year typical."
-      }
-    }
-  ],
+  "name": "What's maintenance schedule for integrated spa systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's maintenance schedule for integrated spa systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weekly filter cleaning, monthly chemistry check, bi-annual pump service; $2K/year typical.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Weekly filter cleaning, monthly chemistry check, bi-annual pump service; $2K/year typical."
 }

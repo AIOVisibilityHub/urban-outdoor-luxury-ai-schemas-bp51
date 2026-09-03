@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I install a fire pit on a covered patio?",
-  "description": "No—requires 96\" vertical clearance to ceilings; open sky minimum for gas combustion safety.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-install-a-fire-pit-on-a-covered-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I install a fire pit on a covered patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No—requires 96\" vertical clearance to ceilings; open sky minimum for gas combustion safety."
-      }
-    }
-  ],
+  "name": "Can I install a fire pit on a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a fire pit on a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No—requires 96\" vertical clearance to ceilings; open sky minimum for gas combustion safety.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No—requires 96\" vertical clearance to ceilings; open sky minimum for gas combustion safety."
 }

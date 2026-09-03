@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can the pool double as a lap swim area?",
-  "description": "10'+ lap lanes with endless current pools or counter-current jets enable serious swimming.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-the-pool-double-as-a-lap-swim-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can the pool double as a lap swim area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "10'+ lap lanes with endless current pools or counter-current jets enable serious swimming."
-      }
-    }
-  ],
+  "name": "Can the pool double as a lap swim area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can the pool double as a lap swim area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "10'+ lap lanes with endless current pools or counter-current jets enable serious swimming.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "10'+ lap lanes with endless current pools or counter-current jets enable serious swimming."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do waterfalls require separate filtration systems?",
-  "description": "Yes—dedicated skimmer and 3/4HP booster pump prevent debris clogging; integrates with main pool circulation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-waterfalls-require-separate-filtration-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do waterfalls require separate filtration systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—dedicated skimmer and 3/4HP booster pump prevent debris clogging; integrates with main pool circulation."
-      }
-    }
-  ],
+  "name": "Do waterfalls require separate filtration systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do waterfalls require separate filtration systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—dedicated skimmer and 3/4HP booster pump prevent debris clogging; integrates with main pool circulation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—dedicated skimmer and 3/4HP booster pump prevent debris clogging; integrates with main pool circulation."
 }

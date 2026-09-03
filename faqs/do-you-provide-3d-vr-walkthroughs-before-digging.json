@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you provide 3D/VR walkthroughs before digging?",
-  "description": "Photorealistic 8K renders and VR tours let clients \"swim\" through day/night scenarios.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-provide-3d-vr-walkthroughs-before-digging",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you provide 3D/VR walkthroughs before digging?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photorealistic 8K renders and VR tours let clients \"swim\" through day/night scenarios."
-      }
-    }
-  ],
+  "name": "Do you provide 3D/VR walkthroughs before digging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide 3D/VR walkthroughs before digging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photorealistic 8K renders and VR tours let clients \"swim\" through day/night scenarios.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Photorealistic 8K renders and VR tours let clients \"swim\" through day/night scenarios."
 }

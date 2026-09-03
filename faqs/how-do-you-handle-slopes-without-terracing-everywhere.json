@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you handle slopes without terracing everywhere?",
-  "description": "Contoured bioswales, gabion basket walls, and massed groundcovers create natural cascades. trillinglandscape​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-handle-slopes-without-terracing-everywhere",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you handle slopes without terracing everywhere?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Contoured bioswales, gabion basket walls, and massed groundcovers create natural cascades. trillinglandscape​"
-      }
-    }
-  ],
+  "name": "How do you handle slopes without terracing everywhere?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle slopes without terracing everywhere?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contoured bioswales, gabion basket walls, and massed groundcovers create natural cascades. trillinglandscape​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Contoured bioswales, gabion basket walls, and massed groundcovers create natural cascades. trillinglandscape​"
 }

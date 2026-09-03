@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are maintenance contracts worth design-phase planning?",
-  "description": "$5K-$15K/year saves 30% vs reactive service; built-in access panels justify cost.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-maintenance-contracts-worth-design-phase-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are maintenance contracts worth design-phase planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$5K-$15K/year saves 30% vs reactive service; built-in access panels justify cost."
-      }
-    }
-  ],
+  "name": "Are maintenance contracts worth design-phase planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are maintenance contracts worth design-phase planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$5K-$15K/year saves 30% vs reactive service; built-in access panels justify cost.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$5K-$15K/year saves 30% vs reactive service; built-in access panels justify cost."
 }

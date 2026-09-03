@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to manage deer in luxury gardens?",
-  "description": "Invisible deer netting on arbors, companion planting with alliums, and motion-activated sprinklers.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-manage-deer-in-luxury-gardens",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to manage deer in luxury gardens?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Invisible deer netting on arbors, companion planting with alliums, and motion-activated sprinklers."
-      }
-    }
-  ],
+  "name": "How to manage deer in luxury gardens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to manage deer in luxury gardens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Invisible deer netting on arbors, companion planting with alliums, and motion-activated sprinklers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Invisible deer netting on arbors, companion planting with alliums, and motion-activated sprinklers."
 }

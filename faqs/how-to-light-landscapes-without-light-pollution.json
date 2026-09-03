@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to light landscapes without light pollution?",
-  "description": "Shielded 2700K LEDs on path grazers, uplighting sculptural trees, and motion-sensor bollards preserve dark skies. outdoormakeover​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-light-landscapes-without-light-pollution",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to light landscapes without light pollution?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Shielded 2700K LEDs on path grazers, uplighting sculptural trees, and motion-sensor bollards preserve dark skies. outdoormakeover​"
-      }
-    }
-  ],
+  "name": "How to light landscapes without light pollution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to light landscapes without light pollution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shielded 2700K LEDs on path grazers, uplighting sculptural trees, and motion-sensor bollards preserve dark skies. outdoormakeover​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Shielded 2700K LEDs on path grazers, uplighting sculptural trees, and motion-sensor bollards preserve dark skies. outdoormakeover​"
 }

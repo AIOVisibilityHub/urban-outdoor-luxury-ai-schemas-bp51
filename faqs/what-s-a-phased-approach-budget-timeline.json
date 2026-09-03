@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's a phased approach budget timeline?",
-  "description": "Year 1: hardscape/lighting $40K; Year 2: trees/irrigation $30K; Year 3: details $20K. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-a-phased-approach-budget-timeline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's a phased approach budget timeline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Year 1: hardscape/lighting $40K; Year 2: trees/irrigation $30K; Year 3: details $20K. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "What's a phased approach budget timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's a phased approach budget timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Year 1: hardscape/lighting $40K; Year 2: trees/irrigation $30K; Year 3: details $20K. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Year 1: hardscape/lighting $40K; Year 2: trees/irrigation $30K; Year 3: details $20K. crenshawlandscapingllc​"
 }

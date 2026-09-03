@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right materials and finishes for my custom luxury pool?",
+  "description": "Consider aesthetics, durability, and maintenance. Our design team guides you through premium options like various tiles, finishes, and coping materials to match",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-materials-and-finishes-for-my-custom-luxury-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right materials and finishes for my custom luxury pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right materials and finishes involves balancing aesthetics, durability, and maintenance. Consider materials that complement your home's architecture and existing landscape. Options include various types of tile (glass, ceramic, natural stone), exposed aggregate or pebble finishes for the interior, and different coping materials like precast concrete or natural stone. Our design team will present a curated selection of premium options, discussing their visual impact, longevity, slip resistance, and maintenance requirements to help you make informed decisions that align with your vision and budget.",
+        "description": "Consider aesthetics, durability, and maintenance. Our design team guides you through premium options like various tiles, finishes, and coping materials to match your vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

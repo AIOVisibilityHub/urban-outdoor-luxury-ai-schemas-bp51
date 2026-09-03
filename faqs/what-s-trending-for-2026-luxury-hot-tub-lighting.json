@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's trending for 2026 luxury hot tub lighting?",
-  "description": "RGB infinity mirrors, fiber optic flooring, and programmable \"aurora\" ceiling projections.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-trending-for-2026-luxury-hot-tub-lighting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's trending for 2026 luxury hot tub lighting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "RGB infinity mirrors, fiber optic flooring, and programmable \"aurora\" ceiling projections."
-      }
-    }
-  ],
+  "name": "What's trending for 2026 luxury hot tub lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's trending for 2026 luxury hot tub lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "RGB infinity mirrors, fiber optic flooring, and programmable \"aurora\" ceiling projections.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "RGB infinity mirrors, fiber optic flooring, and programmable \"aurora\" ceiling projections."
 }

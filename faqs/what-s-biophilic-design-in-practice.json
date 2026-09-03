@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's biophilic design in practice?",
-  "description": "Living walls framing great rooms, tree canopies over patios, and water walls adjacent to bedrooms. trillinglandscape​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-biophilic-design-in-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's biophilic design in practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Living walls framing great rooms, tree canopies over patios, and water walls adjacent to bedrooms. trillinglandscape​"
-      }
-    }
-  ],
+  "name": "What's biophilic design in practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's biophilic design in practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living walls framing great rooms, tree canopies over patios, and water walls adjacent to bedrooms. trillinglandscape​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Living walls framing great rooms, tree canopies over patios, and water walls adjacent to bedrooms. trillinglandscape​"
 }

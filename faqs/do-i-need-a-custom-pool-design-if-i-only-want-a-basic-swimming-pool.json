@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a custom pool design if I only want a basic swimming pool?",
+  "description": "A custom design isn't strictly necessary for basic pools, but it ensures optimal placement, integration, and avoids future issues.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-custom-pool-design-if-i-only-want-a-basic-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a custom pool design if I only want a basic swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a custom design offers unique personalization, it might not be strictly necessary for a very basic, standard-shaped pool without specific aesthetic or functional requirements. However, even for simpler pools, a custom design process ensures optimal placement, efficient use of space, proper drainage, and integration with your property, which can prevent costly issues later. It also allows for incorporating future-proof elements.",
+        "description": "A custom design isn't strictly necessary for basic pools, but it ensures optimal placement, integration, and avoids future issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

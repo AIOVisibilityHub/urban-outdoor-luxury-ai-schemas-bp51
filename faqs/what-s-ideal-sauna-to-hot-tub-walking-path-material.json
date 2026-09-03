@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's ideal sauna-to-hot tub walking path material?",
-  "description": "Heated travertine slabs with embedded snowmelt sensors for year-round barefoot comfort.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-ideal-sauna-to-hot-tub-walking-path-material",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's ideal sauna-to-hot tub walking path material?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Heated travertine slabs with embedded snowmelt sensors for year-round barefoot comfort."
-      }
-    }
-  ],
+  "name": "What's ideal sauna-to-hot tub walking path material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's ideal sauna-to-hot tub walking path material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heated travertine slabs with embedded snowmelt sensors for year-round barefoot comfort.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Heated travertine slabs with embedded snowmelt sensors for year-round barefoot comfort."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to integrate fire features safely?",
-  "description": "Gas fire bowls with auto-shutoff, flame-sensing wind controls, and proper pool distancing.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-integrate-fire-features-safely",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to integrate fire features safely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gas fire bowls with auto-shutoff, flame-sensing wind controls, and proper pool distancing."
-      }
-    }
-  ],
+  "name": "How to integrate fire features safely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to integrate fire features safely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas fire bowls with auto-shutoff, flame-sensing wind controls, and proper pool distancing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Gas fire bowls with auto-shutoff, flame-sensing wind controls, and proper pool distancing."
 }

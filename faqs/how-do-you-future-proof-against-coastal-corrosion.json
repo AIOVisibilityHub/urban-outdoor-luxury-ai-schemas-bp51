@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you future-proof against coastal corrosion?",
-  "description": "304 marine-grade stainless steel, powder-coated aluminum framing, and sealed cedar cabinetry resist salt air degradation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-future-proof-against-coastal-corrosion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you future-proof against coastal corrosion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "304 marine-grade stainless steel, powder-coated aluminum framing, and sealed cedar cabinetry resist salt air degradation."
-      }
-    }
-  ],
+  "name": "How do you future-proof against coastal corrosion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you future-proof against coastal corrosion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "304 marine-grade stainless steel, powder-coated aluminum framing, and sealed cedar cabinetry resist salt air degradation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "304 marine-grade stainless steel, powder-coated aluminum framing, and sealed cedar cabinetry resist salt air degradation."
 }

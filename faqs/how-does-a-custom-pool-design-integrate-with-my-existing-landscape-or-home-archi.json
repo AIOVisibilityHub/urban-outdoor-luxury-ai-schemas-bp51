@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a custom pool design integrate with my existing landscape or home architecture?",
+  "description": "Custom pool design integrates by considering topography, sun, views, and architectural style to create a cohesive outdoor living space.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-a-custom-pool-design-integrate-with-my-existing-landscape-or-home-archi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a custom pool design integrate with my existing landscape or home architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom pool design is crafted to seamlessly integrate with your existing landscape and home architecture. Our designers consider your property's topography, sun exposure, views, and current architectural style. We aim to create a cohesive outdoor living space where the pool complements and enhances the overall aesthetic, using complementary materials, lines, and scales to ensure the pool feels like an organic extension of your home and garden.",
+        "description": "Custom pool design integrates by considering topography, sun, views, and architectural style to create a cohesive outdoor living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

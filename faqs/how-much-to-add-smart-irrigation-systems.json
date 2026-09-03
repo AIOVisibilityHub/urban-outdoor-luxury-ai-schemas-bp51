@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much to add smart irrigation systems?",
-  "description": "$3-$7/sq ft installed; $15,000+ for full-property WiFi-controlled drip zones. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-to-add-smart-irrigation-systems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much to add smart irrigation systems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$3-$7/sq ft installed; $15,000+ for full-property WiFi-controlled drip zones. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "How much to add smart irrigation systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much to add smart irrigation systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$3-$7/sq ft installed; $15,000+ for full-property WiFi-controlled drip zones. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$3-$7/sq ft installed; $15,000+ for full-property WiFi-controlled drip zones. crenshawlandscapingllc​"
 }

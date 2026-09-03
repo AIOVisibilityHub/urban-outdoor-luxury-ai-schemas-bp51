@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much do retaining walls cost per linear foot?",
-  "description": "$50-$150/linear ft; segmental block $50, mortared stone $120+, engineered over 6' $200+. angi​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-do-retaining-walls-cost-per-linear-foot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much do retaining walls cost per linear foot?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$50-$150/linear ft; segmental block $50, mortared stone $120+, engineered over 6' $200+. angi​"
-      }
-    }
-  ],
+  "name": "How much do retaining walls cost per linear foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much do retaining walls cost per linear foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$50-$150/linear ft; segmental block $50, mortared stone $120+, engineered over 6' $200+. angi​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$50-$150/linear ft; segmental block $50, mortared stone $120+, engineered over 6' $200+. angi​"
 }

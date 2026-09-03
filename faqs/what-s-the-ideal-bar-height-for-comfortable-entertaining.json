@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ideal bar height for comfortable entertaining?",
-  "description": "42\" counters with 12-14\" overhangs; add $200 PVC foot rails for commercial feel.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-bar-height-for-comfortable-entertaining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ideal bar height for comfortable entertaining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "42\" counters with 12-14\" overhangs; add $200 PVC foot rails for commercial feel."
-      }
-    }
-  ],
+  "name": "What's the ideal bar height for comfortable entertaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ideal bar height for comfortable entertaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "42\" counters with 12-14\" overhangs; add $200 PVC foot rails for commercial feel.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "42\" counters with 12-14\" overhangs; add $200 PVC foot rails for commercial feel."
 }

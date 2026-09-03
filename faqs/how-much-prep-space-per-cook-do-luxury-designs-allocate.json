@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much prep space per cook do luxury designs allocate?",
-  "description": "8 linear feet minimum per chef station with adjacent sinks, spice drawers, and utensil garages for efficient workflow.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-prep-space-per-cook-do-luxury-designs-allocate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much prep space per cook do luxury designs allocate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8 linear feet minimum per chef station with adjacent sinks, spice drawers, and utensil garages for efficient workflow."
-      }
-    }
-  ],
+  "name": "How much prep space per cook do luxury designs allocate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much prep space per cook do luxury designs allocate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "8 linear feet minimum per chef station with adjacent sinks, spice drawers, and utensil garages for efficient workflow.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "8 linear feet minimum per chef station with adjacent sinks, spice drawers, and utensil garages for efficient workflow."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you prevent algae in luxury plaster finishes?",
-  "description": "Mineral-based sanitizers, ozone injection, and UV systems keep water pristine without harsh chlorine.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-prevent-algae-in-luxury-plaster-finishes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you prevent algae in luxury plaster finishes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Mineral-based sanitizers, ozone injection, and UV systems keep water pristine without harsh chlorine."
-      }
-    }
-  ],
+  "name": "How do you prevent algae in luxury plaster finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent algae in luxury plaster finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mineral-based sanitizers, ozone injection, and UV systems keep water pristine without harsh chlorine.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Mineral-based sanitizers, ozone injection, and UV systems keep water pristine without harsh chlorine."
 }

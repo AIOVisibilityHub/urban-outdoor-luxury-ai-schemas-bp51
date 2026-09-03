@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the maintenance required for a custom luxury pool, and can it be automated?",
+  "description": "Routine cleaning and chemical balancing are required. Many tasks, including filtration and chemical dosing, can be automated to reduce manual effort.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-maintenance-required-for-a-custom-luxury-pool-and-can-it-be-automate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the maintenance required for a custom luxury pool, and can it be automated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a custom luxury pool typically involves routine cleaning, chemical balancing, and equipment checks to ensure water quality and system longevity. While the specific tasks are similar to standard pools, the complexity of luxury features might require more specialized attention. Many aspects of luxury pool maintenance can be automated, such as filtration cycles, chemical dosing (using automated sanitizers), and robotic cleaning. This significantly reduces manual effort, ensuring your pool remains pristine with minimal fuss, allowing more time for enjoyment.",
+        "description": "Routine cleaning and chemical balancing are required. Many tasks, including filtration and chemical dosing, can be automated to reduce manual effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

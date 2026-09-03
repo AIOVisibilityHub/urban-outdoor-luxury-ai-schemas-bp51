@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much property value does a luxury pool add?",
-  "description": "7-15% ROI in high-end neighborhoods; custom designs appeal to luxury buyers over basic pools.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-property-value-does-a-luxury-pool-add",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much property value does a luxury pool add?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "7-15% ROI in high-end neighborhoods; custom designs appeal to luxury buyers over basic pools."
-      }
-    }
-  ],
+  "name": "How much property value does a luxury pool add?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much property value does a luxury pool add?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "7-15% ROI in high-end neighborhoods; custom designs appeal to luxury buyers over basic pools.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "7-15% ROI in high-end neighborhoods; custom designs appeal to luxury buyers over basic pools."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can saunas support live plant walls internally?",
-  "description": "Hydroponic moss walls with cedar-safe LED grow lights; humidity byproduct waters plants.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-saunas-support-live-plant-walls-internally",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can saunas support live plant walls internally?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hydroponic moss walls with cedar-safe LED grow lights; humidity byproduct waters plants."
-      }
-    }
-  ],
+  "name": "Can saunas support live plant walls internally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can saunas support live plant walls internally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydroponic moss walls with cedar-safe LED grow lights; humidity byproduct waters plants.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hydroponic moss walls with cedar-safe LED grow lights; humidity byproduct waters plants."
 }

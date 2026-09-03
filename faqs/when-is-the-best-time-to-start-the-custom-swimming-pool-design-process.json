@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start the custom swimming pool design process?",
+  "description": "The best time to start custom pool design is in the fall or winter, allowing ample time for planning and spring construction.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-start-the-custom-swimming-pool-design-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start the custom swimming pool design process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start the custom swimming pool design process is typically during the off-season, which is fall or winter. This allows ample time for thorough design, material selection, and obtaining necessary permits without feeling rushed. By initiating the design phase in cooler months, construction can often begin in early spring, aiming for completion and readiness to enjoy your new pool by the peak swimming season.",
+        "description": "The best time to start custom pool design is in the fall or winter, allowing ample time for planning and spring construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

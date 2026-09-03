@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does property value increase per design dollar?",
-  "description": "1.2-1.5x ROI in luxury markets; $100K landscape adds $150K assessed value. crenshawlandscapingllc​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-property-value-increase-per-design-dollar",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does property value increase per design dollar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1.2-1.5x ROI in luxury markets; $100K landscape adds $150K assessed value. crenshawlandscapingllc​"
-      }
-    }
-  ],
+  "name": "How much does property value increase per design dollar?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does property value increase per design dollar?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1.2-1.5x ROI in luxury markets; $100K landscape adds $150K assessed value. crenshawlandscapingllc​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1.2-1.5x ROI in luxury markets; $100K landscape adds $150K assessed value. crenshawlandscapingllc​"
 }

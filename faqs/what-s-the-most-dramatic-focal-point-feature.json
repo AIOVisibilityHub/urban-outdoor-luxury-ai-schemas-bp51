@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the most dramatic focal point feature?",
-  "description": "72\" live-edge waterfall island with integrated fire trough and backlit agate serving shelf.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-dramatic-focal-point-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the most dramatic focal point feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "72\" live-edge waterfall island with integrated fire trough and backlit agate serving shelf."
-      }
-    }
-  ],
+  "name": "What's the most dramatic focal point feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the most dramatic focal point feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "72\" live-edge waterfall island with integrated fire trough and backlit agate serving shelf.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "72\" live-edge waterfall island with integrated fire trough and backlit agate serving shelf."
 }

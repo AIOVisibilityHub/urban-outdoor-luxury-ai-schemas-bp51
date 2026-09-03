@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's best cedar grade for exterior sauna construction?",
-  "description": "Thermally-modified #1 Western Red Cedar; 50-year durability with natural insect resistance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-best-cedar-grade-for-exterior-sauna-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's best cedar grade for exterior sauna construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Thermally-modified #1 Western Red Cedar; 50-year durability with natural insect resistance."
-      }
-    }
-  ],
+  "name": "What's best cedar grade for exterior sauna construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's best cedar grade for exterior sauna construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thermally-modified #1 Western Red Cedar; 50-year durability with natural insect resistance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Thermally-modified #1 Western Red Cedar; 50-year durability with natural insect resistance."
 }

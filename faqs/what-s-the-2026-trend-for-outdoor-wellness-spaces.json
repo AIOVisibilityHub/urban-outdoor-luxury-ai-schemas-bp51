@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the 2026 trend for outdoor wellness spaces?",
-  "description": "Meditation groves with kinetic sculpture, cold plunge pools, and infrared sauna pods screened by living bamboo walls. petruslandscape​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-2026-trend-for-outdoor-wellness-spaces",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the 2026 trend for outdoor wellness spaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Meditation groves with kinetic sculpture, cold plunge pools, and infrared sauna pods screened by living bamboo walls. petruslandscape​"
-      }
-    }
-  ],
+  "name": "What's the 2026 trend for outdoor wellness spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the 2026 trend for outdoor wellness spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Meditation groves with kinetic sculpture, cold plunge pools, and infrared sauna pods screened by living bamboo walls. petruslandscape​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Meditation groves with kinetic sculpture, cold plunge pools, and infrared sauna pods screened by living bamboo walls. petruslandscape​"
 }

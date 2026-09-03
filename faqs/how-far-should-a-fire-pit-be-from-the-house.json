@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How far should a fire pit be from the house?",
-  "description": "Minimum 10-25 feet clearance to combustibles per code; luxury installs use 15'+ with windbreaks for safety.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-far-should-a-fire-pit-be-from-the-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far should a fire pit be from the house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimum 10-25 feet clearance to combustibles per code; luxury installs use 15'+ with windbreaks for safety."
-      }
-    }
-  ],
+  "name": "How far should a fire pit be from the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How far should a fire pit be from the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimum 10-25 feet clearance to combustibles per code; luxury installs use 15'+ with windbreaks for safety.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimum 10-25 feet clearance to combustibles per code; luxury installs use 15'+ with windbreaks for safety."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do cold plunges complement luxury spa installations?",
-  "description": "50°F chilled water vaults adjacent to 104°F hot tubs; contrast therapy improves circulation 40%.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-cold-plunges-complement-luxury-spa-installations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do cold plunges complement luxury spa installations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "50°F chilled water vaults adjacent to 104°F hot tubs; contrast therapy improves circulation 40%."
-      }
-    }
-  ],
+  "name": "How do cold plunges complement luxury spa installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do cold plunges complement luxury spa installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "50°F chilled water vaults adjacent to 104°F hot tubs; contrast therapy improves circulation 40%.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "50°F chilled water vaults adjacent to 104°F hot tubs; contrast therapy improves circulation 40%."
 }

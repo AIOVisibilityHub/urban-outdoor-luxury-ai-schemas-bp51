@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a new swimming pool installation?",
+  "description": "New pool installations generally require building, electrical, and plumbing permits. Additional permits for grading or fencing may also be needed. Our team hand",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-a-new-swimming-pool-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a new swimming pool installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing a new swimming pool typically requires several permits from local municipal authorities. These commonly include building permits, electrical permits, and plumbing permits to ensure the structure, wiring, and water systems meet safety and code standards. Depending on your property and the scope of work, additional permits for grading, fencing, or stormwater management may be necessary. Our team manages the entire permitting process on your behalf, ensuring all necessary approvals are secured before construction begins.",
+        "description": "New pool installations generally require building, electrical, and plumbing permits. Additional permits for grading or fencing may also be needed. Our team handles the entire permitting process for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

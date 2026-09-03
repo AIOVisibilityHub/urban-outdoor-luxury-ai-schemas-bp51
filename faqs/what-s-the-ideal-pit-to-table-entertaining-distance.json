@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ideal pit-to-table entertaining distance?",
-  "description": "8-10 feet allows conversation without heat blast; add swivel bar stools for flexible flow.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-pit-to-table-entertaining-distance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ideal pit-to-table entertaining distance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8-10 feet allows conversation without heat blast; add swivel bar stools for flexible flow."
-      }
-    }
-  ],
+  "name": "What's the ideal pit-to-table entertaining distance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ideal pit-to-table entertaining distance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "8-10 feet allows conversation without heat blast; add swivel bar stools for flexible flow.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "8-10 feet allows conversation without heat blast; add swivel bar stools for flexible flow."
 }

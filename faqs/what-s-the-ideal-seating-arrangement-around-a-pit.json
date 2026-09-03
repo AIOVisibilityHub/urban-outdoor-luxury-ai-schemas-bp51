@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ideal seating arrangement around a pit?",
-  "description": "8-10 feet diameter circle with 24-36\" wide chairs; 18-24\" pit height for comfortable leg elevation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ideal-seating-arrangement-around-a-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ideal seating arrangement around a pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8-10 feet diameter circle with 24-36\" wide chairs; 18-24\" pit height for comfortable leg elevation."
-      }
-    }
-  ],
+  "name": "What's the ideal seating arrangement around a pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ideal seating arrangement around a pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "8-10 feet diameter circle with 24-36\" wide chairs; 18-24\" pit height for comfortable leg elevation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "8-10 feet diameter circle with 24-36\" wide chairs; 18-24\" pit height for comfortable leg elevation."
 }

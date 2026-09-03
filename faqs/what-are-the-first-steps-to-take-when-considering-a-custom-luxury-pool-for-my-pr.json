@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps to take when considering a custom luxury pool for my property?",
+  "description": "Begin by envisioning your ideal pool and its use. Then, select a reputable luxury pool design firm for an initial consultation to discuss your vision and proper",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-first-steps-to-take-when-considering-a-custom-luxury-pool-for-my-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps to take when considering a custom luxury pool for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to define your vision and lifestyle needs. Consider how you intend to use the pool, your preferred aesthetic, and any specific features you desire. Next, research and select a reputable pool design and construction firm specializing in luxury projects in your area. Schedule an initial consultation to discuss your ideas, property assessment, and budget. This allows the designer to understand your requirements and begin developing preliminary concepts tailored to your unique outdoor space.",
+        "description": "Begin by envisioning your ideal pool and its use. Then, select a reputable luxury pool design firm for an initial consultation to discuss your vision and property specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you phase waterfall after pool completion?",
-  "description": "Yes—stubbed plumbing vaults allow Year 2 addition; $15K upgrade transforms basic pool.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-phase-waterfall-after-pool-completion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you phase waterfall after pool completion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—stubbed plumbing vaults allow Year 2 addition; $15K upgrade transforms basic pool."
-      }
-    }
-  ],
+  "name": "Can you phase waterfall after pool completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you phase waterfall after pool completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—stubbed plumbing vaults allow Year 2 addition; $15K upgrade transforms basic pool.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—stubbed plumbing vaults allow Year 2 addition; $15K upgrade transforms basic pool."
 }

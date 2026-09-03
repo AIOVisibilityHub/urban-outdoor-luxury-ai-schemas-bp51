@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's wrong with juniper in luxury designs?",
-  "description": "Overused 'blue star' varieties look dated; select 'Sea Green' or 'Wichita' for refined texture without sprawl. wildscapedesignsco​",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-wrong-with-juniper-in-luxury-designs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's wrong with juniper in luxury designs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Overused 'blue star' varieties look dated; select 'Sea Green' or 'Wichita' for refined texture without sprawl. wildscapedesignsco​"
-      }
-    }
-  ],
+  "name": "What's wrong with juniper in luxury designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's wrong with juniper in luxury designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Overused 'blue star' varieties look dated; select 'Sea Green' or 'Wichita' for refined texture without sprawl. wildscapedesignsco​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Overused 'blue star' varieties look dated; select 'Sea Green' or 'Wichita' for refined texture without sprawl. wildscapedesignsco​"
 }

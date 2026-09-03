@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's typical payment schedule during construction?",
-  "description": "Weekly draws tied to milestones; 10% retainage until punchlist completion and warranties.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-typical-payment-schedule-during-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's typical payment schedule during construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weekly draws tied to milestones; 10% retainage until punchlist completion and warranties."
-      }
-    }
-  ],
+  "name": "What's typical payment schedule during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's typical payment schedule during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weekly draws tied to milestones; 10% retainage until punchlist completion and warranties.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Weekly draws tied to milestones; 10% retainage until punchlist completion and warranties."
 }

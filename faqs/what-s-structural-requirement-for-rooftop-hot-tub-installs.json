@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's structural requirement for rooftop hot tub installs?",
-  "description": "150lbs/sq ft live load capacity; reinforced steel tubs reduce weight 40% versus acrylic.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-structural-requirement-for-rooftop-hot-tub-installs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's structural requirement for rooftop hot tub installs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "150lbs/sq ft live load capacity; reinforced steel tubs reduce weight 40% versus acrylic."
-      }
-    }
-  ],
+  "name": "What's structural requirement for rooftop hot tub installs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's structural requirement for rooftop hot tub installs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "150lbs/sq ft live load capacity; reinforced steel tubs reduce weight 40% versus acrylic.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "150lbs/sq ft live load capacity; reinforced steel tubs reduce weight 40% versus acrylic."
 }

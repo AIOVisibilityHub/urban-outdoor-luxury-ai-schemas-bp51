@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the most realistic \"natural\" stone for luxury?",
-  "description": "Mossy stacked Oklahoma flagstone or Himalayan ledge; avoid uniform machine-cut for organic texture.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-most-realistic-natural-stone-for-luxury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the most realistic \"natural\" stone for luxury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Mossy stacked Oklahoma flagstone or Himalayan ledge; avoid uniform machine-cut for organic texture."
-      }
-    }
-  ],
+  "name": "What's the most realistic \"natural\" stone for luxury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the most realistic \"natural\" stone for luxury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mossy stacked Oklahoma flagstone or Himalayan ledge; avoid uniform machine-cut for organic texture.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Mossy stacked Oklahoma flagstone or Himalayan ledge; avoid uniform machine-cut for organic texture."
 }

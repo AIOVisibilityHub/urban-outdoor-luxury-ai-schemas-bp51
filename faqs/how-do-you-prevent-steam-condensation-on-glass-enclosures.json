@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you prevent steam condensation on glass enclosures?",
-  "description": "frameless glass with heating elements and microchannel gutters direct moisture to drains.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-prevent-steam-condensation-on-glass-enclosures",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you prevent steam condensation on glass enclosures?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "frameless glass with heating elements and microchannel gutters direct moisture to drains."
-      }
-    }
-  ],
+  "name": "How do you prevent steam condensation on glass enclosures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent steam condensation on glass enclosures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "frameless glass with heating elements and microchannel gutters direct moisture to drains.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "frameless glass with heating elements and microchannel gutters direct moisture to drains."
 }

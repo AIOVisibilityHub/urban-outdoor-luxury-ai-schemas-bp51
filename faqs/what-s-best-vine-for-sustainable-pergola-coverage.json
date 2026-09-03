@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's best vine for sustainable pergola coverage?",
-  "description": "Native trumpet vine or honeysuckle; fast-growing, hummingbird-attracting, no structural weight issues.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-best-vine-for-sustainable-pergola-coverage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's best vine for sustainable pergola coverage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Native trumpet vine or honeysuckle; fast-growing, hummingbird-attracting, no structural weight issues."
-      }
-    }
-  ],
+  "name": "What's best vine for sustainable pergola coverage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's best vine for sustainable pergola coverage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Native trumpet vine or honeysuckle; fast-growing, hummingbird-attracting, no structural weight issues.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Native trumpet vine or honeysuckle; fast-growing, hummingbird-attracting, no structural weight issues."
 }

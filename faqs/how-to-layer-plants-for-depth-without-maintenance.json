@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to layer plants for depth without maintenance?",
-  "description": "Tall ceanothus backdrop, mid salvia, foreground sedum; self-stratifying, no pruning needed.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-layer-plants-for-depth-without-maintenance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to layer plants for depth without maintenance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tall ceanothus backdrop, mid salvia, foreground sedum; self-stratifying, no pruning needed."
-      }
-    }
-  ],
+  "name": "How to layer plants for depth without maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to layer plants for depth without maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tall ceanothus backdrop, mid salvia, foreground sedum; self-stratifying, no pruning needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Tall ceanothus backdrop, mid salvia, foreground sedum; self-stratifying, no pruning needed."
 }

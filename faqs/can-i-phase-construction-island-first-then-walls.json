@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I phase construction—island first, then walls?",
-  "description": "Yes, start with grill/sink island ($8K); add bar/refrigeration Year 2 ($5K).",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-phase-construction-island-first-then-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I phase construction—island first, then walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, start with grill/sink island ($8K); add bar/refrigeration Year 2 ($5K)."
-      }
-    }
-  ],
+  "name": "Can I phase construction—island first, then walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I phase construction—island first, then walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, start with grill/sink island ($8K); add bar/refrigeration Year 2 ($5K).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, start with grill/sink island ($8K); add bar/refrigeration Year 2 ($5K)."
 }

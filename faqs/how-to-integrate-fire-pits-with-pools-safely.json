@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to integrate fire pits with pools safely?",
-  "description": "10' minimum separation, auto-shutoff moisture sensors, non-combustible surrounds mandatory.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-to-integrate-fire-pits-with-pools-safely",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to integrate fire pits with pools safely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "10' minimum separation, auto-shutoff moisture sensors, non-combustible surrounds mandatory."
-      }
-    }
-  ],
+  "name": "How to integrate fire pits with pools safely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to integrate fire pits with pools safely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "10' minimum separation, auto-shutoff moisture sensors, non-combustible surrounds mandatory.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "10' minimum separation, auto-shutoff moisture sensors, non-combustible surrounds mandatory."
 }

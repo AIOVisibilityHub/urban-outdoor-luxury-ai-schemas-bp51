@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's minimum pool deck clearance around hot tubs?",
-  "description": "5' perimeter walkways, 10% slope drainage; non-slip porcelain pavers matching interior floors.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-minimum-pool-deck-clearance-around-hot-tubs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's minimum pool deck clearance around hot tubs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "5' perimeter walkways, 10% slope drainage; non-slip porcelain pavers matching interior floors."
-      }
-    }
-  ],
+  "name": "What's minimum pool deck clearance around hot tubs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's minimum pool deck clearance around hot tubs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "5' perimeter walkways, 10% slope drainage; non-slip porcelain pavers matching interior floors.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "5' perimeter walkways, 10% slope drainage; non-slip porcelain pavers matching interior floors."
 }

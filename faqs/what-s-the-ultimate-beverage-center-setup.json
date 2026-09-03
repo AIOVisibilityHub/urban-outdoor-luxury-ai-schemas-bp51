@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ultimate beverage center setup?",
-  "description": "24\" undercounter wine captain + kegerator + cocktail station with crushed ice maker and soda stream.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-ultimate-beverage-center-setup",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ultimate beverage center setup?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "24\" undercounter wine captain + kegerator + cocktail station with crushed ice maker and soda stream."
-      }
-    }
-  ],
+  "name": "What's the ultimate beverage center setup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ultimate beverage center setup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "24\" undercounter wine captain + kegerator + cocktail station with crushed ice maker and soda stream.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "24\" undercounter wine captain + kegerator + cocktail station with crushed ice maker and soda stream."
 }
