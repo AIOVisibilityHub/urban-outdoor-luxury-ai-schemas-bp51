@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are seating walls comfortable without cushions?",
+  "description": "Comfort without cushions depends on the material and finish; smooth surfaces are better. Cushions are often recommended for extended use.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-seating-walls-comfortable-without-cushions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are seating walls comfortable without cushions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a well-designed seating wall provides sturdy and ample seating, the comfort level without cushions depends on the material and finish. Smooth, even surfaces like polished concrete or stucco are generally more comfortable than rough-hewn stone or brick. For extended lounging, cushions are often recommended to enhance comfort and can also add a decorative touch. We can design walls with optimal seating heights and depths to maximize comfort, whether cushions are used or not.",
+        "description": "Comfort without cushions depends on the material and finish; smooth surfaces are better. Cushions are often recommended for extended use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

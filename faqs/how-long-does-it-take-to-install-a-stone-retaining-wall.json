@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install a stone retaining wall?",
+  "description": "Installation time varies based on wall size, complexity, and site conditions, typically ranging from a few days for small walls to several weeks for larger proj",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-stone-retaining-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install a stone retaining wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation timeline for a stone retaining wall depends on its size, complexity, and site conditions. A smaller, straightforward wall might take a few days to a week. Larger or more intricate projects, especially those requiring extensive excavation or specialized drainage, could take several weeks. Weather conditions can also impact the schedule. We establish a clear project timeline during the planning phase and keep you informed of progress throughout the installation process.",
+        "description": "Installation time varies based on wall size, complexity, and site conditions, typically ranging from a few days for small walls to several weeks for larger projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

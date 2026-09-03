@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom retaining wall and a standard retaining wall?",
+  "description": "A custom retaining wall is uniquely designed with bespoke materials and features to integrate with your property's style, unlike standard walls which are more f",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-custom-retaining-wall-and-a-standard-retaining",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom retaining wall and a standard retaining wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in design, materials, and integration. A standard retaining wall typically uses pre-fabricated blocks or a basic design for a functional purpose, often with limited aesthetic consideration. A custom retaining wall, on the other hand, is individually designed to complement your property's specific topography, architectural style, and aesthetic preferences. It involves a bespoke selection of materials, finishes, and features to create a unique and highly integrated landscape element, often requiring more detailed engineering and craftsmanship to achieve a distinctive look while fulfilling its structural role effectively.",
+        "description": "A custom retaining wall is uniquely designed with bespoke materials and features to integrate with your property's style, unlike standard walls which are more functional and basic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

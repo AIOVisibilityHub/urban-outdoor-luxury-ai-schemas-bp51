@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a typical landscape design service?",
+  "description": "A typical landscape design service includes consultation, conceptual designs, material selection, planting plans, irrigation, and lighting schemes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-included-in-a-typical-landscape-design-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a typical landscape design service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive landscape design service typically includes an initial consultation to understand your vision and assess the site. This is followed by conceptual designs, material selection, planting plans, irrigation layouts, and lighting schemes. The process ensures all elements, from hardscaping to softscaping, are planned cohesively to create a functional and aesthetically pleasing outdoor space tailored to your property and lifestyle.",
+        "description": "A typical landscape design service includes consultation, conceptual designs, material selection, planting plans, irrigation, and lighting schemes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

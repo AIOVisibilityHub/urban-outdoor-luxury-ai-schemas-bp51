@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of professional landscape design and installation?",
+  "description": "Professional landscaping enhances property value, creates functional outdoor spaces, ensures proper drainage, and reduces maintenance, all while avoiding costly",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-professional-landscape-design-and-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of professional landscape design and installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional landscape design and installation offers numerous benefits beyond curb appeal. It ensures efficient use of space, proper drainage, and sustainable plant choices adapted to the local climate. Experts can integrate complex elements like outdoor lighting, irrigation, and hardscaping for functionality and longevity. A well-designed landscape can increase property value, reduce maintenance needs, create inviting outdoor living spaces, and enhance environmental sustainability. It avoids costly mistakes and ensures a cohesive, high-quality result.",
+        "description": "Professional landscaping enhances property value, creates functional outdoor spaces, ensures proper drainage, and reduces maintenance, all while avoiding costly mistakes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a planting design service and a full landscape design?",
+  "description": "Planting design focuses on plants only, while full landscape design includes hardscaping, lighting, irrigation, and structures for the entire outdoor space.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-planting-design-service-and-a-full-landscape-de",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a planting design service and a full landscape design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A planting design service focuses specifically on the selection, arrangement, and installation of plants within an existing or newly defined garden space. It addresses plant types, color schemes, textures, and seasonal interest. In contrast, a full landscape design encompasses the entire outdoor environment. This includes hardscaping elements like patios, walkways, retaining walls, lighting, irrigation systems, and structures such as pergolas, in addition to the planting design. A full landscape design provides a comprehensive master plan for your entire outdoor living area.",
+        "description": "Planting design focuses on plants only, while full landscape design includes hardscaping, lighting, irrigation, and structures for the entire outdoor space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

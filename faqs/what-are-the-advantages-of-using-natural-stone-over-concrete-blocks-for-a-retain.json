@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of using natural stone over concrete blocks for a retaining wall?",
+  "description": "Natural stone provides a unique, timeless aesthetic, superior durability, and can increase property value, unlike the more uniform appearance of concrete blocks",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-using-natural-stone-over-concrete-blocks-for-a-retain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of using natural stone over concrete blocks for a retaining wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone offers unique aesthetic qualities, providing a timeless, organic look that integrates beautifully with the landscape. Each stone is distinct, offering variations in color and texture that cannot be replicated by manufactured blocks. While concrete blocks can be cost-effective and offer uniform appearance, natural stone often boasts greater longevity and resistance to weathering, appreciating in value over time. It can also be more environmentally friendly depending on sourcing.",
+        "description": "Natural stone provides a unique, timeless aesthetic, superior durability, and can increase property value, unlike the more uniform appearance of concrete blocks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

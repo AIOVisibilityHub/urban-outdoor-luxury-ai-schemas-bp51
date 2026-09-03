@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does professional landscape installation cost in the Los Angeles area?",
+  "description": "Costs vary widely based on project size, materials, and complexity. Basic designs start at a few thousand, while luxury installations can be much higher.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-professional-landscape-installation-cost-in-the-los-angeles-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does professional landscape installation cost in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional landscape installation in the Los Angeles area varies significantly based on project size, complexity, materials chosen, and scope of work. Factors include hardscaping elements like patios and retaining walls, irrigation systems, plant selection, and any specialized features such as outdoor kitchens or lighting. A basic design might start from a few thousand dollars, while extensive, custom luxury installations can range from tens to hundreds of thousands. We provide detailed, itemized quotes after an initial consultation and design phase.",
+        "description": "Costs vary widely based on project size, materials, and complexity. Basic designs start at a few thousand, while luxury installations can be much higher."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

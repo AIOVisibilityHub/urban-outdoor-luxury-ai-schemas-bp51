@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is water-wise landscape design?",
+  "description": "Water-wise landscape design is a landscaping approach that minimizes irrigation needs by using drought-tolerant plants and efficient watering methods. It aims t",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-water-wise-landscape-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is water-wise landscape design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water-wise landscape design, also known as xeriscaping or drought-tolerant landscaping, is an approach that minimizes the need for supplemental irrigation. It focuses on selecting native and adapted plants that thrive in the local climate, optimizing soil health to retain moisture, and employing efficient irrigation methods. The goal is to create beautiful and functional outdoor spaces that conserve water, reduce maintenance, and are resilient to dry conditions. This approach supports environmental sustainability while enhancing property value.",
+        "description": "Water-wise landscape design is a landscaping approach that minimizes irrigation needs by using drought-tolerant plants and efficient watering methods. It aims to conserve water and reduce maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

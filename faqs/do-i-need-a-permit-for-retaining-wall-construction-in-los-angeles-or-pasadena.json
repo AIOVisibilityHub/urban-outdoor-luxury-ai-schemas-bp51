@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for retaining wall construction in Los Angeles or Pasadena?",
+  "description": "Yes, permits are often required for retaining walls over a certain height in Los Angeles and Pasadena. We manage the permitting process for you.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-retaining-wall-construction-in-los-angeles-or-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for retaining wall construction in Los Angeles or Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, permits are typically required for retaining wall construction in most municipalities, including Los Angeles and Pasadena, especially if the wall exceeds a certain height (often 3 or 4 feet, depending on the jurisdiction) or if it's supporting a structure or significant soil load. Local building codes also dictate specific requirements for design, materials, and setbacks. Our team is experienced in navigating the permitting process in these areas. We will assess your project to determine specific permit needs and help ensure all construction adheres to local regulations, preventing potential issues during or after the build.",
+        "description": "Yes, permits are often required for retaining walls over a certain height in Los Angeles and Pasadena. We manage the permitting process for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

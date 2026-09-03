@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a stone walkway increase my property value?",
+  "description": "Yes, a well-installed stone walkway enhances curb appeal, provides functionality, and can increase property value due to its durability and aesthetic appeal.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/will-a-stone-walkway-increase-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a stone walkway increase my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing a high-quality stone walkway can significantly enhance a property's curb appeal and contribute to its overall value. An attractive and well-designed walkway creates a positive first impression, offering both aesthetic beauty and practical functionality. Potential buyers often appreciate durable, low-maintenance outdoor features that add to the home's character and provide a clear, inviting path. The long-lasting nature of stone and its timeless appeal make it a desirable upgrade that can yield a good return on investment, particularly in competitive real estate markets like Pasadena and surrounding areas.",
+        "description": "Yes, a well-installed stone walkway enhances curb appeal, provides functionality, and can increase property value due to its durability and aesthetic appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I maintain a natural stone patio?",
+  "description": "Maintain a natural stone patio with regular sweeping, cleaning with pH-neutral stone cleaner, and occasional resealing (every 1-3 years) to protect against stai",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-maintain-a-natural-stone-patio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I maintain a natural stone patio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a natural stone patio primarily involves regular cleaning and occasional sealing. Sweep or blow leaves and debris regularly to prevent staining. For general cleaning, use a mild, pH-neutral stone cleaner with water and a stiff brush, then rinse thoroughly. Avoid harsh chemicals or pressure washing, which can damage the stone or mortar. Depending on the stone type and exposure, resealing every 1-3 years helps protect against stains and weather, enhancing its longevity and appearance.",
+        "description": "Maintain a natural stone patio with regular sweeping, cleaning with pH-neutral stone cleaner, and occasional resealing (every 1-3 years) to protect against stains and wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

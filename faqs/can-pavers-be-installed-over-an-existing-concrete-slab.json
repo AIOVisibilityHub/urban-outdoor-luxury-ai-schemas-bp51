@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can pavers be installed over an existing concrete slab?",
+  "description": "While possible, installing pavers over an existing concrete slab is not ideal. A proper new base is recommended for better durability and stability.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-pavers-be-installed-over-an-existing-concrete-slab",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can pavers be installed over an existing concrete slab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it is technically possible to install pavers over an existing concrete slab, it is generally not the recommended best practice for long-term durability and stability. The existing slab must be in excellent condition, without cracks or significant settling, and provide proper drainage. Our preferred method involves removing the old slab and preparing a new, proper base layer to ensure optimal stability and longevity for your paver system. This approach guarantees a robust foundation and avoids potential issues stemming from the old surface.",
+        "description": "While possible, installing pavers over an existing concrete slab is not ideal. A proper new base is recommended for better durability and stability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

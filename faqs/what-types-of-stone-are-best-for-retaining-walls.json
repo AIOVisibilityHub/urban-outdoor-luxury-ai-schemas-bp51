@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of stone are best for retaining walls?",
+  "description": "Granite, limestone, sandstone, and fieldstone are popular choices for retaining walls due to their durability and aesthetic appeal, varying in texture and color",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-stone-are-best-for-retaining-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of stone are best for retaining walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best stone types for retaining walls combine durability with aesthetic appeal. Common choices include granite, limestone, sandstone, and various types of fieldstone or quarried stone. Each offers distinct textures, colors, and structural properties. Granite is exceptionally strong, while limestone and sandstone provide natural, earthy tones. The choice often depends on the desired look, the wall's structural demands, and the surrounding landscape design. We can advise on suitable options during your consultation.",
+        "description": "Granite, limestone, sandstone, and fieldstone are popular choices for retaining walls due to their durability and aesthetic appeal, varying in texture and color."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

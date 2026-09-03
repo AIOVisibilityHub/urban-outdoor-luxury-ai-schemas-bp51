@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between different stone types for outdoor stairs?",
+  "description": "Consider durability, aesthetic, slip resistance, and maintenance when choosing stone for outdoor stairs. Factors like home style and traffic also play a role.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-between-different-stone-types-for-outdoor-stairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between different stone types for outdoor stairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right stone involves considering durability, aesthetic, slip resistance, and maintenance. For heavy use, granite offers unmatched hardness. For a rustic look, flagstone's irregular shapes and textured surface are ideal, also providing good grip. Bluestone delivers a sophisticated blue-gray tone and consistent quality. Travertine is beautiful but more porous, requiring regular sealing. Consider your home's architectural style, the surrounding landscape, and the amount of foot traffic. Discussing these factors with a professional helps in selecting a stone that meets both your functional requirements and design preferences, ensuring long-term satisfaction.",
+        "description": "Consider durability, aesthetic, slip resistance, and maintenance when choosing stone for outdoor stairs. Factors like home style and traffic also play a role."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

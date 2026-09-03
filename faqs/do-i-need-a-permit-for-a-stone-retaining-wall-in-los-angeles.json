@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a stone retaining wall in Los Angeles?",
+  "description": "A permit is usually required for retaining walls over three feet in height in Los Angeles. Consult the LADBS or your city planning department for specific requi",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-for-a-stone-retaining-wall-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a stone retaining wall in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, a building permit is typically required for retaining walls over three feet in height, measured from the bottom of the footing to the top of the wall, or if the wall supports a surcharge or impounds flammable liquids. It is crucial to consult with the Los Angeles Department of Building and Safety (LADBS) or your local city planning department for specific requirements. Our team can assist in navigating the permit application process to ensure compliance.",
+        "description": "A permit is usually required for retaining walls over three feet in height in Los Angeles. Consult the LADBS or your city planning department for specific requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

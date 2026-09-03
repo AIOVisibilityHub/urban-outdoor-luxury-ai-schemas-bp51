@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drought-tolerant landscape design?",
+  "description": "Drought-tolerant landscape design creates beautiful outdoor spaces with minimal irrigation by using water-wise plants and efficient watering systems.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-drought-tolerant-landscape-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drought-tolerant landscape design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drought-tolerant landscape design focuses on creating beautiful and functional outdoor spaces that require minimal irrigation. It involves selecting plants native to arid regions or adapted to low water conditions, incorporating efficient irrigation systems like drip lines, and utilizing soil amendments to improve water retention. The goal is to reduce water consumption while maintaining a vibrant and aesthetically pleasing landscape, particularly beneficial in regions like Southern California with water restrictions.",
+        "description": "Drought-tolerant landscape design creates beautiful outdoor spaces with minimal irrigation by using water-wise plants and efficient watering systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install a new landscape in Pasadena?",
+  "description": "Fall (September-November) or early spring (February-April) are ideal for landscape installation in Pasadena, allowing plants to establish in cooler weather.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-a-new-landscape-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install a new landscape in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to install a new landscape in Pasadena and throughout Southern California is typically during the fall (September to November) or early spring (February to April). Fall planting allows roots to establish during the cooler, wetter months before the stress of summer heat. Early spring planting also gives plants a good start before the hottest weather arrives. While installation can occur year-round, avoiding extreme summer heat or winter cold can significantly benefit plant establishment and overall project success.",
+        "description": "Fall (September-November) or early spring (February-April) are ideal for landscape installation in Pasadena, allowing plants to establish in cooler weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

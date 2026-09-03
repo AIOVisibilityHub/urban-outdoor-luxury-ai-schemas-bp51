@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a cabana and a gazebo or pergola?",
+  "description": "Cabanas have solid roofs and often walls for privacy and protection; gazebos have solid roofs but open sides; pergolas have open, slatted roofs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-difference-between-a-cabana-and-a-gazebo-or-pergola",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a cabana and a gazebo or pergola?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While all are outdoor structures, a cabana typically features a solid roof and often includes at least one or more solid walls, providing greater privacy, shade, and protection from the elements. They can be fully enclosed and include amenities like electricity or plumbing. Gazebos usually have a solid roof but are open-sided with railings, offering shade and a decorative focal point. Pergolas feature an open, slatted roof designed to support climbing plants, providing partial shade and an architectural element, but less weather protection than a cabana.",
+        "description": "Cabanas have solid roofs and often walls for privacy and protection; gazebos have solid roofs but open sides; pergolas have open, slatted roofs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

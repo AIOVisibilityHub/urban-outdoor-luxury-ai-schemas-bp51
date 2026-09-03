@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost per square foot for stone patio installation in Los Angeles?",
+  "description": "Stone patio installation in Los Angeles generally costs $20-$50+ per square foot. Price varies based on stone type, design complexity, and site preparation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-average-cost-per-square-foot-for-stone-patio-installation-in-los-ang",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost per square foot for stone patio installation in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost per square foot for stone patio installation in the Los Angeles area typically ranges from $20 to $50 or more, depending on several factors. These include the type of natural stone (e.g., flagstone, travertine, granite), the complexity of the design, site preparation requirements, accessibility, and additional features like retaining walls or intricate borders. Premium stones and complex layouts will be at the higher end of this range. We provide a detailed, personalized quote after a consultation.",
+        "description": "Stone patio installation in Los Angeles generally costs $20-$50+ per square foot. Price varies based on stone type, design complexity, and site preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

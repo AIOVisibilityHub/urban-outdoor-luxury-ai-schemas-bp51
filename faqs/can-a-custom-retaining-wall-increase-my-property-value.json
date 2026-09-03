@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a custom retaining wall increase my property value?",
+  "description": "Yes, a professionally built custom retaining wall can increase property value by enhancing curb appeal, creating usable land, and providing structural stability",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-custom-retaining-wall-increase-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a custom retaining wall increase my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a professionally designed and constructed custom retaining wall can significantly enhance your property value. Beyond its essential functional benefits like erosion control and creating usable land, a well-integrated retaining wall contributes to overall curb appeal and landscape aesthetics. It can define outdoor living spaces, create terraced gardens, and provide structural stability, all of which are attractive features to potential buyers. The investment in a high-quality, custom-built wall demonstrates attention to detail and improves both the beauty and utility of your outdoor environment.",
+        "description": "Yes, a professionally built custom retaining wall can increase property value by enhancing curb appeal, creating usable land, and providing structural stability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a custom cabana in Los Angeles?",
+  "description": "Cabana costs vary based on size, materials, and features, typically ranging from $25,000 to over $100,000. We provide detailed, itemized estimates.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-build-a-custom-cabana-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a custom cabana in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom cabana in Los Angeles varies significantly based on size, materials, features (e.g., built-in kitchens, entertainment systems, specialized lighting), and site conditions. A basic cabana might start around $25,000, while a luxurious, fully-equipped structure can exceed $100,000. During our initial consultation, we discuss your budget and design preferences to provide a detailed, itemized estimate. This ensures transparency and helps you make informed decisions about your investment.",
+        "description": "Cabana costs vary based on size, materials, and features, typically ranging from $25,000 to over $100,000. We provide detailed, itemized estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

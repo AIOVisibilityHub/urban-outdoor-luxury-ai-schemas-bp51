@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right type of stone for my outdoor project in Los Angeles?",
+  "description": "Consider aesthetics, durability, and climate suitability. Options like flagstone, granite, or limestone are popular for Los Angeles outdoor projects depending o",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-type-of-stone-for-my-outdoor-project-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right type of stone for my outdoor project in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right stone involves considering aesthetics, durability, and local climate suitability. For outdoor projects in Los Angeles, you'll want stones that can withstand temperature fluctuations and direct sun exposure. Consider natural stone options like flagstone for rustic patios, granite for durable countertops, or limestone for a classic, elegant look. We recommend visiting our showroom or reviewing samples to see how different textures and colors complement your home's architecture and your desired outdoor ambiance. We'll guide you through options based on your specific needs.",
+        "description": "Consider aesthetics, durability, and climate suitability. Options like flagstone, granite, or limestone are popular for Los Angeles outdoor projects depending on desired look and function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a landscape installation project usually take?",
+  "description": "Project duration varies by scope; small projects take days to a week, while larger ones can take weeks to months. Weather and permits also affect the timeline.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-landscape-installation-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a landscape installation project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a landscape installation project depends on its scope and complexity. Small projects, such as planting a new garden bed or installing a simple pathway, might take a few days to a week. Larger, more complex installations involving extensive hardscaping, irrigation systems, and multiple design elements can take several weeks to a few months. Factors like weather, material availability, and permit processing times can also influence the timeline. We provide an estimated project schedule during the planning phase.",
+        "description": "Project duration varies by scope; small projects take days to a week, while larger ones can take weeks to months. Weather and permits also affect the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

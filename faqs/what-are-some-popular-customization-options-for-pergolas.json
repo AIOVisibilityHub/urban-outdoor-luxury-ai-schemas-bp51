@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some popular customization options for pergolas?",
+  "description": "Popular pergola customization options include retractable shades, integrated lighting, ceiling fans, privacy screens, built-in seating, planters, and unique mat",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-some-popular-customization-options-for-pergolas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some popular customization options for pergolas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pergolas offer extensive customization to suit various preferences and needs. Popular options include integrating retractable canopies or louvers for adjustable shade, adding outdoor lighting for evening ambiance, installing ceiling fans for comfort, or incorporating privacy screens for seclusion. Other enhancements include built-in seating, planters, or even misters for cooling. Material finishes, post caps, and decorative elements also allow for unique personalization, transforming a standard structure into a bespoke outdoor feature.",
+        "description": "Popular pergola customization options include retractable shades, integrated lighting, ceiling fans, privacy screens, built-in seating, planters, and unique material finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

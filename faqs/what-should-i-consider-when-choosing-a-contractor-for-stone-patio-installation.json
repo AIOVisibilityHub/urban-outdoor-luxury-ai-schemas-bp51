@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing a contractor for stone patio installation?",
+  "description": "Choose a contractor with experience in natural stone, a C-27 license, and insurance. Review their portfolio, get detailed quotes, and ensure clear communication",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-consider-when-choosing-a-contractor-for-stone-patio-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing a contractor for stone patio installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for stone patio installation, prioritize experience, reputation, and proper licensing. Look for contractors specializing in natural stone, with a portfolio of completed projects. Verify their C-27 Landscape Contractor's license (or relevant general contractor license) and ensure they are insured. Obtain multiple quotes, ensuring each includes a detailed breakdown of costs, materials, and a project timeline. Communication and a clear understanding of your vision are also crucial for a successful partnership.",
+        "description": "Choose a contractor with experience in natural stone, a C-27 license, and insurance. Review their portfolio, get detailed quotes, and ensure clear communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

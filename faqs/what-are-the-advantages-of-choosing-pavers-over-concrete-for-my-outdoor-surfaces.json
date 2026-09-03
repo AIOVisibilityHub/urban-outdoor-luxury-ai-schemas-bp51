@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of choosing pavers over concrete for my outdoor surfaces?",
+  "description": "Pavers offer greater durability, flexibility, and design options than concrete, with easier repairs and enhanced aesthetics.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-choosing-pavers-over-concrete-for-my-outdoor-surfaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of choosing pavers over concrete for my outdoor surfaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pavers offer superior durability, flexibility, and aesthetic versatility compared to poured concrete. Their interlocking system allows for slight movement without cracking, making them ideal for areas subject to ground shifting. Should a paver become damaged, individual units can be replaced without disturbing the entire surface, simplifying repairs. Additionally, pavers come in a vast array of colors, shapes, and textures, enabling custom designs that enhance property value and curb appeal more effectively than standard concrete.",
+        "description": "Pavers offer greater durability, flexibility, and design options than concrete, with easier repairs and enhanced aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

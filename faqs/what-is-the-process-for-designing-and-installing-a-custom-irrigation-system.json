@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing a custom irrigation system?",
+  "description": "The process involves site assessment, custom design, installation of components, and a final system test with operational guidance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-custom-irrigation-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing a custom irrigation system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with a detailed site assessment where our experts evaluate your landscape, soil, plant types, and water pressure. We then design a custom irrigation plan, specifying sprinkler heads, drip lines, zoning, and smart controllers to optimize water usage and plant health. Once the design is approved, installation involves trenching, laying pipes, installing emitters, and programming the controller. Finally, we conduct a thorough system test and provide guidance on operation and seasonal adjustments to ensure efficient performance.",
+        "description": "The process involves site assessment, custom design, installation of components, and a final system test with operational guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

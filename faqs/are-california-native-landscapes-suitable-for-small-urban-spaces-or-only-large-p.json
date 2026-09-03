@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are California-native landscapes suitable for small urban spaces or only large properties?",
+  "description": "California-native landscapes are suitable for both large and small urban spaces, with various plant sizes available for adaptable designs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-california-native-landscapes-suitable-for-small-urban-spaces-or-only-large-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are California-native landscapes suitable for small urban spaces or only large properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California-native landscapes are highly adaptable and suitable for spaces of all sizes, from expansive estates to small urban patios and balconies. Many native species are available in various sizes and forms, including groundcovers, compact shrubs, and container-friendly options. Thoughtful design can maximize the ecological benefits and aesthetic appeal even in limited areas. Our design team specializes in creating functional and beautiful native gardens tailored to the specific constraints and opportunities of any urban outdoor space.",
+        "description": "California-native landscapes are suitable for both large and small urban spaces, with various plant sizes available for adaptable designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

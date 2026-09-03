@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should an irrigation system be maintained?",
+  "description": "An irrigation system should be professionally maintained at least twice a year for spring activation and fall winterization, plus routine homeowner checks for i",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-often-should-an-irrigation-system-be-maintained",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should an irrigation system be maintained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance is crucial for optimal irrigation system performance and longevity. We recommend a professional inspection at least twice a year: in spring to activate and prepare the system for the growing season, and in fall for winterization to prevent damage from freezing temperatures. Throughout the year, homeowners should routinely check for broken heads, leaks, or clogged emitters. Promptly addressing minor issues prevents larger, more costly repairs and ensures consistent, efficient watering.",
+        "description": "An irrigation system should be professionally maintained at least twice a year for spring activation and fall winterization, plus routine homeowner checks for issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

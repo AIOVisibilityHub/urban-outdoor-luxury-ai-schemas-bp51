@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider a built-in planter versus a standalone container?",
+  "description": "Choose a built-in planter for permanent integration, superior durability, larger plant capacity, and seamless system integration, unlike temporary standalone co",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-consider-a-built-in-planter-versus-a-standalone-container",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider a built-in planter versus a standalone container?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a built-in planter when you desire a permanent, integrated feature that seamlessly complements your landscape and architecture. Built-in planters offer superior durability, can accommodate larger root systems, and allow for sophisticated integration of irrigation and lighting. They are ideal for defining spaces, creating privacy screens, or forming permanent garden beds. Standalone containers offer flexibility for rearrangement but generally lack the structural integrity and cohesive design integration of a custom-built planter, making them less suitable for high-end, lasting landscape design.",
+        "description": "Choose a built-in planter for permanent integration, superior durability, larger plant capacity, and seamless system integration, unlike temporary standalone containers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

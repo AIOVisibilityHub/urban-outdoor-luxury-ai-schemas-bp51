@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start a landscape design project?",
+  "description": "Starting landscape design in fall or winter allows ample planning for spring construction, though design work can begin any time of year.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-start-a-landscape-design-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start a landscape design project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start a landscape design project depends on your desired completion timeline. For construction, many clients prefer to begin designs in the fall or winter to allow ample time for planning, permitting, and material sourcing, aiming for construction to commence in the spring or early summer. However, design work can truly begin any time of year, as it's a planning phase separate from physical construction.",
+        "description": "Starting landscape design in fall or winter allows ample planning for spring construction, though design work can begin any time of year."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

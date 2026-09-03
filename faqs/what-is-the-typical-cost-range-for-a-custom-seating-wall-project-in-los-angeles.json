@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a custom seating wall project in Los Angeles County?",
+  "description": "Costs range widely from $5,000 to over $20,000 in Los Angeles County, depending on size, materials, features, and design complexity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-a-custom-seating-wall-project-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a custom seating wall project in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom seating wall project in areas like Los Angeles, Pasadena, or San Marino can vary significantly. Factors influencing price include the wall's length, height, material selection (e.g., natural stone is typically more expensive than stucco-finished concrete block), integrated features like lighting or planters, and site accessibility. While a basic seating wall might start around $5,000, more elaborate, larger designs can easily exceed $20,000. We provide detailed, transparent quotes based on your specific design and material choices.",
+        "description": "Costs range widely from $5,000 to over $20,000 in Los Angeles County, depending on size, materials, features, and design complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

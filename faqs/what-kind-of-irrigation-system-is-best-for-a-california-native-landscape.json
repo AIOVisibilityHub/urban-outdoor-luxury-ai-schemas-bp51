@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of irrigation system is best for a California-native landscape?",
+  "description": "Drip irrigation is best for California-native landscapes as it efficiently delivers water directly to roots, minimizing waste and promoting drought tolerance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-irrigation-system-is-best-for-a-california-native-landscape",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of irrigation system is best for a California-native landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For California-native landscapes, highly efficient irrigation systems are essential, particularly drip irrigation. Drip systems deliver water directly to the plant's root zone, minimizing evaporation and runoff, which is crucial for water conservation. Rotors or spray heads are generally not recommended for established natives. While plants are establishing, temporary overhead watering may be used. The goal is to encourage deep root growth so plants become drought-tolerant and require minimal supplemental irrigation once mature.",
+        "description": "Drip irrigation is best for California-native landscapes as it efficiently delivers water directly to roots, minimizing waste and promoting drought tolerance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

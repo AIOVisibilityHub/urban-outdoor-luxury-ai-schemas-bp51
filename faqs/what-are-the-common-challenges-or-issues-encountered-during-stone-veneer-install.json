@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common challenges or issues encountered during stone veneer installation?",
+  "description": "Challenges include proper surface preparation, ensuring drainage, achieving natural patterns, and managing weather conditions. Skilled installers mitigate these",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-challenges-or-issues-encountered-during-stone-veneer-install",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common challenges or issues encountered during stone veneer installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges during stone veneer installation often revolve around proper surface preparation, especially with older or uneven substrates, which can impact adhesion. Ensuring adequate drainage and applying correct flashing details are critical, particularly for exterior projects, to prevent moisture intrusion. Achieving a natural, aesthetically pleasing pattern with varied stone sizes and shapes also requires skill. Weather conditions, especially extreme temperatures or precipitation, can affect mortar setting times and project schedules. A qualified installer understands these challenges and employs techniques to mitigate risks, ensuring a durable and beautiful finish.",
+        "description": "Challenges include proper surface preparation, ensuring drainage, achieving natural patterns, and managing weather conditions. Skilled installers mitigate these issues for a durable finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

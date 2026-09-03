@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right native plants for my specific property and sun exposure?",
+  "description": "Choose native plants based on your property's sun exposure, soil type, drainage, and microclimates; expert guidance helps match plants to your site.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-native-plants-for-my-specific-property-and-sun-exposur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right native plants for my specific property and sun exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right native plants involves assessing your property's specific conditions. Consider factors like sun exposure (full sun, part shade, full shade), soil type (clay, sandy, loamy), and drainage. Observing your garden's microclimates will also help. For instance, plants like California poppies thrive in full sun, while ferns prefer shade. We provide expert guidance during the design phase to match suitable native species to your unique site, ensuring their long-term health and success.",
+        "description": "Choose native plants based on your property's sun exposure, soil type, drainage, and microclimates; expert guidance helps match plants to your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

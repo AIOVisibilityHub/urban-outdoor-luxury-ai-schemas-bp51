@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you choose the right plants for my Los Angeles garden?",
+  "description": "We select plants based on Los Angeles' climate, focusing on drought-tolerance and native species, while considering your aesthetic and maintenance preferences.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-choose-the-right-plants-for-my-los-angeles-garden",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you choose the right plants for my Los Angeles garden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right plants for a Los Angeles garden involves considering several critical factors to ensure their success and longevity. We focus on drought-tolerant, California-native, and climate-appropriate species that thrive in the region's specific soil and sun conditions. We also take into account your aesthetic preferences, maintenance requirements, and the desired function of the plants, such as privacy screening, shade, or attracting pollinators. Our goal is to create a sustainable and beautiful landscape that complements your property.",
+        "description": "We select plants based on Los Angeles' climate, focusing on drought-tolerance and native species, while considering your aesthetic and maintenance preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

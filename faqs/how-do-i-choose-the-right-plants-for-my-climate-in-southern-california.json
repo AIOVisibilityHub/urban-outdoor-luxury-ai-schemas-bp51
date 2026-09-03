@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right plants for my climate in Southern California?",
+  "description": "Select drought-tolerant, native, and Mediterranean-adapted plants suitable for Southern California's climate, considering sun, soil, and mature size.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-plants-for-my-climate-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right plants for my climate in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right plants for Southern California involves considering several factors specific to the region's Mediterranean climate. Prioritize drought-tolerant, native, and Mediterranean-adapted plants that thrive with minimal water once established. Consider sun exposure, soil type, and mature plant size to ensure they suit your specific microclimate and space. Our design team can recommend a diverse palette of appropriate plants that will flourish in your landscape, reducing water consumption and maintenance while enhancing curb appeal.",
+        "description": "Select drought-tolerant, native, and Mediterranean-adapted plants suitable for Southern California's climate, considering sun, soil, and mature size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

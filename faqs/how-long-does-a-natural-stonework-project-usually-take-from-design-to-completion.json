@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a natural stonework project usually take from design to completion?",
+  "description": "Project timelines for natural stonework range from 2-4 weeks for small jobs to 6-12+ weeks for larger, complex projects. Factors like stone availability and sit",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-natural-stonework-project-usually-take-from-design-to-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a natural stonework project usually take from design to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a natural stonework project varies significantly based on its size, complexity, and the specific type of stone chosen. Smaller projects, such as a simple pathway or retaining wall, might take 2-4 weeks from initial design to completion. Larger, more intricate projects like expansive patios, elaborate water features, or full outdoor living spaces can extend to 6-12 weeks or more. Factors influencing the duration include stone sourcing, weather conditions, necessary site preparation, and the availability of specialized craftsmen for precision cutting and laying.",
+        "description": "Project timelines for natural stonework range from 2-4 weeks for small jobs to 6-12+ weeks for larger, complex projects. Factors like stone availability and site complexity affect duration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a stone patio be installed on a sloped yard?",
+  "description": "Yes, stone patios can be installed on sloped yards, but they often require extensive grading, retaining walls, and proper drainage solutions to create level sur",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-stone-patio-be-installed-on-a-sloped-yard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a stone patio be installed on a sloped yard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a stone patio can be successfully installed on a sloped yard, though it often requires additional site preparation and design considerations. This may involve extensive grading, excavation, or the construction of retaining walls to create level terraces for the patio sections. Proper drainage solutions are also crucial to manage water runoff and prevent erosion or damage to the patio structure. While more complex, installing on a slope can result in a unique, multi-level patio design that enhances the landscape.",
+        "description": "Yes, stone patios can be installed on sloped yards, but they often require extensive grading, retaining walls, and proper drainage solutions to create level surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for designing and constructing a custom landscape planter?",
+  "description": "The process involves consultation, design planning with material and system integration, site preparation, construction, and final review.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-designing-and-constructing-a-custom-landscape-pl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for designing and constructing a custom landscape planter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for designing and constructing a custom landscape planter typically begins with a consultation to understand your vision, site specifics, and plant selection. Our design team then develops detailed plans, including material choices, dimensions, drainage solutions, and potential integrated features like irrigation or lighting. Once designs are approved, our construction team prepares the site, builds the planter structure according to specifications, and ensures proper installation of all systems. The final step involves finishing touches and a thorough review to ensure the planter meets our high standards and your expectations for quality and beauty.",
+        "description": "The process involves consultation, design planning with material and system integration, site preparation, construction, and final review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

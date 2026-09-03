@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it typically cost to install a drip irrigation system in Pasadena?",
+  "description": "Installation cost varies by landscape size, component quality, and complexity, ranging from hundreds to several thousands of dollars. A site assessment provides",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-typically-cost-to-install-a-drip-irrigation-system-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it typically cost to install a drip irrigation system in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a drip irrigation system installation in areas like Pasadena varies significantly based on several factors. These include the size and complexity of the landscape, the type and quality of components chosen (e.g., emitters, tubing, controllers), and the need for trenching or extensive design work. A small, simple system for a garden bed might be a few hundred dollars, while a comprehensive system covering an entire property with multiple zones and smart controllers could range into several thousands. A site assessment is essential for an accurate quote tailored to your specific needs.",
+        "description": "Installation cost varies by landscape size, component quality, and complexity, ranging from hundreds to several thousands of dollars. A site assessment provides an accurate quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

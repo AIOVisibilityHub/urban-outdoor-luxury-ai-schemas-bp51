@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the primary benefits of using natural stone in outdoor landscaping?",
+  "description": "Natural stone provides unique beauty, superior durability, and increased property value for outdoor landscaping projects. It is resistant to weathering and fadi",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-primary-benefits-of-using-natural-stone-in-outdoor-landscaping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary benefits of using natural stone in outdoor landscaping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone offers unique aesthetic appeal, durability, and longevity for outdoor landscaping. Its inherent variations in color, texture, and pattern create a distinct, luxurious look that manufactured materials cannot replicate. Natural stone is highly resistant to weathering, fading, and heavy foot traffic, making it ideal for patios, walkways, and retaining walls. Its thermal mass can also help regulate temperatures, keeping paved areas cooler in the intense Los Angeles sun. Additionally, natural stone is a sustainable material that can increase property value due to its timeless beauty and lasting quality.",
+        "description": "Natural stone provides unique beauty, superior durability, and increased property value for outdoor landscaping projects. It is resistant to weathering and fading, offering a long-lasting, luxurious finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for an irrigation system installation in areas like Pasadena or Arcadia?",
+  "description": "Costs for irrigation systems in Pasadena or Arcadia vary widely, depending on property size, system type, and landscape complexity. We provide detailed quotes a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-an-irrigation-system-installation-in-areas-like-pas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for an irrigation system installation in areas like Pasadena or Arcadia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an irrigation system installation in areas like Pasadena or Arcadia can vary significantly. Factors influencing cost include property size, the type of system (drip, sprinkler, smart), plant material, water source, and any necessary landscape modifications. Basic systems for smaller yards might start at a few thousand dollars, while comprehensive, high-efficiency systems for larger estates can be substantially more. We offer detailed, transparent quotes after a site visit to assess your specific needs and property characteristics.",
+        "description": "Costs for irrigation systems in Pasadena or Arcadia vary widely, depending on property size, system type, and landscape complexity. We provide detailed quotes after a site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

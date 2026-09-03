@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the sustainable landscape design process?",
+  "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles an",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-the-sustainable-landscape-design-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the sustainable landscape design process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our sustainable landscape design process typically begins with an initial consultation to understand your vision, needs, and the site's unique characteristics. This is followed by a comprehensive site analysis, assessing sun exposure, soil conditions, and existing features. We then develop conceptual designs that integrate sustainable principles, such as water harvesting, native plant palettes, and efficient material use. After your feedback, detailed plans are created, including planting schemes, irrigation layouts, and material specifications, culminating in a construction-ready design. Throughout, we focus on balancing aesthetics with ecological performance.",
+        "description": "The process involves initial consultation, site analysis, conceptual design development, and creation of detailed plans that integrate sustainable principles and client feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

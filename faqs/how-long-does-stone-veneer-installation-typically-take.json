@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stone veneer installation typically take?",
+  "description": "Installation time varies by project size and complexity, ranging from a few days for small accents to several weeks for large exteriors. Factors like site prep",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-stone-veneer-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stone veneer installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stone veneer installation varies based on the project's size, complexity, and specific site conditions. A smaller project, such as a fireplace surround or accent wall, might take a few days. Larger exterior projects, like an entire home facade or extensive landscaping features, could span several weeks. Factors like weather, surface preparation requirements, and the type of veneer chosen also influence the timeline. We provide a detailed project schedule after an initial site assessment.",
+        "description": "Installation time varies by project size and complexity, ranging from a few days for small accents to several weeks for large exteriors. Factors like site prep and weather also influence the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

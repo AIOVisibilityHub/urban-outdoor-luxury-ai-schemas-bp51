@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing a water-wise landscape with your firm?",
+  "description": "Our process involves an initial consultation, custom design creation, and professional installation. We manage site preparation, planting, and efficient irrigat",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-water-wise-landscape-with-you",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing a water-wise landscape with your firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and the specifics of your site. Next, our designers create a custom water-wise landscape plan, including plant palettes, irrigation solutions, and hardscape elements. Once the design is approved, we handle all aspects of installation, from site preparation and soil amendment to planting and setting up efficient irrigation systems. Throughout the project, we maintain clear communication, ensuring a smooth and successful transformation of your outdoor space.",
+        "description": "Our process involves an initial consultation, custom design creation, and professional installation. We manage site preparation, planting, and efficient irrigation setup with clear communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of stone are best for walkway installation?",
+  "description": "Best stone types for walkways include flagstone, bluestone, and granite, chosen for durability, aesthetics, and maintenance needs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-stone-are-best-for-walkway-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of stone are best for walkway installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right stone for a walkway depends on factors like durability, aesthetic preference, and maintenance. Popular choices include flagstone, known for its natural, irregular shapes and slip resistance; bluestone, prized for its consistent color and classic appearance; and granite, valued for its extreme durability and ability to withstand heavy foot traffic and varying weather conditions. Pavers, while not natural stone, offer a uniform look and are available in many colors and textures. Each type offers distinct benefits in terms of longevity, visual appeal, and how it complements your home's architecture and landscape design.",
+        "description": "Best stone types for walkways include flagstone, bluestone, and granite, chosen for durability, aesthetics, and maintenance needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

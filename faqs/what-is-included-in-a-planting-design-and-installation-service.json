@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a planting design and installation service?",
+  "description": "Planting design includes site analysis, custom plant selection, and a detailed layout plan. Installation covers soil preparation, planting, and initial care gui",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-included-in-a-planting-design-and-installation-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a planting design and installation service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive planting design and installation service typically begins with a site analysis to assess soil conditions, sun exposure, and existing landscape elements. This informs a custom design plan tailored to your aesthetic preferences and the specific climate of Los Angeles and surrounding areas. The plan specifies plant types, quantities, and their optimal placement. Installation includes soil preparation, plant delivery, professional planting, and initial watering. Post-installation guidance on care and maintenance is also provided.",
+        "description": "Planting design includes site analysis, custom plant selection, and a detailed layout plan. Installation covers soil preparation, planting, and initial care guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and building a custom seating wall with your firm?",
+  "description": "The process involves consultation, conceptual design, permit handling, and expert construction, with client communication throughout.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-building-a-custom-seating-wall-with-your-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and building a custom seating wall with your firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, budget, and site conditions. Next, our design team develops conceptual plans, incorporating material suggestions and any desired features like integrated lighting or planters. Once the design is approved, we handle all necessary permits and then proceed with construction, keeping you informed at every stage. Our goal is to deliver a high-quality, durable seating wall that perfectly complements your outdoor living space.",
+        "description": "The process involves consultation, conceptual design, permit handling, and expert construction, with client communication throughout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before my initial landscape design consultation?",
+  "description": "Before your consultation, gather ideas, photos, property plans, and consider your functional needs and aesthetic preferences for the outdoor space.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-prepare-before-my-initial-landscape-design-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before my initial landscape design consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make the most of your initial consultation, consider compiling ideas, images, and any existing surveys or architectural plans for your property. Think about your functional needs, such as entertaining areas or play spaces, and your aesthetic preferences, like preferred plant styles or materials. Having a clear vision, even if preliminary, helps the designer understand your goals and develop a tailored concept for your luxury outdoor space.",
+        "description": "Before your consultation, gather ideas, photos, property plans, and consider your functional needs and aesthetic preferences for the outdoor space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do stone stairs compare to concrete or wood stairs in terms of durability and longevity?",
+  "description": "Natural stone stairs offer superior durability and longevity compared to wood or concrete, resisting rot, insects, and cracking for many decades with proper car",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-stone-stairs-compare-to-concrete-or-wood-stairs-in-terms-of-durability-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do stone stairs compare to concrete or wood stairs in terms of durability and longevity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone stairs generally offer superior durability and longevity compared to most concrete or wood alternatives. Wood stairs are susceptible to rot, insect damage, and require frequent sealing or painting, typically lasting 15-20 years. Concrete stairs are durable but can crack over time due to ground movement or freeze-thaw cycles, and may spall. Natural stone, when properly installed and maintained, can last for many decades, even centuries, with minimal degradation. It is highly resistant to weathering, heavy foot traffic, and UV radiation, making it a premium, long-term investment.",
+        "description": "Natural stone stairs offer superior durability and longevity compared to wood or concrete, resisting rot, insects, and cracking for many decades with proper care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

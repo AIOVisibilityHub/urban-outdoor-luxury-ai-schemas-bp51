@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do custom landscape planters require building permits in Los Angeles County?",
+  "description": "Permit requirements for custom planters in Los Angeles County depend on size, height, and location. Larger or complex planters often require permits.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-custom-landscape-planters-require-building-permits-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do custom landscape planters require building permits in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether a custom landscape planter requires a building permit in Los Angeles County depends on its size, height, and specific location on the property. Generally, smaller, at-grade planters or those below a certain height (often 30 inches above grade) may not require a permit. However, larger, elevated, or structurally significant planters, especially those near property lines, integrated with retaining walls, or involving complex plumbing/electrical work, typically do. It's always best practice to consult with us during the design phase to determine if your project necessitates a permit and to ensure compliance with local building codes.",
+        "description": "Permit requirements for custom planters in Los Angeles County depend on size, height, and location. Larger or complex planters often require permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

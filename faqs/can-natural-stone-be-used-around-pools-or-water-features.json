@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can natural stone be used around pools or water features?",
+  "description": "Yes, natural stone, especially travertine, flagstone, and some granites, is suitable for pools. Ensure chosen stone has slip resistance and is properly sealed t",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-natural-stone-be-used-around-pools-or-water-features",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can natural stone be used around pools or water features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many types of natural stone are excellent for use around pools and water features due to their beauty and durability. Travertine is a popular choice because it remains cooler under direct sun, has a naturally porous surface that provides some slip resistance, and is resistant to chlorine and salt water. Other suitable options include flagstone and certain granites. It's crucial to select stones with appropriate slip resistance and ensure they are properly sealed to prevent water absorption, staining, and the growth of algae or mold, which can be an issue with constant moisture.",
+        "description": "Yes, natural stone, especially travertine, flagstone, and some granites, is suitable for pools. Ensure chosen stone has slip resistance and is properly sealed to prevent issues with constant moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you incorporate sustainable or water-wise features into my landscape design?",
+  "description": "Yes, we incorporate drought-tolerant plants, efficient irrigation, permeable paving, and rainwater harvesting to create sustainable, water-wise landscapes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-incorporate-sustainable-or-water-wise-features-into-my-landscape-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you incorporate sustainable or water-wise features into my landscape design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, incorporating sustainable and water-wise features is a cornerstone of our landscape design philosophy, especially important in regions like Southern California. We specialize in designing and installing elements such as drought-tolerant plant palettes (xeriscaping), efficient drip irrigation systems, smart controllers, permeable paving, rainwater harvesting, and native plant selections. These features not only conserve water but also reduce maintenance, support local ecosystems, and often qualify for local rebates, creating an environmentally responsible and beautiful outdoor space.",
+        "description": "Yes, we incorporate drought-tolerant plants, efficient irrigation, permeable paving, and rainwater harvesting to create sustainable, water-wise landscapes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

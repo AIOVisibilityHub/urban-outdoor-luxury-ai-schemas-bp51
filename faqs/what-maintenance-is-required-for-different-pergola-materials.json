@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for different pergola materials?",
+  "description": "Wood pergolas need regular cleaning, staining, or sealing. Aluminum, vinyl, and fiberglass pergolas are low-maintenance, requiring only occasional cleaning with",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-different-pergola-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for different pergola materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance varies significantly by material. Wood pergolas typically require annual cleaning, staining or sealing every 2-3 years to protect against weathering, rot, and pests. Aluminum and vinyl pergolas are considerably low-maintenance, usually needing only occasional washing with soap and water to remove dirt or mildew. Fiberglass pergolas also require minimal upkeep, similar to aluminum and vinyl. Choosing a low-maintenance material can save time and effort over the pergola's lifespan.",
+        "description": "Wood pergolas need regular cleaning, staining, or sealing. Aluminum, vinyl, and fiberglass pergolas are low-maintenance, requiring only occasional cleaning with soap and water."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

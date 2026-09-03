@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I receive rebates for installing a drought-tolerant landscape in Southern California?",
+  "description": "Many Southern California water agencies offer rebates for drought-tolerant landscape conversions, such as MWD's Turf Replacement Program. We can help with guida",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-receive-rebates-for-installing-a-drought-tolerant-landscape-in-southern-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I receive rebates for installing a drought-tolerant landscape in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many water agencies in Southern California offer rebates for converting water-intensive lawns to drought-tolerant landscapes. Programs like the Metropolitan Water District of Southern California's 'Turf Replacement Program' provide financial incentives based on the square footage converted. Eligibility requirements typically include removing existing turf, installing water-efficient plants, and implementing drip irrigation. We can provide guidance on finding and applying for these rebates to help offset project costs.",
+        "description": "Many Southern California water agencies offer rebates for drought-tolerant landscape conversions, such as MWD's Turf Replacement Program. We can help with guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

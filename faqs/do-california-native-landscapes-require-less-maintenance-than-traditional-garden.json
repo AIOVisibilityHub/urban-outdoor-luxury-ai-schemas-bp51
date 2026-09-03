@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do California-native landscapes require less maintenance than traditional gardens?",
+  "description": "Yes, once established, California-native landscapes require significantly less maintenance than traditional gardens, needing less water, fertilizer, and pruning",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-california-native-landscapes-require-less-maintenance-than-traditional-garden",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do California-native landscapes require less maintenance than traditional gardens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, once established, California-native landscapes generally require significantly less maintenance compared to traditional, water-intensive gardens. They are adapted to the local climate, meaning they need less frequent watering, fertilizing, and pruning. While initial care is crucial for establishment, ongoing tasks primarily involve occasional weeding, minimal pruning for shape or health, and checking irrigation systems. This reduction in maintenance translates to less time and resources spent on upkeep.",
+        "description": "Yes, once established, California-native landscapes require significantly less maintenance than traditional gardens, needing less water, fertilizer, and pruning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

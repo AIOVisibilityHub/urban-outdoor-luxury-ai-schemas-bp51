@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing a stone retaining wall?",
+  "description": "The process involves site assessment, design, permitting, excavation, foundation laying, drainage installation, stone placement, backfilling, and finishing.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-stone-retaining-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing a stone retaining wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process begins with a site assessment and design consultation, followed by obtaining necessary permits. Next, the site is prepared with excavation and proper grading. A solid foundation, often gravel or concrete, is then laid. Drainage systems, such as gravel backfill and weep holes, are installed behind the wall. Stones are carefully placed and mortared or dry-stacked, ensuring proper alignment and stability. Finally, the area is backfilled and finished with landscaping.",
+        "description": "The process involves site assessment, design, permitting, excavation, foundation laying, drainage installation, stone placement, backfilling, and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

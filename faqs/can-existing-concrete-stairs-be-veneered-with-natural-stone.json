@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing concrete stairs be veneered with natural stone?",
+  "description": "Yes, existing concrete stairs can often be veneered with natural stone. This involves preparing the concrete and mortaring thin stone slabs onto the risers and",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-existing-concrete-stairs-be-veneered-with-natural-stone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing concrete stairs be veneered with natural stone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, existing concrete stairs can often be veneered with natural stone to transform their appearance. This process involves thoroughly cleaning and preparing the concrete surface to ensure proper adhesion. Then, thin slabs or tiles of natural stone are cut and mortared onto the risers and treads of the existing concrete structure. This method can be a cost-effective way to achieve the look and feel of solid stone stairs without a complete demolition and rebuild. However, the existing concrete must be structurally sound and free of significant cracks or deterioration for veneering to be a viable and lasting solution.",
+        "description": "Yes, existing concrete stairs can often be veneered with natural stone. This involves preparing the concrete and mortaring thin stone slabs onto the risers and treads for a new look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

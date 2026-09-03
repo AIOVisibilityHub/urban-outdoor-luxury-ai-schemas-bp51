@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the construction process take for a custom retaining wall?",
+  "description": "Construction time varies based on size, materials, and complexity. Smaller walls may take days, while larger projects can take several weeks.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-construction-process-take-for-a-custom-retaining-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the construction process take for a custom retaining wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of custom retaining wall construction varies significantly based on the wall's size, length, height, material choice, and the complexity of the site. Smaller, simpler walls might take a few days, while larger, more intricate designs or those requiring extensive excavation and drainage systems can extend to several weeks. Factors like weather conditions, site accessibility, and the need for permits also influence the timeline. After an initial site assessment and design finalization, we can provide a more accurate project schedule tailored to your specific retaining wall.",
+        "description": "Construction time varies based on size, materials, and complexity. Smaller walls may take days, while larger projects can take several weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

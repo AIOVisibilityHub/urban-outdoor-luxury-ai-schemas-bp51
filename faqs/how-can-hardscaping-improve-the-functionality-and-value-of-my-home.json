@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can hardscaping improve the functionality and value of my home?",
+  "description": "Hardscaping improves home functionality by creating usable outdoor spaces and addressing site challenges, while significantly boosting curb appeal and property",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-can-hardscaping-improve-the-functionality-and-value-of-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can hardscaping improve the functionality and value of my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hardscaping significantly enhances functionality by creating defined areas for dining, lounging, or recreation, extending your usable living space outdoors. Features like retaining walls can solve grading issues, while well-placed pathways improve accessibility. A professionally designed and installed hardscape adds substantial curb appeal and perceived value to your property. High-quality materials and thoughtful design contribute to a longer lifespan and lower maintenance, making your home more attractive and enjoyable for years to come, which positively impacts resale value.",
+        "description": "Hardscaping improves home functionality by creating usable outdoor spaces and addressing site challenges, while significantly boosting curb appeal and property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

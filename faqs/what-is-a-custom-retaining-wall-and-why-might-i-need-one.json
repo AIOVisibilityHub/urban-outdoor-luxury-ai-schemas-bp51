@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a custom retaining wall and why might I need one?",
+  "description": "A custom retaining wall holds back soil, prevents erosion, and can enhance your landscape. You might need one to create flat areas, manage water, or protect you",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-custom-retaining-wall-and-why-might-i-need-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a custom retaining wall and why might I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom retaining wall is a designed structure built to hold back soil and prevent erosion on sloped properties. Beyond its functional purpose, a custom wall can integrate seamlessly with your landscape design, using specific materials, textures, and finishes to enhance aesthetic appeal. You might need one to create usable flat areas on a sloped yard, manage water runoff, add structural integrity to your property, or define garden spaces. They are essential for protecting foundations, preventing landslides, and adding significant value and beauty to your outdoor living areas.",
+        "description": "A custom retaining wall holds back soil, prevents erosion, and can enhance your landscape. You might need one to create flat areas, manage water, or protect your property on a slope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

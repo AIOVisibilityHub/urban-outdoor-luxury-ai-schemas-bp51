@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the cost of natural stone compare to concrete pavers or other manufactured materials?",
+  "description": "Natural stone generally has a higher initial cost than concrete pavers, but offers greater durability and longevity, potentially leading to lower long-term expe",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-the-cost-of-natural-stone-compare-to-concrete-pavers-or-other-manufactu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the cost of natural stone compare to concrete pavers or other manufactured materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, natural stone typically has a higher upfront cost per square foot compared to concrete pavers or other manufactured materials. This difference stems from the quarrying, cutting, and transportation processes involved. However, natural stone often boasts superior longevity and requires less frequent replacement or repair over its lifespan, which can result in lower long-term costs. Its timeless aesthetic also contributes to higher property value. When evaluating cost, consider both the initial investment and the long-term benefits and durability that natural stone provides.",
+        "description": "Natural stone generally has a higher initial cost than concrete pavers, but offers greater durability and longevity, potentially leading to lower long-term expenses and increased property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

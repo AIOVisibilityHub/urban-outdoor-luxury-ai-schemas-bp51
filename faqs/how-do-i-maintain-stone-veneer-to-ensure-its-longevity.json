@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I maintain stone veneer to ensure its longevity?",
+  "description": "Maintain stone veneer by regular cleaning with mild soap and water, avoiding harsh chemicals. Inspect annually for damage and ensure proper drainage to preserve",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-maintain-stone-veneer-to-ensure-its-longevity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I maintain stone veneer to ensure its longevity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining stone veneer is relatively simple and helps ensure its longevity. Regular cleaning with a soft brush and mild detergent mixed with water is usually sufficient to remove dirt and grime. Avoid harsh chemicals, pressure washers set to high force, or abrasive cleaners, as these can damage the veneer or mortar. Inspect the veneer annually for any signs of cracking, loose pieces, or deteriorating grout, and address any issues promptly. Proper drainage around the installation also prevents water damage, which is crucial for exterior applications.",
+        "description": "Maintain stone veneer by regular cleaning with mild soap and water, avoiding harsh chemicals. Inspect annually for damage and ensure proper drainage to preserve its appearance and integrity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

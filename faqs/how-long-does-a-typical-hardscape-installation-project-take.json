@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical hardscape installation project take?",
+  "description": "Project timelines vary; smaller hardscape installations can take 2-4 weeks, while larger, more complex projects may take several months.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-typical-hardscape-installation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical hardscape installation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a hardscape installation project depends on its scope and complexity. A smaller project, such as a simple patio or pathway, might take 2-4 weeks from design approval to completion. Larger, more intricate projects involving extensive grading, multiple features like outdoor kitchens, fire pits, or retaining walls, can take anywhere from 6 weeks to several months. We provide a detailed timeline after the design is finalized, and unforeseen factors like weather or material availability can sometimes affect the schedule.",
+        "description": "Project timelines vary; smaller hardscape installations can take 2-4 weeks, while larger, more complex projects may take several months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

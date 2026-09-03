@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the drainage requirements for a healthy landscape planter?",
+  "description": "Healthy planters require proper drainage with gravel layers, permeable fabric, and sufficient drainage holes to prevent waterlogging and root rot.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-drainage-requirements-for-a-healthy-landscape-planter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the drainage requirements for a healthy landscape planter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper drainage is crucial for the health and longevity of plants in any landscape planter. Adequate drainage prevents waterlogging, which can lead to root rot and other plant diseases. This typically involves a layer of gravel or drainage material at the bottom of the planter, followed by a permeable landscape fabric, and then high-quality potting mix. Crucially, planters must have sufficient drainage holes at the base. The number and size of these holes depend on the planter's dimensions and the types of plants it will house, ensuring excess water can efficiently escape.",
+        "description": "Healthy planters require proper drainage with gravel layers, permeable fabric, and sufficient drainage holes to prevent waterlogging and root rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

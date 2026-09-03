@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a drip irrigation system?",
+  "description": "Maintenance includes checking emitters for clogs, flushing lines annually, inspecting for leaks, and adjusting emitter placement. Annual professional inspection",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-drip-irrigation-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a drip irrigation system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip irrigation systems require minimal but consistent maintenance to ensure optimal performance. Key tasks include periodically checking emitters for clogs from mineral deposits or debris, flushing the lines annually to clear sediment, and inspecting tubing for leaks or damage. Adjusting emitter placement as plants grow and ensuring correct pressure settings are also important. We recommend an annual professional inspection and seasonal adjustments, especially before and after the hottest months, to prevent issues and maintain efficiency.",
+        "description": "Maintenance includes checking emitters for clogs, flushing lines annually, inspecting for leaks, and adjusting emitter placement. Annual professional inspections are recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

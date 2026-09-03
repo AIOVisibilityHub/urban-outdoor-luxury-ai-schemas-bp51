@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of custom stonework do you offer for outdoor living spaces?",
+  "description": "We offer custom stonework for patios, walkways, retaining walls, outdoor kitchens, fire pits, and architectural accents using various natural stone types.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-custom-stonework-do-you-offer-for-outdoor-living-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of custom stonework do you offer for outdoor living spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We specialize in a variety of custom stonework applications designed to enhance outdoor living. This includes natural stone patios, intricate walkways, durable retaining walls, custom-built outdoor kitchens with stone finishes, and decorative stone veneers for fire pits or architectural accents. We work with various stone types, from flagstone and granite to limestone and slate, to match your aesthetic preferences and functional requirements, creating bespoke features that elevate your property's appeal and utility.",
+        "description": "We offer custom stonework for patios, walkways, retaining walls, outdoor kitchens, fire pits, and architectural accents using various natural stone types."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

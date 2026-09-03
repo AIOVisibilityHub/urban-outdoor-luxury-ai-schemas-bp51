@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance does custom stonework require?",
+  "description": "Maintenance typically involves regular cleaning with mild soap and water. Sealing is often recommended for protection, with frequency depending on stone type an",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-does-custom-stonework-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance does custom stonework require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The maintenance requirements for custom stonework vary by stone type and its application. Generally, natural stone is durable and low-maintenance. Regular cleaning with mild soap and water is usually sufficient to remove dirt and debris. Sealing is often recommended, especially for porous stones or high-traffic areas like patios and outdoor kitchen countertops, to protect against stains and moisture. Re-sealing frequency depends on the stone type and exposure. We provide specific care instructions for your chosen materials upon project completion to ensure longevity.",
+        "description": "Maintenance typically involves regular cleaning with mild soap and water. Sealing is often recommended for protection, with frequency depending on stone type and use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

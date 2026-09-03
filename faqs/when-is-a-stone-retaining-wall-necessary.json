@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a stone retaining wall necessary?",
+  "description": "A stone retaining wall is necessary for managing elevation changes, preventing soil erosion, or creating level areas on sloped terrain for landscaping or constr",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-a-stone-retaining-wall-necessary",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a stone retaining wall necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stone retaining wall becomes necessary when managing significant elevation changes on your property, preventing soil erosion, or creating level areas on a slope. If your landscape has a steep grade, poor drainage leading to runoff, or if you plan to install a patio, garden, or walkway on uneven ground, a retaining wall can provide essential structural support and land stabilization. It also protects foundations and other structures from soil movement.",
+        "description": "A stone retaining wall is necessary for managing elevation changes, preventing soil erosion, or creating level areas on sloped terrain for landscaping or construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

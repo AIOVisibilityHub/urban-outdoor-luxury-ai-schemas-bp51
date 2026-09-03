@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and install a custom cabana?",
+  "description": "Design typically takes 3-6 weeks, permitting 4-12 weeks, and construction 8-16 weeks, depending on project scope and approvals.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-design-and-install-a-custom-cabana",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and install a custom cabana?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing and installing a custom cabana varies based on its complexity, size, material availability, and the permitting process. Typically, the design phase can take 3-6 weeks, followed by 4-12 weeks for permit approvals, depending on the municipality. Construction itself can range from 8-16 weeks. We provide a detailed project schedule upfront, outlining key milestones and estimated completion dates. Our goal is to complete your project efficiently while maintaining the highest standards of quality and craftsmanship.",
+        "description": "Design typically takes 3-6 weeks, permitting 4-12 weeks, and construction 8-16 weeks, depending on project scope and approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

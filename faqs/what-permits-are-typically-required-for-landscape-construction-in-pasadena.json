@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for landscape construction in Pasadena?",
+  "description": "Landscape construction in Pasadena often requires permits for grading, new hardscaping, retaining walls, irrigation, or tree work. We assist with this process.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-typically-required-for-landscape-construction-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for landscape construction in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, landscape construction projects often require permits, especially for significant changes to grade, new hardscaping like patios and driveways over a certain size, retaining walls, or new irrigation systems. Tree removal or significant pruning may also require city approval. Our design process includes identifying necessary permits and assisting clients with the application process to ensure compliance with local regulations and smooth project progression.",
+        "description": "Landscape construction in Pasadena often requires permits for grading, new hardscaping, retaining walls, irrigation, or tree work. We assist with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

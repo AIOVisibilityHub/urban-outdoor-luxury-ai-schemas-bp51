@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the differences between various types of artificial turf?",
+  "description": "Artificial turf types differ by fiber material, blade shape, pile height, and density, influencing durability, realism, and aesthetic. Selection depends on use,",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-differences-between-various-types-of-artificial-turf",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the differences between various types of artificial turf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Artificial turf varies primarily by fiber material (polyethylene, polypropylene, nylon), blade shape, pile height, and density. Polyethylene is most common for landscaping due to its soft feel and realistic appearance. Blade shape impacts durability and realism; for example, 'C' or 'S' shaped blades offer better resilience. Pile height affects the look and feel, with shorter piles being more resilient for high traffic. Density influences lushness and cost. Choosing the right type depends on intended use, aesthetic preference, and budget.",
+        "description": "Artificial turf types differ by fiber material, blade shape, pile height, and density, influencing durability, realism, and aesthetic. Selection depends on use, look, and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

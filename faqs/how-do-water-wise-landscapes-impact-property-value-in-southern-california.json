@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do water-wise landscapes impact property value in Southern California?",
+  "description": "Water-wise landscapes enhance property value in Southern California by offering lower maintenance, reduced water bills, and a more sustainable, desirable outdoo",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-water-wise-landscapes-impact-property-value-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do water-wise landscapes impact property value in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water-wise landscapes generally enhance property value in Southern California. With ongoing water scarcity and increasing awareness of sustainability, homes with drought-tolerant landscaping are increasingly desirable. They offer lower maintenance costs, reduced water bills, and a more resilient, environmentally responsible outdoor space. Potential buyers often view these features as significant long-term benefits, making such properties more attractive in the competitive real estate market. A well-designed water-wise landscape is an investment that pays dividends.",
+        "description": "Water-wise landscapes enhance property value in Southern California by offering lower maintenance, reduced water bills, and a more sustainable, desirable outdoor space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

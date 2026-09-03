@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing a California-native landscape?",
+  "description": "The process involves consultation, conceptual design, detailed planning, and professional installation, ensuring a sustainable native landscape.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-installing-a-california-native-landscape",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing a California-native landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, site conditions, and budget. Next, we develop a conceptual design, including plant palettes and hardscape ideas, for your review. Once approved, detailed construction documents are prepared. Installation involves site preparation, such as soil amendment and grading, followed by the planting of natives and installation of efficient irrigation systems. We oversee every step to ensure the design is executed precisely, culminating in a beautiful and sustainable outdoor space.",
+        "description": "The process involves consultation, conceptual design, detailed planning, and professional installation, ensuring a sustainable native landscape."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

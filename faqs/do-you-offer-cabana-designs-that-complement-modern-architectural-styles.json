@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer cabana designs that complement modern architectural styles?",
+  "description": "Yes, we offer designs that complement modern architecture using clean lines, minimalist aesthetics, and materials like steel, glass, and concrete.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-offer-cabana-designs-that-complement-modern-architectural-styles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer cabana designs that complement modern architectural styles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, our firm specializes in designs that integrate seamlessly with a wide range of architectural styles, including modern and contemporary homes prevalent in areas like Los Angeles. We focus on clean lines, minimalist aesthetics, and the thoughtful use of materials such as steel, glass, and smooth concrete, alongside natural elements. Our design team works to ensure the cabana not only meets your functional needs but also enhances your property's overall architectural coherence and sophisticated appeal, creating a truly luxurious outdoor extension.",
+        "description": "Yes, we offer designs that complement modern architecture using clean lines, minimalist aesthetics, and materials like steel, glass, and concrete."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

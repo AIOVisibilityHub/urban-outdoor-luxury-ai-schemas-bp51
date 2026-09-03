@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right irrigation system installer for my luxury outdoor space?",
+  "description": "Choose an installer with experience in luxury projects, custom design capabilities, high-quality components, and strong water conservation practices. Verify lic",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-irrigation-system-installer-for-my-luxury-outdoor-spac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right irrigation system installer for my luxury outdoor space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an irrigation system installer for a luxury outdoor space, prioritize experience with high-end residential projects and a deep understanding of water conservation principles. Look for companies that offer custom design services tailored to your unique landscape, use high-quality, durable components, and provide comprehensive maintenance plans. Check their portfolio, client testimonials, and ensure they are licensed and insured in California. A reputable installer will prioritize efficiency, aesthetics, and long-term performance.",
+        "description": "Choose an installer with experience in luxury projects, custom design capabilities, high-quality components, and strong water conservation practices. Verify licenses and insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

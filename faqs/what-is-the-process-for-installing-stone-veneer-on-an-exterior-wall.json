@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing stone veneer on an exterior wall?",
+  "description": "The exterior installation process involves preparing the wall, applying a weather barrier and lath, then mortar and veneer pieces. Grouting and cleaning complet",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-stone-veneer-on-an-exterior-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing stone veneer on an exterior wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior stone veneer installation involves several key steps to ensure durability and proper adhesion. First, the existing wall surface is prepared, often involving cleaning, repairing, and applying a weather-resistant barrier and metal lath. Next, a scratch coat of mortar is applied, followed by a second coat where individual veneer pieces are set. Grouting fills the joints between the stones, and finally, the surface is cleaned. Proper drainage and flashing are critical components to prevent moisture issues, especially in exterior applications.",
+        "description": "The exterior installation process involves preparing the wall, applying a weather barrier and lath, then mortar and veneer pieces. Grouting and cleaning complete the process, with critical attention to drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

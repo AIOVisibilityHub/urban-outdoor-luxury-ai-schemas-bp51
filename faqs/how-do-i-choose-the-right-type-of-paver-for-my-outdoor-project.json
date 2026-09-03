@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right type of paver for my outdoor project?",
+  "description": "Choose pavers based on intended use, aesthetic preference, climate, and budget. Thicker pavers are for driveways, while patios prioritize comfort and look.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-type-of-paver-for-my-outdoor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right type of paver for my outdoor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right paver involves considering several factors: the intended use (e.g., driveway, patio, walkway), desired aesthetic, local climate, and budget. Different materials like concrete, natural stone, or brick pavers offer various textures, colors, and strengths. For driveways, choose thicker, more robust pavers. For patios, focus on comfort and visual appeal. Our team can guide you through material options, design patterns, and finishes to ensure your selection meets both functional needs and aesthetic preferences for your property.",
+        "description": "Choose pavers based on intended use, aesthetic preference, climate, and budget. Thicker pavers are for driveways, while patios prioritize comfort and look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

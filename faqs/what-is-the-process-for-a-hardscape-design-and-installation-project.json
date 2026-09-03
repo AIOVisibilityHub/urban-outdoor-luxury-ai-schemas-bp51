@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a hardscape design and installation project?",
+  "description": "Our hardscape process involves an initial consultation, custom design, permitting, construction, and final quality checks, with continuous client communication.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-a-hardscape-design-and-installation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a hardscape design and installation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, needs, and budget. Next, our designers create a custom hardscape plan, often including 3D renderings, for your review and approval. Once the design is finalized, we handle all necessary permitting. The construction phase involves site preparation, material sourcing, installation of hardscape elements, and quality checks. We maintain clear communication throughout, ensuring the project aligns with your expectations from start to finish.",
+        "description": "Our hardscape process involves an initial consultation, custom design, permitting, construction, and final quality checks, with continuous client communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical lifespan of natural stonework compared to concrete or brick?",
+  "description": "Natural stonework can last for centuries, significantly longer than concrete or brick, which typically last 30-50 years. Its superior durability resists weather",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-lifespan-of-natural-stonework-compared-to-concrete-or-brick",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical lifespan of natural stonework compared to concrete or brick?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stonework boasts an exceptional lifespan, often lasting for centuries when properly installed and maintained. Its durability surpasses that of concrete and most brick applications, which typically have lifespans of 30-50 years before showing significant signs of wear, cracking, or spalling. While concrete and brick are robust, they are more susceptible to freeze-thaw cycles, efflorescence, and surface degradation over time. Natural stone's inherent strength and resistance to weathering ensure it retains its structural integrity and aesthetic appeal for a far greater duration, making it a truly long-term investment.",
+        "description": "Natural stonework can last for centuries, significantly longer than concrete or brick, which typically last 30-50 years. Its superior durability resists weathering and degradation, providing lasting value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

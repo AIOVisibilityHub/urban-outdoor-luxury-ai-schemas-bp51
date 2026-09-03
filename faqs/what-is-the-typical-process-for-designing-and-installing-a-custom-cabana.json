@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for designing and installing a custom cabana?",
+  "description": "The process involves consultation, design, permitting, material sourcing, and professional construction management from start to finish.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-process-for-designing-and-installing-a-custom-cabana",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for designing and installing a custom cabana?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, space, and functional requirements. We then develop conceptual designs and provide detailed renderings for your review and feedback. Once the design is approved, we handle all necessary permitting, material sourcing, and construction. Our experienced team manages the entire build from foundation to finish, ensuring quality craftsmanship and a seamless installation that aligns with your property's aesthetic and your outdoor lifestyle goals. We maintain clear communication throughout to keep you informed of progress.",
+        "description": "The process involves consultation, design, permitting, material sourcing, and professional construction management from start to finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

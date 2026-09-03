@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure plant health and longevity after installation?",
+  "description": "We ensure longevity by selecting suitable plants, proper installation, detailed watering guidance, and advice on ongoing maintenance like fertilization and prun",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-ensure-plant-health-and-longevity-after-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure plant health and longevity after installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensuring plant health and longevity after installation involves several key practices. We select robust plants suitable for your specific microclimate and soil. During installation, we prepare the soil thoroughly with appropriate amendments and ensure correct planting depth and spacing. Post-installation, we provide detailed watering instructions tailored to the plant species and local conditions. We also offer guidance on ongoing maintenance, including fertilization, pruning, and pest management, to help your new landscape thrive for years to come.",
+        "description": "We ensure longevity by selecting suitable plants, proper installation, detailed watering guidance, and advice on ongoing maintenance like fertilization and pruning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

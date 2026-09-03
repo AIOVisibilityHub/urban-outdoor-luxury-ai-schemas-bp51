@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a sustainable landscape differ from a traditional one in terms of maintenance?",
+  "description": "Sustainable landscapes generally require less watering, fertilizing, and pruning due to native plants and efficient design, unlike traditional landscapes needin",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-a-sustainable-landscape-differ-from-a-traditional-one-in-terms-of-maint",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a sustainable landscape differ from a traditional one in terms of maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sustainable landscape generally requires less intensive, but more thoughtful, maintenance compared to a traditional landscape. While initial establishment may require care, the selection of native and drought-tolerant plants means reduced watering, fertilizing, and pruning over time. Traditional landscapes often rely on thirsty, non-native plants requiring frequent irrigation and chemical inputs. Sustainable designs also minimize large areas of high-maintenance lawn and incorporate elements like permeable pathways that reduce runoff. Overall, sustainable landscaping aims for a self-sustaining ecosystem that thrives with minimal intervention once established.",
+        "description": "Sustainable landscapes generally require less watering, fertilizing, and pruning due to native plants and efficient design, unlike traditional landscapes needing intensive care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

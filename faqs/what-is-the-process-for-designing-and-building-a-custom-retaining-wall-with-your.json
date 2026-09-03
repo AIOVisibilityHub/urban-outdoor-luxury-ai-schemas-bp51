@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and building a custom retaining wall with your firm?",
+  "description": "Our process involves consultation, site assessment, custom design, permit acquisition, and expert construction, with ongoing communication.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-and-building-a-custom-retaining-wall-with-your",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and building a custom retaining wall with your firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation where we discuss your vision, property challenges, and functional needs. Following this, our design team conducts a site assessment to evaluate soil conditions, existing drainage, and topography. We then develop a custom design plan, including material recommendations and detailed renderings for your approval. Once the design is finalized and permits are secured, our experienced construction team commences with site preparation, foundation work, wall construction, and integrates necessary drainage systems. We maintain clear communication throughout the project to ensure your retaining wall meets your expectations.",
+        "description": "Our process involves consultation, site assessment, custom design, permit acquisition, and expert construction, with ongoing communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

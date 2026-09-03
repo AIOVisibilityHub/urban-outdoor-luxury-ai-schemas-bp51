@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you select drought-tolerant plants suitable for a modern landscape in Southern California?",
+  "description": "We select drought-tolerant plants like natives, succulents, and ornamental grasses, focusing on their adaptation to arid conditions and modern aesthetic appeal.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-select-drought-tolerant-plants-suitable-for-a-modern-landscape-in-sou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you select drought-tolerant plants suitable for a modern landscape in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting drought-tolerant plants for Southern California's climate involves choosing species adapted to arid conditions and minimal water. We prioritize native plants and Mediterranean-climate options that require little irrigation once established, such as succulents, ornamental grasses, and certain shrubs like 'Little Ollie' or Rosemary. The selection also considers their form, texture, and color to align with modern aesthetics, emphasizing structural interest and muted tones. We aim for plants that thrive with minimal intervention, reducing water use and maintenance.",
+        "description": "We select drought-tolerant plants like natives, succulents, and ornamental grasses, focusing on their adaptation to arid conditions and modern aesthetic appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drip irrigation and how does it work for landscaping?",
+  "description": "Drip irrigation delivers water directly to plant roots through emitters, conserving water and promoting healthier plant growth by minimizing evaporation and run",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-drip-irrigation-and-how-does-it-work-for-landscaping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drip irrigation and how does it work for landscaping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip irrigation is an efficient watering system that delivers water directly to the plant roots, typically through a network of tubing, emitters, and drippers. Water slowly drips out at a controlled rate, minimizing evaporation and runoff. This method conserves water significantly compared to traditional sprinklers, promotes healthier plant growth by providing consistent moisture, and reduces weed growth as water is only directed to desired plants. It's ideal for gardens, trees, shrubs, and flower beds in diverse landscapes.",
+        "description": "Drip irrigation delivers water directly to plant roots through emitters, conserving water and promoting healthier plant growth by minimizing evaporation and runoff."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

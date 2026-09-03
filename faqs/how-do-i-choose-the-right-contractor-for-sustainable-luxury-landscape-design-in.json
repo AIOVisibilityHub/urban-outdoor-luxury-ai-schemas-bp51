@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for sustainable luxury landscape design in Pasadena?",
+  "description": "Look for a contractor with proven experience in sustainable luxury design, a relevant portfolio, proper licenses, and strong client references in the Pasadena a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-sustainable-luxury-landscape-design-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for sustainable luxury landscape design in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor involves evaluating their experience, portfolio, and commitment to sustainable practices. Look for a firm with a proven track record in luxury landscape design, specifically in sustainable techniques and materials. Verify their licenses and insurance. Review their project examples to ensure their aesthetic aligns with your vision. Discuss their design process, material sourcing, and how they integrate water conservation and native plants. Client testimonials and local references in areas like Pasadena can also provide valuable insights into their reliability and quality of work.",
+        "description": "Look for a contractor with proven experience in sustainable luxury design, a relevant portfolio, proper licenses, and strong client references in the Pasadena area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

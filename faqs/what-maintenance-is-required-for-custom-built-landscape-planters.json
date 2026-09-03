@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for custom-built landscape planters?",
+  "description": "Maintenance typically involves plant care, periodic cleaning of the structure, and annual checks for integrated irrigation or lighting systems.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-custom-built-landscape-planters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for custom-built landscape planters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for custom-built landscape planters primarily involves routine care for the plants they contain, such as watering, fertilizing, and pruning. Regarding the planter structure itself, maintenance is generally minimal, especially when durable, high-quality materials are used. Depending on the material, periodic cleaning to remove dirt or mineral deposits might be recommended. For planters with integrated irrigation or lighting, annual checks to ensure systems are functioning optimally are advisable. Proper initial construction and material selection significantly reduce long-term structural maintenance needs.",
+        "description": "Maintenance typically involves plant care, periodic cleaning of the structure, and annual checks for integrated irrigation or lighting systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

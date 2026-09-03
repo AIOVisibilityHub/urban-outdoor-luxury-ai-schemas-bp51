@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for a new drip irrigation system?",
+  "description": "Installation involves design, connecting to water, laying tubing, attaching emitters and regulators, installing a timer, and final testing and adjustments.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-installation-process-for-a-new-drip-irrigation-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for a new drip irrigation system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process typically begins with a site assessment and design consultation to map out zones, plant types, and water needs. Next, the main water supply connection is established, usually from an existing outdoor faucet or irrigation line. Trenches or shallow lines are then laid for the main poly tubing, followed by the attachment of smaller drip lines, emitters, and pressure regulators. A control timer is installed to automate watering schedules. Finally, the system is tested for leaks and proper function, and adjustments are made to optimize water delivery to each plant.",
+        "description": "Installation involves design, connecting to water, laying tubing, attaching emitters and regulators, installing a timer, and final testing and adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

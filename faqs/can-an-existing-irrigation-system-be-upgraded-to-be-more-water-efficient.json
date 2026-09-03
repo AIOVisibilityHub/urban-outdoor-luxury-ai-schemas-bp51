@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an existing irrigation system be upgraded to be more water-efficient?",
+  "description": "Existing irrigation systems can be upgraded with efficient sprinkler heads, drip irrigation, and smart controllers to significantly improve water efficiency and",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-existing-irrigation-system-be-upgraded-to-be-more-water-efficient",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an existing irrigation system be upgraded to be more water-efficient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many existing irrigation systems can be significantly upgraded to improve water efficiency. This often involves replacing outdated sprinkler heads with more efficient models, installing drip irrigation in appropriate zones, and integrating smart irrigation controllers. Smart controllers use local weather data, soil moisture sensors, or plant type information to automatically adjust watering schedules, preventing overwatering and reducing waste. These upgrades can lead to substantial water savings and healthier landscapes.",
+        "description": "Existing irrigation systems can be upgraded with efficient sprinkler heads, drip irrigation, and smart controllers to significantly improve water efficiency and reduce waste."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for a stone retaining wall project?",
+  "description": "Choose a contractor based on experience, licensing, insurance, portfolio, references, clear communication, and knowledge of local building codes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-stone-retaining-wall-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for a stone retaining wall project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor, prioritize experience with stone retaining walls, proper licensing, and insurance. Look for a portfolio of completed projects, ask for references, and ensure they offer a detailed, written contract. A reputable contractor will conduct a thorough site evaluation, discuss design options, and provide a transparent quote. They should also be knowledgeable about local building codes and permit requirements. Choose a team that communicates clearly and inspires confidence in their expertise.",
+        "description": "Choose a contractor based on experience, licensing, insurance, portfolio, references, clear communication, and knowledge of local building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

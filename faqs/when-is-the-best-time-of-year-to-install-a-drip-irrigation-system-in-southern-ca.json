@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install a drip irrigation system in Southern California?",
+  "description": "The best time for installation in Southern California is late fall through early spring (October-April) to avoid summer heat and allow plants to establish effic",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-a-drip-irrigation-system-in-southern-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install a drip irrigation system in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Southern California, the best time to install a drip irrigation system is typically during the cooler, drier months, from late fall through early spring (October to April). This period avoids the intense heat of summer, which can stress new plants and make installation more challenging for crews. Installing before the peak growing season allows plants to establish with efficient watering from the start. However, drip systems can be installed year-round, and our team is equipped to work in various conditions, adapting the schedule to minimize impact on your landscape.",
+        "description": "The best time for installation in Southern California is late fall through early spring (October-April) to avoid summer heat and allow plants to establish efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

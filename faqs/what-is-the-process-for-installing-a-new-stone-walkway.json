@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing a new stone walkway?",
+  "description": "The process involves site excavation, laying a stable base of gravel and sand, carefully placing and fitting the stone, filling gaps, compacting, and a final in",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-new-stone-walkway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing a new stone walkway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process for a new stone walkway typically begins with site preparation, which includes excavation to the correct depth and ensuring proper drainage. Next, a stable base layer, often composed of compacted gravel and sand, is installed to prevent settling and promote water runoff. The selected stone is then carefully laid, cut, and fitted to create the desired pattern and pathway. Gaps between stones are filled with polymeric sand or mortar, and the walkway is compacted to ensure stability and longevity. Finally, the area is cleaned, and a final inspection is conducted.",
+        "description": "The process involves site excavation, laying a stable base of gravel and sand, carefully placing and fitting the stone, filling gaps, compacting, and a final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

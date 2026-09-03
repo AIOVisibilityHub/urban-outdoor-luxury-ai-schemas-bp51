@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of natural stone are best for outdoor stairs in Los Angeles?",
+  "description": "Granite, flagstone, and bluestone are top choices for outdoor stairs in Los Angeles due to their durability and aesthetic appeal. Travertine is also suitable wi",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-natural-stone-are-best-for-outdoor-stairs-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of natural stone are best for outdoor stairs in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For outdoor stairs in Los Angeles, durable natural stones like granite, flagstone, and bluestone are excellent choices. Granite offers exceptional hardness and resistance to weathering, making it ideal for high-traffic areas. Flagstone, often irregular in shape, provides a rustic and natural aesthetic while being very slip-resistant. Bluestone, a type of sandstone, is known for its beautiful blue-gray hues and good durability. Travertine is also an option, but requires proper sealing due to its porous nature. The best choice depends on your aesthetic preference, desired durability, and maintenance commitment, considering the local climate's sun exposure and occasional rain.",
+        "description": "Granite, flagstone, and bluestone are top choices for outdoor stairs in Los Angeles due to their durability and aesthetic appeal. Travertine is also suitable with proper sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

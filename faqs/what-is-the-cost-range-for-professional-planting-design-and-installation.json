@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost range for professional planting design and installation?",
+  "description": "Costs vary based on project size, design complexity, plant types, and site preparation. Simple projects can be thousands, while extensive ones are significantly",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-cost-range-for-professional-planting-design-and-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost range for professional planting design and installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional planting design and installation can vary widely. Factors influencing the price include the size of the area, complexity of the design, types and quantities of plants selected, soil amendment requirements, and any necessary site preparation. Simple installations might start in the low thousands, while extensive, custom designs with mature specimens or specialized features can range significantly higher. We provide a detailed, itemized quote after assessing your specific project needs and design preferences.",
+        "description": "Costs vary based on project size, design complexity, plant types, and site preparation. Simple projects can be thousands, while extensive ones are significantly higher."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

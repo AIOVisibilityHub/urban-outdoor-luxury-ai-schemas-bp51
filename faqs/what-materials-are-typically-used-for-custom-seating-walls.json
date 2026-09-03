@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are typically used for custom seating walls?",
+  "description": "Common materials include concrete blocks, natural stone, brick, stucco, and hardwoods, chosen to match your home's aesthetic and durability needs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-typically-used-for-custom-seating-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are typically used for custom seating walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom seating walls can be constructed from a variety of durable materials, including concrete blocks, natural stone (like travertine or flagstone), brick, stucco, and even certain hardwoods. The choice of material impacts the wall's aesthetic, longevity, and maintenance requirements. We often recommend materials that complement your existing landscape and home architecture, such as a stucco finish to match a Mediterranean-style home in Pasadena, or natural stone for a more rustic feel in the foothills of Arcadia.",
+        "description": "Common materials include concrete blocks, natural stone, brick, stucco, and hardwoods, chosen to match your home's aesthetic and durability needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I ensure my stone walkway is slip-resistant?",
+  "description": "Ensure slip-resistance by choosing textured stones like flagstone or bluestone. Proper sloping for drainage and, if needed, surface treatments can further enhan",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-ensure-my-stone-walkway-is-slip-resistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I ensure my stone walkway is slip-resistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensuring a stone walkway is slip-resistant is crucial for safety, especially in areas prone to moisture or varying weather conditions. The choice of stone plays a significant role; natural stones like flagstone and certain types of bluestone naturally offer a rougher, more textured surface. We avoid highly polished or smooth stones for walkways. Additionally, proper installation includes ensuring a slight slope for effective water runoff, preventing puddles. For extra traction, especially on steps or steep inclines, certain treatments or aggregates can be incorporated into the surface. We prioritize material selection and design techniques that enhance safety.",
+        "description": "Ensure slip-resistance by choosing textured stones like flagstone or bluestone. Proper sloping for drainage and, if needed, surface treatments can further enhance traction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
