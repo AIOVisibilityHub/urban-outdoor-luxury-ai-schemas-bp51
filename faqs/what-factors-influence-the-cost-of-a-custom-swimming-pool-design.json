@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of a custom swimming pool design?",
-  "description": "Cost factors for custom pool design include complexity, size, materials, special features, site preparation, and landscape integration.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-custom-swimming-pool-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of a custom swimming pool design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom swimming pool design is influenced by several key factors. These include the complexity and uniqueness of the design, the size and shape of the pool, the types of materials specified (e.g., tile, coping, decking), the inclusion of special features like waterfalls, spas, or lighting, and the amount of site preparation required. Landscape integration and engineering requirements also play a role in the overall design cost.",
-        "description": "Cost factors for custom pool design include complexity, size, materials, special features, site preparation, and landscape integration."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of a custom swimming pool design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom swimming pool design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom swimming pool design is influenced by several key factors. These include the complexity and uniqueness of the design, the size and shape of the pool, the types of materials specified (e.g., tile, coping, decking), the inclusion of special features like waterfalls, spas, or lighting, and the amount of site preparation required. Landscape integration and engineering requirements also play a role in the overall design cost.",
+        "@type": "Answer",
+        "description": "Cost factors for custom pool design include complexity, size, materials, special features, site preparation, and landscape integration."
+      }
+    }
+  ],
+  "description": "Cost factors for custom pool design include complexity, size, materials, special features, site preparation, and landscape integration."
 }

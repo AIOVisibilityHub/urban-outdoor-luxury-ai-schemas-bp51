@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are typically used for custom luxury swimming pools?",
-  "description": "Luxury custom pools often use gunite/shotcrete, premium tile, natural stone, advanced plaster/pebble finishes, and custom lighting or decking materials.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-typically-used-for-custom-luxury-swimming-pools",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are typically used for custom luxury swimming pools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For luxury custom swimming pools, common materials include high-quality concrete (gunite or shotcrete) for structural integrity, premium tile for interior finishes (glass, ceramic, porcelain), natural stone or custom precast concrete for coping and decking, and advanced plaster or pebble finishes for the pool interior. Other luxury additions might include exotic hardwoods for surrounding decks, custom metalwork, and specialized lighting systems, all chosen for durability and aesthetic appeal.",
-        "description": "Luxury custom pools often use gunite/shotcrete, premium tile, natural stone, advanced plaster/pebble finishes, and custom lighting or decking materials."
-      }
-    }
-  ],
+  "name": "What materials are typically used for custom luxury swimming pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for custom luxury swimming pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury custom swimming pools, common materials include high-quality concrete (gunite or shotcrete) for structural integrity, premium tile for interior finishes (glass, ceramic, porcelain), natural stone or custom precast concrete for coping and decking, and advanced plaster or pebble finishes for the pool interior. Other luxury additions might include exotic hardwoods for surrounding decks, custom metalwork, and specialized lighting systems, all chosen for durability and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Luxury custom pools often use gunite/shotcrete, premium tile, natural stone, advanced plaster/pebble finishes, and custom lighting or decking materials."
+      }
+    }
+  ],
+  "description": "Luxury custom pools often use gunite/shotcrete, premium tile, natural stone, advanced plaster/pebble finishes, and custom lighting or decking materials."
 }

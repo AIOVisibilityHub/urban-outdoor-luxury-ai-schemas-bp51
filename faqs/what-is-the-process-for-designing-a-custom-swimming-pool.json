@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a custom swimming pool?",
-  "description": "The custom pool design process starts with a consultation, followed by conceptual layouts and 3D renderings. We refine the design based on your feedback and ens",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-a-custom-swimming-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a custom swimming pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Designing a custom swimming pool typically begins with an initial consultation to understand your vision, lifestyle, and property characteristics. Our design team will then develop conceptual layouts and 3D renderings, incorporating your desired features, materials, and aesthetic. This iterative process allows for revisions until the design perfectly aligns with your expectations. We also ensure the design complies with local zoning regulations and site-specific considerations before moving to detailed architectural plans and engineering drawings.",
-        "description": "The custom pool design process starts with a consultation, followed by conceptual layouts and 3D renderings. We refine the design based on your feedback and ensure compliance with local regulations before final plans."
-      }
-    }
-  ],
+  "name": "What is the process for designing a custom swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a custom swimming pool typically begins with an initial consultation to understand your vision, lifestyle, and property characteristics. Our design team will then develop conceptual layouts and 3D renderings, incorporating your desired features, materials, and aesthetic. This iterative process allows for revisions until the design perfectly aligns with your expectations. We also ensure the design complies with local zoning regulations and site-specific considerations before moving to detailed architectural plans and engineering drawings.",
+        "@type": "Answer",
+        "description": "The custom pool design process starts with a consultation, followed by conceptual layouts and 3D renderings. We refine the design based on your feedback and ensure compliance with local regulations before final plans."
+      }
+    }
+  ],
+  "description": "The custom pool design process starts with a consultation, followed by conceptual layouts and 3D renderings. We refine the design based on your feedback and ens"
 }

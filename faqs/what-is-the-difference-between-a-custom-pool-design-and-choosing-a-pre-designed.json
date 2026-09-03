@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a custom pool design and choosing a pre-designed pool shape?",
-  "description": "Custom pool design is bespoke to your property and preferences, while pre-designed pools use standard templates with less flexibility.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-custom-pool-design-and-choosing-a-pre-designed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a custom pool design and choosing a pre-designed pool shape?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom pool design is a bespoke creation, meticulously shaped to fit your specific property, lifestyle, and aesthetic preferences, often incorporating unique features and seamlessly integrating with your home. Pre-designed pool shapes are standard templates that offer less flexibility in size, features, and integration. While pre-designed options can be quicker and sometimes less expensive, they may not optimize your space or reflect your unique vision as precisely as a custom design.",
-        "description": "Custom pool design is bespoke to your property and preferences, while pre-designed pools use standard templates with less flexibility."
-      }
-    }
-  ],
+  "name": "What is the difference between a custom pool design and choosing a pre-designed pool shape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom pool design and choosing a pre-designed pool shape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom pool design is a bespoke creation, meticulously shaped to fit your specific property, lifestyle, and aesthetic preferences, often incorporating unique features and seamlessly integrating with your home. Pre-designed pool shapes are standard templates that offer less flexibility in size, features, and integration. While pre-designed options can be quicker and sometimes less expensive, they may not optimize your space or reflect your unique vision as precisely as a custom design.",
+        "@type": "Answer",
+        "description": "Custom pool design is bespoke to your property and preferences, while pre-designed pools use standard templates with less flexibility."
+      }
+    }
+  ],
+  "description": "Custom pool design is bespoke to your property and preferences, while pre-designed pools use standard templates with less flexibility."
 }

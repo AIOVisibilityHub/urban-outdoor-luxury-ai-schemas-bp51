@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for a custom swimming pool installation project?",
-  "description": "Custom pool installations typically take 3 to 6 months, from initial design to landscaping completion, influenced by design complexity, permits, and site condit",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-custom-swimming-pool-installation-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for a custom swimming pool installation project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a custom swimming pool installation varies depending on the complexity of the design, site conditions, permitting processes, and material availability. Generally, projects from initial design to final landscaping completion can take anywhere from 3 to 6 months. This includes time for design consultation, permit acquisition, excavation, pool shell installation, plumbing, electrical work, decking, and finishing touches. Factors like weather delays or unexpected site challenges can also influence the overall duration. We provide a detailed project schedule early in the process.",
-        "description": "Custom pool installations typically take 3 to 6 months, from initial design to landscaping completion, influenced by design complexity, permits, and site conditions."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for a custom swimming pool installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a custom swimming pool installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom swimming pool installation varies depending on the complexity of the design, site conditions, permitting processes, and material availability. Generally, projects from initial design to final landscaping completion can take anywhere from 3 to 6 months. This includes time for design consultation, permit acquisition, excavation, pool shell installation, plumbing, electrical work, decking, and finishing touches. Factors like weather delays or unexpected site challenges can also influence the overall duration. We provide a detailed project schedule early in the process.",
+        "@type": "Answer",
+        "description": "Custom pool installations typically take 3 to 6 months, from initial design to landscaping completion, influenced by design complexity, permits, and site conditions."
+      }
+    }
+  ],
+  "description": "Custom pool installations typically take 3 to 6 months, from initial design to landscaping completion, influenced by design complexity, permits, and site condit"
 }

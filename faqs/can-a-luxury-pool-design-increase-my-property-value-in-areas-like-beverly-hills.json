@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a luxury pool design increase my property value in areas like Beverly Hills or Bel Air?",
-  "description": "Yes, a well-designed luxury pool can significantly increase property value, especially in high-end areas, by creating a sophisticated outdoor oasis.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-luxury-pool-design-increase-my-property-value-in-areas-like-beverly-hills",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a luxury pool design increase my property value in areas like Beverly Hills or Bel Air?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-designed and expertly constructed luxury pool can significantly enhance your property's value, particularly in desirable areas like Beverly Hills, Bel Air, or Brentwood. It transforms a backyard into a sophisticated outdoor oasis, appealing to affluent buyers seeking premium amenities and a distinguished lifestyle. Key factors influencing value include the quality of materials, the pool's integration with the home and landscape, unique features, and overall aesthetic appeal. A luxury pool becomes a focal point that elevates the entire estate, making it a valuable investment.",
-        "description": "Yes, a well-designed luxury pool can significantly increase property value, especially in high-end areas, by creating a sophisticated outdoor oasis."
-      }
-    }
-  ],
+  "name": "Can a luxury pool design increase my property value in areas like Beverly Hills or Bel Air?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a luxury pool design increase my property value in areas like Beverly Hills or Bel Air?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and expertly constructed luxury pool can significantly enhance your property's value, particularly in desirable areas like Beverly Hills, Bel Air, or Brentwood. It transforms a backyard into a sophisticated outdoor oasis, appealing to affluent buyers seeking premium amenities and a distinguished lifestyle. Key factors influencing value include the quality of materials, the pool's integration with the home and landscape, unique features, and overall aesthetic appeal. A luxury pool becomes a focal point that elevates the entire estate, making it a valuable investment.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed luxury pool can significantly increase property value, especially in high-end areas, by creating a sophisticated outdoor oasis."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed luxury pool can significantly increase property value, especially in high-end areas, by creating a sophisticated outdoor oasis."
 }

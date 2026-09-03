@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of integrating smart home technology into a luxury pool design?",
-  "description": "Smart home technology provides remote control over pool functions like heating, lighting, and filtration, enhancing convenience, efficiency, and overall experie",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-integrating-smart-home-technology-into-a-luxury-pool-de",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of integrating smart home technology into a luxury pool design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Integrating smart home technology into a luxury pool design offers enhanced convenience, energy efficiency, and control. You can manage pool functions such as filtration, heating, lighting, and water features remotely via a smartphone or tablet. This allows for precise scheduling, temperature adjustments, and mood lighting customization from anywhere. Smart systems can also monitor chemical levels and equipment performance, providing alerts for maintenance needs. This level of automation optimizes operational efficiency and elevates the overall user experience, making pool ownership more enjoyable.",
-        "description": "Smart home technology provides remote control over pool functions like heating, lighting, and filtration, enhancing convenience, efficiency, and overall experience."
-      }
-    }
-  ],
+  "name": "What are the benefits of integrating smart home technology into a luxury pool design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of integrating smart home technology into a luxury pool design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating smart home technology into a luxury pool design offers enhanced convenience, energy efficiency, and control. You can manage pool functions such as filtration, heating, lighting, and water features remotely via a smartphone or tablet. This allows for precise scheduling, temperature adjustments, and mood lighting customization from anywhere. Smart systems can also monitor chemical levels and equipment performance, providing alerts for maintenance needs. This level of automation optimizes operational efficiency and elevates the overall user experience, making pool ownership more enjoyable.",
+        "@type": "Answer",
+        "description": "Smart home technology provides remote control over pool functions like heating, lighting, and filtration, enhancing convenience, efficiency, and overall experience."
+      }
+    }
+  ],
+  "description": "Smart home technology provides remote control over pool functions like heating, lighting, and filtration, enhancing convenience, efficiency, and overall experie"
 }

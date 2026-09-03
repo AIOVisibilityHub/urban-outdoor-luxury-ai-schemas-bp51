@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right custom pool builder for my project?",
-  "description": "Select a custom pool builder by reviewing their experience, portfolio, and client testimonials. Verify their licenses and insurance, and ensure they offer trans",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-custom-pool-builder-for-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right custom pool builder for my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right custom pool builder involves researching their experience, portfolio of completed projects, and client testimonials. Look for a builder with a strong track record of designing and constructing high-quality pools that match your aesthetic and functional requirements. Verify their licenses, insurance, and professional affiliations. A reputable builder will offer transparent communication, detailed proposals, and a clear understanding of the design and construction process. Obtaining multiple bids and checking references are also crucial steps.",
-        "description": "Select a custom pool builder by reviewing their experience, portfolio, and client testimonials. Verify their licenses and insurance, and ensure they offer transparent communication and detailed proposals."
-      }
-    }
-  ],
+  "name": "How do I choose the right custom pool builder for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right custom pool builder for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right custom pool builder involves researching their experience, portfolio of completed projects, and client testimonials. Look for a builder with a strong track record of designing and constructing high-quality pools that match your aesthetic and functional requirements. Verify their licenses, insurance, and professional affiliations. A reputable builder will offer transparent communication, detailed proposals, and a clear understanding of the design and construction process. Obtaining multiple bids and checking references are also crucial steps.",
+        "@type": "Answer",
+        "description": "Select a custom pool builder by reviewing their experience, portfolio, and client testimonials. Verify their licenses and insurance, and ensure they offer transparent communication and detailed proposals."
+      }
+    }
+  ],
+  "description": "Select a custom pool builder by reviewing their experience, portfolio, and client testimonials. Verify their licenses and insurance, and ensure they offer trans"
 }

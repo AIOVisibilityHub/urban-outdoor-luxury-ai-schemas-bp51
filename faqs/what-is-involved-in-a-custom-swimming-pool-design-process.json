@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in a custom swimming pool design process?",
-  "description": "The custom pool design process includes initial consultation, concept development, detailed drawings, and material selection, all tailored to your vision and pr",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-custom-swimming-pool-design-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in a custom swimming pool design process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The custom swimming pool design process typically begins with a consultation to discuss your vision, property characteristics, and budget. Our designers then create preliminary concepts, incorporating elements like pool shape, size, depth, materials, and surrounding landscape features. This is followed by detailed architectural drawings, 3D renderings, and material selections. We work collaboratively with you through each iteration, ensuring the final design perfectly matches your lifestyle and outdoor space before moving to the construction phase.",
-        "description": "The custom pool design process includes initial consultation, concept development, detailed drawings, and material selection, all tailored to your vision and property."
-      }
-    }
-  ],
+  "name": "What is involved in a custom swimming pool design process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom swimming pool design process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom swimming pool design process typically begins with a consultation to discuss your vision, property characteristics, and budget. Our designers then create preliminary concepts, incorporating elements like pool shape, size, depth, materials, and surrounding landscape features. This is followed by detailed architectural drawings, 3D renderings, and material selections. We work collaboratively with you through each iteration, ensuring the final design perfectly matches your lifestyle and outdoor space before moving to the construction phase.",
+        "@type": "Answer",
+        "description": "The custom pool design process includes initial consultation, concept development, detailed drawings, and material selection, all tailored to your vision and property."
+      }
+    }
+  ],
+  "description": "The custom pool design process includes initial consultation, concept development, detailed drawings, and material selection, all tailored to your vision and pr"
 }
