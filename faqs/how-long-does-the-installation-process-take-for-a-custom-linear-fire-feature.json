@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the installation process take for a custom linear fire feature?",
-  "description": "Installation of a custom linear fire feature typically takes 2 to 4 weeks, depending on design complexity and site conditions.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-installation-process-take-for-a-custom-linear-fire-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the installation process take for a custom linear fire feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation timeline for a custom linear fire feature generally ranges from 2 to 4 weeks from project commencement, after design and permitting are finalized. This includes site preparation, gas line installation, construction of the fire feature structure, integration of burners, and finishing work. Factors like weather, material availability, and the complexity of surrounding hardscaping can influence the overall duration. We provide a detailed project schedule upfront.",
-        "description": "Installation of a custom linear fire feature typically takes 2 to 4 weeks, depending on design complexity and site conditions."
-      }
-    }
-  ],
+  "name": "How long does the installation process take for a custom linear fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the installation process take for a custom linear fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a custom linear fire feature generally ranges from 2 to 4 weeks from project commencement, after design and permitting are finalized. This includes site preparation, gas line installation, construction of the fire feature structure, integration of burners, and finishing work. Factors like weather, material availability, and the complexity of surrounding hardscaping can influence the overall duration. We provide a detailed project schedule upfront.",
+        "@type": "Answer",
+        "description": "Installation of a custom linear fire feature typically takes 2 to 4 weeks, depending on design complexity and site conditions."
+      }
+    }
+  ],
+  "description": "Installation of a custom linear fire feature typically takes 2 to 4 weeks, depending on design complexity and site conditions."
 }

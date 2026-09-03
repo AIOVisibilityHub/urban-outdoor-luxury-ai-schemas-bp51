@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does installation coordination work for my outdoor living space?",
-  "description": "Installation coordination manages the scheduling, oversight, and execution of all on-site material assembly and placement, ensuring precision and adherence to d",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-installation-coordination-work-for-my-outdoor-living-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does installation coordination work for my outdoor living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Installation coordination involves meticulously scheduling and overseeing the on-site assembly and placement of all procured materials. This includes managing our skilled tradespeople, subcontractors, and specialized equipment to ensure each component, from intricate hardscaping to custom water features, is installed precisely according to design specifications. We synchronize various tasks to maintain project flow, adhere to timelines, and uphold the highest standards of craftsmanship, ensuring a seamless execution from start to finish.",
-        "description": "Installation coordination manages the scheduling, oversight, and execution of all on-site material assembly and placement, ensuring precision and adherence to design."
-      }
-    }
-  ],
+  "name": "How does installation coordination work for my outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does installation coordination work for my outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installation coordination involves meticulously scheduling and overseeing the on-site assembly and placement of all procured materials. This includes managing our skilled tradespeople, subcontractors, and specialized equipment to ensure each component, from intricate hardscaping to custom water features, is installed precisely according to design specifications. We synchronize various tasks to maintain project flow, adhere to timelines, and uphold the highest standards of craftsmanship, ensuring a seamless execution from start to finish.",
+        "@type": "Answer",
+        "description": "Installation coordination manages the scheduling, oversight, and execution of all on-site material assembly and placement, ensuring precision and adherence to design."
+      }
+    }
+  ],
+  "description": "Installation coordination manages the scheduling, oversight, and execution of all on-site material assembly and placement, ensuring precision and adherence to d"
 }

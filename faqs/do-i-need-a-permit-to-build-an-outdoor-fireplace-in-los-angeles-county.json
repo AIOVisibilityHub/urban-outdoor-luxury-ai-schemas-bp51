@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to build an outdoor fireplace in Los Angeles County?",
-  "description": "Yes, permits are typically required for outdoor fireplace construction in Los Angeles County to ensure compliance with local building codes and safety regulatio",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-to-build-an-outdoor-fireplace-in-los-angeles-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to build an outdoor fireplace in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, building an outdoor fireplace in Los Angeles County, including areas like Pasadena and Arcadia, typically requires a permit. This is to ensure compliance with local building codes, safety regulations, and zoning ordinances. The permitting process usually involves submitting detailed plans, including structural designs and utility connections. Failure to obtain necessary permits can lead to fines, project delays, or even the requirement to dismantle the structure. Our firm handles the entire permitting process, ensuring your project meets all local requirements.",
-        "description": "Yes, permits are typically required for outdoor fireplace construction in Los Angeles County to ensure compliance with local building codes and safety regulations."
-      }
-    }
-  ],
+  "name": "Do I need a permit to build an outdoor fireplace in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build an outdoor fireplace in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an outdoor fireplace in Los Angeles County, including areas like Pasadena and Arcadia, typically requires a permit. This is to ensure compliance with local building codes, safety regulations, and zoning ordinances. The permitting process usually involves submitting detailed plans, including structural designs and utility connections. Failure to obtain necessary permits can lead to fines, project delays, or even the requirement to dismantle the structure. Our firm handles the entire permitting process, ensuring your project meets all local requirements.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for outdoor fireplace construction in Los Angeles County to ensure compliance with local building codes and safety regulations."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for outdoor fireplace construction in Los Angeles County to ensure compliance with local building codes and safety regulatio"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for an outdoor kitchen in Los Angeles County?",
-  "description": "Permits for outdoor kitchens in Los Angeles County often include electrical, plumbing, and gas, and potentially structural permits, depending on the project sco",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-an-outdoor-kitchen-in-los-angeles-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for an outdoor kitchen in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outdoor kitchen remodels in Los Angeles County often require various permits from local building and safety departments. These can include permits for electrical work, plumbing, and gas lines, especially if new connections are being made or existing ones are modified. Structural permits may also be necessary for significant additions or permanent structures. The specific requirements depend on the scope of work and local municipal codes. Our team assists with identifying and securing the necessary permits for your project.",
-        "description": "Permits for outdoor kitchens in Los Angeles County often include electrical, plumbing, and gas, and potentially structural permits, depending on the project scope."
-      }
-    }
-  ],
+  "name": "What permits are required for an outdoor kitchen in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an outdoor kitchen in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor kitchen remodels in Los Angeles County often require various permits from local building and safety departments. These can include permits for electrical work, plumbing, and gas lines, especially if new connections are being made or existing ones are modified. Structural permits may also be necessary for significant additions or permanent structures. The specific requirements depend on the scope of work and local municipal codes. Our team assists with identifying and securing the necessary permits for your project.",
+        "@type": "Answer",
+        "description": "Permits for outdoor kitchens in Los Angeles County often include electrical, plumbing, and gas, and potentially structural permits, depending on the project scope."
+      }
+    }
+  ],
+  "description": "Permits for outdoor kitchens in Los Angeles County often include electrical, plumbing, and gas, and potentially structural permits, depending on the project sco"
 }

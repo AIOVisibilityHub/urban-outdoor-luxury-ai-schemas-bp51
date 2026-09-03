@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for a major residential remodel?",
-  "description": "Major residential remodels typically take 4-12 months, depending on scope, complexity, and permitting in your area.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-major-residential-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for a major residential remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a major residential remodel varies significantly based on its scope and complexity. A small kitchen or bathroom update might take 4-8 weeks, while a whole-house renovation or significant addition could span 6-12 months or more. Key factors include design finalization, permitting in Los Angeles County, material lead times, and the availability of skilled tradespeople. We provide a detailed project schedule upfront, outlining each phase from demolition to final inspections, to keep you informed.",
-        "description": "Major residential remodels typically take 4-12 months, depending on scope, complexity, and permitting in your area."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for a major residential remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a major residential remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a major residential remodel varies significantly based on its scope and complexity. A small kitchen or bathroom update might take 4-8 weeks, while a whole-house renovation or significant addition could span 6-12 months or more. Key factors include design finalization, permitting in Los Angeles County, material lead times, and the availability of skilled tradespeople. We provide a detailed project schedule upfront, outlining each phase from demolition to final inspections, to keep you informed.",
+        "@type": "Answer",
+        "description": "Major residential remodels typically take 4-12 months, depending on scope, complexity, and permitting in your area."
+      }
+    }
+  ],
+  "description": "Major residential remodels typically take 4-12 months, depending on scope, complexity, and permitting in your area."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost impact of material procurement on an outdoor luxury project?",
-  "description": "Material costs typically comprise 30-60% of an outdoor luxury project's budget; we aim for competitive pricing through strategic procurement.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-cost-impact-of-material-procurement-on-an-outdoor-luxury-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost impact of material procurement on an outdoor luxury project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Material costs are a significant component of an outdoor luxury project's overall budget, often ranging from 30% to 60% depending on the chosen finishes and features. Our procurement strategy focuses on securing high-quality materials at competitive prices through bulk purchasing and strong supplier relationships. We provide detailed cost breakdowns early on, allowing you to make informed decisions about material selections that align with your aesthetic goals and budget.",
-        "description": "Material costs typically comprise 30-60% of an outdoor luxury project's budget; we aim for competitive pricing through strategic procurement."
-      }
-    }
-  ],
+  "name": "What is the cost impact of material procurement on an outdoor luxury project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost impact of material procurement on an outdoor luxury project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material costs are a significant component of an outdoor luxury project's overall budget, often ranging from 30% to 60% depending on the chosen finishes and features. Our procurement strategy focuses on securing high-quality materials at competitive prices through bulk purchasing and strong supplier relationships. We provide detailed cost breakdowns early on, allowing you to make informed decisions about material selections that align with your aesthetic goals and budget.",
+        "@type": "Answer",
+        "description": "Material costs typically comprise 30-60% of an outdoor luxury project's budget; we aim for competitive pricing through strategic procurement."
+      }
+    }
+  ],
+  "description": "Material costs typically comprise 30-60% of an outdoor luxury project's budget; we aim for competitive pricing through strategic procurement."
 }

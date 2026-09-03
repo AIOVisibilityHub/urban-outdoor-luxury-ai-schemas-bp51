@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I incorporate sustainable or green building practices into my luxury home?",
-  "description": "Yes, luxury homes can incorporate sustainable practices like solar panels, advanced insulation, sustainable materials, and smart energy management to reduce env",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-incorporate-sustainable-or-green-building-practices-into-my-luxury-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I incorporate sustainable or green building practices into my luxury home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Sustainable and green building practices are increasingly integral to luxury home construction. This can include incorporating energy-efficient systems like solar panels, advanced insulation, and high-efficiency HVAC. We can also utilize sustainable materials, rainwater harvesting systems, and smart home technology for optimized resource management. Urban Outdoor Luxury is experienced in designing and building homes that are both luxurious and environmentally responsible, enhancing comfort while reducing operational costs and environmental impact.",
-        "description": "Yes, luxury homes can incorporate sustainable practices like solar panels, advanced insulation, sustainable materials, and smart energy management to reduce environmental impact."
-      }
-    }
-  ],
+  "name": "Can I incorporate sustainable or green building practices into my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate sustainable or green building practices into my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Sustainable and green building practices are increasingly integral to luxury home construction. This can include incorporating energy-efficient systems like solar panels, advanced insulation, and high-efficiency HVAC. We can also utilize sustainable materials, rainwater harvesting systems, and smart home technology for optimized resource management. Urban Outdoor Luxury is experienced in designing and building homes that are both luxurious and environmentally responsible, enhancing comfort while reducing operational costs and environmental impact.",
+        "@type": "Answer",
+        "description": "Yes, luxury homes can incorporate sustainable practices like solar panels, advanced insulation, sustainable materials, and smart energy management to reduce environmental impact."
+      }
+    }
+  ],
+  "description": "Yes, luxury homes can incorporate sustainable practices like solar panels, advanced insulation, sustainable materials, and smart energy management to reduce env"
 }

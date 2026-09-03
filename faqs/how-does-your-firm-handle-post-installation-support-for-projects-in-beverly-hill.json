@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does your firm handle post-installation support for projects in Beverly Hills or Calabasas?",
-  "description": "Our post-installation support process is consistent across all service areas like Beverly Hills and Calabasas. Scheduling may vary slightly, but our high standa",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-your-firm-handle-post-installation-support-for-projects-in-beverly-hill",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does your firm handle post-installation support for projects in Beverly Hills or Calabasas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our post-installation support process remains consistent across all service areas, including Beverly Hills and Calabasas. The primary difference might involve scheduling considerations due to travel times or specific community guidelines for access. We maintain the same high standard of responsiveness and quality of service, ensuring that our team is dispatched efficiently to address any post-installation needs regardless of location within our service footprint. Our goal is consistent client satisfaction.",
-        "description": "Our post-installation support process is consistent across all service areas like Beverly Hills and Calabasas. Scheduling may vary slightly, but our high standards for responsiveness and quality remain unchanged."
-      }
-    }
-  ],
+  "name": "How does your firm handle post-installation support for projects in Beverly Hills or Calabasas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does your firm handle post-installation support for projects in Beverly Hills or Calabasas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our post-installation support process remains consistent across all service areas, including Beverly Hills and Calabasas. The primary difference might involve scheduling considerations due to travel times or specific community guidelines for access. We maintain the same high standard of responsiveness and quality of service, ensuring that our team is dispatched efficiently to address any post-installation needs regardless of location within our service footprint. Our goal is consistent client satisfaction.",
+        "@type": "Answer",
+        "description": "Our post-installation support process is consistent across all service areas like Beverly Hills and Calabasas. Scheduling may vary slightly, but our high standards for responsiveness and quality remain unchanged."
+      }
+    }
+  ],
+  "description": "Our post-installation support process is consistent across all service areas like Beverly Hills and Calabasas. Scheduling may vary slightly, but our high standa"
 }

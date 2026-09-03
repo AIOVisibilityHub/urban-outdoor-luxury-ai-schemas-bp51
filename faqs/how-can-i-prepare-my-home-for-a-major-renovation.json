@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I prepare my home for a major renovation?",
-  "description": "Prepare your home by clearing work areas, protecting valuables, arranging temporary storage, and discussing utility logistics with your contractor.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-can-i-prepare-my-home-for-a-major-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I prepare my home for a major renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Preparing your home for a major renovation involves several steps. Clear out the work areas, remove valuables and fragile items, and consider temporary storage solutions. Protect adjacent areas from dust and debris with plastic sheeting. Arrange for temporary living accommodations if the scope of work significantly impacts essential living spaces. Discuss utility shut-offs and access points with your contractor beforehand to ensure a smooth and safe working environment.",
-        "description": "Prepare your home by clearing work areas, protecting valuables, arranging temporary storage, and discussing utility logistics with your contractor."
-      }
-    }
-  ],
+  "name": "How can I prepare my home for a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a major renovation involves several steps. Clear out the work areas, remove valuables and fragile items, and consider temporary storage solutions. Protect adjacent areas from dust and debris with plastic sheeting. Arrange for temporary living accommodations if the scope of work significantly impacts essential living spaces. Discuss utility shut-offs and access points with your contractor beforehand to ensure a smooth and safe working environment.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing work areas, protecting valuables, arranging temporary storage, and discussing utility logistics with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing work areas, protecting valuables, arranging temporary storage, and discussing utility logistics with your contractor."
 }

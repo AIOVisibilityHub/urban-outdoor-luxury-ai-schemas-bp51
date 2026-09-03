@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical payment structure for a general contractor?",
-  "description": "Payment typically involves an initial deposit, followed by progress payments tied to project milestones, with the final payment due upon completion.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-payment-structure-for-a-general-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical payment structure for a general contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical payment structure for a general contractor involves an initial deposit, followed by a series of progress payments. The deposit usually covers initial costs like permits and material procurement. Progress payments are tied to specific project milestones or a predetermined schedule, ensuring you pay for work as it's completed. The final payment is typically due upon project completion and your satisfaction with the finished work. This staged approach protects both the client and the contractor.",
-        "description": "Payment typically involves an initial deposit, followed by progress payments tied to project milestones, with the final payment due upon completion."
-      }
-    }
-  ],
+  "name": "What is the typical payment structure for a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment structure for a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical payment structure for a general contractor involves an initial deposit, followed by a series of progress payments. The deposit usually covers initial costs like permits and material procurement. Progress payments are tied to specific project milestones or a predetermined schedule, ensuring you pay for work as it's completed. The final payment is typically due upon project completion and your satisfaction with the finished work. This staged approach protects both the client and the contractor.",
+        "@type": "Answer",
+        "description": "Payment typically involves an initial deposit, followed by progress payments tied to project milestones, with the final payment due upon completion."
+      }
+    }
+  ],
+  "description": "Payment typically involves an initial deposit, followed by progress payments tied to project milestones, with the final payment due upon completion."
 }

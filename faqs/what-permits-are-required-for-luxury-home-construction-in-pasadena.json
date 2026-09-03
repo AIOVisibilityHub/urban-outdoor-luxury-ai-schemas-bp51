@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for luxury home construction in Pasadena?",
-  "description": "Luxury home construction in Pasadena requires planning, building, grading, and utility permits, and potentially environmental or historic preservation approvals",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-luxury-home-construction-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for luxury home construction in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a luxury home in Pasadena requires various permits, including but not limited to, planning approval, building permits, grading permits, electrical, plumbing, and mechanical permits. Depending on the scope, specific environmental reviews or historic preservation approvals might also be necessary. Urban Outdoor Luxury manages the entire permitting process, coordinating with the City of Pasadena's planning and building departments to ensure all necessary approvals are obtained efficiently and in compliance with local regulations and zoning codes.",
-        "description": "Luxury home construction in Pasadena requires planning, building, grading, and utility permits, and potentially environmental or historic preservation approvals. We manage the permitting process."
-      }
-    }
-  ],
+  "name": "What permits are required for luxury home construction in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for luxury home construction in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a luxury home in Pasadena requires various permits, including but not limited to, planning approval, building permits, grading permits, electrical, plumbing, and mechanical permits. Depending on the scope, specific environmental reviews or historic preservation approvals might also be necessary. Urban Outdoor Luxury manages the entire permitting process, coordinating with the City of Pasadena's planning and building departments to ensure all necessary approvals are obtained efficiently and in compliance with local regulations and zoning codes.",
+        "@type": "Answer",
+        "description": "Luxury home construction in Pasadena requires planning, building, grading, and utility permits, and potentially environmental or historic preservation approvals. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Luxury home construction in Pasadena requires planning, building, grading, and utility permits, and potentially environmental or historic preservation approvals"
 }

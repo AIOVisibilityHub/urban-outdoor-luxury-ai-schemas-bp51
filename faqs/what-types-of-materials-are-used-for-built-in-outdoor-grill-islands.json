@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of materials are used for built-in outdoor grill islands?",
-  "description": "Common materials include stucco, natural stone, brick, and stainless steel, chosen based on aesthetics, budget, and durability.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-materials-are-used-for-built-in-outdoor-grill-islands",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of materials are used for built-in outdoor grill islands?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We utilize a variety of durable and weather-resistant materials for built-in outdoor grill islands. Common choices include stucco, natural stone (e.g., granite, travertine), brick, and stainless steel. The selection depends on your aesthetic preferences, budget, and desired level of maintenance. Our designs ensure the chosen materials complement your home's architecture and withstand the outdoor environment.",
-        "description": "Common materials include stucco, natural stone, brick, and stainless steel, chosen based on aesthetics, budget, and durability."
-      }
-    }
-  ],
+  "name": "What types of materials are used for built-in outdoor grill islands?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for built-in outdoor grill islands?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We utilize a variety of durable and weather-resistant materials for built-in outdoor grill islands. Common choices include stucco, natural stone (e.g., granite, travertine), brick, and stainless steel. The selection depends on your aesthetic preferences, budget, and desired level of maintenance. Our designs ensure the chosen materials complement your home's architecture and withstand the outdoor environment.",
+        "@type": "Answer",
+        "description": "Common materials include stucco, natural stone, brick, and stainless steel, chosen based on aesthetics, budget, and durability."
+      }
+    }
+  ],
+  "description": "Common materials include stucco, natural stone, brick, and stainless steel, chosen based on aesthetics, budget, and durability."
 }

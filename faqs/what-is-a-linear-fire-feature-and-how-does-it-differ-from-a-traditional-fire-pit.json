@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a linear fire feature and how does it differ from a traditional fire pit?",
-  "description": "A linear fire feature is an elongated, modern outdoor fireplace with a continuous line of flame, distinct from traditional round fire pits.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-linear-fire-feature-and-how-does-it-differ-from-a-traditional-fire-pit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a linear fire feature and how does it differ from a traditional fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A linear fire feature is a modern outdoor fireplace characterized by its elongated, rectangular burner. Unlike a traditional round or square fire pit, it creates a continuous line of flame, offering a sleek aesthetic. These features are often integrated into custom hardscaping, such as retaining walls or patio edges, and can be fueled by natural gas or propane. They provide ambient warmth and a striking visual element, often becoming the focal point of an outdoor living space.",
-        "description": "A linear fire feature is an elongated, modern outdoor fireplace with a continuous line of flame, distinct from traditional round fire pits."
-      }
-    }
-  ],
+  "name": "What is a linear fire feature and how does it differ from a traditional fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a linear fire feature and how does it differ from a traditional fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A linear fire feature is a modern outdoor fireplace characterized by its elongated, rectangular burner. Unlike a traditional round or square fire pit, it creates a continuous line of flame, offering a sleek aesthetic. These features are often integrated into custom hardscaping, such as retaining walls or patio edges, and can be fueled by natural gas or propane. They provide ambient warmth and a striking visual element, often becoming the focal point of an outdoor living space.",
+        "@type": "Answer",
+        "description": "A linear fire feature is an elongated, modern outdoor fireplace with a continuous line of flame, distinct from traditional round fire pits."
+      }
+    }
+  ],
+  "description": "A linear fire feature is an elongated, modern outdoor fireplace with a continuous line of flame, distinct from traditional round fire pits."
 }

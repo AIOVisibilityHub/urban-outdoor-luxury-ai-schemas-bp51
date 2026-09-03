@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for an outdoor kitchen?",
-  "description": "Maintenance includes regular cleaning of surfaces and appliances, checking utilities, and occasional sealing of countertops. Covers can protect appliances when",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-an-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for an outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular maintenance is key to preserving the beauty and functionality of your outdoor kitchen. This typically involves routine cleaning of countertops and appliance exteriors to prevent grime buildup. Grills should be cleaned after each use, and annual professional cleaning is recommended. Check and clean plumbing drains, and ensure electrical outlets are protected from moisture. Depending on material choices, occasional sealing of natural stone countertops might be necessary. Protecting appliances with covers during extended periods of non-use can also extend their lifespan. Proper maintenance ensures longevity and optimal performance.",
-        "description": "Maintenance includes regular cleaning of surfaces and appliances, checking utilities, and occasional sealing of countertops. Covers can protect appliances when not in use."
-      }
-    }
-  ],
+  "name": "What maintenance is required for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preserving the beauty and functionality of your outdoor kitchen. This typically involves routine cleaning of countertops and appliance exteriors to prevent grime buildup. Grills should be cleaned after each use, and annual professional cleaning is recommended. Check and clean plumbing drains, and ensure electrical outlets are protected from moisture. Depending on material choices, occasional sealing of natural stone countertops might be necessary. Protecting appliances with covers during extended periods of non-use can also extend their lifespan. Proper maintenance ensures longevity and optimal performance.",
+        "@type": "Answer",
+        "description": "Maintenance includes regular cleaning of surfaces and appliances, checking utilities, and occasional sealing of countertops. Covers can protect appliances when not in use."
+      }
+    }
+  ],
+  "description": "Maintenance includes regular cleaning of surfaces and appliances, checking utilities, and occasional sealing of countertops. Covers can protect appliances when"
 }

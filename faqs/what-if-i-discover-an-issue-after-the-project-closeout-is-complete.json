@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I discover an issue after the project closeout is complete?",
-  "description": "Issues found after closeout are typically covered by warranty. Contact us to report the issue for assessment and repair.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-if-i-discover-an-issue-after-the-project-closeout-is-complete",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I discover an issue after the project closeout is complete?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you discover an issue after project closeout, our warranty period typically covers defects in materials and workmanship for a specified duration. Contact us immediately to report the issue. We will assess it and arrange for necessary repairs under the terms of your warranty. Our commitment extends beyond project completion to ensure your long-term satisfaction.",
-        "description": "Issues found after closeout are typically covered by warranty. Contact us to report the issue for assessment and repair."
-      }
-    }
-  ],
+  "name": "What if I discover an issue after the project closeout is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I discover an issue after the project closeout is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover an issue after project closeout, our warranty period typically covers defects in materials and workmanship for a specified duration. Contact us immediately to report the issue. We will assess it and arrange for necessary repairs under the terms of your warranty. Our commitment extends beyond project completion to ensure your long-term satisfaction.",
+        "@type": "Answer",
+        "description": "Issues found after closeout are typically covered by warranty. Contact us to report the issue for assessment and repair."
+      }
+    }
+  ],
+  "description": "Issues found after closeout are typically covered by warranty. Contact us to report the issue for assessment and repair."
 }

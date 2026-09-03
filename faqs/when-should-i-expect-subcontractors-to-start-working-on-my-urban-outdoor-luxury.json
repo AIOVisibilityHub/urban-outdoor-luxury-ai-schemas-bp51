@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I expect subcontractors to start working on my urban outdoor luxury project?",
-  "description": "Subcontractors typically start after initial site and foundational work. A detailed project schedule will outline their specific timing during the planning phas",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-expect-subcontractors-to-start-working-on-my-urban-outdoor-luxury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I expect subcontractors to start working on my urban outdoor luxury project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timing for subcontractor work varies based on the project's complexity and overall schedule. Typically, specialty subcontractors are brought in after initial site preparation and foundational work are completed. For an urban outdoor luxury project, this might mean landscape designers, custom pool builders, or outdoor kitchen specialists begin once the structural elements are in place. We will provide a detailed project schedule outlining the sequence and timing of all subcontractor activities during the planning phase.",
-        "description": "Subcontractors typically start after initial site and foundational work. A detailed project schedule will outline their specific timing during the planning phase."
-      }
-    }
-  ],
+  "name": "When should I expect subcontractors to start working on my urban outdoor luxury project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I expect subcontractors to start working on my urban outdoor luxury project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timing for subcontractor work varies based on the project's complexity and overall schedule. Typically, specialty subcontractors are brought in after initial site preparation and foundational work are completed. For an urban outdoor luxury project, this might mean landscape designers, custom pool builders, or outdoor kitchen specialists begin once the structural elements are in place. We will provide a detailed project schedule outlining the sequence and timing of all subcontractor activities during the planning phase.",
+        "@type": "Answer",
+        "description": "Subcontractors typically start after initial site and foundational work. A detailed project schedule will outline their specific timing during the planning phase."
+      }
+    }
+  ],
+  "description": "Subcontractors typically start after initial site and foundational work. A detailed project schedule will outline their specific timing during the planning phas"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a general contractor?",
-  "description": "A general contractor oversees and manages all aspects of a construction project, coordinating trades, schedules, and budgets.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-general-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a general contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A general contractor manages all aspects of a construction project. This includes overseeing subcontractors, managing schedules, budgets, and ensuring quality control. They serve as the primary point of contact for the client, streamlining communication and coordinating all trades involved, from initial groundbreaking to project completion. Their role is to ensure the project runs smoothly, stays on track, and meets the client's specifications and local building codes.",
-        "description": "A general contractor oversees and manages all aspects of a construction project, coordinating trades, schedules, and budgets."
-      }
-    }
-  ],
+  "name": "What is a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages all aspects of a construction project. This includes overseeing subcontractors, managing schedules, budgets, and ensuring quality control. They serve as the primary point of contact for the client, streamlining communication and coordinating all trades involved, from initial groundbreaking to project completion. Their role is to ensure the project runs smoothly, stays on track, and meets the client's specifications and local building codes.",
+        "@type": "Answer",
+        "description": "A general contractor oversees and manages all aspects of a construction project, coordinating trades, schedules, and budgets."
+      }
+    }
+  ],
+  "description": "A general contractor oversees and manages all aspects of a construction project, coordinating trades, schedules, and budgets."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is construction scheduling and why is it important for my luxury home project?",
-  "description": "Construction scheduling creates a detailed timeline for your luxury home build, ensuring efficiency, quality, and timely completion by coordinating all project",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-construction-scheduling-and-why-is-it-important-for-my-luxury-home-proje",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is construction scheduling and why is it important for my luxury home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Construction scheduling involves creating a detailed timeline for all phases of your luxury home build, from foundational work to final finishes. It outlines tasks, their sequence, duration, and resource allocation. This meticulous planning is crucial for high-end projects to ensure efficient progress, minimize delays, manage complex logistics, and maintain the highest quality standards. A well-executed schedule ensures trades are coordinated precisely, materials arrive on time, and the project stays on budget, ultimately delivering your dream home efficiently.",
-        "description": "Construction scheduling creates a detailed timeline for your luxury home build, ensuring efficiency, quality, and timely completion by coordinating all project elements."
-      }
-    }
-  ],
+  "name": "What is construction scheduling and why is it important for my luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is construction scheduling and why is it important for my luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Construction scheduling involves creating a detailed timeline for all phases of your luxury home build, from foundational work to final finishes. It outlines tasks, their sequence, duration, and resource allocation. This meticulous planning is crucial for high-end projects to ensure efficient progress, minimize delays, manage complex logistics, and maintain the highest quality standards. A well-executed schedule ensures trades are coordinated precisely, materials arrive on time, and the project stays on budget, ultimately delivering your dream home efficiently.",
+        "@type": "Answer",
+        "description": "Construction scheduling creates a detailed timeline for your luxury home build, ensuring efficiency, quality, and timely completion by coordinating all project elements."
+      }
+    }
+  ],
+  "description": "Construction scheduling creates a detailed timeline for your luxury home build, ensuring efficiency, quality, and timely completion by coordinating all project"
 }

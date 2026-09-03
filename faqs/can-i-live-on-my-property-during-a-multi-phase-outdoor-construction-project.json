@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I live on my property during a multi-phase outdoor construction project?",
-  "description": "Yes, you can typically live on your property. Multi-phase planning minimizes disruption by segmenting work areas and maintaining site cleanliness and safety.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-live-on-my-property-during-a-multi-phase-outdoor-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I live on my property during a multi-phase outdoor construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, typically you can remain on your property during a multi-phase outdoor construction project. A key advantage of this approach is the ability to minimize disruption by segmenting work areas and scheduling phases strategically. Our team prioritizes clear communication, site cleanliness, and safety protocols to ensure a manageable living environment. We'll work with you to establish access points, material staging areas, and noise considerations to maintain as much normalcy as possible during each construction phase.",
-        "description": "Yes, you can typically live on your property. Multi-phase planning minimizes disruption by segmenting work areas and maintaining site cleanliness and safety."
-      }
-    }
-  ],
+  "name": "Can I live on my property during a multi-phase outdoor construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live on my property during a multi-phase outdoor construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically you can remain on your property during a multi-phase outdoor construction project. A key advantage of this approach is the ability to minimize disruption by segmenting work areas and scheduling phases strategically. Our team prioritizes clear communication, site cleanliness, and safety protocols to ensure a manageable living environment. We'll work with you to establish access points, material staging areas, and noise considerations to maintain as much normalcy as possible during each construction phase.",
+        "@type": "Answer",
+        "description": "Yes, you can typically live on your property. Multi-phase planning minimizes disruption by segmenting work areas and maintaining site cleanliness and safety."
+      }
+    }
+  ],
+  "description": "Yes, you can typically live on your property. Multi-phase planning minimizes disruption by segmenting work areas and maintaining site cleanliness and safety."
 }

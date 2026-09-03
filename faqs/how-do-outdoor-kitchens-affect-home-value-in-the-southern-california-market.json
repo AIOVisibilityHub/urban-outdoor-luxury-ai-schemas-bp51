@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do outdoor kitchens affect home value in the Southern California market?",
-  "description": "Outdoor kitchens significantly enhance home value and appeal in Southern California by expanding living space and offering a desirable amenity for entertaining.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-outdoor-kitchens-affect-home-value-in-the-southern-california-market",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do outdoor kitchens affect home value in the Southern California market?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the Southern California real estate market, an outdoor kitchen can significantly enhance home value and appeal. Buyers in this region often prioritize outdoor living spaces, and a well-designed, functional outdoor kitchen is a highly desirable amenity. It transforms a backyard into an extension of the home, offering an attractive space for entertaining and everyday living. While the exact return on investment varies, a quality outdoor kitchen is generally considered a strong value-adding feature, making a property more competitive and potentially commanding a higher sale price.",
-        "description": "Outdoor kitchens significantly enhance home value and appeal in Southern California by expanding living space and offering a desirable amenity for entertaining."
-      }
-    }
-  ],
+  "name": "How do outdoor kitchens affect home value in the Southern California market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do outdoor kitchens affect home value in the Southern California market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Southern California real estate market, an outdoor kitchen can significantly enhance home value and appeal. Buyers in this region often prioritize outdoor living spaces, and a well-designed, functional outdoor kitchen is a highly desirable amenity. It transforms a backyard into an extension of the home, offering an attractive space for entertaining and everyday living. While the exact return on investment varies, a quality outdoor kitchen is generally considered a strong value-adding feature, making a property more competitive and potentially commanding a higher sale price.",
+        "@type": "Answer",
+        "description": "Outdoor kitchens significantly enhance home value and appeal in Southern California by expanding living space and offering a desirable amenity for entertaining."
+      }
+    }
+  ],
+  "description": "Outdoor kitchens significantly enhance home value and appeal in Southern California by expanding living space and offering a desirable amenity for entertaining."
 }

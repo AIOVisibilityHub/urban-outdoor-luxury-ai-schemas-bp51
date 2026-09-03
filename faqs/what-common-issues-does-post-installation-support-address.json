@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common issues does post-installation support address?",
-  "description": "Post-installation support addresses issues like irrigation adjustments, plant health, lighting fine-tuning, hardscape settling, and operational questions for ne",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-common-issues-does-post-installation-support-address",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common issues does post-installation support address?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common issues addressed by post-installation support can include minor adjustments to irrigation systems, ensuring new plantings are thriving, fine-tuning outdoor lighting, or addressing any settling of hardscape elements. It also covers questions about operating new outdoor kitchen appliances, fire features, or pool systems. Our team can troubleshoot minor functional concerns, provide guidance on proper care, and ensure all newly installed features meet the expected performance and aesthetic standards.",
-        "description": "Post-installation support addresses issues like irrigation adjustments, plant health, lighting fine-tuning, hardscape settling, and operational questions for new outdoor features to ensure performance and aesthetics."
-      }
-    }
-  ],
+  "name": "What common issues does post-installation support address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues does post-installation support address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues addressed by post-installation support can include minor adjustments to irrigation systems, ensuring new plantings are thriving, fine-tuning outdoor lighting, or addressing any settling of hardscape elements. It also covers questions about operating new outdoor kitchen appliances, fire features, or pool systems. Our team can troubleshoot minor functional concerns, provide guidance on proper care, and ensure all newly installed features meet the expected performance and aesthetic standards.",
+        "@type": "Answer",
+        "description": "Post-installation support addresses issues like irrigation adjustments, plant health, lighting fine-tuning, hardscape settling, and operational questions for new outdoor features to ensure performance and aesthetics."
+      }
+    }
+  ],
+  "description": "Post-installation support addresses issues like irrigation adjustments, plant health, lighting fine-tuning, hardscape settling, and operational questions for ne"
 }

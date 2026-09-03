@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of materials are used in luxury residential construction?",
-  "description": "Luxury construction uses premium natural stones, hardwoods, high-performance windows, and smart home technology, prioritizing durability and aesthetic appeal.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-materials-are-used-in-luxury-residential-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of materials are used in luxury residential construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Luxury residential construction emphasizes high-quality, durable, and often sustainable materials. This includes premium natural stones like marble, granite, and quartz for countertops and flooring, exotic hardwoods for custom cabinetry and flooring, and high-performance windows and doors. Exterior finishes often feature natural stone cladding, stucco, or custom wood siding. Smart home technology integration, energy-efficient systems, and bespoke fixtures are also standard, all chosen for their aesthetic appeal and longevity.",
-        "description": "Luxury construction uses premium natural stones, hardwoods, high-performance windows, and smart home technology, prioritizing durability and aesthetic appeal."
-      }
-    }
-  ],
+  "name": "What kind of materials are used in luxury residential construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used in luxury residential construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury residential construction emphasizes high-quality, durable, and often sustainable materials. This includes premium natural stones like marble, granite, and quartz for countertops and flooring, exotic hardwoods for custom cabinetry and flooring, and high-performance windows and doors. Exterior finishes often feature natural stone cladding, stucco, or custom wood siding. Smart home technology integration, energy-efficient systems, and bespoke fixtures are also standard, all chosen for their aesthetic appeal and longevity.",
+        "@type": "Answer",
+        "description": "Luxury construction uses premium natural stones, hardwoods, high-performance windows, and smart home technology, prioritizing durability and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Luxury construction uses premium natural stones, hardwoods, high-performance windows, and smart home technology, prioritizing durability and aesthetic appeal."
 }

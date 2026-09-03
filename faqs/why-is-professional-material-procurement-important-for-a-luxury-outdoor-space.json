@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is professional material procurement important for a luxury outdoor space?",
-  "description": "Professional material procurement ensures high-quality, authentic, and suitable materials for a luxury outdoor space, preventing delays and costly mistakes whil",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/why-is-professional-material-procurement-important-for-a-luxury-outdoor-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is professional material procurement important for a luxury outdoor space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional material procurement is crucial for a luxury outdoor space to ensure the highest quality, authenticity, and longevity of your investment. It guarantees that all materials not only meet aesthetic expectations but also perform optimally under local climate conditions. Our expertise prevents costly mistakes, avoids project delays from incorrect or substandard materials, and leverages industry relationships to secure the best products, ultimately delivering a superior and durable outdoor environment.",
-        "description": "Professional material procurement ensures high-quality, authentic, and suitable materials for a luxury outdoor space, preventing delays and costly mistakes while ensuring longevity."
-      }
-    }
-  ],
+  "name": "Why is professional material procurement important for a luxury outdoor space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is professional material procurement important for a luxury outdoor space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional material procurement is crucial for a luxury outdoor space to ensure the highest quality, authenticity, and longevity of your investment. It guarantees that all materials not only meet aesthetic expectations but also perform optimally under local climate conditions. Our expertise prevents costly mistakes, avoids project delays from incorrect or substandard materials, and leverages industry relationships to secure the best products, ultimately delivering a superior and durable outdoor environment.",
+        "@type": "Answer",
+        "description": "Professional material procurement ensures high-quality, authentic, and suitable materials for a luxury outdoor space, preventing delays and costly mistakes while ensuring longevity."
+      }
+    }
+  ],
+  "description": "Professional material procurement ensures high-quality, authentic, and suitable materials for a luxury outdoor space, preventing delays and costly mistakes whil"
 }

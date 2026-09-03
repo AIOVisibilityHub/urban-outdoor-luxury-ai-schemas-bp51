@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between renovating and building a new luxury home?",
-  "description": "Renovating updates an existing structure with limitations, while building new offers complete design freedom from the ground up to integrate all custom features",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-renovating-and-building-a-new-luxury-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between renovating and building a new luxury home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Renovating involves updating an existing structure, often adapting to its original footprint and structural limitations. While luxury renovations can significantly upgrade aesthetics and functionality, they may still be constrained by the existing layout or foundation. Building a new luxury home, conversely, offers complete freedom to design from the ground up, allowing for optimal spatial planning, structural integrity, and the integration of all desired custom features and technologies without compromise. Each approach has distinct cost, timeline, and design flexibility considerations.",
-        "description": "Renovating updates an existing structure with limitations, while building new offers complete design freedom from the ground up to integrate all custom features."
-      }
-    }
-  ],
+  "name": "What is the difference between renovating and building a new luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between renovating and building a new luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating involves updating an existing structure, often adapting to its original footprint and structural limitations. While luxury renovations can significantly upgrade aesthetics and functionality, they may still be constrained by the existing layout or foundation. Building a new luxury home, conversely, offers complete freedom to design from the ground up, allowing for optimal spatial planning, structural integrity, and the integration of all desired custom features and technologies without compromise. Each approach has distinct cost, timeline, and design flexibility considerations.",
+        "@type": "Answer",
+        "description": "Renovating updates an existing structure with limitations, while building new offers complete design freedom from the ground up to integrate all custom features."
+      }
+    }
+  ],
+  "description": "Renovating updates an existing structure with limitations, while building new offers complete design freedom from the ground up to integrate all custom features"
 }

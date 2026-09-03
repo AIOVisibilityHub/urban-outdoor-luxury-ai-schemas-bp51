@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a punch list in construction and why is it important?",
-  "description": "A punch list details items needing correction or completion before final project acceptance, ensuring quality and client satisfaction.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-punch-list-in-construction-and-why-is-it-important",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a punch list in construction and why is it important?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A punch list is a document generated at the end of a construction project detailing items that need to be corrected or completed before final project acceptance. It typically includes minor deficiencies, cosmetic imperfections, or incomplete installations identified during a walkthrough. Addressing these items ensures the final product meets the agreed-upon quality standards and client expectations, preventing future disputes.",
-        "description": "A punch list details items needing correction or completion before final project acceptance, ensuring quality and client satisfaction."
-      }
-    }
-  ],
+  "name": "What is a punch list in construction and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a punch list in construction and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is a document generated at the end of a construction project detailing items that need to be corrected or completed before final project acceptance. It typically includes minor deficiencies, cosmetic imperfections, or incomplete installations identified during a walkthrough. Addressing these items ensures the final product meets the agreed-upon quality standards and client expectations, preventing future disputes.",
+        "@type": "Answer",
+        "description": "A punch list details items needing correction or completion before final project acceptance, ensuring quality and client satisfaction."
+      }
+    }
+  ],
+  "description": "A punch list details items needing correction or completion before final project acceptance, ensuring quality and client satisfaction."
 }

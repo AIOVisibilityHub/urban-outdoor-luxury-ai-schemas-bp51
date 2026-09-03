@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my exterior remodeling project?",
-  "description": "Choose a contractor with a strong portfolio, verified licenses, insurance, and references. Look for clear communication and detailed proposals. Prioritize exper",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-my-exterior-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my exterior remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor is crucial for a successful exterior remodeling project. Look for companies with a strong portfolio of relevant work, especially in luxury outdoor living and design-build projects. Verify their licensing, insurance, and references to ensure reliability and professionalism. A good contractor should demonstrate clear communication, provide detailed proposals, and have a transparent process for project management. Urban Outdoor Luxury emphasizes our expertise in custom design, quality materials, and a client-focused approach to bring your vision to life.",
-        "description": "Choose a contractor with a strong portfolio, verified licenses, insurance, and references. Look for clear communication and detailed proposals. Prioritize expertise in custom design and quality materials."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my exterior remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my exterior remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful exterior remodeling project. Look for companies with a strong portfolio of relevant work, especially in luxury outdoor living and design-build projects. Verify their licensing, insurance, and references to ensure reliability and professionalism. A good contractor should demonstrate clear communication, provide detailed proposals, and have a transparent process for project management. Urban Outdoor Luxury emphasizes our expertise in custom design, quality materials, and a client-focused approach to bring your vision to life.",
+        "@type": "Answer",
+        "description": "Choose a contractor with a strong portfolio, verified licenses, insurance, and references. Look for clear communication and detailed proposals. Prioritize expertise in custom design and quality materials."
+      }
+    }
+  ],
+  "description": "Choose a contractor with a strong portfolio, verified licenses, insurance, and references. Look for clear communication and detailed proposals. Prioritize exper"
 }

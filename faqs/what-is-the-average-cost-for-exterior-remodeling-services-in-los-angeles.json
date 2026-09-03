@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost for exterior remodeling services in Los Angeles?",
-  "description": "Costs for exterior remodeling in Los Angeles vary widely, from a few thousand for minor updates to hundreds of thousands for comprehensive luxury projects. We p",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-average-cost-for-exterior-remodeling-services-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost for exterior remodeling services in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of exterior remodeling in Los Angeles varies greatly depending on the project's scale, materials chosen, and design complexity. A basic patio update might start from a few thousand dollars, while a comprehensive luxury outdoor living space with custom features, landscaping, and a pool could range from tens of thousands to hundreds of thousands of dollars. We provide transparent, detailed estimates after understanding your vision and conducting an on-site assessment, ensuring all aspects of the project are accounted for. Our focus is on delivering exceptional value and quality craftsmanship within your budget.",
-        "description": "Costs for exterior remodeling in Los Angeles vary widely, from a few thousand for minor updates to hundreds of thousands for comprehensive luxury projects. We provide detailed estimates after an on-site assessment."
-      }
-    }
-  ],
+  "name": "What is the average cost for exterior remodeling services in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for exterior remodeling services in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior remodeling in Los Angeles varies greatly depending on the project's scale, materials chosen, and design complexity. A basic patio update might start from a few thousand dollars, while a comprehensive luxury outdoor living space with custom features, landscaping, and a pool could range from tens of thousands to hundreds of thousands of dollars. We provide transparent, detailed estimates after understanding your vision and conducting an on-site assessment, ensuring all aspects of the project are accounted for. Our focus is on delivering exceptional value and quality craftsmanship within your budget.",
+        "@type": "Answer",
+        "description": "Costs for exterior remodeling in Los Angeles vary widely, from a few thousand for minor updates to hundreds of thousands for comprehensive luxury projects. We provide detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Costs for exterior remodeling in Los Angeles vary widely, from a few thousand for minor updates to hundreds of thousands for comprehensive luxury projects. We p"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Urban Outdoor Luxury ensure quality control on its projects?",
-  "description": "Urban Outdoor Luxury ensures quality control through rigorous material selection, daily site inspections, detailed checklists, photo documentation, and client c",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-urban-outdoor-luxury-ensure-quality-control-on-its-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Urban Outdoor Luxury ensure quality control on its projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Urban Outdoor Luxury implements a multi-stage quality control process. This begins with rigorous selection of premium materials and skilled craftsmen. Throughout the project, our dedicated site supervisors conduct daily inspections, cross-referencing work against approved plans and specifications. We utilize detailed checklists and photo documentation at critical milestones, such as foundation pouring, framing, and final finishes. Regular communication with clients ensures their vision is being accurately realized, and any deviations are promptly addressed. Post-completion, a final comprehensive walk-through with the client confirms satisfaction.",
-        "description": "Urban Outdoor Luxury ensures quality control through rigorous material selection, daily site inspections, detailed checklists, photo documentation, and client communication."
-      }
-    }
-  ],
+  "name": "How does Urban Outdoor Luxury ensure quality control on its projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Urban Outdoor Luxury ensure quality control on its projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Urban Outdoor Luxury implements a multi-stage quality control process. This begins with rigorous selection of premium materials and skilled craftsmen. Throughout the project, our dedicated site supervisors conduct daily inspections, cross-referencing work against approved plans and specifications. We utilize detailed checklists and photo documentation at critical milestones, such as foundation pouring, framing, and final finishes. Regular communication with clients ensures their vision is being accurately realized, and any deviations are promptly addressed. Post-completion, a final comprehensive walk-through with the client confirms satisfaction.",
+        "@type": "Answer",
+        "description": "Urban Outdoor Luxury ensures quality control through rigorous material selection, daily site inspections, detailed checklists, photo documentation, and client communication."
+      }
+    }
+  ],
+  "description": "Urban Outdoor Luxury ensures quality control through rigorous material selection, daily site inspections, detailed checklists, photo documentation, and client c"
 }

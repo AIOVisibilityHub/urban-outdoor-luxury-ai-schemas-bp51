@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for planning a kitchen remodel with a contractor?",
-  "description": "Planning a remodel involves initial consultation, design finalization, proposal, contracting, permitting, construction, and final walkthrough.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-planning-a-kitchen-remodel-with-a-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for planning a kitchen remodel with a contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. This is followed by a design phase, where layouts, materials, and finishes are selected and finalized. Once designs and specifications are approved, a detailed proposal and contract are provided. After signing, we handle permitting, material procurement, demolition, and construction, keeping you informed at every stage until project completion and final walkthrough.",
-        "description": "Planning a remodel involves initial consultation, design finalization, proposal, contracting, permitting, construction, and final walkthrough."
-      }
-    }
-  ],
+  "name": "What is the process for planning a kitchen remodel with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for planning a kitchen remodel with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. This is followed by a design phase, where layouts, materials, and finishes are selected and finalized. Once designs and specifications are approved, a detailed proposal and contract are provided. After signing, we handle permitting, material procurement, demolition, and construction, keeping you informed at every stage until project completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "Planning a remodel involves initial consultation, design finalization, proposal, contracting, permitting, construction, and final walkthrough."
+      }
+    }
+  ],
+  "description": "Planning a remodel involves initial consultation, design finalization, proposal, contracting, permitting, construction, and final walkthrough."
 }

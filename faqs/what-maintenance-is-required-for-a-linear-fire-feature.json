@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a linear fire feature?",
-  "description": "Maintenance includes routine cleaning of the burner and media, checking gas lines, and an annual professional inspection for safety and performance.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-linear-fire-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a linear fire feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a linear fire feature primarily involves routine cleaning and occasional inspection. Regularly clear the burner of debris, such as leaves or dust, to ensure proper flame operation. Periodically check gas lines and connections for leaks or wear. If using lava rock or fire glass, ensure they are clean and not obstructing the burner ports. Annual professional servicing is recommended to maintain optimal performance and safety.",
-        "description": "Maintenance includes routine cleaning of the burner and media, checking gas lines, and an annual professional inspection for safety and performance."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a linear fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a linear fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a linear fire feature primarily involves routine cleaning and occasional inspection. Regularly clear the burner of debris, such as leaves or dust, to ensure proper flame operation. Periodically check gas lines and connections for leaks or wear. If using lava rock or fire glass, ensure they are clean and not obstructing the burner ports. Annual professional servicing is recommended to maintain optimal performance and safety.",
+        "@type": "Answer",
+        "description": "Maintenance includes routine cleaning of the burner and media, checking gas lines, and an annual professional inspection for safety and performance."
+      }
+    }
+  ],
+  "description": "Maintenance includes routine cleaning of the burner and media, checking gas lines, and an annual professional inspection for safety and performance."
 }

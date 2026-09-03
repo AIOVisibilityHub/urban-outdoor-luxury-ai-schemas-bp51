@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an outdoor fireplace be integrated into an existing patio or outdoor living space?",
-  "description": "Yes, an outdoor fireplace can be integrated into an existing patio or living space with proper planning to match design, materials, and utility access.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-outdoor-fireplace-be-integrated-into-an-existing-patio-or-outdoor-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an outdoor fireplace be integrated into an existing patio or outdoor living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, an outdoor fireplace can often be seamlessly integrated into an existing patio or outdoor living space, provided there's adequate room and structural support. This process typically involves careful planning to ensure the new structure complements the current design, materials, and flow of your outdoor area. We assess the existing layout, utility access (for gas lines or electrical), and potential for enhanced privacy or entertainment zones. Integration can transform a simple patio into a luxurious outdoor room, adding a focal point and extending usability throughout the year.",
-        "description": "Yes, an outdoor fireplace can be integrated into an existing patio or living space with proper planning to match design, materials, and utility access."
-      }
-    }
-  ],
+  "name": "Can an outdoor fireplace be integrated into an existing patio or outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor fireplace be integrated into an existing patio or outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an outdoor fireplace can often be seamlessly integrated into an existing patio or outdoor living space, provided there's adequate room and structural support. This process typically involves careful planning to ensure the new structure complements the current design, materials, and flow of your outdoor area. We assess the existing layout, utility access (for gas lines or electrical), and potential for enhanced privacy or entertainment zones. Integration can transform a simple patio into a luxurious outdoor room, adding a focal point and extending usability throughout the year.",
+        "@type": "Answer",
+        "description": "Yes, an outdoor fireplace can be integrated into an existing patio or living space with proper planning to match design, materials, and utility access."
+      }
+    }
+  ],
+  "description": "Yes, an outdoor fireplace can be integrated into an existing patio or living space with proper planning to match design, materials, and utility access."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider for lighting and electrical in my outdoor kitchen?",
-  "description": "For outdoor kitchen lighting and electrical, consider task, ambient, and accent lighting, using outdoor-rated fixtures and outlets, and ensuring installation by",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-should-i-consider-for-lighting-and-electrical-in-my-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider for lighting and electrical in my outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Effective lighting and electrical planning are crucial for functionality and ambiance in an outdoor kitchen. Consider task lighting for cooking areas, ambient lighting for dining or lounge spaces, and accent lighting to highlight architectural features. All electrical components, including outlets for small appliances and lighting fixtures, must be outdoor-rated and installed by a licensed electrician to comply with safety codes and withstand weather exposure. Proper wiring and GFCI outlets are essential for safety and preventing electrical hazards.",
-        "description": "For outdoor kitchen lighting and electrical, consider task, ambient, and accent lighting, using outdoor-rated fixtures and outlets, and ensuring installation by a licensed electrician for safety and code compliance."
-      }
-    }
-  ],
+  "name": "What should I consider for lighting and electrical in my outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider for lighting and electrical in my outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective lighting and electrical planning are crucial for functionality and ambiance in an outdoor kitchen. Consider task lighting for cooking areas, ambient lighting for dining or lounge spaces, and accent lighting to highlight architectural features. All electrical components, including outlets for small appliances and lighting fixtures, must be outdoor-rated and installed by a licensed electrician to comply with safety codes and withstand weather exposure. Proper wiring and GFCI outlets are essential for safety and preventing electrical hazards.",
+        "@type": "Answer",
+        "description": "For outdoor kitchen lighting and electrical, consider task, ambient, and accent lighting, using outdoor-rated fixtures and outlets, and ensuring installation by a licensed electrician for safety and code compliance."
+      }
+    }
+  ],
+  "description": "For outdoor kitchen lighting and electrical, consider task, ambient, and accent lighting, using outdoor-rated fixtures and outlets, and ensuring installation by"
 }

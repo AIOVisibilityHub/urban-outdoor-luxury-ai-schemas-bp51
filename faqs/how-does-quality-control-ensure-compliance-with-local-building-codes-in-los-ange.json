@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does quality control ensure compliance with local building codes in Los Angeles?",
-  "description": "Our quality control in Los Angeles includes regular supervisor and third-party inspections to ensure strict adherence to LADBS codes, covering structural integr",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-quality-control-ensure-compliance-with-local-building-codes-in-los-ange",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does quality control ensure compliance with local building codes in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Los Angeles, our quality control process integrates regular reviews by supervisors and third-party inspectors to ensure strict adherence to the Los Angeles Department of Building and Safety (LADBS) codes. This involves meticulous checks on structural integrity, electrical systems, plumbing, zoning regulations, and material specifications. Documentation of all inspections and approvals is maintained throughout the project. Our team is consistently updated on any code changes specific to Los Angeles and surrounding areas, guaranteeing that every aspect of your outdoor luxury construction meets or exceeds local regulatory requirements for safety and quality.",
-        "description": "Our quality control in Los Angeles includes regular supervisor and third-party inspections to ensure strict adherence to LADBS codes, covering structural integrity, systems, and materials."
-      }
-    }
-  ],
+  "name": "How does quality control ensure compliance with local building codes in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does quality control ensure compliance with local building codes in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, our quality control process integrates regular reviews by supervisors and third-party inspectors to ensure strict adherence to the Los Angeles Department of Building and Safety (LADBS) codes. This involves meticulous checks on structural integrity, electrical systems, plumbing, zoning regulations, and material specifications. Documentation of all inspections and approvals is maintained throughout the project. Our team is consistently updated on any code changes specific to Los Angeles and surrounding areas, guaranteeing that every aspect of your outdoor luxury construction meets or exceeds local regulatory requirements for safety and quality.",
+        "@type": "Answer",
+        "description": "Our quality control in Los Angeles includes regular supervisor and third-party inspections to ensure strict adherence to LADBS codes, covering structural integrity, systems, and materials."
+      }
+    }
+  ],
+  "description": "Our quality control in Los Angeles includes regular supervisor and third-party inspections to ensure strict adherence to LADBS codes, covering structural integr"
 }

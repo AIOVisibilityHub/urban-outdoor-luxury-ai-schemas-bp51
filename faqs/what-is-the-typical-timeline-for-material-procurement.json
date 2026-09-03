@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for material procurement?",
-  "description": "Material procurement timelines vary greatly; standard items have shorter lead times, while custom or specialized materials can take weeks to months for sourcing",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-material-procurement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for material procurement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for material procurement varies significantly based on the complexity and uniqueness of your outdoor luxury project. Standard materials might have shorter lead times, while custom-fabricated elements, imported stones, or specialized fixtures can require several weeks to months for sourcing and delivery. We establish a detailed procurement schedule early in the planning process, factoring in these lead times to align with the overall construction timeline and minimize on-site delays.",
-        "description": "Material procurement timelines vary greatly; standard items have shorter lead times, while custom or specialized materials can take weeks to months for sourcing and delivery."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for material procurement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for material procurement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for material procurement varies significantly based on the complexity and uniqueness of your outdoor luxury project. Standard materials might have shorter lead times, while custom-fabricated elements, imported stones, or specialized fixtures can require several weeks to months for sourcing and delivery. We establish a detailed procurement schedule early in the planning process, factoring in these lead times to align with the overall construction timeline and minimize on-site delays.",
+        "@type": "Answer",
+        "description": "Material procurement timelines vary greatly; standard items have shorter lead times, while custom or specialized materials can take weeks to months for sourcing and delivery."
+      }
+    }
+  ],
+  "description": "Material procurement timelines vary greatly; standard items have shorter lead times, while custom or specialized materials can take weeks to months for sourcing"
 }

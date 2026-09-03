@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for an outdoor living space remodel in Arcadia?",
-  "description": "Outdoor living space remodels in Arcadia usually require permits for structures like pergolas, decks, outdoor kitchens, and pools.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-an-outdoor-living-space-remodel-in-arcadia",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for an outdoor living space remodel in Arcadia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For an outdoor living space remodel in Arcadia, permits are typically required for structures like pergolas, decks, outdoor kitchens with plumbing/gas/electrical, swimming pools, spas, and significant hardscaping that alters drainage. Any new structures or substantial changes to existing ones will likely need approval from the City of Arcadia's Building Division. We handle all necessary permit applications to ensure your outdoor luxury project is compliant.",
-        "description": "Outdoor living space remodels in Arcadia usually require permits for structures like pergolas, decks, outdoor kitchens, and pools."
-      }
-    }
-  ],
+  "name": "What permits are needed for an outdoor living space remodel in Arcadia?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for an outdoor living space remodel in Arcadia?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an outdoor living space remodel in Arcadia, permits are typically required for structures like pergolas, decks, outdoor kitchens with plumbing/gas/electrical, swimming pools, spas, and significant hardscaping that alters drainage. Any new structures or substantial changes to existing ones will likely need approval from the City of Arcadia's Building Division. We handle all necessary permit applications to ensure your outdoor luxury project is compliant.",
+        "@type": "Answer",
+        "description": "Outdoor living space remodels in Arcadia usually require permits for structures like pergolas, decks, outdoor kitchens, and pools."
+      }
+    }
+  ],
+  "description": "Outdoor living space remodels in Arcadia usually require permits for structures like pergolas, decks, outdoor kitchens, and pools."
 }

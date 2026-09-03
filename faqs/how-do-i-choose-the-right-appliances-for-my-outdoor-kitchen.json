@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right appliances for my outdoor kitchen?",
-  "description": "Select outdoor kitchen appliances based on durability, performance, and cooking habits. Choose marine-grade stainless steel appliances designed for outdoor use",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-appliances-for-my-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right appliances for my outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right appliances for your outdoor kitchen involves considering durability, performance, and your cooking habits. Opt for appliances specifically designed for outdoor use, typically made from marine-grade stainless steel to resist corrosion. Consider your primary cooking methods: a grill is essential, but you might also want a side burner, pizza oven, or smoker. Refrigeration, storage, and waste management components also enhance functionality. Evaluate features, BTUs, and warranties to match your needs and budget.",
-        "description": "Select outdoor kitchen appliances based on durability, performance, and cooking habits. Choose marine-grade stainless steel appliances designed for outdoor use and consider features like grills, side burners, and refrigeration."
-      }
-    }
-  ],
+  "name": "How do I choose the right appliances for my outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right appliances for my outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right appliances for your outdoor kitchen involves considering durability, performance, and your cooking habits. Opt for appliances specifically designed for outdoor use, typically made from marine-grade stainless steel to resist corrosion. Consider your primary cooking methods: a grill is essential, but you might also want a side burner, pizza oven, or smoker. Refrigeration, storage, and waste management components also enhance functionality. Evaluate features, BTUs, and warranties to match your needs and budget.",
+        "@type": "Answer",
+        "description": "Select outdoor kitchen appliances based on durability, performance, and cooking habits. Choose marine-grade stainless steel appliances designed for outdoor use and consider features like grills, side burners, and refrigeration."
+      }
+    }
+  ],
+  "description": "Select outdoor kitchen appliances based on durability, performance, and cooking habits. Choose marine-grade stainless steel appliances designed for outdoor use"
 }

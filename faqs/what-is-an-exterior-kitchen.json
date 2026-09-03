@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an exterior kitchen?",
-  "description": "An exterior kitchen is a functional cooking and entertainment area built outside your home, featuring appliances like grills, sinks, and refrigeration.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-an-exterior-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an exterior kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An exterior kitchen, also known as an outdoor kitchen, is a functional cooking and entertainment area built outside your home. It typically includes appliances like grills, cooktops, refrigerators, and sinks, often integrated into custom cabinetry and countertops. These kitchens enhance outdoor living spaces, allowing for meal preparation and dining al fresco without needing to go inside. They are designed to withstand outdoor elements and can range from basic grilling stations to fully equipped culinary centers.",
-        "description": "An exterior kitchen is a functional cooking and entertainment area built outside your home, featuring appliances like grills, sinks, and refrigeration."
-      }
-    }
-  ],
+  "name": "What is an exterior kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior kitchen, also known as an outdoor kitchen, is a functional cooking and entertainment area built outside your home. It typically includes appliances like grills, cooktops, refrigerators, and sinks, often integrated into custom cabinetry and countertops. These kitchens enhance outdoor living spaces, allowing for meal preparation and dining al fresco without needing to go inside. They are designed to withstand outdoor elements and can range from basic grilling stations to fully equipped culinary centers.",
+        "@type": "Answer",
+        "description": "An exterior kitchen is a functional cooking and entertainment area built outside your home, featuring appliances like grills, sinks, and refrigeration."
+      }
+    }
+  ],
+  "description": "An exterior kitchen is a functional cooking and entertainment area built outside your home, featuring appliances like grills, sinks, and refrigeration."
 }

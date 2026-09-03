@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What safety considerations are important for linear fire feature installation and use?",
-  "description": "Key safety considerations include clearances from combustibles, proper gas line installation, ventilation, and constant supervision during use.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-safety-considerations-are-important-for-linear-fire-feature-installation-an",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What safety considerations are important for linear fire feature installation and use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Safety is paramount. Ensure adequate clearance from combustible materials like wooden structures, overhanging trees, and furniture. Proper gas line installation and leak testing are critical. Always operate the feature with proper ventilation and never leave it unattended. Consider wind conditions, as strong gusts can affect flame behavior. Children and pets should be kept at a safe distance. Our installations comply with all local safety codes and manufacturer guidelines.",
-        "description": "Key safety considerations include clearances from combustibles, proper gas line installation, ventilation, and constant supervision during use."
-      }
-    }
-  ],
+  "name": "What safety considerations are important for linear fire feature installation and use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for linear fire feature installation and use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount. Ensure adequate clearance from combustible materials like wooden structures, overhanging trees, and furniture. Proper gas line installation and leak testing are critical. Always operate the feature with proper ventilation and never leave it unattended. Consider wind conditions, as strong gusts can affect flame behavior. Children and pets should be kept at a safe distance. Our installations comply with all local safety codes and manufacturer guidelines.",
+        "@type": "Answer",
+        "description": "Key safety considerations include clearances from combustibles, proper gas line installation, ventilation, and constant supervision during use."
+      }
+    }
+  ],
+  "description": "Key safety considerations include clearances from combustibles, proper gas line installation, ventilation, and constant supervision during use."
 }

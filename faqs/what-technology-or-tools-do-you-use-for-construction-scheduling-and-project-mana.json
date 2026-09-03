@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What technology or tools do you use for construction scheduling and project management?",
-  "description": "We use advanced construction management software for detailed scheduling, real-time tracking, resource management, and seamless communication to ensure project",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-technology-or-tools-do-you-use-for-construction-scheduling-and-project-mana",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What technology or tools do you use for construction scheduling and project management?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We leverage industry-leading construction management software for advanced scheduling and project management. These tools allow us to create highly detailed GANTT charts, track progress in real-time, manage resources, and facilitate seamless communication among the project team, subcontractors, and clients. Features like critical path analysis, BIM integration, and cloud-based access ensure transparency, efficiency, and accurate forecasting for every luxury construction project.",
-        "description": "We use advanced construction management software for detailed scheduling, real-time tracking, resource management, and seamless communication to ensure project efficiency."
-      }
-    }
-  ],
+  "name": "What technology or tools do you use for construction scheduling and project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What technology or tools do you use for construction scheduling and project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We leverage industry-leading construction management software for advanced scheduling and project management. These tools allow us to create highly detailed GANTT charts, track progress in real-time, manage resources, and facilitate seamless communication among the project team, subcontractors, and clients. Features like critical path analysis, BIM integration, and cloud-based access ensure transparency, efficiency, and accurate forecasting for every luxury construction project.",
+        "@type": "Answer",
+        "description": "We use advanced construction management software for detailed scheduling, real-time tracking, resource management, and seamless communication to ensure project efficiency."
+      }
+    }
+  ],
+  "description": "We use advanced construction management software for detailed scheduling, real-time tracking, resource management, and seamless communication to ensure project"
 }

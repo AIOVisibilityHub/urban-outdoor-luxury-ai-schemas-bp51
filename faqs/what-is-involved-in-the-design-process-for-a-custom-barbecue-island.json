@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in the design process for a custom barbecue island?",
-  "description": "The design process involves an initial consultation to understand your needs, followed by conceptual layouts and 3D renderings. We finalize material selections",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-the-design-process-for-a-custom-barbecue-island",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in the design process for a custom barbecue island?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The design process begins with an initial consultation to understand your outdoor living goals, space constraints, and aesthetic preferences. Our designers will then create conceptual layouts and 3D renderings, integrating your desired appliances, storage, and counter space. We consider factors like workflow, traffic patterns, and existing landscape elements. Material selections for finishes, countertops, and hardware are discussed. This iterative process allows for revisions to ensure the final design perfectly matches your vision and budget before construction begins.",
-        "description": "The design process involves an initial consultation to understand your needs, followed by conceptual layouts and 3D renderings. We finalize material selections and refine the design based on your feedback."
-      }
-    }
-  ],
+  "name": "What is involved in the design process for a custom barbecue island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design process for a custom barbecue island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design process begins with an initial consultation to understand your outdoor living goals, space constraints, and aesthetic preferences. Our designers will then create conceptual layouts and 3D renderings, integrating your desired appliances, storage, and counter space. We consider factors like workflow, traffic patterns, and existing landscape elements. Material selections for finishes, countertops, and hardware are discussed. This iterative process allows for revisions to ensure the final design perfectly matches your vision and budget before construction begins.",
+        "@type": "Answer",
+        "description": "The design process involves an initial consultation to understand your needs, followed by conceptual layouts and 3D renderings. We finalize material selections and refine the design based on your feedback."
+      }
+    }
+  ],
+  "description": "The design process involves an initial consultation to understand your needs, followed by conceptual layouts and 3D renderings. We finalize material selections"
 }

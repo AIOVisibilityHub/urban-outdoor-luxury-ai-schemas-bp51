@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between custom and semi-custom kitchen cabinets?",
-  "description": "Custom cabinets are fully bespoke, built to exact specifications, while semi-custom cabinets offer more options than stock but with some size and style limitati",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-custom-and-semi-custom-kitchen-cabinets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between custom and semi-custom kitchen cabinets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom cabinets are built to your exact specifications, offering unlimited choices in size, shape, materials, finishes, and features to fit any kitchen layout perfectly. Semi-custom cabinets come in a wider range of sizes, styles, and finishes than stock options, allowing for some modifications to height, depth, or width, and more accessories. Custom offers ultimate personalization, while semi-custom provides a balance of flexibility and cost-effectiveness for many remodels.",
-        "description": "Custom cabinets are fully bespoke, built to exact specifications, while semi-custom cabinets offer more options than stock but with some size and style limitations."
-      }
-    }
-  ],
+  "name": "What is the difference between custom and semi-custom kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and semi-custom kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets are built to your exact specifications, offering unlimited choices in size, shape, materials, finishes, and features to fit any kitchen layout perfectly. Semi-custom cabinets come in a wider range of sizes, styles, and finishes than stock options, allowing for some modifications to height, depth, or width, and more accessories. Custom offers ultimate personalization, while semi-custom provides a balance of flexibility and cost-effectiveness for many remodels.",
+        "@type": "Answer",
+        "description": "Custom cabinets are fully bespoke, built to exact specifications, while semi-custom cabinets offer more options than stock but with some size and style limitations."
+      }
+    }
+  ],
+  "description": "Custom cabinets are fully bespoke, built to exact specifications, while semi-custom cabinets offer more options than stock but with some size and style limitati"
 }

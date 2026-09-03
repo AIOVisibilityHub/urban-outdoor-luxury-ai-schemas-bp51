@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you integrate other outdoor kitchen features with a built-in grill?",
-  "description": "Yes, we integrate features like side burners, sinks, fridges, storage, and more into custom outdoor kitchen designs.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-other-outdoor-kitchen-features-with-a-built-in-grill",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you integrate other outdoor kitchen features with a built-in grill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. A key advantage of a built-in setup is the ability to integrate various outdoor kitchen features seamlessly. This can include side burners, sinks, refrigerators, storage drawers, trash pull-outs, pizza ovens, and even bar areas. We design and construct custom islands that can accommodate any combination of these elements, creating a fully functional and personalized outdoor culinary space.",
-        "description": "Yes, we integrate features like side burners, sinks, fridges, storage, and more into custom outdoor kitchen designs."
-      }
-    }
-  ],
+  "name": "Can you integrate other outdoor kitchen features with a built-in grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate other outdoor kitchen features with a built-in grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. A key advantage of a built-in setup is the ability to integrate various outdoor kitchen features seamlessly. This can include side burners, sinks, refrigerators, storage drawers, trash pull-outs, pizza ovens, and even bar areas. We design and construct custom islands that can accommodate any combination of these elements, creating a fully functional and personalized outdoor culinary space.",
+        "@type": "Answer",
+        "description": "Yes, we integrate features like side burners, sinks, fridges, storage, and more into custom outdoor kitchen designs."
+      }
+    }
+  ],
+  "description": "Yes, we integrate features like side burners, sinks, fridges, storage, and more into custom outdoor kitchen designs."
 }

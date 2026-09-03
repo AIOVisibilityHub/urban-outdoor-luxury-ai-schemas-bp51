@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for a built-in grill station in Los Angeles?",
-  "description": "Costs for built-in grill stations in Los Angeles typically range from $10,000 to over $50,000, depending on size, features, materials, and included appliances.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-a-built-in-grill-station-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for a built-in grill station in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a built-in grill station in the Los Angeles area can vary widely, from approximately $10,000 for a basic design with standard features to over $50,000 for a fully customized, high-end outdoor kitchen. Key factors influencing cost include the size and complexity of the island, chosen grill model, type of countertops and finishes, inclusion of additional appliances (e.g., refrigerator, sink), and necessary utility extensions (gas, electrical, plumbing). We provide detailed, transparent quotes after an initial consultation.",
-        "description": "Costs for built-in grill stations in Los Angeles typically range from $10,000 to over $50,000, depending on size, features, materials, and included appliances."
-      }
-    }
-  ],
+  "name": "What is the typical cost for a built-in grill station in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a built-in grill station in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a built-in grill station in the Los Angeles area can vary widely, from approximately $10,000 for a basic design with standard features to over $50,000 for a fully customized, high-end outdoor kitchen. Key factors influencing cost include the size and complexity of the island, chosen grill model, type of countertops and finishes, inclusion of additional appliances (e.g., refrigerator, sink), and necessary utility extensions (gas, electrical, plumbing). We provide detailed, transparent quotes after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for built-in grill stations in Los Angeles typically range from $10,000 to over $50,000, depending on size, features, materials, and included appliances."
+      }
+    }
+  ],
+  "description": "Costs for built-in grill stations in Los Angeles typically range from $10,000 to over $50,000, depending on size, features, materials, and included appliances."
 }

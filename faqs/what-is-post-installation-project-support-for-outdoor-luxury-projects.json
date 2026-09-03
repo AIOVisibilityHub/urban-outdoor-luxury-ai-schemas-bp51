@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is post-installation project support for outdoor luxury projects?",
-  "description": "Post-installation project support covers services provided after project completion to address adjustments, maintenance questions, and unforeseen issues, ensuri",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-post-installation-project-support-for-outdoor-luxury-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is post-installation project support for outdoor luxury projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Post-installation project support refers to the services provided after your outdoor luxury project is completed. This includes addressing any minor adjustments, maintenance questions, or unforeseen issues that may arise once the new features are in use. It ensures the longevity and continued performance of your investment, such as landscaping, hardscaping, or outdoor living structures. Our support aims to maintain the high quality and aesthetics of your outdoor space, providing peace of mind after the construction phase.",
-        "description": "Post-installation project support covers services provided after project completion to address adjustments, maintenance questions, and unforeseen issues, ensuring the longevity and continued performance of your outdoor luxury features."
-      }
-    }
-  ],
+  "name": "What is post-installation project support for outdoor luxury projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is post-installation project support for outdoor luxury projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Post-installation project support refers to the services provided after your outdoor luxury project is completed. This includes addressing any minor adjustments, maintenance questions, or unforeseen issues that may arise once the new features are in use. It ensures the longevity and continued performance of your investment, such as landscaping, hardscaping, or outdoor living structures. Our support aims to maintain the high quality and aesthetics of your outdoor space, providing peace of mind after the construction phase.",
+        "@type": "Answer",
+        "description": "Post-installation project support covers services provided after project completion to address adjustments, maintenance questions, and unforeseen issues, ensuring the longevity and continued performance of your outdoor luxury features."
+      }
+    }
+  ],
+  "description": "Post-installation project support covers services provided after project completion to address adjustments, maintenance questions, and unforeseen issues, ensuri"
 }

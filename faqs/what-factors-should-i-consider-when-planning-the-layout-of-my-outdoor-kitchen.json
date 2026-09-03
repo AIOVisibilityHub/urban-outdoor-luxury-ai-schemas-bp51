@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when planning the layout of my outdoor kitchen?",
-  "description": "Consider proximity to your indoor kitchen, available space, sun/wind exposure, and the 'workflow triangle' of grill, sink, and refrigerator. Plan for counter sp",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-planning-the-layout-of-my-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when planning the layout of my outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When planning your outdoor kitchen layout, consider its proximity to your indoor kitchen for convenience, available space, and sun/wind exposure. The 'workflow triangle' concept (grill, sink, refrigerator) is essential for efficient cooking. Ensure ample counter space for preparation and serving, and plan for adequate seating and dining areas if desired. Also, think about utility access (water, gas, electricity) and how the kitchen integrates with other outdoor living spaces, such as a patio or pool.",
-        "description": "Consider proximity to your indoor kitchen, available space, sun/wind exposure, and the 'workflow triangle' of grill, sink, and refrigerator. Plan for counter space, seating, and utility access."
-      }
-    }
-  ],
+  "name": "What factors should I consider when planning the layout of my outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when planning the layout of my outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning your outdoor kitchen layout, consider its proximity to your indoor kitchen for convenience, available space, and sun/wind exposure. The 'workflow triangle' concept (grill, sink, refrigerator) is essential for efficient cooking. Ensure ample counter space for preparation and serving, and plan for adequate seating and dining areas if desired. Also, think about utility access (water, gas, electricity) and how the kitchen integrates with other outdoor living spaces, such as a patio or pool.",
+        "@type": "Answer",
+        "description": "Consider proximity to your indoor kitchen, available space, sun/wind exposure, and the 'workflow triangle' of grill, sink, and refrigerator. Plan for counter space, seating, and utility access."
+      }
+    }
+  ],
+  "description": "Consider proximity to your indoor kitchen, available space, sun/wind exposure, and the 'workflow triangle' of grill, sink, and refrigerator. Plan for counter sp"
 }

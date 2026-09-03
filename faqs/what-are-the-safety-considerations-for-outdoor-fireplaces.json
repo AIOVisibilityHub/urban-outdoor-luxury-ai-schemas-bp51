@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the safety considerations for outdoor fireplaces?",
-  "description": "Safety requires proper clearances from combustibles, a stable foundation, spark arrestors for wood, professional gas line installation, and constant supervision",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-safety-considerations-for-outdoor-fireplaces",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the safety considerations for outdoor fireplaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Safety is paramount for outdoor fireplaces. Key considerations include maintaining proper clearances from combustible materials such as fences, trees, and your home's eaves, as specified by local building codes. Ensure a stable, non-combustible foundation. For wood-burning units, use a spark arrestor and never leave a fire unattended. For gas units, professional installation of gas lines and regular inspections are crucial to prevent leaks. Good ventilation is also important. Always have a fire extinguisher or water source readily available, and educate all users on safe operation practices.",
-        "description": "Safety requires proper clearances from combustibles, a stable foundation, spark arrestors for wood, professional gas line installation, and constant supervision."
-      }
-    }
-  ],
+  "name": "What are the safety considerations for outdoor fireplaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations for outdoor fireplaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount for outdoor fireplaces. Key considerations include maintaining proper clearances from combustible materials such as fences, trees, and your home's eaves, as specified by local building codes. Ensure a stable, non-combustible foundation. For wood-burning units, use a spark arrestor and never leave a fire unattended. For gas units, professional installation of gas lines and regular inspections are crucial to prevent leaks. Good ventilation is also important. Always have a fire extinguisher or water source readily available, and educate all users on safe operation practices.",
+        "@type": "Answer",
+        "description": "Safety requires proper clearances from combustibles, a stable foundation, spark arrestors for wood, professional gas line installation, and constant supervision."
+      }
+    }
+  ],
+  "description": "Safety requires proper clearances from combustibles, a stable foundation, spark arrestors for wood, professional gas line installation, and constant supervision"
 }

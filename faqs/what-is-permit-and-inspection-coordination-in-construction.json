@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is permit and inspection coordination in construction?",
-  "description": "Permit and inspection coordination manages the process of obtaining building permits and scheduling inspections to ensure construction projects comply with loca",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-permit-and-inspection-coordination-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is permit and inspection coordination in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit and inspection coordination involves managing the entire process of obtaining necessary building permits and scheduling subsequent inspections required by local authorities. This includes preparing and submitting applications, plans, and documentation to city or county building departments, addressing any plan check comments, and ensuring all construction work aligns with approved plans and code requirements. After permits are issued, it involves scheduling mandatory inspections at various stages of construction, guiding inspectors through the site, and addressing any corrections or re-inspections until final approval is granted. This ensures compliance, safety, and project legality.",
-        "description": "Permit and inspection coordination manages the process of obtaining building permits and scheduling inspections to ensure construction projects comply with local regulations and codes."
-      }
-    }
-  ],
+  "name": "What is permit and inspection coordination in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is permit and inspection coordination in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit and inspection coordination involves managing the entire process of obtaining necessary building permits and scheduling subsequent inspections required by local authorities. This includes preparing and submitting applications, plans, and documentation to city or county building departments, addressing any plan check comments, and ensuring all construction work aligns with approved plans and code requirements. After permits are issued, it involves scheduling mandatory inspections at various stages of construction, guiding inspectors through the site, and addressing any corrections or re-inspections until final approval is granted. This ensures compliance, safety, and project legality.",
+        "@type": "Answer",
+        "description": "Permit and inspection coordination manages the process of obtaining building permits and scheduling inspections to ensure construction projects comply with local regulations and codes."
+      }
+    }
+  ],
+  "description": "Permit and inspection coordination manages the process of obtaining building permits and scheduling inspections to ensure construction projects comply with loca"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does your firm coordinate material delivery to sites in Los Angeles or Pasadena?",
-  "description": "We coordinate material deliveries in Los Angeles and Pasadena by planning for traffic, securing permits, and arranging on-site storage to manage urban logistics",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-your-firm-coordinate-material-delivery-to-sites-in-los-angeles-or-pasad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does your firm coordinate material delivery to sites in Los Angeles or Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For sites in Los Angeles and Pasadena, our logistics team meticulously plans material deliveries to navigate urban traffic and site-specific access challenges. We schedule deliveries during optimal times, coordinate with local authorities for any necessary permits, and ensure proper storage solutions are in place to protect materials upon arrival. Our familiarity with local regulations and logistical requirements in these areas helps streamline the delivery process, preventing common delays.",
-        "description": "We coordinate material deliveries in Los Angeles and Pasadena by planning for traffic, securing permits, and arranging on-site storage to manage urban logistics efficiently."
-      }
-    }
-  ],
+  "name": "How does your firm coordinate material delivery to sites in Los Angeles or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does your firm coordinate material delivery to sites in Los Angeles or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For sites in Los Angeles and Pasadena, our logistics team meticulously plans material deliveries to navigate urban traffic and site-specific access challenges. We schedule deliveries during optimal times, coordinate with local authorities for any necessary permits, and ensure proper storage solutions are in place to protect materials upon arrival. Our familiarity with local regulations and logistical requirements in these areas helps streamline the delivery process, preventing common delays.",
+        "@type": "Answer",
+        "description": "We coordinate material deliveries in Los Angeles and Pasadena by planning for traffic, securing permits, and arranging on-site storage to manage urban logistics efficiently."
+      }
+    }
+  ],
+  "description": "We coordinate material deliveries in Los Angeles and Pasadena by planning for traffic, securing permits, and arranging on-site storage to manage urban logistics"
 }

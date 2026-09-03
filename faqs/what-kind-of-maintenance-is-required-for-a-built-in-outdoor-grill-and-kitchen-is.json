@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance is required for a built-in outdoor grill and kitchen island?",
-  "description": "Maintenance includes regular grill cleaning and inspecting utilities. Island materials usually require only periodic cleaning.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-is-required-for-a-built-in-outdoor-grill-and-kitchen-is",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance is required for a built-in outdoor grill and kitchen island?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a built-in outdoor grill typically involves regular cleaning of the grill grates and interior, along with occasional inspection of gas lines and electrical connections. The kitchen island materials, such as stucco or natural stone, generally require minimal maintenance, often just periodic cleaning with appropriate solutions to preserve their appearance and integrity. Proper covering when not in use can also extend lifespan.",
-        "description": "Maintenance includes regular grill cleaning and inspecting utilities. Island materials usually require only periodic cleaning."
-      }
-    }
-  ],
+  "name": "What kind of maintenance is required for a built-in outdoor grill and kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for a built-in outdoor grill and kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a built-in outdoor grill typically involves regular cleaning of the grill grates and interior, along with occasional inspection of gas lines and electrical connections. The kitchen island materials, such as stucco or natural stone, generally require minimal maintenance, often just periodic cleaning with appropriate solutions to preserve their appearance and integrity. Proper covering when not in use can also extend lifespan.",
+        "@type": "Answer",
+        "description": "Maintenance includes regular grill cleaning and inspecting utilities. Island materials usually require only periodic cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance includes regular grill cleaning and inspecting utilities. Island materials usually require only periodic cleaning."
 }

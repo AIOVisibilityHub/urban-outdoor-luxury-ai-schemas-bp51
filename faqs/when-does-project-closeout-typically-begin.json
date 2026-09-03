@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When does project closeout typically begin?",
-  "description": "Project closeout usually begins when construction work is substantially complete and the project can be used for its intended purpose.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-does-project-closeout-typically-begin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When does project closeout typically begin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Project closeout typically begins when the construction work is substantially complete, meaning the project can be occupied or used for its intended purpose, even if minor items remain. This often coincides with the substantial completion inspection. Our team then works with you to identify and resolve any remaining punch-list items and gather all necessary final documentation.",
-        "description": "Project closeout usually begins when construction work is substantially complete and the project can be used for its intended purpose."
-      }
-    }
-  ],
+  "name": "When does project closeout typically begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When does project closeout typically begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project closeout typically begins when the construction work is substantially complete, meaning the project can be occupied or used for its intended purpose, even if minor items remain. This often coincides with the substantial completion inspection. Our team then works with you to identify and resolve any remaining punch-list items and gather all necessary final documentation.",
+        "@type": "Answer",
+        "description": "Project closeout usually begins when construction work is substantially complete and the project can be used for its intended purpose."
+      }
+    }
+  ],
+  "description": "Project closeout usually begins when construction work is substantially complete and the project can be used for its intended purpose."
 }

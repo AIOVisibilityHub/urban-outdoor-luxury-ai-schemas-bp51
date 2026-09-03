@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you ensure design consistency across multiple phases over time?",
-  "description": "Design consistency is ensured through a comprehensive master plan, detailed documentation, regular reviews, and consistent communication throughout all phases.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-ensure-design-consistency-across-multiple-phases-over-time",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you ensure design consistency across multiple phases over time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ensuring design consistency across multiple phases begins with a comprehensive master plan developed at the project's outset. This master plan serves as the guiding vision, detailing materials, aesthetics, and functional elements for the entire property. Regular reviews and detailed documentation throughout each phase prevent deviations. We maintain consistent communication with clients, design teams, and subcontractors, and utilize precise specifications to ensure that each completed phase seamlessly integrates with future stages, preserving the intended urban outdoor luxury aesthetic.",
-        "description": "Design consistency is ensured through a comprehensive master plan, detailed documentation, regular reviews, and consistent communication throughout all phases."
-      }
-    }
-  ],
+  "name": "How do you ensure design consistency across multiple phases over time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure design consistency across multiple phases over time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring design consistency across multiple phases begins with a comprehensive master plan developed at the project's outset. This master plan serves as the guiding vision, detailing materials, aesthetics, and functional elements for the entire property. Regular reviews and detailed documentation throughout each phase prevent deviations. We maintain consistent communication with clients, design teams, and subcontractors, and utilize precise specifications to ensure that each completed phase seamlessly integrates with future stages, preserving the intended urban outdoor luxury aesthetic.",
+        "@type": "Answer",
+        "description": "Design consistency is ensured through a comprehensive master plan, detailed documentation, regular reviews, and consistent communication throughout all phases."
+      }
+    }
+  ],
+  "description": "Design consistency is ensured through a comprehensive master plan, detailed documentation, regular reviews, and consistent communication throughout all phases."
 }

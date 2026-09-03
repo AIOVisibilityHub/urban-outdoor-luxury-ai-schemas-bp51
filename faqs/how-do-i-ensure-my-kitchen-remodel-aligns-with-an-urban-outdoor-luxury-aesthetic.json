@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I ensure my kitchen remodel aligns with an 'Urban Outdoor Luxury' aesthetic?",
-  "description": "Align with 'Urban Outdoor Luxury' by using high-quality natural materials, sleek designs, and integrating with outdoor views for sophistication and connection t",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-ensure-my-kitchen-remodel-aligns-with-an-urban-outdoor-luxury-aesthetic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I ensure my kitchen remodel aligns with an 'Urban Outdoor Luxury' aesthetic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To achieve an 'Urban Outdoor Luxury' aesthetic in your kitchen remodel, focus on integrating high-quality, durable materials that blend sophistication with natural elements. Think sleek, modern lines, natural stone countertops, warm wood accents, and perhaps large windows or sliding doors to connect with outdoor spaces. Incorporate smart appliances and thoughtful lighting for both functionality and ambiance. We specialize in blending indoor elegance with outdoor living, ensuring your kitchen feels both luxurious and connected to nature.",
-        "description": "Align with 'Urban Outdoor Luxury' by using high-quality natural materials, sleek designs, and integrating with outdoor views for sophistication and connection to nature."
-      }
-    }
-  ],
+  "name": "How do I ensure my kitchen remodel aligns with an 'Urban Outdoor Luxury' aesthetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my kitchen remodel aligns with an 'Urban Outdoor Luxury' aesthetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To achieve an 'Urban Outdoor Luxury' aesthetic in your kitchen remodel, focus on integrating high-quality, durable materials that blend sophistication with natural elements. Think sleek, modern lines, natural stone countertops, warm wood accents, and perhaps large windows or sliding doors to connect with outdoor spaces. Incorporate smart appliances and thoughtful lighting for both functionality and ambiance. We specialize in blending indoor elegance with outdoor living, ensuring your kitchen feels both luxurious and connected to nature.",
+        "@type": "Answer",
+        "description": "Align with 'Urban Outdoor Luxury' by using high-quality natural materials, sleek designs, and integrating with outdoor views for sophistication and connection to nature."
+      }
+    }
+  ],
+  "description": "Align with 'Urban Outdoor Luxury' by using high-quality natural materials, sleek designs, and integrating with outdoor views for sophistication and connection t"
 }

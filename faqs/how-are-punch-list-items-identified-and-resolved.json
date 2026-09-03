@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How are punch list items identified and resolved?",
-  "description": "Punch list items are identified during a joint walkthrough, then corrected by our team and reviewed for satisfactory completion.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-are-punch-list-items-identified-and-resolved",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How are punch list items identified and resolved?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Punch list items are identified through a joint walkthrough of the completed project by our team and the client. We document any noted deficiencies or incomplete work. Once identified, our team schedules and completes the necessary corrections or additions. Each item is then reviewed for satisfactory completion, ensuring it meets our quality standards before final sign-off.",
-        "description": "Punch list items are identified during a joint walkthrough, then corrected by our team and reviewed for satisfactory completion."
-      }
-    }
-  ],
+  "name": "How are punch list items identified and resolved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How are punch list items identified and resolved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Punch list items are identified through a joint walkthrough of the completed project by our team and the client. We document any noted deficiencies or incomplete work. Once identified, our team schedules and completes the necessary corrections or additions. Each item is then reviewed for satisfactory completion, ensuring it meets our quality standards before final sign-off.",
+        "@type": "Answer",
+        "description": "Punch list items are identified during a joint walkthrough, then corrected by our team and reviewed for satisfactory completion."
+      }
+    }
+  ],
+  "description": "Punch list items are identified during a joint walkthrough, then corrected by our team and reviewed for satisfactory completion."
 }

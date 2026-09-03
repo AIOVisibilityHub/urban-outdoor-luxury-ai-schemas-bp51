@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of inspections are required during an outdoor luxury construction project?",
-  "description": "Required inspections for outdoor luxury projects often include foundation, framing, plumbing, electrical, mechanical, and final inspections, plus specialty chec",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-inspections-are-required-during-an-outdoor-luxury-construction-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of inspections are required during an outdoor luxury construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outdoor luxury construction projects typically require several types of inspections throughout different phases. These can include foundation inspections, framing inspections, plumbing rough-in inspections, electrical rough-in inspections, mechanical inspections, and final inspections. For projects involving pools, additional inspections may cover structural integrity, barrier requirements, and filtration systems. Grading and drainage inspections are also common for significant landscaping. Each inspection ensures that the work complies with approved plans and local building codes before proceeding to the next stage.",
-        "description": "Required inspections for outdoor luxury projects often include foundation, framing, plumbing, electrical, mechanical, and final inspections, plus specialty checks for pools or significant landscaping."
-      }
-    }
-  ],
+  "name": "What types of inspections are required during an outdoor luxury construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of inspections are required during an outdoor luxury construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor luxury construction projects typically require several types of inspections throughout different phases. These can include foundation inspections, framing inspections, plumbing rough-in inspections, electrical rough-in inspections, mechanical inspections, and final inspections. For projects involving pools, additional inspections may cover structural integrity, barrier requirements, and filtration systems. Grading and drainage inspections are also common for significant landscaping. Each inspection ensures that the work complies with approved plans and local building codes before proceeding to the next stage.",
+        "@type": "Answer",
+        "description": "Required inspections for outdoor luxury projects often include foundation, framing, plumbing, electrical, mechanical, and final inspections, plus specialty checks for pools or significant landscaping."
+      }
+    }
+  ],
+  "description": "Required inspections for outdoor luxury projects often include foundation, framing, plumbing, electrical, mechanical, and final inspections, plus specialty chec"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a built-in grill station?",
-  "description": "Maintenance includes regular cleaning of the grill and island surfaces, along with periodic sealing of materials and annual inspection of utilities.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-built-in-grill-station",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a built-in grill station?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintaining a built-in grill station typically involves regular cleaning of the grill itself, including grates and burners, and wiping down the exterior surfaces of the island. Depending on the countertop and cladding materials, periodic sealing or cleaning with specialized products may be necessary to preserve their appearance and integrity. Inspecting gas lines, electrical connections, and plumbing annually is also advisable to ensure safe and efficient operation. Proper maintenance extends the lifespan and ensures optimal performance of your outdoor kitchen.",
-        "description": "Maintenance includes regular cleaning of the grill and island surfaces, along with periodic sealing of materials and annual inspection of utilities."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a built-in grill station?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a built-in grill station?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a built-in grill station typically involves regular cleaning of the grill itself, including grates and burners, and wiping down the exterior surfaces of the island. Depending on the countertop and cladding materials, periodic sealing or cleaning with specialized products may be necessary to preserve their appearance and integrity. Inspecting gas lines, electrical connections, and plumbing annually is also advisable to ensure safe and efficient operation. Proper maintenance extends the lifespan and ensures optimal performance of your outdoor kitchen.",
+        "@type": "Answer",
+        "description": "Maintenance includes regular cleaning of the grill and island surfaces, along with periodic sealing of materials and annual inspection of utilities."
+      }
+    }
+  ],
+  "description": "Maintenance includes regular cleaning of the grill and island surfaces, along with periodic sealing of materials and annual inspection of utilities."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multi-phase planning impact project costs and budgeting?",
-  "description": "Multi-phase planning helps distribute project costs over time, reducing upfront investment and allowing for budget flexibility between stages.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-multi-phase-planning-impact-project-costs-and-budgeting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multi-phase planning impact project costs and budgeting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multi-phase planning can significantly impact project costs and budgeting by allowing clients to distribute expenses over a longer period, rather than facing a large upfront investment. This flexibility helps in aligning project components with available funds for each stage. It also provides opportunities to refine designs or material choices between phases, potentially optimizing costs. While the total project cost may not decrease, the financial burden per year is often reduced, making large-scale outdoor luxury projects more accessible.",
-        "description": "Multi-phase planning helps distribute project costs over time, reducing upfront investment and allowing for budget flexibility between stages."
-      }
-    }
-  ],
+  "name": "How does multi-phase planning impact project costs and budgeting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multi-phase planning impact project costs and budgeting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-phase planning can significantly impact project costs and budgeting by allowing clients to distribute expenses over a longer period, rather than facing a large upfront investment. This flexibility helps in aligning project components with available funds for each stage. It also provides opportunities to refine designs or material choices between phases, potentially optimizing costs. While the total project cost may not decrease, the financial burden per year is often reduced, making large-scale outdoor luxury projects more accessible.",
+        "@type": "Answer",
+        "description": "Multi-phase planning helps distribute project costs over time, reducing upfront investment and allowing for budget flexibility between stages."
+      }
+    }
+  ],
+  "description": "Multi-phase planning helps distribute project costs over time, reducing upfront investment and allowing for budget flexibility between stages."
 }

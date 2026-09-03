@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the punch list and closeout process take?",
-  "description": "The punch list and closeout duration varies by project complexity, typically taking from a few days to several weeks for landscape projects.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-punch-list-and-closeout-process-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the punch list and closeout process take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of the punch list and closeout process varies depending on the project's size, complexity, and the number of outstanding items. For residential landscape projects, it can range from a few days to several weeks. Our goal is efficient completion, working diligently to address items swiftly while maintaining quality standards. We communicate timelines clearly during this phase.",
-        "description": "The punch list and closeout duration varies by project complexity, typically taking from a few days to several weeks for landscape projects."
-      }
-    }
-  ],
+  "name": "How long does the punch list and closeout process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the punch list and closeout process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the punch list and closeout process varies depending on the project's size, complexity, and the number of outstanding items. For residential landscape projects, it can range from a few days to several weeks. Our goal is efficient completion, working diligently to address items swiftly while maintaining quality standards. We communicate timelines clearly during this phase.",
+        "@type": "Answer",
+        "description": "The punch list and closeout duration varies by project complexity, typically taking from a few days to several weeks for landscape projects."
+      }
+    }
+  ],
+  "description": "The punch list and closeout duration varies by project complexity, typically taking from a few days to several weeks for landscape projects."
 }

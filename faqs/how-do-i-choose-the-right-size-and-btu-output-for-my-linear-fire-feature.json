@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right size and BTU output for my linear fire feature?",
-  "description": "Select size and BTU output based on your outdoor space, desired warmth, and aesthetic goals. Consult a professional for optimal choice.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-size-and-btu-output-for-my-linear-fire-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right size and BTU output for my linear fire feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right size and BTU output depends on the intended use and the size of your outdoor space. For ambient lighting and a focal point in a smaller area, a shorter burner with lower BTUs may suffice. For significant warmth and a grander statement in a larger space, a longer burner with higher BTUs is appropriate. Consider the feature's placement within your overall landscape design and consult with a professional to ensure it meets your aesthetic and functional needs while complying with safety standards.",
-        "description": "Select size and BTU output based on your outdoor space, desired warmth, and aesthetic goals. Consult a professional for optimal choice."
-      }
-    }
-  ],
+  "name": "How do I choose the right size and BTU output for my linear fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and BTU output for my linear fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and BTU output depends on the intended use and the size of your outdoor space. For ambient lighting and a focal point in a smaller area, a shorter burner with lower BTUs may suffice. For significant warmth and a grander statement in a larger space, a longer burner with higher BTUs is appropriate. Consider the feature's placement within your overall landscape design and consult with a professional to ensure it meets your aesthetic and functional needs while complying with safety standards.",
+        "@type": "Answer",
+        "description": "Select size and BTU output based on your outdoor space, desired warmth, and aesthetic goals. Consult a professional for optimal choice."
+      }
+    }
+  ],
+  "description": "Select size and BTU output based on your outdoor space, desired warmth, and aesthetic goals. Consult a professional for optimal choice."
 }

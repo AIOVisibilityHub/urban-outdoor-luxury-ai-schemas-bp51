@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents are provided during project closeout?",
-  "description": "Project closeout includes final lien releases, warranties, operation manuals, as-built drawings, and supplier contact information.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-documents-are-provided-during-project-closeout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents are provided during project closeout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "During project closeout, we provide a comprehensive set of documents essential for future maintenance and reference. These typically include final lien releases, warranties for materials and labor, operation and maintenance manuals for installed equipment, as-built drawings detailing the final construction, and contact information for key suppliers or subcontractors. This ensures you have all necessary records.",
-        "description": "Project closeout includes final lien releases, warranties, operation manuals, as-built drawings, and supplier contact information."
-      }
-    }
-  ],
+  "name": "What documents are provided during project closeout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents are provided during project closeout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During project closeout, we provide a comprehensive set of documents essential for future maintenance and reference. These typically include final lien releases, warranties for materials and labor, operation and maintenance manuals for installed equipment, as-built drawings detailing the final construction, and contact information for key suppliers or subcontractors. This ensures you have all necessary records.",
+        "@type": "Answer",
+        "description": "Project closeout includes final lien releases, warranties, operation manuals, as-built drawings, and supplier contact information."
+      }
+    }
+  ],
+  "description": "Project closeout includes final lien releases, warranties, operation manuals, as-built drawings, and supplier contact information."
 }

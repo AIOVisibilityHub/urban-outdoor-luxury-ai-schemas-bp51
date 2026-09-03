@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of materials do you procure for luxury outdoor projects?",
-  "description": "We procure high-end materials such as natural stones, premium hardwoods, custom metalwork, outdoor kitchen appliances, and specialized lighting for luxury outdo",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-materials-do-you-procure-for-luxury-outdoor-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of materials do you procure for luxury outdoor projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For luxury outdoor projects, we procure a wide array of high-end materials. This commonly includes natural stones such as travertine, granite, and limestone for patios and pathways; premium hardwoods like ipe or teak for decking; custom metalwork for railings or pergolas; state-of-the-art outdoor kitchen appliances; specialized landscape lighting; and advanced irrigation systems. We focus on materials known for their durability, aesthetic appeal, and suitability for the Southern California climate.",
-        "description": "We procure high-end materials such as natural stones, premium hardwoods, custom metalwork, outdoor kitchen appliances, and specialized lighting for luxury outdoor projects."
-      }
-    }
-  ],
+  "name": "What kind of materials do you procure for luxury outdoor projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials do you procure for luxury outdoor projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury outdoor projects, we procure a wide array of high-end materials. This commonly includes natural stones such as travertine, granite, and limestone for patios and pathways; premium hardwoods like ipe or teak for decking; custom metalwork for railings or pergolas; state-of-the-art outdoor kitchen appliances; specialized landscape lighting; and advanced irrigation systems. We focus on materials known for their durability, aesthetic appeal, and suitability for the Southern California climate.",
+        "@type": "Answer",
+        "description": "We procure high-end materials such as natural stones, premium hardwoods, custom metalwork, outdoor kitchen appliances, and specialized lighting for luxury outdoor projects."
+      }
+    }
+  ],
+  "description": "We procure high-end materials such as natural stones, premium hardwoods, custom metalwork, outdoor kitchen appliances, and specialized lighting for luxury outdo"
 }

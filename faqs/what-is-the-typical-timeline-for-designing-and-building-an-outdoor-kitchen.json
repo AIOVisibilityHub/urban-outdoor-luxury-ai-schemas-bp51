@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for designing and building an outdoor kitchen?",
-  "description": "Designing and building an outdoor kitchen typically takes 2-4 months, including design, permitting (4-8 weeks), and construction (4-8 weeks).",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-designing-and-building-an-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for designing and building an outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for designing and building an outdoor kitchen generally spans several weeks to a few months. The design phase, including consultations and revisions, can take 2-4 weeks. Once permits are secured, which can add 4-8 weeks, construction typically begins. The building phase itself, involving site preparation, utility installation, appliance setup, and finishing touches, can last 4-8 weeks depending on the project's complexity. Customization and material availability can also impact the schedule.",
-        "description": "Designing and building an outdoor kitchen typically takes 2-4 months, including design, permitting (4-8 weeks), and construction (4-8 weeks)."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for designing and building an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing and building an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and building an outdoor kitchen generally spans several weeks to a few months. The design phase, including consultations and revisions, can take 2-4 weeks. Once permits are secured, which can add 4-8 weeks, construction typically begins. The building phase itself, involving site preparation, utility installation, appliance setup, and finishing touches, can last 4-8 weeks depending on the project's complexity. Customization and material availability can also impact the schedule.",
+        "@type": "Answer",
+        "description": "Designing and building an outdoor kitchen typically takes 2-4 months, including design, permitting (4-8 weeks), and construction (4-8 weeks)."
+      }
+    }
+  ],
+  "description": "Designing and building an outdoor kitchen typically takes 2-4 months, including design, permitting (4-8 weeks), and construction (4-8 weeks)."
 }

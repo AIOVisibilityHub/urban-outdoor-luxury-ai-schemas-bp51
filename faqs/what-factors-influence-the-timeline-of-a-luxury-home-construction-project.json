@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the timeline of a luxury home construction project?",
-  "description": "Luxury home timelines are affected by design complexity, material lead times, permits, site conditions, weather, skilled labor availability, and client decision",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-timeline-of-a-luxury-home-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the timeline of a luxury home construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several factors influence the timeline of a luxury home construction project, including the complexity and size of the design, custom material lead times, permitting processes, site conditions, and weather. The availability of highly skilled specialized trades and the client's decision-making speed on custom selections also play a significant role. Our comprehensive scheduling accounts for these variables, building in contingencies to manage unforeseen challenges and ensure project predictability.",
-        "description": "Luxury home timelines are affected by design complexity, material lead times, permits, site conditions, weather, skilled labor availability, and client decisions."
-      }
-    }
-  ],
+  "name": "What factors influence the timeline of a luxury home construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the timeline of a luxury home construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the timeline of a luxury home construction project, including the complexity and size of the design, custom material lead times, permitting processes, site conditions, and weather. The availability of highly skilled specialized trades and the client's decision-making speed on custom selections also play a significant role. Our comprehensive scheduling accounts for these variables, building in contingencies to manage unforeseen challenges and ensure project predictability.",
+        "@type": "Answer",
+        "description": "Luxury home timelines are affected by design complexity, material lead times, permits, site conditions, weather, skilled labor availability, and client decisions."
+      }
+    }
+  ],
+  "description": "Luxury home timelines are affected by design complexity, material lead times, permits, site conditions, weather, skilled labor availability, and client decision"
 }

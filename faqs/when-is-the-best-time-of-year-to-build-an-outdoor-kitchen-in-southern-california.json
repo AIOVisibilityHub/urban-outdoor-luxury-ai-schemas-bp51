@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to build an outdoor kitchen in Southern California?",
-  "description": "The best time to build an outdoor kitchen in Southern California is usually late spring through early fall, during drier, milder months. Construction can procee",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-build-an-outdoor-kitchen-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to build an outdoor kitchen in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to build an outdoor kitchen in Southern California is typically during the drier, milder months. This often means late spring through early fall, avoiding the cooler, potentially wetter winter season. However, construction can generally proceed year-round given the region's temperate climate. Planning and permitting can begin at any time, but scheduling construction during optimal weather can prevent delays related to rain and ensures comfortable working conditions for the crew.",
-        "description": "The best time to build an outdoor kitchen in Southern California is usually late spring through early fall, during drier, milder months. Construction can proceed year-round, but optimal weather minimizes delays."
-      }
-    }
-  ],
+  "name": "When is the best time of year to build an outdoor kitchen in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to build an outdoor kitchen in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to build an outdoor kitchen in Southern California is typically during the drier, milder months. This often means late spring through early fall, avoiding the cooler, potentially wetter winter season. However, construction can generally proceed year-round given the region's temperate climate. Planning and permitting can begin at any time, but scheduling construction during optimal weather can prevent delays related to rain and ensures comfortable working conditions for the crew.",
+        "@type": "Answer",
+        "description": "The best time to build an outdoor kitchen in Southern California is usually late spring through early fall, during drier, milder months. Construction can proceed year-round, but optimal weather minimizes delays."
+      }
+    }
+  ],
+  "description": "The best time to build an outdoor kitchen in Southern California is usually late spring through early fall, during drier, milder months. Construction can procee"
 }

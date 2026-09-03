@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does crew coordination affect the timeline and quality of a luxury residential build?",
-  "description": "Effective crew coordination ensures smooth transitions between trades, reduces delays and errors, and maintains the high quality standards for luxury home build",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-crew-coordination-affect-the-timeline-and-quality-of-a-luxury-residenti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does crew coordination affect the timeline and quality of a luxury residential build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Effective crew coordination is vital for maintaining the schedule and achieving the superior quality expected in luxury residential construction. When crews are well-coordinated, different trades (e.g., framing, plumbing, electrical, finishes) work seamlessly together, avoiding conflicts and maximizing productivity. This minimizes downtime, reduces errors, and ensures that each phase transitions smoothly to the next. Poor coordination can lead to costly delays, rework, and compromise the exquisite detail and craftsmanship that define a luxury home.",
-        "description": "Effective crew coordination ensures smooth transitions between trades, reduces delays and errors, and maintains the high quality standards for luxury home builds."
-      }
-    }
-  ],
+  "name": "How does crew coordination affect the timeline and quality of a luxury residential build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does crew coordination affect the timeline and quality of a luxury residential build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective crew coordination is vital for maintaining the schedule and achieving the superior quality expected in luxury residential construction. When crews are well-coordinated, different trades (e.g., framing, plumbing, electrical, finishes) work seamlessly together, avoiding conflicts and maximizing productivity. This minimizes downtime, reduces errors, and ensures that each phase transitions smoothly to the next. Poor coordination can lead to costly delays, rework, and compromise the exquisite detail and craftsmanship that define a luxury home.",
+        "@type": "Answer",
+        "description": "Effective crew coordination ensures smooth transitions between trades, reduces delays and errors, and maintains the high quality standards for luxury home builds."
+      }
+    }
+  ],
+  "description": "Effective crew coordination ensures smooth transitions between trades, reduces delays and errors, and maintains the high quality standards for luxury home build"
 }

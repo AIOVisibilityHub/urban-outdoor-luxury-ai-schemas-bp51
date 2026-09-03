@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best materials for an outdoor kitchen in a Southern California climate?",
-  "description": "Select durable, weather-resistant materials for Southern California's climate, such as stainless steel for appliances, and granite, quartz, or porcelain for cou",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-best-materials-for-an-outdoor-kitchen-in-a-southern-californ",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best materials for an outdoor kitchen in a Southern California climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing materials for an outdoor kitchen in Southern California requires considering sun exposure, heat, and occasional moisture. Stainless steel (304 or marine grade) is ideal for appliances and cabinetry due to its corrosion resistance. Countertops can utilize granite, quartz, porcelain, or concrete for durability and aesthetic appeal. For structural elements and finishes, consider stucco, stone veneer, or concrete blocks. These materials withstand environmental factors while offering diverse design options to complement your home.",
-        "description": "Select durable, weather-resistant materials for Southern California's climate, such as stainless steel for appliances, and granite, quartz, or porcelain for countertops. Stucco or stone veneer are good options for structural finishes."
-      }
-    }
-  ],
+  "name": "How do I choose the best materials for an outdoor kitchen in a Southern California climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best materials for an outdoor kitchen in a Southern California climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing materials for an outdoor kitchen in Southern California requires considering sun exposure, heat, and occasional moisture. Stainless steel (304 or marine grade) is ideal for appliances and cabinetry due to its corrosion resistance. Countertops can utilize granite, quartz, porcelain, or concrete for durability and aesthetic appeal. For structural elements and finishes, consider stucco, stone veneer, or concrete blocks. These materials withstand environmental factors while offering diverse design options to complement your home.",
+        "@type": "Answer",
+        "description": "Select durable, weather-resistant materials for Southern California's climate, such as stainless steel for appliances, and granite, quartz, or porcelain for countertops. Stucco or stone veneer are good options for structural finishes."
+      }
+    }
+  ],
+  "description": "Select durable, weather-resistant materials for Southern California's climate, such as stainless steel for appliances, and granite, quartz, or porcelain for cou"
 }

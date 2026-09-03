@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install a custom built-in grill station?",
-  "description": "Installation time varies, but typically ranges from 2-4 weeks for basic designs to 6-10 weeks for more complex grill stations, depending on features and materia",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-custom-built-in-grill-station",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install a custom built-in grill station?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a custom built-in grill station installation can vary significantly based on complexity, materials, and features. A basic setup might take 2-4 weeks from design finalization to completion, while more elaborate designs with extensive utilities, custom cabinetry, or unique finishes could extend to 6-10 weeks or more. Factors like weather, material lead times, and permitting also influence the schedule. We provide a detailed project timeline after the design phase is complete.",
-        "description": "Installation time varies, but typically ranges from 2-4 weeks for basic designs to 6-10 weeks for more complex grill stations, depending on features and materials."
-      }
-    }
-  ],
+  "name": "How long does it take to install a custom built-in grill station?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a custom built-in grill station?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom built-in grill station installation can vary significantly based on complexity, materials, and features. A basic setup might take 2-4 weeks from design finalization to completion, while more elaborate designs with extensive utilities, custom cabinetry, or unique finishes could extend to 6-10 weeks or more. Factors like weather, material lead times, and permitting also influence the schedule. We provide a detailed project timeline after the design phase is complete.",
+        "@type": "Answer",
+        "description": "Installation time varies, but typically ranges from 2-4 weeks for basic designs to 6-10 weeks for more complex grill stations, depending on features and materials."
+      }
+    }
+  ],
+  "description": "Installation time varies, but typically ranges from 2-4 weeks for basic designs to 6-10 weeks for more complex grill stations, depending on features and materia"
 }

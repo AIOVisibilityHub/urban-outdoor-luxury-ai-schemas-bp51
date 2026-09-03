@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you ensure the quality of materials procured for my project?",
-  "description": "We ensure material quality by working with reputable suppliers, reviewing specifications, requesting samples, and conducting thorough inspections upon delivery",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-you-ensure-the-quality-of-materials-procured-for-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you ensure the quality of materials procured for my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quality assurance for materials begins with selecting reputable suppliers and manufacturers known for their consistent standards. We meticulously review material specifications, request samples for client approval, and conduct inspections upon delivery to ensure they match the approved samples and meet our stringent quality criteria. Any materials not meeting our standards are promptly addressed and replaced to prevent delays and maintain the integrity of your luxury outdoor space.",
-        "description": "We ensure material quality by working with reputable suppliers, reviewing specifications, requesting samples, and conducting thorough inspections upon delivery to the site."
-      }
-    }
-  ],
+  "name": "How do you ensure the quality of materials procured for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure the quality of materials procured for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quality assurance for materials begins with selecting reputable suppliers and manufacturers known for their consistent standards. We meticulously review material specifications, request samples for client approval, and conduct inspections upon delivery to ensure they match the approved samples and meet our stringent quality criteria. Any materials not meeting our standards are promptly addressed and replaced to prevent delays and maintain the integrity of your luxury outdoor space.",
+        "@type": "Answer",
+        "description": "We ensure material quality by working with reputable suppliers, reviewing specifications, requesting samples, and conducting thorough inspections upon delivery to the site."
+      }
+    }
+  ],
+  "description": "We ensure material quality by working with reputable suppliers, reviewing specifications, requesting samples, and conducting thorough inspections upon delivery"
 }

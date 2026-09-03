@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right materials and finishes for my kitchen remodel?",
-  "description": "Select materials by balancing aesthetics, durability, and budget, considering your home's style and maintenance needs. We offer guidance and samples.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-materials-and-finishes-for-my-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right materials and finishes for my kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing materials and finishes involves balancing aesthetics, durability, and budget. Consider your home's overall style and your personal preferences for color and texture. Research different options for countertops (e.g., quartz, granite, marble), cabinetry (e.g., wood, MDF, thermofoil), flooring (e.g., tile, hardwood, vinyl), and backsplashes. Durability and maintenance requirements are also crucial. We guide clients through material selections, providing samples and expert advice to ensure choices align with their vision and practical needs.",
-        "description": "Select materials by balancing aesthetics, durability, and budget, considering your home's style and maintenance needs. We offer guidance and samples."
-      }
-    }
-  ],
+  "name": "How do I choose the right materials and finishes for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right materials and finishes for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing materials and finishes involves balancing aesthetics, durability, and budget. Consider your home's overall style and your personal preferences for color and texture. Research different options for countertops (e.g., quartz, granite, marble), cabinetry (e.g., wood, MDF, thermofoil), flooring (e.g., tile, hardwood, vinyl), and backsplashes. Durability and maintenance requirements are also crucial. We guide clients through material selections, providing samples and expert advice to ensure choices align with their vision and practical needs.",
+        "@type": "Answer",
+        "description": "Select materials by balancing aesthetics, durability, and budget, considering your home's style and maintenance needs. We offer guidance and samples."
+      }
+    }
+  ],
+  "description": "Select materials by balancing aesthetics, durability, and budget, considering your home's style and maintenance needs. We offer guidance and samples."
 }

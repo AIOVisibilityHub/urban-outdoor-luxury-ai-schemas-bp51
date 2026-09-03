@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is professional project closeout important for luxury outdoor projects?",
-  "description": "Professional closeout for luxury outdoor projects ensures every detail meets high aesthetic and functional standards, protecting your investment.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/why-is-professional-project-closeout-important-for-luxury-outdoor-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is professional project closeout important for luxury outdoor projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional project closeout is critical for luxury outdoor projects to ensure every detail meets the highest aesthetic and functional standards. It guarantees that the sophisticated design elements, high-end materials, and complex systems are perfectly installed and fully operational. A meticulous closeout protects your investment, preserves the project's integrity, and ensures lasting satisfaction with your outdoor living space.",
-        "description": "Professional closeout for luxury outdoor projects ensures every detail meets high aesthetic and functional standards, protecting your investment."
-      }
-    }
-  ],
+  "name": "Why is professional project closeout important for luxury outdoor projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is professional project closeout important for luxury outdoor projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional project closeout is critical for luxury outdoor projects to ensure every detail meets the highest aesthetic and functional standards. It guarantees that the sophisticated design elements, high-end materials, and complex systems are perfectly installed and fully operational. A meticulous closeout protects your investment, preserves the project's integrity, and ensures lasting satisfaction with your outdoor living space.",
+        "@type": "Answer",
+        "description": "Professional closeout for luxury outdoor projects ensures every detail meets high aesthetic and functional standards, protecting your investment."
+      }
+    }
+  ],
+  "description": "Professional closeout for luxury outdoor projects ensures every detail meets high aesthetic and functional standards, protecting your investment."
 }

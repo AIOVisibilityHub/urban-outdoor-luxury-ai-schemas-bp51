@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multi-phase management affect project costs?",
-  "description": "Multi-phase management helps control project costs by enabling detailed budgeting for each stage, improving financial transparency and flexibility.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-multi-phase-management-affect-project-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multi-phase management affect project costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multi-phase management can positively impact project costs by providing better budget control and transparency. By breaking down the project, you can allocate funds to specific phases, making it easier to manage cash flow and avoid unexpected expenses. It also allows for value engineering at each stage, optimizing material and labor costs. While the overall project cost remains the same, this approach can help in securing financing for each phase or adjusting scope if needed, offering financial flexibility for high-value outdoor projects.",
-        "description": "Multi-phase management helps control project costs by enabling detailed budgeting for each stage, improving financial transparency and flexibility."
-      }
-    }
-  ],
+  "name": "How does multi-phase management affect project costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multi-phase management affect project costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-phase management can positively impact project costs by providing better budget control and transparency. By breaking down the project, you can allocate funds to specific phases, making it easier to manage cash flow and avoid unexpected expenses. It also allows for value engineering at each stage, optimizing material and labor costs. While the overall project cost remains the same, this approach can help in securing financing for each phase or adjusting scope if needed, offering financial flexibility for high-value outdoor projects.",
+        "@type": "Answer",
+        "description": "Multi-phase management helps control project costs by enabling detailed budgeting for each stage, improving financial transparency and flexibility."
+      }
+    }
+  ],
+  "description": "Multi-phase management helps control project costs by enabling detailed budgeting for each stage, improving financial transparency and flexibility."
 }

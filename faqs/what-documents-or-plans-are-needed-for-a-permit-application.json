@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents or plans are needed for a permit application?",
-  "description": "Permit applications typically require detailed architectural, structural, site, elevation, and utility plans, often prepared by licensed professionals, along wi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-documents-or-plans-are-needed-for-a-permit-application",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents or plans are needed for a permit application?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a permit application, you generally need detailed architectural and structural plans, site plans showing property lines and existing structures, elevation drawings, and utility plans (plumbing, electrical, mechanical) if applicable. Depending on the project's complexity and location, additional documents might include soil reports, energy calculations, landscape plans, and historical review applications. All plans must be prepared by licensed professionals (e.g., architects, engineers) and adhere to local zoning ordinances and building codes. Completeness and accuracy of these documents are key to a smooth permit process.",
-        "description": "Permit applications typically require detailed architectural, structural, site, elevation, and utility plans, often prepared by licensed professionals, along with any necessary reports."
-      }
-    }
-  ],
+  "name": "What documents or plans are needed for a permit application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents or plans are needed for a permit application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a permit application, you generally need detailed architectural and structural plans, site plans showing property lines and existing structures, elevation drawings, and utility plans (plumbing, electrical, mechanical) if applicable. Depending on the project's complexity and location, additional documents might include soil reports, energy calculations, landscape plans, and historical review applications. All plans must be prepared by licensed professionals (e.g., architects, engineers) and adhere to local zoning ordinances and building codes. Completeness and accuracy of these documents are key to a smooth permit process.",
+        "@type": "Answer",
+        "description": "Permit applications typically require detailed architectural, structural, site, elevation, and utility plans, often prepared by licensed professionals, along with any necessary reports."
+      }
+    }
+  ],
+  "description": "Permit applications typically require detailed architectural, structural, site, elevation, and utility plans, often prepared by licensed professionals, along wi"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What appliances should I consider for an outdoor kitchen?",
-  "description": "Consider a grill, side burner, outdoor refrigerator, and sink. Pizza ovens, smokers, or ice makers are also popular additions.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-appliances-should-i-consider-for-an-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What appliances should I consider for an outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Essential outdoor kitchen appliances often include a high-quality grill (gas, charcoal, or kamado). Beyond that, popular additions are side burners for sauces and sides, outdoor-rated refrigerators to keep ingredients and drinks cold, and sinks for easy cleanup. Other considerations might be pizza ovens, smokers, ice makers, or warming drawers, depending on your cooking and entertaining preferences and available space.",
-        "description": "Consider a grill, side burner, outdoor refrigerator, and sink. Pizza ovens, smokers, or ice makers are also popular additions."
-      }
-    }
-  ],
+  "name": "What appliances should I consider for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What appliances should I consider for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential outdoor kitchen appliances often include a high-quality grill (gas, charcoal, or kamado). Beyond that, popular additions are side burners for sauces and sides, outdoor-rated refrigerators to keep ingredients and drinks cold, and sinks for easy cleanup. Other considerations might be pizza ovens, smokers, ice makers, or warming drawers, depending on your cooking and entertaining preferences and available space.",
+        "@type": "Answer",
+        "description": "Consider a grill, side burner, outdoor refrigerator, and sink. Pizza ovens, smokers, or ice makers are also popular additions."
+      }
+    }
+  ],
+  "description": "Consider a grill, side burner, outdoor refrigerator, and sink. Pizza ovens, smokers, or ice makers are also popular additions."
 }

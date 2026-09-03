@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the essential components of a functional outdoor kitchen?",
-  "description": "Essential components for a functional outdoor kitchen include a built-in grill, counter space, a sink, and often a refrigerator and storage. Durable, weather-re",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-essential-components-of-a-functional-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the essential components of a functional outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A functional outdoor kitchen typically includes key elements for cooking, preparation, and storage. Essential components often feature a built-in grill, sufficient counter space for food prep, and a sink with plumbing. Depending on your needs, a refrigerator, storage cabinets for utensils and dishes, and perhaps a side burner or pizza oven can also be integrated. Thoughtful layout and durable, weather-resistant materials are crucial for longevity and usability in the Los Angeles climate.",
-        "description": "Essential components for a functional outdoor kitchen include a built-in grill, counter space, a sink, and often a refrigerator and storage. Durable, weather-resistant materials are key for the Los Angeles environment."
-      }
-    }
-  ],
+  "name": "What are the essential components of a functional outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential components of a functional outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A functional outdoor kitchen typically includes key elements for cooking, preparation, and storage. Essential components often feature a built-in grill, sufficient counter space for food prep, and a sink with plumbing. Depending on your needs, a refrigerator, storage cabinets for utensils and dishes, and perhaps a side burner or pizza oven can also be integrated. Thoughtful layout and durable, weather-resistant materials are crucial for longevity and usability in the Los Angeles climate.",
+        "@type": "Answer",
+        "description": "Essential components for a functional outdoor kitchen include a built-in grill, counter space, a sink, and often a refrigerator and storage. Durable, weather-resistant materials are key for the Los Angeles environment."
+      }
+    }
+  ],
+  "description": "Essential components for a functional outdoor kitchen include a built-in grill, counter space, a sink, and often a refrigerator and storage. Durable, weather-re"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of projects does a general contractor typically handle for urban outdoor luxury?",
-  "description": "General contractors manage custom outdoor kitchens, hardscaping, pergolas, pools, lighting, and other multi-faceted projects for urban outdoor luxury.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-projects-does-a-general-contractor-typically-handle-for-urban-outdo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of projects does a general contractor typically handle for urban outdoor luxury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For urban outdoor luxury, a general contractor handles a wide range of projects. This includes designing and building custom outdoor kitchens and dining areas, installing intricate hardscaping like patios and pathways, constructing elaborate pergolas and gazebos, and integrating advanced landscape lighting and irrigation systems. They also manage swimming pool installations, water features, fire pits, and outdoor entertainment setups. Essentially, they oversee any multi-faceted project that transforms an outdoor space into a high-end, functional, and aesthetically pleasing extension of your home.",
-        "description": "General contractors manage custom outdoor kitchens, hardscaping, pergolas, pools, lighting, and other multi-faceted projects for urban outdoor luxury."
-      }
-    }
-  ],
+  "name": "What kind of projects does a general contractor typically handle for urban outdoor luxury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects does a general contractor typically handle for urban outdoor luxury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urban outdoor luxury, a general contractor handles a wide range of projects. This includes designing and building custom outdoor kitchens and dining areas, installing intricate hardscaping like patios and pathways, constructing elaborate pergolas and gazebos, and integrating advanced landscape lighting and irrigation systems. They also manage swimming pool installations, water features, fire pits, and outdoor entertainment setups. Essentially, they oversee any multi-faceted project that transforms an outdoor space into a high-end, functional, and aesthetically pleasing extension of your home.",
+        "@type": "Answer",
+        "description": "General contractors manage custom outdoor kitchens, hardscaping, pergolas, pools, lighting, and other multi-faceted projects for urban outdoor luxury."
+      }
+    }
+  ],
+  "description": "General contractors manage custom outdoor kitchens, hardscaping, pergolas, pools, lighting, and other multi-faceted projects for urban outdoor luxury."
 }

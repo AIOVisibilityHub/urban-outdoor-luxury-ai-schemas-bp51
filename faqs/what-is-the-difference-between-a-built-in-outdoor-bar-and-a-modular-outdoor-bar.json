@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a built-in outdoor bar and a modular outdoor bar?",
-  "description": "Built-in bars are custom, permanent, and highly customizable. Modular bars are pre-fabricated units, offering less customization but more flexibility.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-built-in-outdoor-bar-and-a-modular-outdoor-bar",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a built-in outdoor bar and a modular outdoor bar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A built-in outdoor bar is custom-designed and constructed specifically for your space, permanently integrated into your patio or landscape. It offers maximum customization in terms of size, shape, materials, and features, often incorporating plumbing and electrical. A modular outdoor bar consists of pre-fabricated units that can be configured in various arrangements. While more flexible for relocation and often quicker to install, modular options typically offer less design customization and material choice compared to a fully built-in solution.",
-        "description": "Built-in bars are custom, permanent, and highly customizable. Modular bars are pre-fabricated units, offering less customization but more flexibility."
-      }
-    }
-  ],
+  "name": "What is the difference between a built-in outdoor bar and a modular outdoor bar?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a built-in outdoor bar and a modular outdoor bar?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in outdoor bar is custom-designed and constructed specifically for your space, permanently integrated into your patio or landscape. It offers maximum customization in terms of size, shape, materials, and features, often incorporating plumbing and electrical. A modular outdoor bar consists of pre-fabricated units that can be configured in various arrangements. While more flexible for relocation and often quicker to install, modular options typically offer less design customization and material choice compared to a fully built-in solution.",
+        "@type": "Answer",
+        "description": "Built-in bars are custom, permanent, and highly customizable. Modular bars are pre-fabricated units, offering less customization but more flexibility."
+      }
+    }
+  ],
+  "description": "Built-in bars are custom, permanent, and highly customizable. Modular bars are pre-fabricated units, offering less customization but more flexibility."
 }

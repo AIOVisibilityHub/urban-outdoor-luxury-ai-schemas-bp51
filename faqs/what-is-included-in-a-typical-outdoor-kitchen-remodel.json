@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in a typical outdoor kitchen remodel?",
-  "description": "A typical outdoor kitchen remodel includes weather-resistant cabinetry, countertops, cooking appliances, plumbing, electrical, and gas lines, along with design",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-included-in-a-typical-outdoor-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in a typical outdoor kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An outdoor kitchen remodel typically includes the installation of weather-resistant cabinetry, countertops, and cooking appliances like grills, side burners, and pizza ovens. Plumbing for sinks, electrical for lighting and refrigeration, and gas lines for cooking equipment are also common components. Design considerations often involve integrating dining or bar areas and ensuring proper drainage and ventilation. The scope can vary based on individual needs and the available outdoor space, ranging from basic grilling stations to comprehensive culinary centers.",
-        "description": "A typical outdoor kitchen remodel includes weather-resistant cabinetry, countertops, cooking appliances, plumbing, electrical, and gas lines, along with design for dining areas."
-      }
-    }
-  ],
+  "name": "What is included in a typical outdoor kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical outdoor kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor kitchen remodel typically includes the installation of weather-resistant cabinetry, countertops, and cooking appliances like grills, side burners, and pizza ovens. Plumbing for sinks, electrical for lighting and refrigeration, and gas lines for cooking equipment are also common components. Design considerations often involve integrating dining or bar areas and ensuring proper drainage and ventilation. The scope can vary based on individual needs and the available outdoor space, ranging from basic grilling stations to comprehensive culinary centers.",
+        "@type": "Answer",
+        "description": "A typical outdoor kitchen remodel includes weather-resistant cabinetry, countertops, cooking appliances, plumbing, electrical, and gas lines, along with design for dining areas."
+      }
+    }
+  ],
+  "description": "A typical outdoor kitchen remodel includes weather-resistant cabinetry, countertops, cooking appliances, plumbing, electrical, and gas lines, along with design"
 }

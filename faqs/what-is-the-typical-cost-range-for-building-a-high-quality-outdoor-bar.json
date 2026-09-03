@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for building a high-quality outdoor bar?",
-  "description": "Costs for a high-quality outdoor bar typically range from $15,000 for basic models to $40,000-$70,000+ for elaborate designs.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-building-a-high-quality-outdoor-bar",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for building a high-quality outdoor bar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a high-quality outdoor bar can range broadly, typically starting from $15,000 for a basic, well-appointed setup. More elaborate designs incorporating premium materials like custom stonework, integrated refrigeration, sinks, ice makers, and extensive lighting can easily reach $40,000 to $70,000 or more. Factors influencing cost include size, choice of appliances, countertop materials, plumbing and electrical requirements, and custom features. We provide detailed estimates tailored to your specific design and budget.",
-        "description": "Costs for a high-quality outdoor bar typically range from $15,000 for basic models to $40,000-$70,000+ for elaborate designs."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for building a high-quality outdoor bar?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building a high-quality outdoor bar?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a high-quality outdoor bar can range broadly, typically starting from $15,000 for a basic, well-appointed setup. More elaborate designs incorporating premium materials like custom stonework, integrated refrigeration, sinks, ice makers, and extensive lighting can easily reach $40,000 to $70,000 or more. Factors influencing cost include size, choice of appliances, countertop materials, plumbing and electrical requirements, and custom features. We provide detailed estimates tailored to your specific design and budget.",
+        "@type": "Answer",
+        "description": "Costs for a high-quality outdoor bar typically range from $15,000 for basic models to $40,000-$70,000+ for elaborate designs."
+      }
+    }
+  ],
+  "description": "Costs for a high-quality outdoor bar typically range from $15,000 for basic models to $40,000-$70,000+ for elaborate designs."
 }

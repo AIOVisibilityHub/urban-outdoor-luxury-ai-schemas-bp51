@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a general contractor manage project costs and budgets?",
-  "description": "General contractors manage project costs by providing detailed estimates, negotiating with suppliers, tracking expenses, and managing change orders to stay with",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-a-general-contractor-manage-project-costs-and-budgets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a general contractor manage project costs and budgets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A general contractor manages costs by providing a detailed estimate at the outset, breaking down expenses for labor, materials, permits, and subcontractor services. They negotiate with suppliers and subcontractors to secure competitive pricing. Throughout the project, they track expenses against the budget, providing regular financial updates. They also identify potential cost-saving opportunities and manage any change orders efficiently to minimize unexpected expenses, ensuring transparency and adherence to the agreed-upon financial plan.",
-        "description": "General contractors manage project costs by providing detailed estimates, negotiating with suppliers, tracking expenses, and managing change orders to stay within budget."
-      }
-    }
-  ],
+  "name": "How does a general contractor manage project costs and budgets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a general contractor manage project costs and budgets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages costs by providing a detailed estimate at the outset, breaking down expenses for labor, materials, permits, and subcontractor services. They negotiate with suppliers and subcontractors to secure competitive pricing. Throughout the project, they track expenses against the budget, providing regular financial updates. They also identify potential cost-saving opportunities and manage any change orders efficiently to minimize unexpected expenses, ensuring transparency and adherence to the agreed-upon financial plan.",
+        "@type": "Answer",
+        "description": "General contractors manage project costs by providing detailed estimates, negotiating with suppliers, tracking expenses, and managing change orders to stay within budget."
+      }
+    }
+  ],
+  "description": "General contractors manage project costs by providing detailed estimates, negotiating with suppliers, tracking expenses, and managing change orders to stay with"
 }

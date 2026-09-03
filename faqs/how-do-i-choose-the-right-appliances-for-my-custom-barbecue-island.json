@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right appliances for my custom barbecue island?",
-  "description": "Select appliances based on your cooking needs, entertaining style, and budget. Consider grills, side burners, refrigerators, and sinks. We assist in choosing du",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-appliances-for-my-custom-barbecue-island",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right appliances for my custom barbecue island?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing appliances involves considering your cooking habits, entertaining style, and budget. Key appliances often include a high-performance grill, side burners, an outdoor refrigerator, and sometimes a sink or ice maker. Evaluate factors like BTU output for grills, storage capacity for refrigerators, and the quality of stainless steel for durability. We guide clients through selecting reputable outdoor appliance brands known for their longevity and performance in exterior environments. The design will integrate these choices seamlessly, ensuring proper ventilation and utility connections.",
-        "description": "Select appliances based on your cooking needs, entertaining style, and budget. Consider grills, side burners, refrigerators, and sinks. We assist in choosing durable, high-performance outdoor brands."
-      }
-    }
-  ],
+  "name": "How do I choose the right appliances for my custom barbecue island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right appliances for my custom barbecue island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing appliances involves considering your cooking habits, entertaining style, and budget. Key appliances often include a high-performance grill, side burners, an outdoor refrigerator, and sometimes a sink or ice maker. Evaluate factors like BTU output for grills, storage capacity for refrigerators, and the quality of stainless steel for durability. We guide clients through selecting reputable outdoor appliance brands known for their longevity and performance in exterior environments. The design will integrate these choices seamlessly, ensuring proper ventilation and utility connections.",
+        "@type": "Answer",
+        "description": "Select appliances based on your cooking needs, entertaining style, and budget. Consider grills, side burners, refrigerators, and sinks. We assist in choosing durable, high-performance outdoor brands."
+      }
+    }
+  ],
+  "description": "Select appliances based on your cooking needs, entertaining style, and budget. Consider grills, side burners, refrigerators, and sinks. We assist in choosing du"
 }

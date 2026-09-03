@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes to my outdoor project after a permit has been issued?",
-  "description": "Major changes to an approved outdoor project require a permit revision and new approval from the building department. Consult before making any alterations.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-make-changes-to-my-outdoor-project-after-a-permit-has-been-issued",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes to my outdoor project after a permit has been issued?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can make changes to your outdoor project after a permit has been issued, but it typically requires a permit revision or an amendment to the original plans. Significant changes to the approved design, structural elements, or intended use will necessitate submitting revised plans to the building department for review and approval. Minor, non-structural changes might only require approval from the assigned inspector on-site. Always consult with your contractor or the building department before implementing any changes to ensure compliance and avoid potential stop-work orders or fines.",
-        "description": "Major changes to an approved outdoor project require a permit revision and new approval from the building department. Consult before making any alterations."
-      }
-    }
-  ],
+  "name": "Can I make changes to my outdoor project after a permit has been issued?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to my outdoor project after a permit has been issued?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can make changes to your outdoor project after a permit has been issued, but it typically requires a permit revision or an amendment to the original plans. Significant changes to the approved design, structural elements, or intended use will necessitate submitting revised plans to the building department for review and approval. Minor, non-structural changes might only require approval from the assigned inspector on-site. Always consult with your contractor or the building department before implementing any changes to ensure compliance and avoid potential stop-work orders or fines.",
+        "@type": "Answer",
+        "description": "Major changes to an approved outdoor project require a permit revision and new approval from the building department. Consult before making any alterations."
+      }
+    }
+  ],
+  "description": "Major changes to an approved outdoor project require a permit revision and new approval from the building department. Consult before making any alterations."
 }

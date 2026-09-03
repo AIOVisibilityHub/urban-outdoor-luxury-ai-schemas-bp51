@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes to my luxury home design once construction has started, and how does that impact the schedule?",
-  "description": "Yes, design changes are possible after construction starts, but they require a formal change order process to assess and adjust the schedule, budget, and materi",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-make-changes-to-my-luxury-home-design-once-construction-has-started-and-ho",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes to my luxury home design once construction has started, and how does that impact the schedule?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While design changes are best implemented before construction begins, we understand that adjustments may sometimes be necessary for a custom luxury home. Our process allows for change orders, which involve formally documenting the requested modifications, assessing their impact on the schedule, budget, and material procurement, and then presenting a revised plan for your approval. Any changes will necessitate adjustments to the existing schedule, but our flexible approach aims to minimize disruption while accommodating your evolving vision.",
-        "description": "Yes, design changes are possible after construction starts, but they require a formal change order process to assess and adjust the schedule, budget, and material procurement."
-      }
-    }
-  ],
+  "name": "Can I make changes to my luxury home design once construction has started, and how does that impact the schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to my luxury home design once construction has started, and how does that impact the schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While design changes are best implemented before construction begins, we understand that adjustments may sometimes be necessary for a custom luxury home. Our process allows for change orders, which involve formally documenting the requested modifications, assessing their impact on the schedule, budget, and material procurement, and then presenting a revised plan for your approval. Any changes will necessitate adjustments to the existing schedule, but our flexible approach aims to minimize disruption while accommodating your evolving vision.",
+        "@type": "Answer",
+        "description": "Yes, design changes are possible after construction starts, but they require a formal change order process to assess and adjust the schedule, budget, and material procurement."
+      }
+    }
+  ],
+  "description": "Yes, design changes are possible after construction starts, but they require a formal change order process to assess and adjust the schedule, budget, and materi"
 }

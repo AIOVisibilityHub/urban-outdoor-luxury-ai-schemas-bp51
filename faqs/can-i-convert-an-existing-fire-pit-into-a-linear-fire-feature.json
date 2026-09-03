@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I convert an existing fire pit into a linear fire feature?",
-  "description": "Conversion is possible if the existing fire pit structure can be modified to accommodate a linear burner and gas line. A site assessment is needed.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-convert-an-existing-fire-pit-into-a-linear-fire-feature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I convert an existing fire pit into a linear fire feature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Converting an existing fire pit into a linear fire feature is often possible, but it depends on the current structure's design and condition. It typically involves modifying or rebuilding the fire pit's enclosure to accommodate a linear burner pan and gas line. The structural integrity, material suitability, and gas supply capacity of the existing pit will determine feasibility. A site assessment is crucial to evaluate if a conversion is practical or if a new installation is more advisable.",
-        "description": "Conversion is possible if the existing fire pit structure can be modified to accommodate a linear burner and gas line. A site assessment is needed."
-      }
-    }
-  ],
+  "name": "Can I convert an existing fire pit into a linear fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing fire pit into a linear fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing fire pit into a linear fire feature is often possible, but it depends on the current structure's design and condition. It typically involves modifying or rebuilding the fire pit's enclosure to accommodate a linear burner pan and gas line. The structural integrity, material suitability, and gas supply capacity of the existing pit will determine feasibility. A site assessment is crucial to evaluate if a conversion is practical or if a new installation is more advisable.",
+        "@type": "Answer",
+        "description": "Conversion is possible if the existing fire pit structure can be modified to accommodate a linear burner and gas line. A site assessment is needed."
+      }
+    }
+  ],
+  "description": "Conversion is possible if the existing fire pit structure can be modified to accommodate a linear burner and gas line. A site assessment is needed."
 }

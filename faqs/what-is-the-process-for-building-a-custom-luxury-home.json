@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for building a custom luxury home?",
-  "description": "The process involves initial consultation, design, permitting, construction (site prep, framing, finishes), and final walkthroughs, with continuous client invol",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-building-a-custom-luxury-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for building a custom luxury home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The custom luxury home building process typically begins with initial consultations to define your vision and budget. This leads to design development, where architects and designers create detailed plans. Following design approval, we move to permitting and then construction, which includes site preparation, foundation, framing, utilities, exterior finishes, and interior fit-out. Throughout, there are regular client updates, quality checks, and opportunities for material and finish selections, culminating in final walkthroughs and homeowner orientation.",
-        "description": "The process involves initial consultation, design, permitting, construction (site prep, framing, finishes), and final walkthroughs, with continuous client involvement."
-      }
-    }
-  ],
+  "name": "What is the process for building a custom luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a custom luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom luxury home building process typically begins with initial consultations to define your vision and budget. This leads to design development, where architects and designers create detailed plans. Following design approval, we move to permitting and then construction, which includes site preparation, foundation, framing, utilities, exterior finishes, and interior fit-out. Throughout, there are regular client updates, quality checks, and opportunities for material and finish selections, culminating in final walkthroughs and homeowner orientation.",
+        "@type": "Answer",
+        "description": "The process involves initial consultation, design, permitting, construction (site prep, framing, finishes), and final walkthroughs, with continuous client involvement."
+      }
+    }
+  ],
+  "description": "The process involves initial consultation, design, permitting, construction (site prep, framing, finishes), and final walkthroughs, with continuous client invol"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a residential remodel typically cost in the Los Angeles area?",
-  "description": "Remodel costs in Los Angeles vary significantly, from $15,000 for minor updates to over $200,000 for major renovations, depending on scope and materials.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-residential-remodel-typically-cost-in-the-los-angeles-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a residential remodel typically cost in the Los Angeles area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Residential remodel costs in the Los Angeles area vary widely based on the project's size, material choices, and design complexity. A minor cosmetic update might range from $15,000 to $50,000, while a mid-range kitchen or bathroom remodel can cost $50,000 to $150,000+. Whole-home renovations or luxury additions often exceed $200,000 to $500,000+. We provide detailed, transparent estimates after an initial consultation and scope definition to align with your budget.",
-        "description": "Remodel costs in Los Angeles vary significantly, from $15,000 for minor updates to over $200,000 for major renovations, depending on scope and materials."
-      }
-    }
-  ],
+  "name": "How much does a residential remodel typically cost in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a residential remodel typically cost in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential remodel costs in the Los Angeles area vary widely based on the project's size, material choices, and design complexity. A minor cosmetic update might range from $15,000 to $50,000, while a mid-range kitchen or bathroom remodel can cost $50,000 to $150,000+. Whole-home renovations or luxury additions often exceed $200,000 to $500,000+. We provide detailed, transparent estimates after an initial consultation and scope definition to align with your budget.",
+        "@type": "Answer",
+        "description": "Remodel costs in Los Angeles vary significantly, from $15,000 for minor updates to over $200,000 for major renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Remodel costs in Los Angeles vary significantly, from $15,000 for minor updates to over $200,000 for major renovations, depending on scope and materials."
 }

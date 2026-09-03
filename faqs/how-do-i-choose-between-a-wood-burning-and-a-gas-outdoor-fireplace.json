@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose between a wood-burning and a gas outdoor fireplace?",
-  "description": "Wood-burning offers authentic ambiance with more maintenance, while gas provides convenience with instant heat and less upkeep; choice depends on preference and",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-between-a-wood-burning-and-a-gas-outdoor-fireplace",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose between a wood-burning and a gas outdoor fireplace?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing between wood-burning and gas depends on your priorities. Wood-burning fireplaces offer the authentic crackle, aroma, and larger flames of a traditional fire, but require firewood storage, ash cleanup, and adherence to local burn regulations. Gas fireplaces provide instant on/off convenience, consistent heat, and no ash or smoke, making them easier to maintain. However, they lack the sensory experience of a wood fire and require a gas line installation. Your preference for ambiance versus convenience, and local regulations, will guide your decision.",
-        "description": "Wood-burning offers authentic ambiance with more maintenance, while gas provides convenience with instant heat and less upkeep; choice depends on preference and local rules."
-      }
-    }
-  ],
+  "name": "How do I choose between a wood-burning and a gas outdoor fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a wood-burning and a gas outdoor fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between wood-burning and gas depends on your priorities. Wood-burning fireplaces offer the authentic crackle, aroma, and larger flames of a traditional fire, but require firewood storage, ash cleanup, and adherence to local burn regulations. Gas fireplaces provide instant on/off convenience, consistent heat, and no ash or smoke, making them easier to maintain. However, they lack the sensory experience of a wood fire and require a gas line installation. Your preference for ambiance versus convenience, and local regulations, will guide your decision.",
+        "@type": "Answer",
+        "description": "Wood-burning offers authentic ambiance with more maintenance, while gas provides convenience with instant heat and less upkeep; choice depends on preference and local rules."
+      }
+    }
+  ],
+  "description": "Wood-burning offers authentic ambiance with more maintenance, while gas provides convenience with instant heat and less upkeep; choice depends on preference and"
 }

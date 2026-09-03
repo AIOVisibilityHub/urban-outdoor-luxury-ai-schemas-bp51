@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for permit fees for an outdoor living space in Southern California?",
-  "description": "Permit fees in Southern California vary widely based on project scope, value, and specific city, ranging from hundreds for simple structures to thousands for co",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-for-permit-fees-for-an-outdoor-living-space-in-southern",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for permit fees for an outdoor living space in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit fees for an outdoor living space in Southern California are highly variable and depend on the scope, value, and specific city (e.g., Los Angeles, Pasadena, San Marino) where the project is located. Fees typically include plan check fees, building permit fees, and sometimes additional fees for services like fire, sanitation, or school districts, often calculated based on project valuation or square footage. A simple patio cover might cost a few hundred dollars in fees, while an extensive outdoor kitchen with a pool could run into several thousands. It's best to get an estimate based on your specific project details.",
-        "description": "Permit fees in Southern California vary widely based on project scope, value, and specific city, ranging from hundreds for simple structures to thousands for complex outdoor living spaces."
-      }
-    }
-  ],
+  "name": "What is the typical cost for permit fees for an outdoor living space in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for permit fees for an outdoor living space in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit fees for an outdoor living space in Southern California are highly variable and depend on the scope, value, and specific city (e.g., Los Angeles, Pasadena, San Marino) where the project is located. Fees typically include plan check fees, building permit fees, and sometimes additional fees for services like fire, sanitation, or school districts, often calculated based on project valuation or square footage. A simple patio cover might cost a few hundred dollars in fees, while an extensive outdoor kitchen with a pool could run into several thousands. It's best to get an estimate based on your specific project details.",
+        "@type": "Answer",
+        "description": "Permit fees in Southern California vary widely based on project scope, value, and specific city, ranging from hundreds for simple structures to thousands for complex outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Permit fees in Southern California vary widely based on project scope, value, and specific city, ranging from hundreds for simple structures to thousands for co"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best for outdoor kitchen countertops in a Southern California climate?",
-  "description": "Durable materials like granite, porcelain, and concrete are excellent choices for outdoor kitchen countertops in Southern California due to their resistance to",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-for-outdoor-kitchen-countertops-in-a-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best for outdoor kitchen countertops in a Southern California climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Southern California's climate, durable and weather-resistant countertop materials are essential. Popular choices include natural stone like granite, which is highly resilient to heat and UV exposure, and porcelain, known for its non-porous nature and resistance to staining and fading. Concrete is another option, offering robustness and design flexibility. Materials like certain types of tile can also work but require proper installation to prevent cracking from temperature fluctuations. We recommend options that stand up to sun, occasional moisture, and temperature changes.",
-        "description": "Durable materials like granite, porcelain, and concrete are excellent choices for outdoor kitchen countertops in Southern California due to their resistance to heat, UV, and moisture."
-      }
-    }
-  ],
+  "name": "What materials are best for outdoor kitchen countertops in a Southern California climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for outdoor kitchen countertops in a Southern California climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Southern California's climate, durable and weather-resistant countertop materials are essential. Popular choices include natural stone like granite, which is highly resilient to heat and UV exposure, and porcelain, known for its non-porous nature and resistance to staining and fading. Concrete is another option, offering robustness and design flexibility. Materials like certain types of tile can also work but require proper installation to prevent cracking from temperature fluctuations. We recommend options that stand up to sun, occasional moisture, and temperature changes.",
+        "@type": "Answer",
+        "description": "Durable materials like granite, porcelain, and concrete are excellent choices for outdoor kitchen countertops in Southern California due to their resistance to heat, UV, and moisture."
+      }
+    }
+  ],
+  "description": "Durable materials like granite, porcelain, and concrete are excellent choices for outdoor kitchen countertops in Southern California due to their resistance to"
 }

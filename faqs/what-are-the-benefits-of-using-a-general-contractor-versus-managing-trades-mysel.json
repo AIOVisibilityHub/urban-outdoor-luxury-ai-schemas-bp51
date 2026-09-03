@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of using a general contractor versus managing trades myself?",
-  "description": "A general contractor saves you time and stress by managing all aspects, coordinating trades, and ensuring quality, unlike self-managing trades.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-using-a-general-contractor-versus-managing-trades-mysel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of using a general contractor versus managing trades myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Using a general contractor centralizes project management, saving you time and reducing stress. They have established relationships with reliable subcontractors, often securing better rates and ensuring timely work. A contractor manages the schedule, budget, and quality control, and is responsible for safety and permits. Managing trades yourself requires significant time, construction knowledge, and direct oversight of each specialist, which can lead to delays, cost overruns, and coordination challenges if you lack experience.",
-        "description": "A general contractor saves you time and stress by managing all aspects, coordinating trades, and ensuring quality, unlike self-managing trades."
-      }
-    }
-  ],
+  "name": "What are the benefits of using a general contractor versus managing trades myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of using a general contractor versus managing trades myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Using a general contractor centralizes project management, saving you time and reducing stress. They have established relationships with reliable subcontractors, often securing better rates and ensuring timely work. A contractor manages the schedule, budget, and quality control, and is responsible for safety and permits. Managing trades yourself requires significant time, construction knowledge, and direct oversight of each specialist, which can lead to delays, cost overruns, and coordination challenges if you lack experience.",
+        "@type": "Answer",
+        "description": "A general contractor saves you time and stress by managing all aspects, coordinating trades, and ensuring quality, unlike self-managing trades."
+      }
+    }
+  ],
+  "description": "A general contractor saves you time and stress by managing all aspects, coordinating trades, and ensuring quality, unlike self-managing trades."
 }

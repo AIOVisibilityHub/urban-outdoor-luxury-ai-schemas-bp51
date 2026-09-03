@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for starting a built-in outdoor grill project with your firm?",
-  "description": "We start with a consultation, site visit, and design proposal. Upon approval, we manage permitting, construction, and installation.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-starting-a-built-in-outdoor-grill-project-with-your-firm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for starting a built-in outdoor grill project with your firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation where we discuss your vision, needs, and budget. Following this, we conduct an on-site visit to assess the space and gather necessary details. We then develop a detailed design proposal, including layouts and material selections. Once approved, we handle all aspects from permitting to construction and final installation, ensuring a smooth and transparent project experience.",
-        "description": "We start with a consultation, site visit, and design proposal. Upon approval, we manage permitting, construction, and installation."
-      }
-    }
-  ],
+  "name": "What is the process for starting a built-in outdoor grill project with your firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a built-in outdoor grill project with your firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, needs, and budget. Following this, we conduct an on-site visit to assess the space and gather necessary details. We then develop a detailed design proposal, including layouts and material selections. Once approved, we handle all aspects from permitting to construction and final installation, ensuring a smooth and transparent project experience.",
+        "@type": "Answer",
+        "description": "We start with a consultation, site visit, and design proposal. Upon approval, we manage permitting, construction, and installation."
+      }
+    }
+  ],
+  "description": "We start with a consultation, site visit, and design proposal. Upon approval, we manage permitting, construction, and installation."
 }

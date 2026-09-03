@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer seasonal opening and closing services for outdoor features?",
-  "description": "Yes, we offer seasonal opening and closing services for outdoor features like irrigation and water systems to protect them from weather. These are typically sch",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-you-offer-seasonal-opening-and-closing-services-for-outdoor-features",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer seasonal opening and closing services for outdoor features?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for certain outdoor luxury features that benefit from seasonal preparation, we can arrange for opening and closing services. This might include preparing irrigation systems for winter, draining and covering water features, or ensuring outdoor kitchens and furniture are protected during off-seasons. These services help protect your investment from weather extremes and ensure components are ready for use when the warmer months return. These are typically separate, scheduled maintenance services rather than part of initial post-installation support.",
-        "description": "Yes, we offer seasonal opening and closing services for outdoor features like irrigation and water systems to protect them from weather. These are typically scheduled maintenance services, not initial post-installation support."
-      }
-    }
-  ],
+  "name": "Do you offer seasonal opening and closing services for outdoor features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer seasonal opening and closing services for outdoor features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for certain outdoor luxury features that benefit from seasonal preparation, we can arrange for opening and closing services. This might include preparing irrigation systems for winter, draining and covering water features, or ensuring outdoor kitchens and furniture are protected during off-seasons. These services help protect your investment from weather extremes and ensure components are ready for use when the warmer months return. These are typically separate, scheduled maintenance services rather than part of initial post-installation support.",
+        "@type": "Answer",
+        "description": "Yes, we offer seasonal opening and closing services for outdoor features like irrigation and water systems to protect them from weather. These are typically scheduled maintenance services, not initial post-installation support."
+      }
+    }
+  ],
+  "description": "Yes, we offer seasonal opening and closing services for outdoor features like irrigation and water systems to protect them from weather. These are typically sch"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between post-installation support and ongoing maintenance?",
-  "description": "Post-installation support handles new project issues after completion, while ongoing maintenance is routine, scheduled care to preserve the project's long-term",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-post-installation-support-and-ongoing-maintenance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between post-installation support and ongoing maintenance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Post-installation support specifically addresses issues or adjustments directly related to the newly installed elements within a defined period after completion, ensuring proper function and aesthetics. Ongoing maintenance, on the other hand, refers to routine, scheduled services like landscaping upkeep, irrigation system checks, or cleaning of outdoor features, performed regularly to preserve the project's condition over its lifetime. While support is reactive to new project issues, maintenance is proactive and preventative.",
-        "description": "Post-installation support handles new project issues after completion, while ongoing maintenance is routine, scheduled care to preserve the project's long-term condition. Support is reactive, maintenance is proactive."
-      }
-    }
-  ],
+  "name": "What is the difference between post-installation support and ongoing maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between post-installation support and ongoing maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Post-installation support specifically addresses issues or adjustments directly related to the newly installed elements within a defined period after completion, ensuring proper function and aesthetics. Ongoing maintenance, on the other hand, refers to routine, scheduled services like landscaping upkeep, irrigation system checks, or cleaning of outdoor features, performed regularly to preserve the project's condition over its lifetime. While support is reactive to new project issues, maintenance is proactive and preventative.",
+        "@type": "Answer",
+        "description": "Post-installation support handles new project issues after completion, while ongoing maintenance is routine, scheduled care to preserve the project's long-term condition. Support is reactive, maintenance is proactive."
+      }
+    }
+  ],
+  "description": "Post-installation support handles new project issues after completion, while ongoing maintenance is routine, scheduled care to preserve the project's long-term"
 }

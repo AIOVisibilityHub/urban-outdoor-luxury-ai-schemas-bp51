@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common costs associated with outdoor kitchen installation?",
-  "description": "Costs depend on kitchen size, appliance choices, material selections, and utility requirements. Custom features and permits can also add to the expense.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-common-costs-associated-with-outdoor-kitchen-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common costs associated with outdoor kitchen installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outdoor kitchen installation costs are influenced by several factors. Key cost drivers include the size and layout of the kitchen, the type and quantity of appliances (grills, refrigerators, sinks), material selections for countertops and finishes (e.g., granite, stucco, stone veneer), and the extent of utility trenching required for gas, water, and electricity. Additional expenses may arise from custom features, demolition of existing structures, and required permits. A detailed estimate is provided after the design phase.",
-        "description": "Costs depend on kitchen size, appliance choices, material selections, and utility requirements. Custom features and permits can also add to the expense."
-      }
-    }
-  ],
+  "name": "What are the common costs associated with outdoor kitchen installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with outdoor kitchen installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor kitchen installation costs are influenced by several factors. Key cost drivers include the size and layout of the kitchen, the type and quantity of appliances (grills, refrigerators, sinks), material selections for countertops and finishes (e.g., granite, stucco, stone veneer), and the extent of utility trenching required for gas, water, and electricity. Additional expenses may arise from custom features, demolition of existing structures, and required permits. A detailed estimate is provided after the design phase.",
+        "@type": "Answer",
+        "description": "Costs depend on kitchen size, appliance choices, material selections, and utility requirements. Custom features and permits can also add to the expense."
+      }
+    }
+  ],
+  "description": "Costs depend on kitchen size, appliance choices, material selections, and utility requirements. Custom features and permits can also add to the expense."
 }

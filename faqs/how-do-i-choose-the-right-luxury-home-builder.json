@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right luxury home builder?",
-  "description": "Choose a luxury home builder by reviewing their portfolio, testimonials, experience, and by assessing their communication and project management style to ensure",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-luxury-home-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right luxury home builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right luxury home builder involves researching their portfolio of completed projects, checking client testimonials, and verifying their experience with custom, high-end construction. Look for a builder with a strong reputation for quality craftsmanship, transparent communication, and efficient project management. It's beneficial to meet with potential builders to discuss your vision, assess their understanding of your needs, and ensure a compatible working relationship. Urban Outdoor Luxury emphasizes a collaborative approach and detailed planning.",
-        "description": "Choose a luxury home builder by reviewing their portfolio, testimonials, experience, and by assessing their communication and project management style to ensure a good fit."
-      }
-    }
-  ],
+  "name": "How do I choose the right luxury home builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right luxury home builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right luxury home builder involves researching their portfolio of completed projects, checking client testimonials, and verifying their experience with custom, high-end construction. Look for a builder with a strong reputation for quality craftsmanship, transparent communication, and efficient project management. It's beneficial to meet with potential builders to discuss your vision, assess their understanding of your needs, and ensure a compatible working relationship. Urban Outdoor Luxury emphasizes a collaborative approach and detailed planning.",
+        "@type": "Answer",
+        "description": "Choose a luxury home builder by reviewing their portfolio, testimonials, experience, and by assessing their communication and project management style to ensure a good fit."
+      }
+    }
+  ],
+  "description": "Choose a luxury home builder by reviewing their portfolio, testimonials, experience, and by assessing their communication and project management style to ensure"
 }

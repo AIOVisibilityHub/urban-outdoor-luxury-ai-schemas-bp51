@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best for outdoor kitchen countertops and cabinetry?",
-  "description": "Recommended outdoor kitchen countertop materials include granite, quartz, or concrete. For cabinetry, marine-grade stainless steel or HDPE are durable, weather-",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-best-for-outdoor-kitchen-countertops-and-cabinetry",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best for outdoor kitchen countertops and cabinetry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For outdoor kitchen countertops, durable and weather-resistant materials like natural stone (granite, quartz), concrete, or high-density porcelain are recommended. These materials withstand sun, rain, and temperature fluctuations. For cabinetry, marine-grade stainless steel is a popular choice for its longevity and resistance to corrosion. Other options include high-density polyethylene (HDPE) or stucco over masonry. The best material depends on your climate, aesthetic preference, and budget, ensuring it can endure outdoor conditions.",
-        "description": "Recommended outdoor kitchen countertop materials include granite, quartz, or concrete. For cabinetry, marine-grade stainless steel or HDPE are durable, weather-resistant options."
-      }
-    }
-  ],
+  "name": "What materials are best for outdoor kitchen countertops and cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for outdoor kitchen countertops and cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor kitchen countertops, durable and weather-resistant materials like natural stone (granite, quartz), concrete, or high-density porcelain are recommended. These materials withstand sun, rain, and temperature fluctuations. For cabinetry, marine-grade stainless steel is a popular choice for its longevity and resistance to corrosion. Other options include high-density polyethylene (HDPE) or stucco over masonry. The best material depends on your climate, aesthetic preference, and budget, ensuring it can endure outdoor conditions.",
+        "@type": "Answer",
+        "description": "Recommended outdoor kitchen countertop materials include granite, quartz, or concrete. For cabinetry, marine-grade stainless steel or HDPE are durable, weather-resistant options."
+      }
+    }
+  ],
+  "description": "Recommended outdoor kitchen countertop materials include granite, quartz, or concrete. For cabinetry, marine-grade stainless steel or HDPE are durable, weather-"
 }

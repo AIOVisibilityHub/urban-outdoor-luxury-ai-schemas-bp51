@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of a built-in outdoor grill compared to a freestanding one?",
-  "description": "Built-in grills offer superior aesthetics, durability, and functionality through integration into a custom outdoor kitchen structure.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-a-built-in-outdoor-grill-compared-to-a-freestanding-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of a built-in outdoor grill compared to a freestanding one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Built-in outdoor grills offer enhanced aesthetics, integrating seamlessly with your outdoor living space for a polished look. They provide greater durability and stability, as they are permanently installed within a custom structure. This also allows for integrated counter space, storage, and other amenities, creating a more functional and luxurious outdoor kitchen experience than a freestanding unit.",
-        "description": "Built-in grills offer superior aesthetics, durability, and functionality through integration into a custom outdoor kitchen structure."
-      }
-    }
-  ],
+  "name": "What are the benefits of a built-in outdoor grill compared to a freestanding one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a built-in outdoor grill compared to a freestanding one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in outdoor grills offer enhanced aesthetics, integrating seamlessly with your outdoor living space for a polished look. They provide greater durability and stability, as they are permanently installed within a custom structure. This also allows for integrated counter space, storage, and other amenities, creating a more functional and luxurious outdoor kitchen experience than a freestanding unit.",
+        "@type": "Answer",
+        "description": "Built-in grills offer superior aesthetics, durability, and functionality through integration into a custom outdoor kitchen structure."
+      }
+    }
+  ],
+  "description": "Built-in grills offer superior aesthetics, durability, and functionality through integration into a custom outdoor kitchen structure."
 }

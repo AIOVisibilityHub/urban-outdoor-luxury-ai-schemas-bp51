@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is material procurement in an outdoor luxury construction project?",
-  "description": "Material procurement is the process of sourcing, purchasing, and delivering all necessary materials for your outdoor luxury construction project, ensuring quali",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-material-procurement-in-an-outdoor-luxury-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is material procurement in an outdoor luxury construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Material procurement involves identifying, sourcing, purchasing, and transporting all necessary materials for your outdoor luxury project. This includes everything from natural stone and exotic hardwoods to specialized lighting fixtures and custom-fabricated elements. Our team manages supplier relationships, negotiates pricing, ensures quality control, and coordinates timely delivery to your project site. This systematic approach minimizes delays and ensures that high-quality, authentic materials are available when needed for construction and installation.",
-        "description": "Material procurement is the process of sourcing, purchasing, and delivering all necessary materials for your outdoor luxury construction project, ensuring quality and timely availability."
-      }
-    }
-  ],
+  "name": "What is material procurement in an outdoor luxury construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is material procurement in an outdoor luxury construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material procurement involves identifying, sourcing, purchasing, and transporting all necessary materials for your outdoor luxury project. This includes everything from natural stone and exotic hardwoods to specialized lighting fixtures and custom-fabricated elements. Our team manages supplier relationships, negotiates pricing, ensures quality control, and coordinates timely delivery to your project site. This systematic approach minimizes delays and ensures that high-quality, authentic materials are available when needed for construction and installation.",
+        "@type": "Answer",
+        "description": "Material procurement is the process of sourcing, purchasing, and delivering all necessary materials for your outdoor luxury construction project, ensuring quality and timely availability."
+      }
+    }
+  ],
+  "description": "Material procurement is the process of sourcing, purchasing, and delivering all necessary materials for your outdoor luxury construction project, ensuring quali"
 }

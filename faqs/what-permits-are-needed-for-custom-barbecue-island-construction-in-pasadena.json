@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for custom barbecue island construction in Pasadena?",
-  "description": "In Pasadena, permits are usually required for custom barbecue islands involving permanent structures or utility installations. Our team manages the permitting p",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-custom-barbecue-island-construction-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for custom barbecue island construction in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Pasadena, permits are typically required for custom barbecue island construction, especially if it involves permanent structures, electrical wiring, gas lines, or plumbing. The exact permits depend on the scope of the project, including the size of the island, its proximity to property lines, and the installation of utilities. Permits ensure the construction adheres to local building codes, safety standards, and zoning regulations. Our team handles the permit application process on your behalf, ensuring all necessary approvals are secured before construction begins.",
-        "description": "In Pasadena, permits are usually required for custom barbecue islands involving permanent structures or utility installations. Our team manages the permitting process to ensure compliance with local building codes."
-      }
-    }
-  ],
+  "name": "What permits are needed for custom barbecue island construction in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for custom barbecue island construction in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Pasadena, permits are typically required for custom barbecue island construction, especially if it involves permanent structures, electrical wiring, gas lines, or plumbing. The exact permits depend on the scope of the project, including the size of the island, its proximity to property lines, and the installation of utilities. Permits ensure the construction adheres to local building codes, safety standards, and zoning regulations. Our team handles the permit application process on your behalf, ensuring all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "In Pasadena, permits are usually required for custom barbecue islands involving permanent structures or utility installations. Our team manages the permitting process to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "In Pasadena, permits are usually required for custom barbecue islands involving permanent structures or utility installations. Our team manages the permitting p"
 }

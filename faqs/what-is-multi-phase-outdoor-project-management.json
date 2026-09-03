@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is multi-phase outdoor project management?",
-  "description": "Multi-phase outdoor project management divides large outdoor projects into distinct stages for better control and execution.",
   "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-multi-phase-outdoor-project-management",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is multi-phase outdoor project management?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multi-phase outdoor project management involves breaking down large-scale outdoor construction or landscaping initiatives into distinct, manageable stages. This approach allows for greater control over complex projects, from initial design and permitting to construction, installation, and final touches. It helps ensure quality, manages resources efficiently, and allows for adjustments as the project progresses, ultimately leading to a more successful and well-executed outdoor transformation for properties in areas like Los Angeles, Pasadena, and San Marino.",
-        "description": "Multi-phase outdoor project management divides large outdoor projects into distinct stages for better control and execution."
-      }
-    }
-  ],
+  "name": "What is multi-phase outdoor project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is multi-phase outdoor project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-phase outdoor project management involves breaking down large-scale outdoor construction or landscaping initiatives into distinct, manageable stages. This approach allows for greater control over complex projects, from initial design and permitting to construction, installation, and final touches. It helps ensure quality, manages resources efficiently, and allows for adjustments as the project progresses, ultimately leading to a more successful and well-executed outdoor transformation for properties in areas like Los Angeles, Pasadena, and San Marino.",
+        "@type": "Answer",
+        "description": "Multi-phase outdoor project management divides large outdoor projects into distinct stages for better control and execution."
+      }
+    }
+  ],
+  "description": "Multi-phase outdoor project management divides large outdoor projects into distinct stages for better control and execution."
 }
