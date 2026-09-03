@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right pool automation system for my home?",
+  "description": "Choose a pool automation system based on your pool size, existing equipment, desired control level (filtration, heating, lights), and budget. A consultation hel",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-pool-automation-system-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right pool automation system for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right pool automation system involves considering your pool's size, existing equipment, desired level of control, and budget. Evaluate which functions you want to automate, such as filtration, heating, lighting, or water features. Some systems offer basic control, while others provide comprehensive management, including chemical dosing. We recommend a consultation to assess your specific needs and integrate solutions that offer the best balance of features, ease of use, and cost-effectiveness for your property.",
+        "description": "Choose a pool automation system based on your pool size, existing equipment, desired control level (filtration, heating, lights), and budget. A consultation helps tailor the best solution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

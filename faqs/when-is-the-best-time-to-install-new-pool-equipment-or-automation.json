@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to install new pool equipment or automation?",
+  "description": "The off-season (fall or winter) is often ideal for pool equipment and automation installation, allowing readiness for swimming season and scheduling flexibility",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-install-new-pool-equipment-or-automation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to install new pool equipment or automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to install new pool equipment or automation is typically during the off-season, such as fall or winter. This allows for completion before the peak swimming season, ensuring your pool is ready when warmer weather arrives. It also provides more scheduling flexibility for installation teams. However, equipment and automation can be installed any time of year. For new pool construction, equipment installation is integrated into the overall build schedule.",
+        "description": "The off-season (fall or winter) is often ideal for pool equipment and automation installation, allowing readiness for swimming season and scheduling flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does natural stone compare to concrete pavers for a pool deck?",
+  "description": "Natural stone provides superior aesthetics, durability, and value retention compared to concrete pavers, which are often more economical upfront.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-natural-stone-compare-to-concrete-pavers-for-a-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does natural stone compare to concrete pavers for a pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone typically offers a more luxurious and unique aesthetic compared to concrete pavers, with variations in color and texture that cannot be replicated. While concrete pavers can be more economical upfront, natural stone often boasts better long-term durability and can remain cooler under direct sun. Natural stone also tends to hold its value better and can contribute more significantly to property appreciation. Concrete pavers may offer a wider range of manufactured colors and shapes.",
+        "description": "Natural stone provides superior aesthetics, durability, and value retention compared to concrete pavers, which are often more economical upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does pool automation system installation cost?",
+  "description": "Pool automation installation costs vary based on system features and complexity, typically ranging from a few thousand dollars for basic systems to higher for a",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-pool-automation-system-installation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does pool automation system installation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of pool automation system installation varies significantly based on the system's features, the complexity of your existing pool setup, and whether it's a new installation or an upgrade. Basic systems that control primary functions like pumps and heaters can range from a few thousand dollars, while more advanced systems integrating lighting, water features, and chemical management can be substantially more. A detailed estimate requires an on-site assessment of your specific needs and existing infrastructure.",
+        "description": "Pool automation installation costs vary based on system features and complexity, typically ranging from a few thousand dollars for basic systems to higher for advanced integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

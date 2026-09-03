@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the covered patio design and installation process usually take?",
+  "description": "The covered patio design and installation process typically takes 6 to 12 weeks, varying with project size and complexity.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-the-covered-patio-design-and-installation-process-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the covered patio design and installation process usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The entire process for covered patio design and installation typically takes between 6 to 12 weeks from initial consultation to project completion. This timeline includes the design phase, material selection, permitting, and construction. Smaller, less complex projects may be finished quicker, while larger, custom designs requiring specific materials or extensive site work could take longer. We provide a detailed project schedule early in the process to keep you informed of milestones and expected completion dates.",
+        "description": "The covered patio design and installation process typically takes 6 to 12 weeks, varying with project size and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

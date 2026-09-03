@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a pool with an attached spa and an integrated pool and spa?",
+  "description": "Integrated designs seamlessly merge the spa into the pool structure, often sharing systems, while an attached spa is more distinct.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-pool-with-an-attached-spa-and-an-integrated-poo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a pool with an attached spa and an integrated pool and spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both involve a pool and a spa, an integrated design means the spa is seamlessly incorporated into the pool's structure, often sharing water and filtration systems, creating a visually unified body of water. An attached spa, while adjacent, might be a more distinct, separate structure with its own independent equipment or a less fluid connection. Integrated designs prioritize aesthetic harmony and efficient space use, often with shared controls for both features.",
+        "description": "Integrated designs seamlessly merge the spa into the pool structure, often sharing systems, while an attached spa is more distinct."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

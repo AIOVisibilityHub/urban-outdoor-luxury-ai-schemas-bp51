@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install new pool equipment and automation?",
+  "description": "Installation typically takes 2-5 days for standard residential pools with essential equipment and basic automation, but complex projects may require more time.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-new-pool-equipment-and-automation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install new pool equipment and automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration for installing new pool equipment and automation depends on the project's scope. For a standard residential pool with essential equipment (pump, filter, heater) and a basic automation system, installation can typically be completed within 2 to 5 days. However, more extensive projects involving complex water features, elaborate lighting, or significant plumbing modifications may take longer. Our team will provide a detailed timeline after assessing your specific pool design and equipment selections.",
+        "description": "Installation typically takes 2-5 days for standard residential pools with essential equipment and basic automation, but complex projects may require more time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

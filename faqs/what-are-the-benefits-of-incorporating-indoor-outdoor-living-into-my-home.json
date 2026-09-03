@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of incorporating indoor-outdoor living into my home?",
+  "description": "Benefits include increased natural light and airflow, expanded living space, enhanced aesthetics, and property value.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-incorporating-indoor-outdoor-living-into-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of incorporating indoor-outdoor living into my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrating indoor-outdoor living offers numerous benefits, including increased natural light and airflow, creating a more open and spacious feel for your home. It provides additional functional areas for relaxation, entertainment, and dining, effectively expanding your usable living space. This design approach also enhances the aesthetic appeal and overall value of your property, allowing residents to enjoy the mild climate of areas like Los Angeles year-round.",
+        "description": "Benefits include increased natural light and airflow, expanded living space, enhanced aesthetics, and property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a negative-edge pool cost to build compared to a traditional pool?",
+  "description": "Negative-edge pools typically cost more than traditional pools due to complex engineering, capture basin construction, and advanced hydraulic systems.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-negative-edge-pool-cost-to-build-compared-to-a-traditional-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a negative-edge pool cost to build compared to a traditional pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negative-edge pools generally cost more to build than traditional pools due to their complex engineering and specialized construction requirements. The additional expense comes from the sophisticated hydraulic system needed for continuous overflow, the construction of the capture basin, and often more extensive structural support. Design complexity, material choices, and site-specific challenges also contribute to the overall price. While specific costs vary greatly by project scope and location, clients can expect an initial investment that reflects the unique aesthetic and technical demands of an infinity edge.",
+        "description": "Negative-edge pools typically cost more than traditional pools due to complex engineering, capture basin construction, and advanced hydraulic systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

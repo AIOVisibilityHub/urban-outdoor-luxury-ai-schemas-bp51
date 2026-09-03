@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a variable speed pump and a single speed pump?",
+  "description": "Variable speed pumps (VSPs) operate at multiple speeds, offering energy savings and quieter operation, unlike single speed pumps which run at one constant high",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-variable-speed-pump-and-a-single-speed-pump",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a variable speed pump and a single speed pump?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A variable speed pump (VSP) can operate at multiple speeds, allowing precise control over water flow for different pool operations like filtration, heating, or cleaning. In contrast, a single speed pump operates at one constant, high speed. VSPs are significantly more energy-efficient, often leading to substantial savings on electricity bills, especially in areas with high energy costs like Southern California. They also run quieter and prolong equipment life due to reduced wear.",
+        "description": "Variable speed pumps (VSPs) operate at multiple speeds, offering energy savings and quieter operation, unlike single speed pumps which run at one constant high speed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

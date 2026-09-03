@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are natural stone pool decks slippery when wet?",
+  "description": "Slip resistance varies by stone type and finish; tumbled or honed Travertine offers good natural resistance, while polished surfaces can be slippery.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-natural-stone-pool-decks-slippery-when-wet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are natural stone pool decks slippery when wet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The slip resistance of a natural stone pool deck depends significantly on the type of stone and its finish. Many natural stones, such as Travertine with a tumbled or honed finish, offer good natural slip resistance due to their porous surface. Slate and certain Sandstones also provide good traction. Polished or very smooth finishes on any stone can become slippery when wet. We recommend specific stone types and finishes known for their anti-slip properties, ensuring a safer environment around your pool.",
+        "description": "Slip resistance varies by stone type and finish; tumbled or honed Travertine offers good natural resistance, while polished surfaces can be slippery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

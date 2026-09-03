@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing a natural stone pool deck?",
+  "description": "The process involves site preparation, base laying, stone placement, joint filling, and finally, sealing the natural stone deck.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-installing-a-natural-stone-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing a natural stone pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process begins with site preparation, which includes excavation and ensuring proper drainage and a stable base. Next, a compacted sub-base is laid, followed by a layer of bedding material. The natural stone pavers are then carefully laid in the chosen pattern, ensuring levelness and proper spacing. Once the pavers are set, the joints are filled with polymeric sand or grout. The final step involves thoroughly cleaning the surface and applying a high-quality sealer to protect the stone.",
+        "description": "The process involves site preparation, base laying, stone placement, joint filling, and finally, sealing the natural stone deck."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my pool tiles?",
+  "description": "Replace pool tiles if you see cracking, chipping, widespread discoloration, or loose tiles. It's also an opportunity to update your pool's aesthetic during reno",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-should-i-consider-replacing-my-pool-tiles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my pool tiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your pool tiles if you notice signs of extensive wear and tear, such as cracking, chipping, or widespread discoloration. Loose or missing tiles can also indicate a need for replacement, as they can lead to structural damage or make the pool unsafe. Beyond functional issues, a tile replacement is a good opportunity to update your pool's aesthetic. If you're undertaking a major pool renovation or want to refresh your outdoor living space, custom tile installation can significantly enhance its overall appeal and value.",
+        "description": "Replace pool tiles if you see cracking, chipping, widespread discoloration, or loose tiles. It's also an opportunity to update your pool's aesthetic during renovation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

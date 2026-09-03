@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between landscape design and outdoor living space design?",
+  "description": "Landscape design focuses on natural elements, while outdoor living space design integrates functional structures like patios, kitchens, and pools to extend indo",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-landscape-design-and-outdoor-living-space-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between landscape design and outdoor living space design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often overlapping, landscape design primarily focuses on the aesthetic arrangement of plants, trees, and natural elements to create an appealing outdoor environment. Outdoor living space design, however, takes a more comprehensive approach. It encompasses not only landscaping but also the creation of functional, habitable areas with structures like patios, pergolas, outdoor kitchens, fire features, and swimming pools. It aims to extend the comfort and utility of indoor living to the exterior, considering lifestyle, entertainment, and architectural integration. Our firm specializes in this holistic approach.",
+        "description": "Landscape design focuses on natural elements, while outdoor living space design integrates functional structures like patios, kitchens, and pools to extend indoor living outdoors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

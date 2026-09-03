@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best time of year to start a custom pool project in Southern California?",
+  "description": "The best time to start a custom pool project in Southern California is late fall or winter, allowing completion before summer and potentially better permit/cont",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-best-time-of-year-to-start-a-custom-pool-project-in-southern-califor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to start a custom pool project in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal time to start a custom pool project in Southern California is typically in the late fall or winter months. This allows for construction to proceed during cooler, drier weather, avoiding the peak heat of summer. Starting in fall ensures that your pool is likely to be completed and ready for use by the beginning of the warmer spring and summer seasons. Additionally, permits and contractor availability can sometimes be more favorable during the off-peak construction months, potentially streamlining the process.",
+        "description": "The best time to start a custom pool project in Southern California is late fall or winter, allowing completion before summer and potentially better permit/contractor availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

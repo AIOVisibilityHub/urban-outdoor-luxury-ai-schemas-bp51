@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an infinity-edge pool typically cost to build in Los Angeles?",
+  "description": "Costs for an infinity-edge pool in Los Angeles depend on size, design complexity, site conditions, and materials, typically being a significant investment due t",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-an-infinity-edge-pool-typically-cost-to-build-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an infinity-edge pool typically cost to build in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building an infinity-edge pool in the Los Angeles area varies significantly based on factors such as size, complexity of design, site conditions (especially grading), materials chosen for the coping and tile, and integrated features like spas, lighting, or automation. Due to the specialized engineering required for the vanishing edge and recirculation system, they are generally more expensive than traditional pools. A detailed site assessment and design consultation are necessary to provide an accurate estimate, but clients should anticipate a substantial investment reflective of a luxury custom build.",
+        "description": "Costs for an infinity-edge pool in Los Angeles depend on size, design complexity, site conditions, and materials, typically being a significant investment due to specialized engineering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

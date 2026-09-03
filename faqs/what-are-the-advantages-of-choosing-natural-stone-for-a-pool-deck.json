@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of choosing natural stone for a pool deck?",
+  "description": "Natural stone offers superior aesthetics, durability, and can stay cooler underfoot, enhancing comfort and property value.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-advantages-of-choosing-natural-stone-for-a-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of choosing natural stone for a pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone pool decks offer superior aesthetics, providing a unique, luxurious, and timeless look. They are durable, resistant to harsh weather conditions, and often stay cooler underfoot than other materials like concrete pavers, enhancing comfort during hot Los Angeles summers. Additionally, natural stone is a sustainable choice, and with proper sealing, it maintains its beauty for decades, often increasing property value. Its slip-resistant properties, especially with certain finishes, also contribute to a safer pool area.",
+        "description": "Natural stone offers superior aesthetics, durability, and can stay cooler underfoot, enhancing comfort and property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

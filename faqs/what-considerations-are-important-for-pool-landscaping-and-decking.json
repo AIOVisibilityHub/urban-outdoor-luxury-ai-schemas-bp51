@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What considerations are important for pool landscaping and decking?",
+  "description": "Consider durable and aesthetic decking materials, privacy-enhancing and low-debris landscaping, proper drainage, lighting, and integration with other outdoor fe",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-considerations-are-important-for-pool-landscaping-and-decking",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What considerations are important for pool landscaping and decking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool landscaping and decking are vital for creating a cohesive and luxurious outdoor living environment. Considerations include material selection for decking (e.g., natural stone, pavers, composite) to ensure safety, durability, and aesthetic appeal. Landscaping should provide privacy, shade, and complement the pool's design without introducing excessive debris. Plant choices should be water-wise and suitable for the local climate. Proper drainage, lighting, and integration of outdoor living elements like pergolas or kitchens are also key.",
+        "description": "Consider durable and aesthetic decking materials, privacy-enhancing and low-debris landscaping, proper drainage, lighting, and integration with other outdoor features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

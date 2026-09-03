@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of doors are best for a seamless indoor-outdoor transition?",
+  "description": "Bi-fold, stackable sliding, pocket, and lift-and-slide glass doors are ideal for seamless transitions, offering wide openings and expansive views.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-doors-are-best-for-a-seamless-indoor-outdoor-transition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of doors are best for a seamless indoor-outdoor transition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For seamless indoor-outdoor transitions, large-format glass doors are typically recommended. Bi-fold doors fold accordion-style to open wide, stackable sliding doors disappear into a single panel, and pocket doors slide completely into a wall, disappearing from view. Lift-and-slide doors offer smooth operation for large glass panels. The best choice depends on the available wall space, desired opening width, and architectural style of the home. Each type allows for expansive views and a wide opening, facilitating a fluid connection between indoor and outdoor areas.",
+        "description": "Bi-fold, stackable sliding, pocket, and lift-and-slide glass doors are ideal for seamless transitions, offering wide openings and expansive views."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

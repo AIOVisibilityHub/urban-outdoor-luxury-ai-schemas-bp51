@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for a resort-style pool?",
+  "description": "Choose a contractor based on their experience with luxury custom pools, portfolio, testimonials, comprehensive services, and verified licenses and insurance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-a-resort-style-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for a resort-style pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor for a resort-style pool involves evaluating their experience, portfolio, and client testimonials specific to luxury custom pools. Look for a firm with a strong track record in complex designs, custom water features, and high-end finishes. Ensure they offer comprehensive services, from design and engineering to construction and landscaping integration. Verifying their licenses, insurance, and local references is also important. A reputable contractor will provide transparent communication and a clear understanding of the project scope and budget.",
+        "description": "Choose a contractor based on their experience with luxury custom pools, portfolio, testimonials, comprehensive services, and verified licenses and insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

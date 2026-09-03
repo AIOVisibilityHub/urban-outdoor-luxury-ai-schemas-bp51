@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is indoor-outdoor living design?",
+  "description": "Indoor-outdoor living design connects interior and exterior spaces, extending your home and maximizing natural light and ventilation.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-indoor-outdoor-living-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is indoor-outdoor living design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor-outdoor living design seamlessly connects interior and exterior spaces, creating a cohesive and functional extension of your home. This approach often involves large operable doors, expansive windows, transitional flooring, and integrated landscape elements. The goal is to blur the lines between indoors and out, maximizing natural light, ventilation, and usable living space. It enhances daily enjoyment and creates a sense of openness.",
+        "description": "Indoor-outdoor living design connects interior and exterior spaces, extending your home and maximizing natural light and ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

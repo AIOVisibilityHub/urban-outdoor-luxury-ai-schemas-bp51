@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a high-end backyard renovation in Los Angeles?",
+  "description": "High-end backyard renovation costs in Los Angeles typically range from $150,000 to over $500,000, varying based on project size, design complexity, and material",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-a-high-end-backyard-renovation-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a high-end backyard renovation in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for a high-end backyard renovation in the Los Angeles area can range widely, generally starting from $150,000 for comprehensive projects and easily exceeding $500,000 for custom estates. This range depends heavily on factors such as the size of the space, the complexity of the design, the types of materials selected (e.g., natural stone, custom tiles, high-end appliances), and the inclusion of features like infinity pools, advanced outdoor kitchens, intricate hardscaping, and sophisticated automation systems. A detailed proposal is provided after the initial design phase.",
+        "description": "High-end backyard renovation costs in Los Angeles typically range from $150,000 to over $500,000, varying based on project size, design complexity, and material selections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a natural stone pool deck?",
+  "description": "Maintenance includes regular cleaning and periodic sealing (every 1-3 years) to protect against stains and weather, preserving the stone's appearance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-natural-stone-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a natural stone pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone pool decks require routine cleaning and periodic sealing to maintain their appearance and integrity. Regular sweeping and occasional washing with a mild detergent and water help remove debris and surface dirt. Sealing is crucial, typically recommended every 1 to 3 years, to protect the stone from stains, UV damage, and moisture penetration. Promptly addressing spills and avoiding harsh chemicals will also extend the life and beauty of your stone deck. Professional cleaning and sealing services can simplify maintenance.",
+        "description": "Maintenance includes regular cleaning and periodic sealing (every 1-3 years) to protect against stains and weather, preserving the stone's appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

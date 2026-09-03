@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design elements can enhance the ambiance and comfort of an outdoor dining space?",
+  "description": "Enhance ambiance with strategic lighting, shade structures, landscaping, comfortable seating, and climate control like misters or heaters.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-elements-can-enhance-the-ambiance-and-comfort-of-an-outdoor-dining-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design elements can enhance the ambiance and comfort of an outdoor dining space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To enhance ambiance and comfort, consider incorporating strategic lighting, such as string lights, lanterns, or recessed pathway lighting, to create a warm and inviting atmosphere. Shade structures like pergolas, retractable awnings, or large umbrellas are crucial for sun protection. Integrate planters with drought-tolerant landscaping for natural beauty. Comfortable seating, perhaps with cushions, and climate control elements like misters or patio heaters extend usability. Soundscaping, through subtle music or water features, can also improve the guest experience.",
+        "description": "Enhance ambiance with strategic lighting, shade structures, landscaping, comfortable seating, and climate control like misters or heaters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

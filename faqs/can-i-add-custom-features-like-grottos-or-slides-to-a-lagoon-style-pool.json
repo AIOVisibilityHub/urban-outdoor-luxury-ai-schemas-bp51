@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add custom features like grottos or slides to a lagoon-style pool?",
+  "description": "Yes, custom features like grottos, slides, hidden spas, and beach entries can be seamlessly integrated into lagoon-style pool designs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-add-custom-features-like-grottos-or-slides-to-a-lagoon-style-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add custom features like grottos or slides to a lagoon-style pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, custom features are a hallmark of lagoon-style pool construction. Grottos, which are cave-like structures often with waterfalls, are popular additions that enhance the natural aesthetic and provide a unique hideaway. Slides can be artfully integrated into rock formations, blending seamlessly with the natural design. Other custom elements might include hidden spas, beach entries, swim-up bars, or fire features. These additions are designed during the initial planning phase to ensure structural integrity, proper water flow, and aesthetic cohesion with the overall lagoon theme.",
+        "description": "Yes, custom features like grottos, slides, hidden spas, and beach entries can be seamlessly integrated into lagoon-style pool designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

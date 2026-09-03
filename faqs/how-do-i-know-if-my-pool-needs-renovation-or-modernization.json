@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my pool needs renovation or modernization?",
+  "description": "Look for cracks, chipped tiles, discolored surfaces, outdated equipment, or a general lack of appeal. If your pool is old or doesn't meet current needs, conside",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-know-if-my-pool-needs-renovation-or-modernization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my pool needs renovation or modernization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs your pool needs renovation include visible cracks in the plaster, chipped or missing tiles, discolored or rough surfaces, outdated equipment causing high utility bills, or a general lack of aesthetic appeal. Modernization is often desired to add contemporary features, improve energy efficiency, or enhance usability for a changing lifestyle. If your pool is over 15-20 years old, experiencing frequent issues, or no longer meets your family's needs, it's likely a good candidate for an upgrade.",
+        "description": "Look for cracks, chipped tiles, discolored surfaces, outdated equipment, or a general lack of appeal. If your pool is old or doesn't meet current needs, consider renovation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

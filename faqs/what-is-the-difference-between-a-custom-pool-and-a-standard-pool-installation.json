@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom pool and a standard pool installation?",
+  "description": "A standard pool uses pre-designed molds, while a custom pool is uniquely shaped, sized, and finished with integrated features like spas or water elements, tailo",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-custom-pool-and-a-standard-pool-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom pool and a standard pool installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard pool installation typically refers to pre-designed, often fiberglass or vinyl liner pools with limited customization options. A custom pool, by contrast, is uniquely designed and built to fit your specific vision, property, and lifestyle. This allows for bespoke shapes, depths, integrated spas, unique water features, personalized finishes like mosaic tiles or natural stone, and advanced control systems. Custom pools offer unparalleled aesthetic integration and functionality within a luxury backyard design.",
+        "description": "A standard pool uses pre-designed molds, while a custom pool is uniquely shaped, sized, and finished with integrated features like spas or water elements, tailored to your design vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

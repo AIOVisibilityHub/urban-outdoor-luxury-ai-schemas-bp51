@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What defines a resort-style pool?",
+  "description": "A resort-style pool features luxurious designs, amenities like waterfalls or grottoes, and extensive landscaping to create a high-end vacation experience in you",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-defines-a-resort-style-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What defines a resort-style pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A resort-style pool is characterized by luxurious features and amenities that evoke a high-end vacation experience. This often includes elements like large, irregularly shaped designs, rock formations, waterfalls, grottoes, beach entries, swim-up bars, and integrated spa areas. The surrounding landscape, decking, and lighting are also critical to creating a cohesive, upscale ambiance. The goal is to transform your backyard into a private retreat, focusing on aesthetics, comfort, and entertainment.",
+        "description": "A resort-style pool features luxurious designs, amenities like waterfalls or grottoes, and extensive landscaping to create a high-end vacation experience in your backyard."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the initial consultation and design phase?",
+  "description": "The initial consultation includes a site visit, discussion of your vision and budget, and development of custom design concepts using 3D renderings.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-the-initial-consultation-and-design-phase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the initial consultation and design phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial consultation involves a site visit where our design team assesses your outdoor space, discusses your vision, needs, and budget. We'll take measurements, evaluate sun exposure, and consider existing architectural elements. Following this, we develop custom design concepts, often utilizing 3D renderings, to help you visualize the proposed patio cover. This phase is collaborative, ensuring the final design aligns perfectly with your lifestyle and enhances your home's aesthetic and functionality.",
+        "description": "The initial consultation includes a site visit, discussion of your vision and budget, and development of custom design concepts using 3D renderings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

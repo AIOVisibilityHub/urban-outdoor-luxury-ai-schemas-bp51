@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a custom swimming pool typically last?",
+  "description": "A custom pool can last many decades with proper construction and maintenance. The shell endures for 50+ years, while components like pumps and finishes have sho",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-custom-swimming-pool-typically-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a custom swimming pool typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With proper construction and ongoing maintenance, a custom swimming pool can last for many decades. The structural shell of a gunite pool, for example, can endure for 50 years or more. Components like pumps, filters, and heaters typically have a lifespan of 7-15 years and can be replaced as needed. Finishes such as plaster usually last 5-15 years before needing resurfacing, while aggregate finishes can last significantly longer. Regular cleaning, balanced water chemistry, and timely repairs are crucial for maximizing the pool's lifespan.",
+        "description": "A custom pool can last many decades with proper construction and maintenance. The shell endures for 50+ years, while components like pumps and finishes have shorter, replaceable lifespans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

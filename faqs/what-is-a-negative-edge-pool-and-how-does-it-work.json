@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a negative-edge pool and how does it work?",
+  "description": "A negative-edge pool has one or more edges where water flows over, creating a visual effect of merging with the horizon, collected in a basin below and recircul",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-a-negative-edge-pool-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a negative-edge pool and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A negative-edge pool, also known as an infinity pool, features one or more edges where the water flows over, creating a visual effect of the water merging with the horizon. This design typically requires a capture basin below the disappearing edge to collect the overflowing water, which is then pumped back into the main pool. The sophisticated recirculation system ensures continuous water flow and filtration, maintaining clarity and the signature visual effect. This design is ideal for properties with scenic views, enhancing the perceived size of the landscape and providing a luxurious aesthetic.",
+        "description": "A negative-edge pool has one or more edges where water flows over, creating a visual effect of merging with the horizon, collected in a basin below and recirculated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

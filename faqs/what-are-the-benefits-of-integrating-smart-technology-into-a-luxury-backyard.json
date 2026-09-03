@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of integrating smart technology into a luxury backyard?",
+  "description": "Smart technology in a luxury backyard allows control of lighting, irrigation, audio, and pool features from a device, enhancing convenience, ambiance, and energ",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-integrating-smart-technology-into-a-luxury-backyard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of integrating smart technology into a luxury backyard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrating smart technology offers convenience, enhanced ambiance, and increased functionality. You can control lighting, irrigation systems, outdoor audio, pool and spa features, and even patio heaters from your smartphone or a central control panel. This allows for customized scenes, energy efficiency through automated scheduling, and effortless entertainment management. Smart tech seamlessly elevates the usability and enjoyment of your outdoor space.",
+        "description": "Smart technology in a luxury backyard allows control of lighting, irrigation, audio, and pool features from a device, enhancing convenience, ambiance, and energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

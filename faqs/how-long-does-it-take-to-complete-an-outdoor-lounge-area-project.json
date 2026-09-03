@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an outdoor lounge area project?",
+  "description": "Project completion typically ranges from 6 to 16 weeks, depending on complexity, size, permitting, and material availability.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-complete-an-outdoor-lounge-area-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an outdoor lounge area project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for completing an outdoor lounge area project can vary widely, typically ranging from 6 to 16 weeks from design approval to final completion. Smaller, less complex projects might be finished more quickly, while larger, custom designs involving extensive hardscaping, custom features, and specialized installations will take longer. Factors such as permitting timelines, material availability, and weather conditions can also impact the schedule. We provide a detailed project schedule once the design and scope are established.",
+        "description": "Project completion typically ranges from 6 to 16 weeks, depending on complexity, size, permitting, and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

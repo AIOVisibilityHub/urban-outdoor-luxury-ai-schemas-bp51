@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a patio and a deck for an indoor-outdoor space?",
+  "description": "Patios are ground-level, paved surfaces, while decks are elevated structures typically made of wood or composite materials.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-s-the-difference-between-a-patio-and-a-deck-for-an-indoor-outdoor-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a patio and a deck for an indoor-outdoor space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patios are typically ground-level, paved areas made from materials like concrete, stone, or pavers, offering a solid, flat surface. Decks are elevated structures, usually made of wood or composite materials, built above ground level. Patios often integrate directly with the home's foundation, while decks can extend over uneven terrain. The choice depends on site conditions, desired aesthetic, and whether the space needs to be elevated to match interior floor levels.",
+        "description": "Patios are ground-level, paved surfaces, while decks are elevated structures typically made of wood or composite materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

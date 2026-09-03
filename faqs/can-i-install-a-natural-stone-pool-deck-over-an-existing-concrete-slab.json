@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install a natural stone pool deck over an existing concrete slab?",
+  "description": "Yes, but the existing concrete slab must be structurally sound and free of major defects to support the new natural stone overlay.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-install-a-natural-stone-pool-deck-over-an-existing-concrete-slab",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install a natural stone pool deck over an existing concrete slab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing natural stone over an existing concrete slab is possible, but it requires careful assessment. The existing slab must be structurally sound, free of major cracks, significant settling, or severe unevenness. Proper drainage and a solid base are critical for a successful overlay. We typically inspect the current slab for integrity, ensuring it can support the additional weight and that any cracks are professionally addressed. A mortar bed or thin-set adhesive is then used to secure the natural stone.",
+        "description": "Yes, but the existing concrete slab must be structurally sound and free of major defects to support the new natural stone overlay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

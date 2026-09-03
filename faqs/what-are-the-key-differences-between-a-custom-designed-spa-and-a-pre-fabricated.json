@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key differences between a custom-designed spa and a pre-fabricated hot tub?",
+  "description": "Custom spas are built on-site with full design flexibility and integration, while pre-fabricated hot tubs are self-contained units with limited customization.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-differences-between-a-custom-designed-spa-and-a-pre-fabricated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key differences between a custom-designed spa and a pre-fabricated hot tub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom-designed spa is integrated into your outdoor living space, often built using concrete, tiles, and specialized equipment to match your home's aesthetic and specific needs. It offers complete flexibility in shape, size, depth, features, and finishes. Pre-fabricated hot tubs, on the other hand, are self-contained units manufactured off-site. While more portable and often quicker to install, they have limited design customization and may not seamlessly integrate with existing landscaping. Custom spas provide a tailored luxury experience, while pre-fabs offer a more standardized solution.",
+        "description": "Custom spas are built on-site with full design flexibility and integration, while pre-fabricated hot tubs are self-contained units with limited customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

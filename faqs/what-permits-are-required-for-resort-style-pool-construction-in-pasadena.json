@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for resort-style pool construction in Pasadena?",
+  "description": "In Pasadena, resort-style pool construction requires building, electrical, plumbing, and potentially grading permits. Our team manages the entire permitting pro",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-resort-style-pool-construction-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for resort-style pool construction in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, resort-style pool construction requires several permits to ensure compliance with local building codes, zoning regulations, and safety standards. Typically, a building permit is essential, along with electrical, plumbing, and mechanical permits for specific components. Depending on the design, additional permits might be needed for grading, retaining walls, or significant landscaping changes. Our team handles the entire permitting process, from initial submission to final inspection, to ensure all local requirements are met for your project.",
+        "description": "In Pasadena, resort-style pool construction requires building, electrical, plumbing, and potentially grading permits. Our team manages the entire permitting process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

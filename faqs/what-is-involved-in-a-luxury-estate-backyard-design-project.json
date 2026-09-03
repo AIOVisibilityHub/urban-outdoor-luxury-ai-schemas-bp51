@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a luxury estate backyard design project?",
+  "description": "Luxury estate backyard design involves site analysis, conceptual design with 3D renderings, and the integration of custom pools, outdoor kitchens, landscaping,",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-luxury-estate-backyard-design-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a luxury estate backyard design project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A luxury estate backyard design project typically involves a comprehensive approach, starting with a detailed site analysis and client consultation to understand your vision and lifestyle. We then develop conceptual designs, including master plans, 3D renderings, and material palettes. Key elements often include custom pools and spas, outdoor kitchens, sophisticated landscaping with mature plantings, advanced lighting systems, and custom hardscaping like patios, walkways, and retaining walls. The process ensures every detail aligns with the architectural style of your home and maximizes outdoor living enjoyment.",
+        "description": "Luxury estate backyard design involves site analysis, conceptual design with 3D renderings, and the integration of custom pools, outdoor kitchens, landscaping, and lighting to create a cohesive outdoor living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

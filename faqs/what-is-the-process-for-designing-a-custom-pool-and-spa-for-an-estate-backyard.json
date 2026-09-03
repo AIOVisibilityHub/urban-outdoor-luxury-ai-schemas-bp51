@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing a custom pool and spa for an estate backyard?",
+  "description": "The process involves customizing pool and spa features based on your preferences, integrating them with the estate's design, and selecting materials, filtration",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-designing-a-custom-pool-and-spa-for-an-estate-backyard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing a custom pool and spa for an estate backyard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing a custom pool and spa begins with understanding your preferences for size, shape, depth, and features like waterfalls, tanning ledges, or integrated seating. We consider the site's topography, sun exposure, and existing architectural styles to create a seamless integration. Material selection for coping, tiling, and interior finish is crucial for aesthetics and durability. Advanced filtration systems, heating options, and automation for lighting and water features are then incorporated to deliver a luxurious, functional, and energy-efficient aquatic environment tailored to your estate.",
+        "description": "The process involves customizing pool and spa features based on your preferences, integrating them with the estate's design, and selecting materials, filtration, and automation for a luxurious and functional outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

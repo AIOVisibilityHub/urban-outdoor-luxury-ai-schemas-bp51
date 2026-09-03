@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you integrate smart home technology into outdoor living spaces?",
+  "description": "Yes, we integrate smart home technology into outdoor spaces for automated lighting, irrigation, audio-visual systems, climate control, and security, all control",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-smart-home-technology-into-outdoor-living-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you integrate smart home technology into outdoor living spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Modern luxury estate backyards frequently integrate smart home technology for enhanced convenience and control. This includes automated lighting systems that can be programmed for different moods or events, app-controlled irrigation systems for efficient water management, and integrated audio-visual systems for outdoor entertainment. We can also incorporate smart climate control for outdoor heaters or misting systems, and security features like surveillance cameras, all managed through a centralized system or your smartphone, creating a truly connected outdoor environment.",
+        "description": "Yes, we integrate smart home technology into outdoor spaces for automated lighting, irrigation, audio-visual systems, climate control, and security, all controllable via central systems or smartphones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a premium pool deck handle the climate in Los Angeles?",
+  "description": "Premium pool decks are built to handle the Los Angeles climate using heat-resistant materials like natural stone and concrete pavers. Proper installation ensure",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-does-a-premium-pool-deck-handle-the-climate-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a premium pool deck handle the climate in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premium pool decks are designed and constructed to endure the specific climate challenges of Los Angeles. Materials like natural stone (e.g., travertine) and high-density concrete pavers are excellent choices due to their resistance to heat absorption, keeping the surface cooler under intense sun. They are also durable enough to withstand seasonal temperature fluctuations without significant expansion or contraction. Proper installation techniques ensure effective drainage and prevent issues related to occasional heavy rains, safeguarding the deck's integrity and appearance over time.",
+        "description": "Premium pool decks are built to handle the Los Angeles climate using heat-resistant materials like natural stone and concrete pavers. Proper installation ensures durability against sun and rain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

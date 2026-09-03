@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can indoor-outdoor living spaces be designed for small urban homes or limited yards?",
+  "description": "Yes, effective designs for small urban homes include courtyard designs, vertical gardens, or compact patio connections to maximize openness.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-indoor-outdoor-living-spaces-be-designed-for-small-urban-homes-or-limited-ya",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can indoor-outdoor living spaces be designed for small urban homes or limited yards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, indoor-outdoor living designs can be effectively implemented in smaller urban homes or properties with limited yard space. Creative solutions like compact courtyard designs, vertical gardens, smaller bifold or sliding doors to a patio, or integrating a balcony into the living space can maximize the feeling of openness. Even a small connection can significantly enhance natural light and perceived space, making the most of available square footage.",
+        "description": "Yes, effective designs for small urban homes include courtyard designs, vertical gardens, or compact patio connections to maximize openness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

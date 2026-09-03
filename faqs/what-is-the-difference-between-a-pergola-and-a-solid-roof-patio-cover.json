@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a pergola and a solid roof patio cover?",
+  "description": "Pergolas offer partial shade with an open roof, while solid roof patio covers provide full protection from sun and rain.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-a-pergola-and-a-solid-roof-patio-cover",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a pergola and a solid roof patio cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pergola features an open lattice or slatted roof design, offering partial shade and an aesthetic architectural element. It allows some sunlight to filter through and is ideal for climbing plants. In contrast, a solid roof patio cover provides full protection from sun, rain, and other elements, creating a completely shaded and dry outdoor space. Solid roofs often integrate with existing home architecture and can support additional features like ceiling fans or heaters, offering more comprehensive weather protection than a pergola.",
+        "description": "Pergolas offer partial shade with an open roof, while solid roof patio covers provide full protection from sun and rain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for an indoor-outdoor living construction project in Los Angeles?",
+  "description": "Permits are typically required for structural changes, electrical, plumbing, and significant hardscaping, handled by the Department of Building and Safety.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-an-indoor-outdoor-living-construction-project-in-l",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for an indoor-outdoor living construction project in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, most indoor-outdoor living projects that involve structural changes, new foundations, electrical work, plumbing, or significant hardscaping will require permits from the Department of Building and Safety. This includes installations of large bifold doors, new patios, outdoor kitchens, and pergolas. Our team handles the permit application process to ensure compliance with local zoning laws and building codes, streamlining the project for you.",
+        "description": "Permits are typically required for structural changes, electrical, plumbing, and significant hardscaping, handled by the Department of Building and Safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I replace my pool coping without replacing the entire deck?",
+  "description": "Yes, pool coping can often be replaced independently of the deck. Careful removal and installation minimize deck disturbance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-replace-my-pool-coping-without-replacing-the-entire-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I replace my pool coping without replacing the entire deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many cases, you can replace pool coping without undertaking a full deck replacement. This is a common renovation project. Our team carefully removes the existing coping, taking precautions to minimize disturbance to the surrounding deck. Once the old material is gone, the new coping can be installed. However, if your deck is also in poor condition or if the new coping material requires significant deck modifications for aesthetic or structural integration, a partial or full deck renovation might be recommended for a cohesive and long-lasting result.",
+        "description": "Yes, pool coping can often be replaced independently of the deck. Careful removal and installation minimize deck disturbance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

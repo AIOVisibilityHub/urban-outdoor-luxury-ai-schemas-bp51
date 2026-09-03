@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in designing an outdoor living space?",
+  "description": "Outdoor living space design involves consultation, concept development, detailed planning, and permit acquisition to create a functional and aesthetic extension",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-designing-an-outdoor-living-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in designing an outdoor living space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing an outdoor living space involves several stages. Initially, we conduct a site assessment and client consultation to understand your vision, lifestyle, and the property's unique characteristics. This leads to concept development, including preliminary sketches and material selection. We then create detailed plans, 3D renderings, and construction drawings. The process also includes obtaining necessary permits and coordinating with various trades to bring the design to life. Our goal is to create a functional and aesthetically pleasing extension of your home.",
+        "description": "Outdoor living space design involves consultation, concept development, detailed planning, and permit acquisition to create a functional and aesthetic extension of your home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

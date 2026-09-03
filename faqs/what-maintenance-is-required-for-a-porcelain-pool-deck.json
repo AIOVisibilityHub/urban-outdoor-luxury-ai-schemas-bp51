@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a porcelain pool deck?",
+  "description": "Porcelain pool decks need minimal maintenance, mainly sweeping and occasional cleaning with mild soap and water. No sealing or special treatments are required.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-a-porcelain-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a porcelain pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porcelain pool decks require minimal maintenance due to their non-porous nature and resistance to stains. Routine cleaning typically involves sweeping or hosing down the surface to remove debris. For deeper cleaning, a mild detergent and water, along with a stiff brush, can effectively remove any accumulated dirt. Unlike some other materials, porcelain does not require sealing, waxing, or special chemical treatments, simplifying its upkeep significantly. Regular cleaning helps maintain its aesthetic appeal and longevity.",
+        "description": "Porcelain pool decks need minimal maintenance, mainly sweeping and occasional cleaning with mild soap and water. No sealing or special treatments are required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

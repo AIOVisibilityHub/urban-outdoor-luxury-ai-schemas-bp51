@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for pool coping?",
+  "description": "Pool coping requires regular cleaning to prevent stains and algae. Natural stone also needs periodic sealing for protection.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-maintenance-is-required-for-pool-coping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for pool coping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for pool coping primarily involves routine cleaning and occasional sealing, depending on the material. Concrete and natural stone coping should be cleaned regularly to prevent algae growth and staining, using a mild cleanser and soft brush. Natural stone, especially porous types like travertine, requires periodic sealing (typically every 1-3 years) to protect it from water absorption, staining, and UV damage. Inspecting for cracks or loose pieces and addressing them promptly will help extend the lifespan and maintain the appearance of your coping.",
+        "description": "Pool coping requires regular cleaning to prevent stains and algae. Natural stone also needs periodic sealing for protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

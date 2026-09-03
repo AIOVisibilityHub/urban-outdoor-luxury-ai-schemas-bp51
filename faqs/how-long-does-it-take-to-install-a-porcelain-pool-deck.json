@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install a porcelain pool deck?",
+  "description": "Installation typically takes 1-3 weeks, depending on the deck's size, complexity, and site conditions. A detailed timeline is provided after assessment.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-install-a-porcelain-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install a porcelain pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration for porcelain pool deck installation varies based on the deck's size, complexity, and specific site conditions. A typical residential project can take anywhere from one to three weeks from start to finish, including excavation, base preparation, paver placement, and finishing touches. Factors such as weather, site accessibility, and the chosen installation method (e.g., sand-set vs. pedestal system) can influence the timeline. Our team will provide a detailed project schedule after an initial site assessment.",
+        "description": "Installation typically takes 1-3 weeks, depending on the deck's size, complexity, and site conditions. A detailed timeline is provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a lagoon-style pool in Los Angeles?",
+  "description": "Costs for a lagoon-style pool in Los Angeles vary widely, from around $100,000 for basic designs to over $300,000 for elaborate projects, depending on features",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-build-a-lagoon-style-pool-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a lagoon-style pool in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a lagoon-style pool in the Los Angeles area varies significantly based on size, complexity, materials, and additional features like waterfalls, grottos, and extensive landscaping. Basic lagoon pools might start around $100,000, while more elaborate designs with premium finishes and custom elements can exceed $300,000 or more. Factors such as site access, excavation challenges, and local permitting requirements also influence the final budget. A detailed consultation provides a precise estimate tailored to your specific vision and property.",
+        "description": "Costs for a lagoon-style pool in Los Angeles vary widely, from around $100,000 for basic designs to over $300,000 for elaborate projects, depending on features and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

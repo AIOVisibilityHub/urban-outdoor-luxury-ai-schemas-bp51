@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to design and construct an outdoor dining area?",
+  "description": "Timelines range from 6 weeks for simple designs to 6+ months for complex projects, largely depending on permits and scope.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-typically-take-to-design-and-construct-an-outdoor-dining-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to design and construct an outdoor dining area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing and constructing an outdoor dining area varies significantly based on complexity, size, and permit acquisition. A simple design might take 2-4 weeks for design and 4-8 weeks for construction. More elaborate projects involving custom structures, extensive landscaping, or plumbing/electrical work could extend the design phase to 6-12 weeks and construction to 3-6 months. Permit approval processes, especially in Los Angeles and Pasadena, can add several weeks or even months to the overall schedule, so early planning is essential.",
+        "description": "Timelines range from 6 weeks for simple designs to 6+ months for complex projects, largely depending on permits and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

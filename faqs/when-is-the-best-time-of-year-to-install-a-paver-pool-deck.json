@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to install a paver pool deck?",
+  "description": "The best time to install a paver pool deck in Southern California is during late spring, summer, or early fall due to consistently dry weather, which aids in in",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-of-year-to-install-a-paver-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to install a paver pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While paver pool deck installations can occur year-round in Southern California's mild climate, the optimal time is typically during the late spring, summer, or early fall months. This period generally offers consistently dry weather, which is ideal for proper excavation, base preparation, and paver setting. Avoiding the rainy season ensures fewer delays and optimal curing conditions for any sealing applied. Planning during these months can help ensure a smooth and efficient project completion.",
+        "description": "The best time to install a paver pool deck in Southern California is during late spring, summer, or early fall due to consistently dry weather, which aids in installation and curing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

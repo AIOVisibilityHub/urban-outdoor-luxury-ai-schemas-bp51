@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right design and features for my new pool?",
+  "description": "Consider your home's style, lifestyle, and intended use. Our design consultation will help integrate these elements into a personalized outdoor living space.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-design-and-features-for-my-new-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right design and features for my new pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right design and features for your new pool involves considering your property's aesthetics, your lifestyle, and how you intend to use the pool. Think about the architectural style of your home, available outdoor space, and desired pool activities (e.g., entertaining, exercise, relaxation). Our design consultation process helps integrate these elements, offering options for size, shape, materials, water features, lighting, and landscaping to create a cohesive and personalized outdoor living space that meets your vision.",
+        "description": "Consider your home's style, lifestyle, and intended use. Our design consultation will help integrate these elements into a personalized outdoor living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

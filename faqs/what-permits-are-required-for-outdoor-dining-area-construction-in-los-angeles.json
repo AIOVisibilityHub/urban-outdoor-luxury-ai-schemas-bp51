@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for outdoor dining area construction in Los Angeles?",
+  "description": "Permits from City Planning, Building and Safety, Fire Department, and Public Works may be required for outdoor dining construction in Los Angeles.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-required-for-outdoor-dining-area-construction-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for outdoor dining area construction in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, constructing an outdoor dining area typically requires permits from the Department of City Planning for land use, and the Department of Building and Safety (DBS) for construction, electrical, and plumbing work. Depending on the design, you might also need approvals from the Fire Department, the Department of Public Works for public right-of-way encroachments, and the Bureau of Engineering. Specific requirements vary based on the project's scope, whether it's on private property or public sidewalks, and local overlay zones. Consulting with a local expert is recommended to navigate the process.",
+        "description": "Permits from City Planning, Building and Safety, Fire Department, and Public Works may be required for outdoor dining construction in Los Angeles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

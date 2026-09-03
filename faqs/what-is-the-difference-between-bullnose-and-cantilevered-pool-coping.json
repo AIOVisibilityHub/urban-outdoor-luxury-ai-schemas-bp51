@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between bullnose and cantilevered pool coping?",
+  "description": "Bullnose coping has a rounded edge, while cantilevered coping extends over the pool's edge for a seamless look.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-difference-between-bullnose-and-cantilevered-pool-coping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between bullnose and cantilevered pool coping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bullnose coping features a smooth, rounded edge that provides a soft, finished look and is comfortable for swimmers. It's often made from precast concrete or natural stone cut and polished to this profile. Cantilevered coping, on the other hand, extends slightly over the inside edge of the pool, creating a seamless transition from the deck directly into the water with no visible gap. This modern style often utilizes poured concrete or specific paver systems. Both offer aesthetic and functional benefits, with the choice often coming down to desired appearance and budget.",
+        "description": "Bullnose coping has a rounded edge, while cantilevered coping extends over the pool's edge for a seamless look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

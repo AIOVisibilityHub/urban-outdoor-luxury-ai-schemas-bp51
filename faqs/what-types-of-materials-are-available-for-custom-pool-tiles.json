@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of materials are available for custom pool tiles?",
+  "description": "Common materials include ceramic, porcelain, and glass tiles, offering diverse aesthetics and durability. Natural stone options are also available. We assist in",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-materials-are-available-for-custom-pool-tiles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of materials are available for custom pool tiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A wide array of materials is available for custom pool tiles, each offering distinct aesthetics and performance characteristics. Popular choices include ceramic and porcelain tiles, known for their durability and versatility in color and pattern. Glass tiles are often selected for their vibrant colors and ability to reflect light, creating a sparkling effect. Natural stone options like travertine or slate can provide an elegant, earthy look, though they may require more maintenance. We can help you select the best material to suit your design preferences and budget.",
+        "description": "Common materials include ceramic, porcelain, and glass tiles, offering diverse aesthetics and durability. Natural stone options are also available. We assist in selecting the best material for your pool."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

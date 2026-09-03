@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance does a lagoon-style pool require?",
+  "description": "Lagoon-style pools require standard water chemistry balancing and cleaning, plus occasional attention to natural rockwork and integrated water features.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-does-a-lagoon-style-pool-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance does a lagoon-style pool require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a lagoon-style pool is similar to that of a traditional pool but often requires attention to specific features. Regular water chemistry testing and balancing are essential. Cleaning involves skimming debris, vacuuming the pool floor, and brushing surfaces to prevent algae. If the pool includes natural rockwork, occasional cleaning of crevices might be needed to remove accumulated organic matter. Maintaining any integrated water features like waterfalls or streams ensures proper functionality and prevents blockages. Automated cleaning systems and professional services can help manage the unique aspects of a lagoon pool's upkeep.",
+        "description": "Lagoon-style pools require standard water chemistry balancing and cleaning, plus occasional attention to natural rockwork and integrated water features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

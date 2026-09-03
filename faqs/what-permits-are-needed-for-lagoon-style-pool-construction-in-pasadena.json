@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for lagoon-style pool construction in Pasadena?",
+  "description": "Construction of a lagoon-style pool in Pasadena requires a building permit from the city, involving submission of detailed plans to comply with local codes and",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-permits-are-needed-for-lagoon-style-pool-construction-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for lagoon-style pool construction in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, constructing a lagoon-style pool typically requires a building permit from the City of Pasadena Planning & Community Development Department. This involves submitting detailed plans, including architectural drawings, structural engineering, and plumbing/electrical schematics, to ensure compliance with local zoning ordinances, setback requirements, and safety codes. Additional permits may be necessary for grading, landscaping, or if the project impacts easements or environmentally sensitive areas. We manage the entire permitting process, ensuring all necessary approvals are secured before construction begins.",
+        "description": "Construction of a lagoon-style pool in Pasadena requires a building permit from the city, involving submission of detailed plans to comply with local codes and zoning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

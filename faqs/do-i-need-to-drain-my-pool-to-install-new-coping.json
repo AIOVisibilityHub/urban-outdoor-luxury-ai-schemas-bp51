@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to drain my pool to install new coping?",
+  "description": "Yes, you generally need to partially or fully drain your pool to install new coping, ensuring proper access and a stable setting surface.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-to-drain-my-pool-to-install-new-coping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to drain my pool to install new coping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, generally, you will need to partially or fully drain your pool to install new coping. The extent of draining depends on the specific installation method and the condition of the pool's bond beam. Draining the water allows our team safe and clear access to the bond beam and provides a stable, dry surface for properly setting the coping material and applying mortar or adhesives. This ensures a strong, long-lasting installation. We can advise on the exact water level required during our assessment of your project.",
+        "description": "Yes, you generally need to partially or fully drain your pool to install new coping, ensuring proper access and a stable setting surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

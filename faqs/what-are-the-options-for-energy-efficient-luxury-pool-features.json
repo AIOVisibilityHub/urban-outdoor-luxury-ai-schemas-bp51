@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the options for energy-efficient luxury pool features?",
+  "description": "Energy-efficient options include variable-speed pumps, solar or heat pump heating, LED lighting, and high-quality pool covers to reduce operating costs.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-options-for-energy-efficient-luxury-pool-features",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the options for energy-efficient luxury pool features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Energy efficiency is a key consideration in modern luxury pool design. Options include variable-speed pumps, which significantly reduce energy consumption compared to single-speed models. Efficient heating solutions like solar thermal systems or high-efficiency heat pumps can lower utility costs. LED lighting uses less electricity than traditional incandescent bulbs. Additionally, high-quality pool covers help retain heat and reduce water evaporation, contributing to both energy and water savings.",
+        "description": "Energy-efficient options include variable-speed pumps, solar or heat pump heating, LED lighting, and high-quality pool covers to reduce operating costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

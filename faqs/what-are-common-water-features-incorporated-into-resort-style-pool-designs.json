@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common water features incorporated into resort-style pool designs?",
+  "description": "Common water features in resort-style pools include waterfalls, grottoes, laminar jets, sheer descents, and infinity edges.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-common-water-features-incorporated-into-resort-style-pool-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common water features incorporated into resort-style pool designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resort-style pools often feature elaborate water elements to create visual interest and a soothing atmosphere. Popular additions include cascading waterfalls, natural rock grottoes with hidden seating, laminar jets, sheer descent waterfalls, and custom-designed fountains. Infinity edges (or vanishing edges) are also common for pools with scenic views, creating a seamless visual transition. These features not only enhance the aesthetic appeal but also contribute to the tranquil and luxurious experience.",
+        "description": "Common water features in resort-style pools include waterfalls, grottoes, laminar jets, sheer descents, and infinity edges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

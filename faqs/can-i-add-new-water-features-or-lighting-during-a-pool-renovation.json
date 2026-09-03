@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add new water features or lighting during a pool renovation?",
+  "description": "Yes, new water features like jets and waterfalls, and energy-efficient LED lighting, can be easily added during a pool renovation to enhance aesthetics and ambi",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-add-new-water-features-or-lighting-during-a-pool-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add new water features or lighting during a pool renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. A pool renovation is an ideal time to integrate new water features and lighting to transform your backyard oasis. Popular water features include sheer descents, laminar jets, waterfalls, and bubblers, which add visual appeal and soothing sounds. For lighting, LED options offer vibrant colors, energy efficiency, and extended lifespan compared to traditional incandescent bulbs. These additions significantly enhance the ambiance, especially for evening use and entertaining.",
+        "description": "Yes, new water features like jets and waterfalls, and energy-efficient LED lighting, can be easily added during a pool renovation to enhance aesthetics and ambiance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

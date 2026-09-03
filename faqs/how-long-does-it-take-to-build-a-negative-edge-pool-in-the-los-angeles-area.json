@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a negative-edge pool in the Los Angeles area?",
+  "description": "Building a negative-edge pool in Los Angeles typically takes 12-24 weeks, depending on complexity, site conditions, materials, and permitting.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-build-a-negative-edge-pool-in-the-los-angeles-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a negative-edge pool in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a negative-edge pool in the Los Angeles area can vary significantly, typically ranging from 12 to 24 weeks from groundbreaking to completion. Factors influencing this duration include the pool's size and complexity, site accessibility, weather conditions, material availability, and the local permitting process. The specialized engineering and multi-stage construction for the overflow system and basin often extend the timeline compared to a standard pool. Our team provides a detailed project schedule after the design phase is finalized.",
+        "description": "Building a negative-edge pool in Los Angeles typically takes 12-24 weeks, depending on complexity, site conditions, materials, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

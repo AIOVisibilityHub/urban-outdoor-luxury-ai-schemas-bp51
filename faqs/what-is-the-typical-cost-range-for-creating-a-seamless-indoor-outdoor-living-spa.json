@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for creating a seamless indoor-outdoor living space?",
+  "description": "Costs for seamless indoor-outdoor spaces typically range from $30,000 to over $100,000, depending on door types, materials, structural work, and added features.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-cost-range-for-creating-a-seamless-indoor-outdoor-living-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for creating a seamless indoor-outdoor living space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for creating a seamless indoor-outdoor living space can vary widely, starting from approximately $30,000 for simpler installations involving large sliding doors and basic patio finishes, and potentially exceeding $100,000 for more elaborate projects. Factors influencing cost include the type and size of doors, chosen flooring materials, structural modifications required, the addition of outdoor kitchens or fire features, landscaping, and the complexity of the design. A detailed consultation allows us to provide a more accurate estimate tailored to your vision and property.",
+        "description": "Costs for seamless indoor-outdoor spaces typically range from $30,000 to over $100,000, depending on door types, materials, structural work, and added features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

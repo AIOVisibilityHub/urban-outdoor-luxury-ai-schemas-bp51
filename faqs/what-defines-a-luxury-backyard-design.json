@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What defines a luxury backyard design?",
+  "description": "Luxury backyard design creates sophisticated outdoor living spaces with high-end features like custom pools, outdoor kitchens, and elegant landscaping, tailored",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-defines-a-luxury-backyard-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What defines a luxury backyard design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A luxury backyard design extends your living space outdoors with high-end features and sophisticated aesthetics. This often includes custom swimming pools, integrated outdoor kitchens, elegant landscaping, premium hardscaping materials, and dedicated entertainment zones. The focus is on creating a cohesive, functional, and visually stunning environment that complements your home's architecture and lifestyle, often incorporating advanced technology for lighting, audio, and climate control.",
+        "description": "Luxury backyard design creates sophisticated outdoor living spaces with high-end features like custom pools, outdoor kitchens, and elegant landscaping, tailored to your home and lifestyle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

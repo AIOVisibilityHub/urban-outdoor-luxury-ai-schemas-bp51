@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an infinity-edge pool be integrated with a spa or other water features?",
+  "description": "Yes, infinity-edge pools can integrate seamlessly with spas, waterfalls, or other water features, enhancing luxury and functionality within a cohesive design.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-an-infinity-edge-pool-be-integrated-with-a-spa-or-other-water-features",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an infinity-edge pool be integrated with a spa or other water features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an infinity-edge pool can be seamlessly integrated with a spa or various other water features to enhance its luxury and functionality. Spas can be designed as an attached or detached element, often sharing the same filtration system and heating, and can also feature an infinity edge themselves. Other popular integrations include waterfalls cascading from raised walls, laminar jets, fire bowls, or specialized lighting. These additions can create a more dynamic and personalized aquatic environment, allowing for both relaxation and visual spectacle within a cohesive design.",
+        "description": "Yes, infinity-edge pools can integrate seamlessly with spas, waterfalls, or other water features, enhancing luxury and functionality within a cohesive design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

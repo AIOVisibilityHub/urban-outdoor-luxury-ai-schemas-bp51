@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are paver pool decks slip-resistant?",
+  "description": "Many pavers have textured surfaces and joint lines that offer good slip resistance, making them a safe choice for wet pool areas. Consider slip resistance ratin",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-paver-pool-decks-slip-resistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are paver pool decks slip-resistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many pavers are designed with textured surfaces to provide excellent slip resistance, making them a safe choice for pool decks where wet conditions are common. The joint lines between individual pavers also contribute to better traction than smooth, monolithic surfaces. When selecting pavers, it's important to consider their slip resistance rating. We can guide you in choosing suitable options that meet safety standards for your pool area.",
+        "description": "Many pavers have textured surfaces and joint lines that offer good slip resistance, making them a safe choice for wet pool areas. Consider slip resistance ratings when selecting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

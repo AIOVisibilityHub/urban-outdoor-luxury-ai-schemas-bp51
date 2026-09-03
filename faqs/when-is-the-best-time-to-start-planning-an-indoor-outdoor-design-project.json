@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start planning an indoor-outdoor design project?",
+  "description": "Start planning an indoor-outdoor design project well in advance, ideally in fall or winter, to allow time for design, permits, and contractor scheduling.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-start-planning-an-indoor-outdoor-design-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start planning an indoor-outdoor design project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start planning an indoor-outdoor design project is typically well in advance of your desired completion date. This allows ample time for design development, material selection, obtaining necessary permits, and scheduling with contractors. Beginning the planning process during the fall or winter for a spring or summer construction start is often ideal, as it avoids peak construction seasons and allows for warmer weather work. Early planning ensures a smoother process and helps mitigate potential delays.",
+        "description": "Start planning an indoor-outdoor design project well in advance, ideally in fall or winter, to allow time for design, permits, and contractor scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

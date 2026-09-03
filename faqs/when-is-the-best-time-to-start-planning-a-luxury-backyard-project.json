@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start planning a luxury backyard project?",
+  "description": "Start planning your luxury backyard project during fall or winter. This allows sufficient time for design, permitting, and construction, ensuring completion by",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-start-planning-a-luxury-backyard-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start planning a luxury backyard project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start planning a luxury backyard project is typically during the cooler months, such as fall or winter, for projects intended to be completed by spring or summer. This allows ample time for design, permitting, and material procurement without the rush of peak construction seasons. Initiating the process early ensures that your outdoor space can be fully enjoyed when the weather is ideal for outdoor living in the Los Angeles area.",
+        "description": "Start planning your luxury backyard project during fall or winter. This allows sufficient time for design, permitting, and construction, ensuring completion by peak outdoor living season."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

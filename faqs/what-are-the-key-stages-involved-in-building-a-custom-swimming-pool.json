@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key stages involved in building a custom swimming pool?",
+  "description": "Key stages include design, permitting, excavation, shell construction (gunite), plumbing, electrical, finishes, decking, and landscaping.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-key-stages-involved-in-building-a-custom-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key stages involved in building a custom swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a custom swimming pool involves several key stages. It begins with design and permitting, followed by excavation and site preparation. Next are steel reinforcement installation and plumbing rough-ins, leading to the application of gunite or shotcrete for the pool shell. After the shell cures, electrical systems, tile, coping, and interior finishes are installed. The final stages include equipment setup, decking, landscaping, and water filling, culminating in the pool's commissioning and handover.",
+        "description": "Key stages include design, permitting, excavation, shell construction (gunite), plumbing, electrical, finishes, decking, and landscaping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a resort-style pool typically cost in the Los Angeles area?",
+  "description": "Costs for resort-style pools in Los Angeles typically range from $150,000 to over $500,000, depending on size, features, and materials.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-resort-style-pool-typically-cost-in-the-los-angeles-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a resort-style pool typically cost in the Los Angeles area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a resort-style pool in the Los Angeles area varies significantly based on size, complexity, materials, and features. A basic high-end pool might start around $150,000, but with custom rockwork, extensive water features, integrated spas, and high-quality finishes, projects can easily range from $250,000 to over $500,000 or more. Factors like site accessibility, grading, and permits also influence the final investment. We provide detailed estimates after an initial design consultation.",
+        "description": "Costs for resort-style pools in Los Angeles typically range from $150,000 to over $500,000, depending on size, features, and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

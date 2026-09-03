@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for custom pool tile design and installation?",
+  "description": "The process involves consultation, custom design, surface preparation, meticulous tile installation, and a final inspection. We collaborate with you from concep",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-process-for-custom-pool-tile-design-and-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for custom pool tile design and installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, preferences, and budget. Next, our design team creates custom concepts and material selections, providing renderings or samples for your approval. Once the design is finalized, we prepare the pool surface, which may involve removing old tiles and addressing any structural issues. The installation phase involves meticulous tile setting and grouting. Finally, the pool is cleaned and inspected to ensure the highest quality finish. We keep you informed at every stage.",
+        "description": "The process involves consultation, custom design, surface preparation, meticulous tile installation, and a final inspection. We collaborate with you from concept to completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

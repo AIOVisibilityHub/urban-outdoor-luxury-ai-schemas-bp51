@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a resort-style pool be energy-efficient?",
+  "description": "Yes, resort-style pools can be energy-efficient using variable speed pumps, LED lighting, solar heating, and automated control systems.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-a-resort-style-pool-be-energy-efficient",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a resort-style pool be energy-efficient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a resort-style pool can be designed with energy efficiency in mind, without compromising its luxurious features. This involves incorporating modern technologies such as variable speed pumps, LED lighting, and efficient heating systems like solar or heat pumps. Proper insulation of the pool shell and plumbing, along with automated control systems, can further reduce energy consumption. Selecting materials that optimize heat retention and designing with local climate in mind also contributes to a more sustainable and cost-effective operation over time.",
+        "description": "Yes, resort-style pools can be energy-efficient using variable speed pumps, LED lighting, solar heating, and automated control systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

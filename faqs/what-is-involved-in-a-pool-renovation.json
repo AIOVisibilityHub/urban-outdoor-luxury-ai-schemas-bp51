@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a pool renovation?",
+  "description": "Pool renovation updates aesthetics, functionality, and safety through replastering, retiling, deck resurfacing, and equipment upgrades. Modernization adds featu",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-involved-in-a-pool-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a pool renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pool renovation can involve various upgrades to improve aesthetics, functionality, and safety. This might include replastering, retiling, updating coping, resurfacing the deck, or replacing outdated equipment like pumps, filters, and heaters. Modernization can also incorporate new features such as LED lighting, automated control systems, water features, or energy-efficient solutions to enhance the overall pool experience and reduce operating costs. The scope depends on the pool's current condition and the homeowner's vision.",
+        "description": "Pool renovation updates aesthetics, functionality, and safety through replastering, retiling, deck resurfacing, and equipment upgrades. Modernization adds features like LED lighting, automation, and water features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

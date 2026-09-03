@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is required for a new swimming pool?",
+  "description": "Maintenance involves balancing water chemistry, cleaning pool surfaces, and maintaining filtration and equipment systems to ensure longevity and water quality.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-kind-of-maintenance-is-required-for-a-new-swimming-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is required for a new swimming pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance is crucial for keeping a new swimming pool clean, safe, and operational. This typically includes balancing water chemistry (pH, chlorine, alkalinity), cleaning the pool surfaces (skimming, brushing, vacuuming), and maintaining the filtration system (backwashing, cleaning filters). Equipment checks for pumps, heaters, and automation systems are also necessary. Consistent maintenance prevents issues like algae growth, equipment wear, and ensures water quality and longevity of your investment.",
+        "description": "Maintenance involves balancing water chemistry, cleaning pool surfaces, and maintaining filtration and equipment systems to ensure longevity and water quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

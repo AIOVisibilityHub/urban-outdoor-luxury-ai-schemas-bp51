@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a premium pool-deck installation?",
+  "description": "The cost of a premium pool deck is influenced by material choice, deck size and shape, custom features, and site preparation. Natural stone and complex designs",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-influence-the-cost-of-a-premium-pool-deck-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a premium pool-deck installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a premium pool-deck installation is influenced by several factors. The primary determinants are the chosen materials, with natural stone and high-end composites typically costing more than standard concrete. The size and shape of the deck also play a significant role, as larger or irregularly shaped areas require more material and labor. Custom features like integrated lighting, fire pits, or intricate patterns add to the expense. Site preparation, including demolition and grading, and accessibility to the work area can also impact the overall cost.",
+        "description": "The cost of a premium pool deck is influenced by material choice, deck size and shape, custom features, and site preparation. Natural stone and complex designs generally increase costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to design and build an outdoor lounge area in Los Angeles?",
+  "description": "Costs for an outdoor lounge in Los Angeles range from $15,000 for basic designs to over $75,000 for custom luxury spaces, depending on features and materials.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-it-cost-to-design-and-build-an-outdoor-lounge-area-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to design and build an outdoor lounge area in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of designing and building an outdoor lounge area in Los Angeles varies significantly based on size, materials, features, and complexity. A basic, well-appointed lounge might start from $15,000 to $25,000, while custom-built luxury spaces with integrated kitchens, high-end finishes, and advanced technology can easily exceed $75,000. Factors like grading, utility extensions, custom millwork, and high-quality landscaping also influence the total investment. We provide detailed estimates after an initial consultation and site assessment.",
+        "description": "Costs for an outdoor lounge in Los Angeles range from $15,000 for basic designs to over $75,000 for custom luxury spaces, depending on features and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

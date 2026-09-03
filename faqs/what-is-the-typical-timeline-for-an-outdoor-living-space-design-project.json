@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for an outdoor living space design project?",
+  "description": "Design projects typically take 4-12 weeks, varying by complexity. This includes consultation, concept development, detailed planning, and potential permitting i",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-an-outdoor-living-space-design-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for an outdoor living space design project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for an outdoor living space design project typically ranges from 4 to 12 weeks, depending on the project's scale and complexity. Initial consultations and site analysis usually take 1-2 weeks. Concept development and revisions can extend for 2-4 weeks. Detailed plan creation, material specifications, and 3D renderings often require an additional 2-4 weeks. Permitting processes, if needed, can add several weeks or even months, depending on local regulations in areas like Pasadena or San Marino. Our team works efficiently to meet agreed-upon schedules.",
+        "description": "Design projects typically take 4-12 weeks, varying by complexity. This includes consultation, concept development, detailed planning, and potential permitting in areas like Pasadena."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

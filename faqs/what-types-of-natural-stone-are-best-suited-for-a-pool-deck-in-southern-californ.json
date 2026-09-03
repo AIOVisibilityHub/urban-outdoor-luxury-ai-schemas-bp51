@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of natural stone are best suited for a pool deck in Southern California?",
+  "description": "Travertine, Limestone, and Flagstone are excellent choices for Southern California pool decks due to their durability, aesthetic appeal, and ability to stay coo",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-types-of-natural-stone-are-best-suited-for-a-pool-deck-in-southern-californ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of natural stone are best suited for a pool deck in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Southern California pool decks, popular and highly suitable natural stone options include Travertine, Limestone, and Flagstone. Travertine is favored for its porous nature, which helps it remain cool to the touch and provides natural slip resistance. Limestone offers a sophisticated, smooth finish and is durable. Flagstone, with its irregular shapes and earthy tones, provides a rustic aesthetic. All these options withstand the local climate well and can be sealed to resist water and chemicals.",
+        "description": "Travertine, Limestone, and Flagstone are excellent choices for Southern California pool decks due to their durability, aesthetic appeal, and ability to stay cool."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

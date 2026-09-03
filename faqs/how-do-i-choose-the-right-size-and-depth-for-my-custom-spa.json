@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size and depth for my custom spa?",
+  "description": "Size and depth depend on available space, number of users, intended use, and comfort preferences, which our designers will help optimize.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-size-and-depth-for-my-custom-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size and depth for my custom spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right size and depth depends on several factors: the available space in your outdoor area, the number of people who will typically use the spa, and your primary intended use (e.g., hydrotherapy, relaxation, entertainment). Consider body immersion for comfort and ease of entry/exit. For hydrotherapy, specific jet placements and seating arrangements are important. Our designers will help you optimize the dimensions and layout to maximize comfort and functionality within your specific landscape and usage patterns.",
+        "description": "Size and depth depend on available space, number of users, intended use, and comfort preferences, which our designers will help optimize."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

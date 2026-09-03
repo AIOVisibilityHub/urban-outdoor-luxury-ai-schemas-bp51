@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a premium pool-deck installation typically take?",
+  "description": "Installation time for a premium pool deck typically ranges from 2 to 6 weeks, depending on size, complexity, and materials. A detailed schedule is provided upfr",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-a-premium-pool-deck-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a premium pool-deck installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a premium pool-deck installation varies based on the deck's size, complexity, and the chosen materials. A typical project might range from 2 to 6 weeks from ground preparation to final touches. This timeline includes demolition of existing surfaces, sub-base preparation, material delivery, installation, and any necessary curing times. Factors like custom features, intricate designs, or unforeseen site conditions can extend the project. We provide a detailed project schedule before commencing work.",
+        "description": "Installation time for a premium pool deck typically ranges from 2 to 6 weeks, depending on size, complexity, and materials. A detailed schedule is provided upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

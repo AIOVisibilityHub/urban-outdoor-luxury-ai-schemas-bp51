@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What safety features should I consider for a negative-edge pool?",
+  "description": "Safety features include adequate lighting, non-slip surfaces, secure fencing or barriers, child safety alarms, and pool covers to prevent unsupervised access.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-safety-features-should-i-consider-for-a-negative-edge-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What safety features should I consider for a negative-edge pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety is paramount for any pool, and negative-edge designs have unique considerations. While the overflow edge provides a visual illusion, the water still flows into a basin, meaning there's no sharp drop-off directly to the ground. Key safety features include adequate lighting around the pool and in the overflow channel, non-slip surfaces on the pool deck and coping, and secure fencing or barriers as required by local regulations to prevent unsupervised access. Child safety alarms and pool covers are also important additions to enhance overall safety.",
+        "description": "Safety features include adequate lighting, non-slip surfaces, secure fencing or barriers, child safety alarms, and pool covers to prevent unsupervised access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

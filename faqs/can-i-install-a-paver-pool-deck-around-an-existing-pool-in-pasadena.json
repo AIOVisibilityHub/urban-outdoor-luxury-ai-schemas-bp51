@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install a paver pool deck around an existing pool in Pasadena?",
+  "description": "Yes, a paver pool deck can be installed around an existing pool in Pasadena. The process involves careful demolition, sub-base preparation, and new paver instal",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-i-install-a-paver-pool-deck-around-an-existing-pool-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install a paver pool deck around an existing pool in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, installing a paver pool deck around an existing pool is a common renovation project in Pasadena and surrounding areas. This process often involves carefully removing existing decking, preparing the sub-base, and then installing the new paver system. It's crucial to ensure proper drainage away from the pool and surrounding structures. Our team specializes in integrating new paver decks with existing pool designs, enhancing both aesthetics and functionality.",
+        "description": "Yes, a paver pool deck can be installed around an existing pool in Pasadena. The process involves careful demolition, sub-base preparation, and new paver installation, ensuring proper drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

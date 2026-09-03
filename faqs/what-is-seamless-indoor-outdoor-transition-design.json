@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is seamless indoor-outdoor transition design?",
+  "description": "Seamless indoor-outdoor design unifies interior and exterior spaces, often using large glass doors and consistent materials to blur boundaries and enhance livin",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-seamless-indoor-outdoor-transition-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is seamless indoor-outdoor transition design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seamless indoor-outdoor transition design integrates interior and exterior spaces to create a unified living area. This is achieved through elements like large glass doors (bifold, sliding, or pocket), consistent flooring materials, and coordinated architectural styles. The goal is to blur the boundaries between indoors and outdoors, enhancing natural light, airflow, and the overall sense of spaciousness. It allows residents to easily move between different zones for relaxation, dining, or entertaining, making both areas feel like a natural extension of the home.",
+        "description": "Seamless indoor-outdoor design unifies interior and exterior spaces, often using large glass doors and consistent materials to blur boundaries and enhance living areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the general process for installing a paver pool deck?",
+  "description": "The process involves site preparation, sub-base compaction, laying pavers on a sand bed, installing edge restraints, and filling joints with sand. The deck is t",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-general-process-for-installing-a-paver-pool-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the general process for installing a paver pool deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process begins with site preparation, including excavation, grading, and compaction of the sub-base. Next, a layer of crushed aggregate is applied and compacted, followed by a sand setting bed. Pavers are then laid in the chosen pattern, ensuring proper alignment and joint spacing. Edge restraints are installed to secure the pavers, and joint sand is swept into the gaps. Finally, the surface is compacted and often sealed to enhance durability and appearance.",
+        "description": "The process involves site preparation, sub-base compaction, laying pavers on a sand bed, installing edge restraints, and filling joints with sand. The deck is then compacted and often sealed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start planning an outdoor living space design project?",
+  "description": "Start planning an outdoor living space design in fall or winter to allow time for design, permits, and material sourcing before spring construction, ensuring it",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/when-is-the-best-time-to-start-planning-an-outdoor-living-space-design-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start planning an outdoor living space design project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start planning an outdoor living space design project is typically in the fall or winter. This allows ample time for the design phase, permit acquisition, and material sourcing before the spring or summer construction season begins. Starting early ensures that your project can be completed, and your new outdoor space is ready to enjoy during the warmer months. It also provides a buffer for any unexpected delays in design or permitting, particularly in busy areas like Los Angeles.",
+        "description": "Start planning an outdoor living space design in fall or winter to allow time for design, permits, and material sourcing before spring construction, ensuring it's ready for warmer months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

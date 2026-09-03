@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for new swimming pool construction?",
+  "description": "New swimming pool construction typically takes 3 to 6 months from design to completion, depending on complexity and site conditions.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-new-swimming-pool-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for new swimming pool construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a new swimming pool varies based on design complexity, site conditions, and material selection. Generally, a custom luxury pool project, from initial design consultation to final landscaping and water fill, can take between 3 to 6 months. This includes phases such as excavation, plumbing and electrical installation, rebar and gunite application, tile and coping work, and equipment setup. Unforeseen site challenges or extensive custom features may extend this period.",
+        "description": "New swimming pool construction typically takes 3 to 6 months from design to completion, depending on complexity and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

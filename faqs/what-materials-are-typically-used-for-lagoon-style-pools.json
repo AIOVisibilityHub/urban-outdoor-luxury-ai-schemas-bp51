@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are typically used for lagoon-style pools?",
+  "description": "Common materials for lagoon-style pools include concrete for structure, aggregate plasters for finish, and natural boulders or flagstone for features like water",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-typically-used-for-lagoon-style-pools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are typically used for lagoon-style pools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lagoon-style pools utilize materials that enhance their natural appearance and durability. The primary structure is often concrete (shotcrete or gunite) for its versatility in forming organic shapes. Finishes typically include natural aggregate plasters (like pebble tec) in earthy tones to mimic riverbeds, or even darker shades to give a deeper, more natural water color. Natural boulders, flagstone, and manufactured rockwork are crucial for creating waterfalls, grottos, and coping. Complementary materials include natural stone decking, custom tile accents, and various landscaping elements to complete the oasis aesthetic.",
+        "description": "Common materials for lagoon-style pools include concrete for structure, aggregate plasters for finish, and natural boulders or flagstone for features like waterfalls and coping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

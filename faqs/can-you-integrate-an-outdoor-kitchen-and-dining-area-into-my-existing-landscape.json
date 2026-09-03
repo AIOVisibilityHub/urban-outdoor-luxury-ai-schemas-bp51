@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you integrate an outdoor kitchen and dining area into my existing landscape?",
+  "description": "Yes, we can integrate an outdoor kitchen and dining area by assessing your existing landscape for utility access and sun exposure, ensuring a functional and coh",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/can-you-integrate-an-outdoor-kitchen-and-dining-area-into-my-existing-landscape",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you integrate an outdoor kitchen and dining area into my existing landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, integrating an outdoor kitchen and dining area into an existing landscape is a common request and a specialty of our design team. We assess your current space, considering factors like utility access (water, gas, electricity), drainage, and sun exposure. The design will focus on creating a functional and aesthetically cohesive zone that complements your home's style and existing landscaping. We can incorporate features such as built-in grills, refrigeration, sinks, and bar seating, alongside comfortable dining arrangements, all while respecting and enhancing your property's current layout.",
+        "description": "Yes, we can integrate an outdoor kitchen and dining area by assessing your existing landscape for utility access and sun exposure, ensuring a functional and cohesive design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

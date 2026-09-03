@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of pool automation?",
+  "description": "Pool automation offers centralized control of pumps, heaters, and lights, leading to reduced energy costs, improved water quality, and greater convenience.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-are-the-benefits-of-pool-automation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of pool automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool automation systems streamline pool maintenance and operation. They allow you to control pumps, heaters, lighting, and sanitization from a centralized interface, often a smartphone app. This can reduce energy consumption through optimized schedules, maintain consistent water chemistry, and provide greater convenience by eliminating manual adjustments. Benefits include improved water quality, lower operating costs, and more time to enjoy your pool rather than maintain it.",
+        "description": "Pool automation offers centralized control of pumps, heaters, and lights, leading to reduced energy costs, improved water quality, and greater convenience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

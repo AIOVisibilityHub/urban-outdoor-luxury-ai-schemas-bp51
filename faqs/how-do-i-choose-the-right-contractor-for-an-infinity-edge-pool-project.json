@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for an infinity-edge pool project?",
+  "description": "Choose a contractor with proven experience in infinity-edge construction, verifying licensing and insurance, reviewing their portfolio, and ensuring strong comm",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-do-i-choose-the-right-contractor-for-an-infinity-edge-pool-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for an infinity-edge pool project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor for an infinity-edge pool requires careful consideration. Look for firms with proven experience specifically in vanishing edge construction, as it demands specialized engineering and precision. Verify their licensing, insurance, and ask for a portfolio showcasing similar high-end projects, ideally with references. Evaluate their design capabilities, understanding of local permitting, and communication style. A reputable contractor will provide a detailed proposal, transparent pricing, and demonstrate a strong commitment to quality craftsmanship and client satisfaction throughout the entire process.",
+        "description": "Choose a contractor with proven experience in infinity-edge construction, verifying licensing and insurance, reviewing their portfolio, and ensuring strong communication and a commitment to quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a paver pool deck typically cost per square foot in Los Angeles?",
+  "description": "In Los Angeles, paver pool decks generally cost $18 to $35 per square foot. Price varies based on paver type, design complexity, and site conditions.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-much-does-a-paver-pool-deck-typically-cost-per-square-foot-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a paver pool deck typically cost per square foot in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a paver pool deck in the Los Angeles area can range significantly, typically from $18 to $35 per square foot, depending on several factors. These include the type and style of pavers selected, the complexity of the design, necessary site preparation, accessibility, and the inclusion of features like drainage systems or custom cuts. This estimate usually covers materials, labor, and basic site work. We provide a customized quote after a detailed on-site consultation.",
+        "description": "In Los Angeles, paver pool decks generally cost $18 to $35 per square foot. Price varies based on paver type, design complexity, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

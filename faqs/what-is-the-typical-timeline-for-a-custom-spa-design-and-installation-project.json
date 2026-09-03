@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a custom spa design and installation project?",
+  "description": "Custom spa projects typically take 4-8 weeks for design and permitting, and 8-16 weeks for construction. Complexity and approvals influence the timeline.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-is-the-typical-timeline-for-a-custom-spa-design-and-installation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a custom spa design and installation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a custom spa project varies based on complexity, size, material selection, and local permitting processes. Generally, design can take 2-4 weeks, followed by 4-8 weeks for permitting and approvals. Construction itself typically spans 8-16 weeks. Factors like site accessibility, weather conditions, and timely decision-making from the client can influence the overall duration. A detailed project schedule will be provided after the initial design phase to set clear expectations.",
+        "description": "Custom spa projects typically take 4-8 weeks for design and permitting, and 8-16 weeks for construction. Complexity and approvals influence the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

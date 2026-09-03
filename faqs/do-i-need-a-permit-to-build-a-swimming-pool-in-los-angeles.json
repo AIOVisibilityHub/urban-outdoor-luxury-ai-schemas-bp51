@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to build a swimming pool in Los Angeles?",
+  "description": "Yes, permits are required from local building and safety departments for new pool construction in Los Angeles and surrounding areas to ensure code compliance.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/do-i-need-a-permit-to-build-a-swimming-pool-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to build a swimming pool in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a new swimming pool in Los Angeles, including Pasadena, South Pasadena, San Marino, and Arcadia, requires obtaining permits from the local building and safety department. The permitting process ensures that your pool design and construction adhere to local zoning ordinances, building codes, and safety regulations. This typically involves submitting detailed plans, engineering drawings, and other necessary documentation for review and approval before construction can begin.",
+        "description": "Yes, permits are required from local building and safety departments for new pool construction in Los Angeles and surrounding areas to ensure code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

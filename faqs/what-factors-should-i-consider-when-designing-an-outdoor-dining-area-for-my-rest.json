@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when designing an outdoor dining area for my restaurant?",
+  "description": "Key factors include local regulations, climate, seating, materials, lighting, and accessibility.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-factors-should-i-consider-when-designing-an-outdoor-dining-area-for-my-rest",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when designing an outdoor dining area for my restaurant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When designing an outdoor dining area, key factors include local zoning regulations and permits, climate considerations for sun and rain protection, seating capacity and layout for comfort and flow, and material selection for durability and aesthetics. Additionally, consider ambient lighting for evening use, sound control to manage noise levels, and integration with your existing interior design for a cohesive brand experience. Accessibility for all patrons, including those with disabilities, is also crucial for compliance and inclusivity.",
+        "description": "Key factors include local regulations, climate, seating, materials, lighting, and accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

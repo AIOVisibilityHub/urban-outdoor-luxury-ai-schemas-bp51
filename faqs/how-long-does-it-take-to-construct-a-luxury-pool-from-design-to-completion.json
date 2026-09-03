@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a luxury pool from design to completion?",
+  "description": "Luxury pool construction typically takes 6 to 12 months, including design, permitting, and build phases.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/how-long-does-it-take-to-construct-a-luxury-pool-from-design-to-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a luxury pool from design to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for luxury pool construction varies based on design complexity, site conditions, and permitting. Generally, the entire process, from initial design concepts and architectural planning to excavation, construction, and final finishes, can take anywhere from 6 to 12 months. This includes time for permit acquisition, which can sometimes be a significant phase. We work efficiently to ensure a high-quality build while minimizing disruption.",
+        "description": "Luxury pool construction typically takes 6 to 12 months, including design, permitting, and build phases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

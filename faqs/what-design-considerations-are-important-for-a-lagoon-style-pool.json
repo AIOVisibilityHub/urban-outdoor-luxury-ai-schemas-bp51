@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations are important for a lagoon-style pool?",
+  "description": "Key design considerations for a lagoon-style pool include integrating its free-form shape with the landscape, selecting natural materials, and incorporating wat",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-design-considerations-are-important-for-a-lagoon-style-pool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations are important for a lagoon-style pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective design for a lagoon-style pool involves careful consideration of several elements. The pool's free-form shape should complement your landscape and property contours. Material selection, including natural rocks, boulders, and plaster colors, is crucial for achieving a realistic aesthetic. Water features like waterfalls and streams, along with lush, tropical landscaping, enhance the natural feel. Strategic lighting for nighttime ambiance and the integration of features such as grottoes, beach entries, or Baja shelves also contribute to a cohesive and inviting design. Careful planning ensures harmony with your existing outdoor space.",
+        "description": "Key design considerations for a lagoon-style pool include integrating its free-form shape with the landscape, selecting natural materials, and incorporating water features and strategic lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific zoning or permitting requirements for integrated pools and spas in Los Angeles County?",
+  "description": "Yes, specific zoning and permitting from local authorities in Los Angeles County are required. Our firm manages this process.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/are-there-specific-zoning-or-permitting-requirements-for-integrated-pools-and-sp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific zoning or permitting requirements for integrated pools and spas in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, construction of integrated pools and spas in Los Angeles County requires adherence to local zoning ordinances and obtaining the necessary permits from your specific city or the County Department of Public Works. Requirements can vary by municipality regarding setbacks, fencing, safety features, and storm water management. Our firm handles the entire permitting process, ensuring all designs comply with local regulations before construction begins.",
+        "description": "Yes, specific zoning and permitting from local authorities in Los Angeles County are required. Our firm manages this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are typically used for custom spa finishes?",
+  "description": "Custom spa finishes commonly include porcelain, ceramic, glass, or natural stone tiles, as well as quartz aggregate or pebble tech plaster finishes.",
+  "url": "https://www.urbanluxuryoutdoorsinc.com/faq/what-materials-are-typically-used-for-custom-spa-finishes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are typically used for custom spa finishes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom spas offer a wide array of finishing materials to match any aesthetic. Common choices include various types of tiles, such as porcelain, ceramic, glass, and natural stone, offering durability and diverse design options. Plaster finishes, like quartz aggregate or pebble tech, provide a smooth, resilient surface. Other options include polished concrete or even specialized coatings for a unique look. The selection impacts both the visual appeal and long-term maintenance of the spa.",
+        "description": "Custom spa finishes commonly include porcelain, ceramic, glass, or natural stone tiles, as well as quartz aggregate or pebble tech plaster finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
