@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:35:16.281Z",
+  "generatedAt": "2026-09-05T21:35:35.211Z",
   "client": {
     "name": "Urban Outdoor Luxury",
     "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
@@ -205,7 +205,7 @@
   },
   "package": {
     "totalFiles": 1626,
-    "totalBytes": 6409803,
+    "totalBytes": 5619034,
     "stats": {
       "qna": 0,
       "faqs": 1246,
@@ -7683,637 +7683,637 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 25318,
+        "bytes": 19260,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 165522,
+        "bytes": 159584,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 64497,
+        "bytes": 58280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 39550,
+        "bytes": 33810,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 22523,
+        "bytes": 16708,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 814800,
+        "bytes": 808964,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 89754,
+        "bytes": 83987,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 71305,
+        "bytes": 65379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 105751,
+        "bytes": 99948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-pool-design-guide.html",
-        "bytes": 13431,
+        "bytes": 6989,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/outdoor-kitchen-layout-essentials.html",
-        "bytes": 13455,
+        "bytes": 6995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/infinity-pool-engineering-faq.html",
-        "bytes": 13183,
+        "bytes": 6829,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drought-tolerant-plant-selection.html",
-        "bytes": 13281,
+        "bytes": 6891,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fire-feature-safety-standards.html",
-        "bytes": 13169,
+        "bytes": 6821,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-irrigation-controller-setup.html",
-        "bytes": 13197,
+        "bytes": 6833,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/greywater-system-installation.html",
-        "bytes": 13081,
+        "bytes": 6763,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/led-landscape-lighting-design.html",
-        "bytes": 13003,
+        "bytes": 6715,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-cover-selection-matrix.html",
-        "bytes": 12763,
+        "bytes": 6570,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pergola-engineering-calculator.html",
-        "bytes": 12995,
+        "bytes": 6712,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spa-integration-best-practices.html",
-        "bytes": 12987,
+        "bytes": 6710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/retaining-wall-construction-standards.html",
-        "bytes": 13043,
+        "bytes": 6735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/natural-stone-selection-guide.html",
-        "bytes": 12853,
+        "bytes": 6622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/solar-pool-heating-roi-calculator.html",
-        "bytes": 12967,
+        "bytes": 6693,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/winterization-checklist.html",
-        "bytes": 12771,
+        "bytes": 6573,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-process-timeline.html",
-        "bytes": 12869,
+        "bytes": 6634,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/native-tree-planting-specifications.html",
-        "bytes": 12951,
+        "bytes": 6667,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/outdoor-audio-system-design.html",
-        "bytes": 12791,
+        "bytes": 6583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bbq-grill-ventilation-requirements.html",
-        "bytes": 12913,
+        "bytes": 6650,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/vertical-garden-installation.html",
-        "bytes": 12869,
+        "bytes": 6624,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-chemistry-automation.html",
-        "bytes": 12383,
+        "bytes": 6327,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/outdoor-pizza-oven-guide.html",
-        "bytes": 13085,
+        "bytes": 6763,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/luxury-grill-selection-matrix.html",
-        "bytes": 13103,
+        "bytes": 6768,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/beverage-center-design-standards.html",
-        "bytes": 13061,
+        "bytes": 6744,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-ventilation-sizing.html",
-        "bytes": 12853,
+        "bytes": 6628,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/countertop-material-thermal-testing.html",
-        "bytes": 13005,
+        "bytes": 6714,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cabinet-hardware-weatherproofing.html",
-        "bytes": 12949,
+        "bytes": 6682,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/infinity-edge-pool-engineering.html",
-        "bytes": 13295,
+        "bytes": 6896,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spillover-spa-integration.html",
-        "bytes": 13249,
+        "bytes": 6870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pebbletec-vs-glass-tile-finishes.html",
-        "bytes": 13276,
+        "bytes": 6895,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/variable-speed-pump-sizing-chart.html",
-        "bytes": 13191,
+        "bytes": 6837,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/led-pool-lighting-specifications.html",
-        "bytes": 13267,
+        "bytes": 6889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/saltwater-chlorine-generator-sizing.html",
-        "bytes": 13269,
+        "bytes": 6885,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/automatic-pool-cover-engineering.html",
-        "bytes": 13177,
+        "bytes": 6827,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/therapy-jet-configuration-guide.html",
-        "bytes": 13077,
+        "bytes": 6772,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/negative-edge-pool-hydraulics.html",
-        "bytes": 13103,
+        "bytes": 6788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-shell-structural-specifications.html",
-        "bytes": 13211,
+        "bytes": 6834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/waterfall-pump-sizing-calculator.html",
-        "bytes": 13091,
+        "bytes": 6768,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spa-chromotherapy-lighting-guide.html",
-        "bytes": 13193,
+        "bytes": 6839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/geothermal-pool-heating-design.html",
-        "bytes": 12957,
+        "bytes": 6689,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/underwater-audio-system-specs.html",
-        "bytes": 12939,
+        "bytes": 6670,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/deck-jet-velocity-calculations.html",
-        "bytes": 12943,
+        "bytes": 6681,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-heater-efficiency-ratings.html",
-        "bytes": 13047,
+        "bytes": 6746,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/luxury-grill-brand-comparison.html",
-        "bytes": 13346,
+        "bytes": 6936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/outdoor-kitchen-layout-work-triangle.html",
-        "bytes": 13319,
+        "bytes": 6916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/marine-grade-cabinet-materials.html",
-        "bytes": 13113,
+        "bytes": 6788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-hood-cfm-calculations.html",
-        "bytes": 13217,
+        "bytes": 6841,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/quartzite-countertop-specifications.html",
-        "bytes": 13265,
+        "bytes": 6875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pizza-oven-fuel-options.html",
-        "bytes": 13099,
+        "bytes": 6784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/beverage-center-capacity-planning.html",
-        "bytes": 13271,
+        "bytes": 6862,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gas-line-trenching-standards.html",
-        "bytes": 13085,
+        "bytes": 6760,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bar-stool-overhang-requirements.html",
-        "bytes": 13115,
+        "bytes": 6765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/under-cabinet-led-lighting-specs.html",
-        "bytes": 13031,
+        "bytes": 6731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sink-drain-configuration-guide.html",
-        "bytes": 13089,
+        "bytes": 6752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/electrical-subpanel-sizing.html",
-        "bytes": 12893,
+        "bytes": 6653,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/teak-cabinet-maintenance-schedule.html",
-        "bytes": 13011,
+        "bytes": 6719,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/linear-fire-feature-engineering.html",
-        "bytes": 13049,
+        "bytes": 6736,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/prep-zone-workflow-optimization.html",
-        "bytes": 13121,
+        "bytes": 6789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/refrigeration-load-calculations.html",
-        "bytes": 13123,
+        "bytes": 6775,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/flooring-thermal-mass-specs.html",
-        "bytes": 12931,
+        "bytes": 6669,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rotisserie-capacity-planning.html",
-        "bytes": 12939,
+        "bytes": 6662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/backsplash-material-durability.html",
-        "bytes": 12921,
+        "bytes": 6656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-appliance-integration.html",
-        "bytes": 12889,
+        "bytes": 6642,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/grease-management-systems.html",
-        "bytes": 12917,
+        "bytes": 6663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/foot-rail-installation-standards.html",
-        "bytes": 13129,
+        "bytes": 6769,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/induction-burner-specifications.html",
-        "bytes": 12965,
+        "bytes": 6674,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/weatherproof-power-receptacles.html",
-        "bytes": 12897,
+        "bytes": 6650,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/entertaining-capacity-planning.html",
-        "bytes": 12931,
+        "bytes": 6669,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/infinity-vs-geometric-pools.html",
-        "bytes": 13497,
+        "bytes": 7025,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fiberglass-vs-gunite-durability.html",
-        "bytes": 13425,
+        "bytes": 6976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/lap-pool-vs-family-pool-sizes.html",
-        "bytes": 12951,
+        "bytes": 6681,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/natural-lagoon-vs-modern-pools.html",
-        "bytes": 13083,
+        "bytes": 6761,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/vinyl-liner-vs-fiberglass-cost.html",
-        "bytes": 13151,
+        "bytes": 6802,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spillover-spa-vs-infinity-spa.html",
-        "bytes": 13083,
+        "bytes": 6756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/geometric-freeform-shapes.html",
-        "bytes": 12917,
+        "bytes": 6651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/saltwater-vs-chlorine-systems.html",
-        "bytes": 13097,
+        "bytes": 6755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/beach-entry-vs-deep-end.html",
-        "bytes": 12559,
+        "bytes": 6421,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pebble-vs-tile-finishes.html",
-        "bytes": 12827,
+        "bytes": 6590,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/l-shaped-vs-kidney-pools.html",
-        "bytes": 12713,
+        "bytes": 6517,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/auto-cover-vs-net-covers.html",
-        "bytes": 12665,
+        "bytes": 6490,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/vanishing-edge-vs-perimeter.html",
-        "bytes": 12891,
+        "bytes": 6632,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/heated-vs-natural-temp-pools.html",
-        "bytes": 12621,
+        "bytes": 6463,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tanning-ledge-vs-baja-shelf.html",
-        "bytes": 12945,
+        "bytes": 6658,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/geometric-vs-organic-layouts.html",
-        "bytes": 12595,
+        "bytes": 6449,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gunite-vs-vinyl-longevity.html",
-        "bytes": 12755,
+        "bytes": 6549,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/waterfall-vs-deck-jet-features.html",
-        "bytes": 12631,
+        "bytes": 6465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rectangle-vs-oval-shapes.html",
-        "bytes": 12441,
+        "bytes": 6353,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/led-color-vs-fiber-optic.html",
-        "bytes": 12695,
+        "bytes": 6511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sport-pool-vs-plunge-pool.html",
-        "bytes": 12463,
+        "bytes": 6362,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/plaster-vs-aggregate-finishes.html",
-        "bytes": 12695,
+        "bytes": 6503,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/lazy-river-vs-sport-lane.html",
-        "bytes": 12421,
+        "bytes": 6339,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/coastal-vs-mountain-styles.html",
-        "bytes": 12487,
+        "bytes": 6379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/budget-tier-pool-options.html",
-        "bytes": 12771,
+        "bytes": 6557,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/natural-rock-vs-sheet-falls.html",
-        "bytes": 13375,
+        "bytes": 6930,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pump-sizing-for-waterfalls.html",
-        "bytes": 13059,
+        "bytes": 6724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tiered-vs-single-drop-falls.html",
-        "bytes": 12723,
+        "bytes": 6518,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pondless-vs-pond-falls.html",
-        "bytes": 12559,
+        "bytes": 6416,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/led-lighting-for-falls.html",
-        "bytes": 12661,
+        "bytes": 6476,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/basin-reservoir-sizing.html",
-        "bytes": 12575,
+        "bytes": 6412,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fire-waterfall-combos.html",
-        "bytes": 12537,
+        "bytes": 6395,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stone-selection-guide.html",
-        "bytes": 12479,
+        "bytes": 6355,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/wall-mounted-fountains.html",
-        "bytes": 12505,
+        "bytes": 6371,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stream-bed-waterfalls.html",
-        "bytes": 12405,
+        "bytes": 6308,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/grotto-cave-falls.html",
-        "bytes": 12359,
+        "bytes": 6284,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/solar-vs-electric-pumps.html",
-        "bytes": 12525,
+        "bytes": 6381,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sheer-descent-specs.html",
-        "bytes": 12267,
+        "bytes": 6218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/plant-integration-tips.html",
-        "bytes": 12215,
+        "bytes": 6192,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-integrated-falls.html",
-        "bytes": 12383,
+        "bytes": 6295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/metal-fountain-designs.html",
-        "bytes": 12327,
+        "bytes": 6259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maintenance-schedules.html",
-        "bytes": 12251,
+        "bytes": 6211,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/budget-tier-options.html",
-        "bytes": 12295,
+        "bytes": 6245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/noise-level-control.html",
-        "bytes": 12335,
+        "bytes": 6270,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/small-yard-solutions.html",
-        "bytes": 12299,
+        "bytes": 6248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/wildlife-friendly-fountains.html",
-        "bytes": 12383,
+        "bytes": 6295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/multi-tier-engineering.html",
-        "bytes": 12193,
+        "bytes": 6182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/infinity-fountain-walls.html",
-        "bytes": 12220,
+        "bytes": 6146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/winterizing-protocols.html",
-        "bytes": 11977,
+        "bytes": 5952,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-controls-setup.html",
-        "bytes": 11804,
+        "bytes": 5798,
         "purpose": "LLM-optimized public page"
       }
     ],
