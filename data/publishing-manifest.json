@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:49:43.760Z",
+  "generatedAt": "2026-10-04T00:50:00.973Z",
   "client": {
     "name": "Urban Outdoor Luxury",
     "canonicalUrl": "https://urbanluxuryoutdoors.aiovisibility.net",
@@ -205,7 +205,7 @@
   },
   "package": {
     "totalFiles": 1514,
-    "totalBytes": 4906344,
+    "totalBytes": 4823863,
     "stats": {
       "qna": 0,
       "faqs": 1246,
@@ -7688,72 +7688,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 25318,
+        "bytes": 19262,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 166799,
+        "bytes": 160883,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 102736,
+        "bytes": 96630,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 40827,
+        "bytes": 35113,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 23800,
+        "bytes": 18011,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 816077,
+        "bytes": 810261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 24011,
+        "bytes": 18197,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 72582,
+        "bytes": 66692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 107028,
+        "bytes": 101261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 20479,
+        "bytes": 14534,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 27159,
+        "bytes": 21243,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 18972,
+        "bytes": 13020,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 17721,
+        "bytes": 11875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 27920,
+        "bytes": 21966,
         "purpose": "LLM-optimized public page"
       }
     ],
