@@ -1,0 +1,1043 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Custom Pool Design Guide",
+      "anchorSlug": "custom-pool-design-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-pool-design-guide.html"
+    },
+    {
+      "title": "Outdoor Kitchen Layout Essentials",
+      "anchorSlug": "outdoor-kitchen-layout-essentials",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/outdoor-kitchen-layout-essentials.html"
+    },
+    {
+      "title": "Infinity Pool Engineering FAQ",
+      "anchorSlug": "infinity-pool-engineering-faq",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/infinity-pool-engineering-faq.html"
+    },
+    {
+      "title": "Drought Tolerant Plant Selection",
+      "anchorSlug": "drought-tolerant-plant-selection",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drought-tolerant-plant-selection.html"
+    },
+    {
+      "title": "Fire Feature Safety Standards",
+      "anchorSlug": "fire-feature-safety-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fire-feature-safety-standards.html"
+    },
+    {
+      "title": "Smart Irrigation Controller Setup",
+      "anchorSlug": "smart-irrigation-controller-setup",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-irrigation-controller-setup.html"
+    },
+    {
+      "title": "Greywater System Installation",
+      "anchorSlug": "greywater-system-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/greywater-system-installation.html"
+    },
+    {
+      "title": "LED Landscape Lighting Design",
+      "anchorSlug": "led-landscape-lighting-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/led-landscape-lighting-design.html"
+    },
+    {
+      "title": "Pool Cover Selection Matrix",
+      "anchorSlug": "pool-cover-selection-matrix",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-cover-selection-matrix.html"
+    },
+    {
+      "title": "Pergola Engineering Calculator",
+      "anchorSlug": "pergola-engineering-calculator",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pergola-engineering-calculator.html"
+    },
+    {
+      "title": "Spa Integration Best Practices",
+      "anchorSlug": "spa-integration-best-practices",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spa-integration-best-practices.html"
+    },
+    {
+      "title": "Retaining Wall Construction Standards",
+      "anchorSlug": "retaining-wall-construction-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/retaining-wall-construction-standards.html"
+    },
+    {
+      "title": "Natural Stone Selection Guide",
+      "anchorSlug": "natural-stone-selection-guide",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/natural-stone-selection-guide.html"
+    },
+    {
+      "title": "Solar Pool Heating ROI Calculator",
+      "anchorSlug": "solar-pool-heating-roi-calculator",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-pool-heating-roi-calculator.html"
+    },
+    {
+      "title": "Winterization Checklist",
+      "anchorSlug": "winterization-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/winterization-checklist.html"
+    },
+    {
+      "title": "Permitting Process Timeline",
+      "anchorSlug": "permitting-process-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-process-timeline.html"
+    },
+    {
+      "title": "Native Tree Planting Specifications",
+      "anchorSlug": "native-tree-planting-specifications",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/native-tree-planting-specifications.html"
+    },
+    {
+      "title": "Outdoor Audio System Design",
+      "anchorSlug": "outdoor-audio-system-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/outdoor-audio-system-design.html"
+    },
+    {
+      "title": "BBQ Grill Ventilation Requirements",
+      "anchorSlug": "bbq-grill-ventilation-requirements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bbq-grill-ventilation-requirements.html"
+    },
+    {
+      "title": "Vertical Garden Installation",
+      "anchorSlug": "vertical-garden-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/vertical-garden-installation.html"
+    },
+    {
+      "title": "Pool Chemistry Automation",
+      "anchorSlug": "pool-chemistry-automation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-chemistry-automation.html"
+    },
+    {
+      "title": "Outdoor Pizza Oven Guide",
+      "anchorSlug": "outdoor-pizza-oven-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/outdoor-pizza-oven-guide.html"
+    },
+    {
+      "title": "Luxury Grill Selection Matrix",
+      "anchorSlug": "luxury-grill-selection-matrix",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-grill-selection-matrix.html"
+    },
+    {
+      "title": "Beverage Center Design Standards",
+      "anchorSlug": "beverage-center-design-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beverage-center-design-standards.html"
+    },
+    {
+      "title": "Commercial Ventilation Sizing",
+      "anchorSlug": "commercial-ventilation-sizing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-ventilation-sizing.html"
+    },
+    {
+      "title": "Countertop Material Thermal Testing",
+      "anchorSlug": "countertop-material-thermal-testing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/countertop-material-thermal-testing.html"
+    },
+    {
+      "title": "Cabinet Hardware Weatherproofing",
+      "anchorSlug": "cabinet-hardware-weatherproofing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cabinet-hardware-weatherproofing.html"
+    },
+    {
+      "title": "Infinity Edge Pool Engineering",
+      "anchorSlug": "infinity-edge-pool-engineering",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/infinity-edge-pool-engineering.html"
+    },
+    {
+      "title": "Spillover Spa Integration",
+      "anchorSlug": "spillover-spa-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spillover-spa-integration.html"
+    },
+    {
+      "title": "PebbleTec vs Glass Tile Finishes",
+      "anchorSlug": "pebbletec-vs-glass-tile-finishes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pebbletec-vs-glass-tile-finishes.html"
+    },
+    {
+      "title": "Variable Speed Pump Sizing Chart",
+      "anchorSlug": "variable-speed-pump-sizing-chart",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/variable-speed-pump-sizing-chart.html"
+    },
+    {
+      "title": "LED Pool Lighting Specifications",
+      "anchorSlug": "led-pool-lighting-specifications",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/led-pool-lighting-specifications.html"
+    },
+    {
+      "title": "Saltwater Chlorine Generator Sizing",
+      "anchorSlug": "saltwater-chlorine-generator-sizing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/saltwater-chlorine-generator-sizing.html"
+    },
+    {
+      "title": "Automatic Pool Cover Engineering",
+      "anchorSlug": "automatic-pool-cover-engineering",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/automatic-pool-cover-engineering.html"
+    },
+    {
+      "title": "Therapy Jet Configuration Guide",
+      "anchorSlug": "therapy-jet-configuration-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/therapy-jet-configuration-guide.html"
+    },
+    {
+      "title": "Negative Edge Pool Hydraulics",
+      "anchorSlug": "negative-edge-pool-hydraulics",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/negative-edge-pool-hydraulics.html"
+    },
+    {
+      "title": "Pool Shell Structural Specifications",
+      "anchorSlug": "pool-shell-structural-specifications",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-shell-structural-specifications.html"
+    },
+    {
+      "title": "Waterfall Pump Sizing Calculator",
+      "anchorSlug": "waterfall-pump-sizing-calculator",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waterfall-pump-sizing-calculator.html"
+    },
+    {
+      "title": "Spa Chromotherapy Lighting Guide",
+      "anchorSlug": "spa-chromotherapy-lighting-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spa-chromotherapy-lighting-guide.html"
+    },
+    {
+      "title": "Geothermal Pool Heating Design",
+      "anchorSlug": "geothermal-pool-heating-design",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geothermal-pool-heating-design.html"
+    },
+    {
+      "title": "Underwater Audio System Specs",
+      "anchorSlug": "underwater-audio-system-specs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/underwater-audio-system-specs.html"
+    },
+    {
+      "title": "Deck Jet Velocity Calculations",
+      "anchorSlug": "deck-jet-velocity-calculations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deck-jet-velocity-calculations.html"
+    },
+    {
+      "title": "Pool Heater Efficiency Ratings",
+      "anchorSlug": "pool-heater-efficiency-ratings",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-heater-efficiency-ratings.html"
+    },
+    {
+      "title": "Luxury Grill Brand Comparison",
+      "anchorSlug": "luxury-grill-brand-comparison",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-grill-brand-comparison.html"
+    },
+    {
+      "title": "Outdoor Kitchen Layout Work Triangle",
+      "anchorSlug": "outdoor-kitchen-layout-work-triangle",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/outdoor-kitchen-layout-work-triangle.html"
+    },
+    {
+      "title": "Marine Grade Cabinet Materials",
+      "anchorSlug": "marine-grade-cabinet-materials",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/marine-grade-cabinet-materials.html"
+    },
+    {
+      "title": "Commercial Hood CFM Calculations",
+      "anchorSlug": "commercial-hood-cfm-calculations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-hood-cfm-calculations.html"
+    },
+    {
+      "title": "Quartzite Countertop Specifications",
+      "anchorSlug": "quartzite-countertop-specifications",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/quartzite-countertop-specifications.html"
+    },
+    {
+      "title": "Pizza Oven Fuel Options",
+      "anchorSlug": "pizza-oven-fuel-options",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pizza-oven-fuel-options.html"
+    },
+    {
+      "title": "Beverage Center Capacity Planning",
+      "anchorSlug": "beverage-center-capacity-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beverage-center-capacity-planning.html"
+    },
+    {
+      "title": "Gas Line Trenching Standards",
+      "anchorSlug": "gas-line-trenching-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gas-line-trenching-standards.html"
+    },
+    {
+      "title": "Bar Stool Overhang Requirements",
+      "anchorSlug": "bar-stool-overhang-requirements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bar-stool-overhang-requirements.html"
+    },
+    {
+      "title": "Under Cabinet LED Lighting Specs",
+      "anchorSlug": "under-cabinet-led-lighting-specs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/under-cabinet-led-lighting-specs.html"
+    },
+    {
+      "title": "Sink Drain Configuration Guide",
+      "anchorSlug": "sink-drain-configuration-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sink-drain-configuration-guide.html"
+    },
+    {
+      "title": "Electrical Subpanel Sizing",
+      "anchorSlug": "electrical-subpanel-sizing",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/electrical-subpanel-sizing.html"
+    },
+    {
+      "title": "Teak Cabinet Maintenance Schedule",
+      "anchorSlug": "teak-cabinet-maintenance-schedule",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/teak-cabinet-maintenance-schedule.html"
+    },
+    {
+      "title": "Linear Fire Feature Engineering",
+      "anchorSlug": "linear-fire-feature-engineering",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/linear-fire-feature-engineering.html"
+    },
+    {
+      "title": "Prep Zone Workflow Optimization",
+      "anchorSlug": "prep-zone-workflow-optimization",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prep-zone-workflow-optimization.html"
+    },
+    {
+      "title": "Refrigeration Load Calculations",
+      "anchorSlug": "refrigeration-load-calculations",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/refrigeration-load-calculations.html"
+    },
+    {
+      "title": "Flooring Thermal Mass Specs",
+      "anchorSlug": "flooring-thermal-mass-specs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flooring-thermal-mass-specs.html"
+    },
+    {
+      "title": "Rotisserie Capacity Planning",
+      "anchorSlug": "rotisserie-capacity-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rotisserie-capacity-planning.html"
+    },
+    {
+      "title": "Backsplash Material Durability",
+      "anchorSlug": "backsplash-material-durability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/backsplash-material-durability.html"
+    },
+    {
+      "title": "Smart Appliance Integration",
+      "anchorSlug": "smart-appliance-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-appliance-integration.html"
+    },
+    {
+      "title": "Grease Management Systems",
+      "anchorSlug": "grease-management-systems",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/grease-management-systems.html"
+    },
+    {
+      "title": "Foot Rail Installation Standards",
+      "anchorSlug": "foot-rail-installation-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foot-rail-installation-standards.html"
+    },
+    {
+      "title": "Induction Burner Specifications",
+      "anchorSlug": "induction-burner-specifications",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/induction-burner-specifications.html"
+    },
+    {
+      "title": "Weatherproof Power Receptacles",
+      "anchorSlug": "weatherproof-power-receptacles",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/weatherproof-power-receptacles.html"
+    },
+    {
+      "title": "Entertaining Capacity Planning",
+      "anchorSlug": "entertaining-capacity-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/entertaining-capacity-planning.html"
+    },
+    {
+      "title": "Infinity vs Geometric Pools",
+      "anchorSlug": "infinity-vs-geometric-pools",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/infinity-vs-geometric-pools.html"
+    },
+    {
+      "title": "Fiberglass vs Gunite Durability",
+      "anchorSlug": "fiberglass-vs-gunite-durability",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fiberglass-vs-gunite-durability.html"
+    },
+    {
+      "title": "Lap Pool vs Family Pool Sizes",
+      "anchorSlug": "lap-pool-vs-family-pool-sizes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lap-pool-vs-family-pool-sizes.html"
+    },
+    {
+      "title": "Natural Lagoon vs Modern Pools",
+      "anchorSlug": "natural-lagoon-vs-modern-pools",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/natural-lagoon-vs-modern-pools.html"
+    },
+    {
+      "title": "Vinyl Liner vs Fiberglass Cost",
+      "anchorSlug": "vinyl-liner-vs-fiberglass-cost",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/vinyl-liner-vs-fiberglass-cost.html"
+    },
+    {
+      "title": "Spillover Spa vs Infinity Spa",
+      "anchorSlug": "spillover-spa-vs-infinity-spa",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spillover-spa-vs-infinity-spa.html"
+    },
+    {
+      "title": "Geometric Freeform Shapes",
+      "anchorSlug": "geometric-freeform-shapes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geometric-freeform-shapes.html"
+    },
+    {
+      "title": "Saltwater vs Chlorine Systems",
+      "anchorSlug": "saltwater-vs-chlorine-systems",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/saltwater-vs-chlorine-systems.html"
+    },
+    {
+      "title": "Beach Entry vs Deep End",
+      "anchorSlug": "beach-entry-vs-deep-end",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beach-entry-vs-deep-end.html"
+    },
+    {
+      "title": "Pebble vs Tile Finishes",
+      "anchorSlug": "pebble-vs-tile-finishes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pebble-vs-tile-finishes.html"
+    },
+    {
+      "title": "L-Shaped vs Kidney Pools",
+      "anchorSlug": "l-shaped-vs-kidney-pools",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/l-shaped-vs-kidney-pools.html"
+    },
+    {
+      "title": "Auto Cover vs Net Covers",
+      "anchorSlug": "auto-cover-vs-net-covers",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/auto-cover-vs-net-covers.html"
+    },
+    {
+      "title": "Vanishing Edge vs Perimeter",
+      "anchorSlug": "vanishing-edge-vs-perimeter",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/vanishing-edge-vs-perimeter.html"
+    },
+    {
+      "title": "Heated vs Natural Temp Pools",
+      "anchorSlug": "heated-vs-natural-temp-pools",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/heated-vs-natural-temp-pools.html"
+    },
+    {
+      "title": "Tanning Ledge vs Baja Shelf",
+      "anchorSlug": "tanning-ledge-vs-baja-shelf",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tanning-ledge-vs-baja-shelf.html"
+    },
+    {
+      "title": "Geometric vs Organic Layouts",
+      "anchorSlug": "geometric-vs-organic-layouts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geometric-vs-organic-layouts.html"
+    },
+    {
+      "title": "Gunite vs Vinyl Longevity",
+      "anchorSlug": "gunite-vs-vinyl-longevity",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gunite-vs-vinyl-longevity.html"
+    },
+    {
+      "title": "Waterfall vs Deck Jet Features",
+      "anchorSlug": "waterfall-vs-deck-jet-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waterfall-vs-deck-jet-features.html"
+    },
+    {
+      "title": "Rectangle vs Oval Shapes",
+      "anchorSlug": "rectangle-vs-oval-shapes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rectangle-vs-oval-shapes.html"
+    },
+    {
+      "title": "LED Color vs Fiber Optic",
+      "anchorSlug": "led-color-vs-fiber-optic",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/led-color-vs-fiber-optic.html"
+    },
+    {
+      "title": "Sport Pool vs Plunge Pool",
+      "anchorSlug": "sport-pool-vs-plunge-pool",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sport-pool-vs-plunge-pool.html"
+    },
+    {
+      "title": "Plaster vs Aggregate Finishes",
+      "anchorSlug": "plaster-vs-aggregate-finishes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plaster-vs-aggregate-finishes.html"
+    },
+    {
+      "title": "Lazy River vs Sport Lane",
+      "anchorSlug": "lazy-river-vs-sport-lane",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lazy-river-vs-sport-lane.html"
+    },
+    {
+      "title": "Coastal vs Mountain Styles",
+      "anchorSlug": "coastal-vs-mountain-styles",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/coastal-vs-mountain-styles.html"
+    },
+    {
+      "title": "Budget Tier Pool Options",
+      "anchorSlug": "budget-tier-pool-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budget-tier-pool-options.html"
+    },
+    {
+      "title": "Natural Rock vs Sheet Falls",
+      "anchorSlug": "natural-rock-vs-sheet-falls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/natural-rock-vs-sheet-falls.html"
+    },
+    {
+      "title": "Pump Sizing for Waterfalls",
+      "anchorSlug": "pump-sizing-for-waterfalls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pump-sizing-for-waterfalls.html"
+    },
+    {
+      "title": "Tiered vs Single Drop Falls",
+      "anchorSlug": "tiered-vs-single-drop-falls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tiered-vs-single-drop-falls.html"
+    },
+    {
+      "title": "Pondless vs Pond Falls",
+      "anchorSlug": "pondless-vs-pond-falls",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pondless-vs-pond-falls.html"
+    },
+    {
+      "title": "LED Lighting for Falls",
+      "anchorSlug": "led-lighting-for-falls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/led-lighting-for-falls.html"
+    },
+    {
+      "title": "Basin Reservoir Sizing",
+      "anchorSlug": "basin-reservoir-sizing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/basin-reservoir-sizing.html"
+    },
+    {
+      "title": "Fire-Waterfall Combos",
+      "anchorSlug": "fire-waterfall-combos",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fire-waterfall-combos.html"
+    },
+    {
+      "title": "Stone Selection Guide",
+      "anchorSlug": "stone-selection-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stone-selection-guide.html"
+    },
+    {
+      "title": "Wall-Mounted Fountains",
+      "anchorSlug": "wall-mounted-fountains",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wall-mounted-fountains.html"
+    },
+    {
+      "title": "Stream Bed Waterfalls",
+      "anchorSlug": "stream-bed-waterfalls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stream-bed-waterfalls.html"
+    },
+    {
+      "title": "Grotto Cave Falls",
+      "anchorSlug": "grotto-cave-falls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/grotto-cave-falls.html"
+    },
+    {
+      "title": "Solar vs Electric Pumps",
+      "anchorSlug": "solar-vs-electric-pumps",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-vs-electric-pumps.html"
+    },
+    {
+      "title": "Sheer Descent Specs",
+      "anchorSlug": "sheer-descent-specs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sheer-descent-specs.html"
+    },
+    {
+      "title": "Plant Integration Tips",
+      "anchorSlug": "plant-integration-tips",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plant-integration-tips.html"
+    },
+    {
+      "title": "Pool-Integrated Falls",
+      "anchorSlug": "pool-integrated-falls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-integrated-falls.html"
+    },
+    {
+      "title": "Metal Fountain Designs",
+      "anchorSlug": "metal-fountain-designs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/metal-fountain-designs.html"
+    },
+    {
+      "title": "Maintenance Schedules",
+      "anchorSlug": "maintenance-schedules",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maintenance-schedules.html"
+    },
+    {
+      "title": "Budget Tier Options",
+      "anchorSlug": "budget-tier-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budget-tier-options.html"
+    },
+    {
+      "title": "Noise Level Control",
+      "anchorSlug": "noise-level-control",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/noise-level-control.html"
+    },
+    {
+      "title": "Small Yard Solutions",
+      "anchorSlug": "small-yard-solutions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/small-yard-solutions.html"
+    },
+    {
+      "title": "Wildlife-Friendly Fountains",
+      "anchorSlug": "wildlife-friendly-fountains",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wildlife-friendly-fountains.html"
+    },
+    {
+      "title": "Multi-Tier Engineering",
+      "anchorSlug": "multi-tier-engineering",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-tier-engineering.html"
+    },
+    {
+      "title": "Infinity Fountain Walls",
+      "anchorSlug": "infinity-fountain-walls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/infinity-fountain-walls.html"
+    },
+    {
+      "title": "Winterizing Protocols",
+      "anchorSlug": "winterizing-protocols",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/winterizing-protocols.html"
+    },
+    {
+      "title": "Smart Controls Setup",
+      "anchorSlug": "smart-controls-setup",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-controls-setup.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles.html",
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles/services-and-process.html",
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles/local-service-guidance.html",
+    "https://urbanluxuryoutdoors.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
